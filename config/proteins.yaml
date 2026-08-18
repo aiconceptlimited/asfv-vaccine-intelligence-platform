@@ -1,0 +1,43 @@
+# proteins.yaml
+# Target proteins with expected lengths (for validation reference)
+
+target_proteins:
+  - gene: "B646L"
+    protein: "p72"
+    expected_length: 646
+    synonyms: ["B646L", "p72"]
+    evidence: "Structural capsid protein"
+    
+  - gene: "CP204L"
+    protein: "p30"
+    expected_length: 204
+    synonyms: ["CP204L", "p30"]
+    evidence: "Early expressed, immunogenic"
+    
+  - gene: "E183L"
+    protein: "p54"
+    expected_length: 183
+    synonyms: ["E183L", "p54"]
+    evidence: "Membrane protein, immunogenic"
+    
+  - gene: "EP402R"
+    protein: "CD2v"
+    expected_length: 402
+    synonyms: ["EP402R", "CD2v", "CD2"]
+    evidence: "Protective antigen, serotype marker"
+    
+  - gene: "CP2475L"
+    protein: "pp220"
+    expected_length: 2475
+    synonyms: ["CP2475L", "pp220"]
+    evidence: "Polyprotein, structural"
+    
+  - gene: "CP312R"
+    protein: "pCP312R"
+    expected_length: 312
+    synonyms: ["CP312R", "pCP312R"]
+    evidence: "Immunogenic potential"
+
+# Length validation thresholds
+validation:
+  length_tolerance: 0.10  # ±10% of expected length

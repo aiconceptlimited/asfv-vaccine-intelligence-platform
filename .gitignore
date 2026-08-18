@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data
+data/raw/genomes/*.genbank
+data/raw/genomes/*.fasta
+data/raw/proteins/
+data/interim/
+data/processed/
+
+# Results
+results/
+logs/
+*.log
+
+# Database
+database/*.db
+database/*.sqlite
+
+# Dashboard uploads
+dashboard/uploads/*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.venv

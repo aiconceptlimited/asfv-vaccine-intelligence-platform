@@ -1,0 +1,16 @@
+# dashboard.yaml
+# Dashboard configuration
+
+dashboard:
+  host: "0.0.0.0"
+  port: 8050
+  debug: true
+  title: "ASFV Vaccine Design Platform"
+
+database:
+  type: "sqlite"
+  path: "database/sqlite/asfv_vaccine.db"
+  
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

@@ -1,0 +1,23 @@
+# thresholds.yaml
+# Prediction and filtering thresholds
+
+prediction:
+  netmhcp4:
+    strong_binder_percentile: 2.0
+    weak_binder_percentile: 10.0
+  
+  peptide_lengths:
+    ctl: [8, 9, 10, 11]
+    htl: [15]
+    bcell: [20]
+
+conservation:
+  pan_isolate: 100
+  broadly_conserved: 90
+  genotype_spanning: 70
+  equal_genotype_weighting: true
+
+safety:
+  antigenicity_threshold: 0.5
+  toxicity_threshold: 0.7
+  allergenicity_threshold: 0.7

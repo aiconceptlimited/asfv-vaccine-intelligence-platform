@@ -1,0 +1,47 @@
+# environment.yml
+# ASFV Vaccine Design Platform - Conda Environment
+# SINGLE SOURCE OF TRUTH for all dependencies
+# Last Updated: 2026-07-11
+
+name: asfv_vax
+
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  # Core Python
+  - python=3.10
+  - pip
+
+  # Core bioinformatics
+  - biopython=1.79
+  - pandas=1.5.3
+  - numpy=1.23.5
+  - scipy=1.10.0
+  - matplotlib=3.6.3
+  - seaborn=0.12.2
+
+  # Alignment and phylogeny
+  - mafft=7.505
+  - trimal=1.4.1
+  - iqtree=2.2.0
+  - seqkit=2.3.0
+
+  # Workflow and testing
+  - pytest=7.2.0
+
+  # Pip packages (not available in conda-forge)
+  - pip:
+    - snakemake==7.18.2
+    - dna-chisel
+    - pydna
+    - plotly
+    - dash
+    - fastapi
+    - uvicorn
+    - jinja2
+    - pyyaml
+    - tqdm
+    - requests

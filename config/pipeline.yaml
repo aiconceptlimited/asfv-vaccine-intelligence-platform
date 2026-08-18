@@ -1,0 +1,176 @@
+# pipeline.yaml
+# Master Pipeline Configuration
+# All config keys needed for Snakemake rules
+
+pipeline:
+  version: "1.0.0"
+  date: "2026-07-10"
+
+# Project metadata
+project:
+  name: "ASFV_East_Africa_Vaccine_Design"
+  version: "1.0.0"
+  date: "2026-07-10"
+  pi: "Abubakar"
+  institution: "Sokoine University of Agriculture"
+
+# Genome accessions (from manifest)
+genomes:
+  - PV740684
+  - PV740683
+  - PQ375363
+  - PQ375362
+  - ON409979
+  - ON409982
+  - ON409983
+  - ON409980
+  - ON409981
+  - MW856068
+  - MW856067
+
+# Target proteins (for Snakemake expand)
+target_proteins:
+  - B646L
+  - CP204L
+  - E183L
+  - EP402R
+  - CP2475L
+  - CP312R
+
+# Full target protein configuration
+target_proteins_config:
+  - gene: "B646L"
+    protein: "p72"
+    expected_length: 646
+    synonyms: ["B646L", "p72"]
+    evidence: "Structural capsid protein"
+  - gene: "CP204L"
+    protein: "p30"
+    expected_length: 204
+    synonyms: ["CP204L", "p30"]
+    evidence: "Early expressed, immunogenic"
+  - gene: "E183L"
+    protein: "p54"
+    expected_length: 183
+    synonyms: ["E183L", "p54"]
+    evidence: "Membrane protein, immunogenic"
+  - gene: "EP402R"
+    protein: "CD2v"
+    expected_length: 402
+    synonyms: ["EP402R", "CD2v", "CD2"]
+    evidence: "Protective antigen, serotype marker"
+  - gene: "CP2475L"
+    protein: "pp220"
+    expected_length: 2475
+    synonyms: ["CP2475L", "pp220"]
+    evidence: "Polyprotein, structural"
+  - gene: "CP312R"
+    protein: "pCP312R"
+    expected_length: 312
+    synonyms: ["CP312R", "pCP312R"]
+    evidence: "Immunogenic potential"
+
+# SLA alleles
+sla:
+  class_i:
+    - allele: "SLA-1*04:01"
+      frequency: 0.15
+      source: "Kenyan pigs, 2021"
+      tier: 1
+    - allele: "SLA-1*08:01"
+      frequency: 0.11
+      source: "Kenyan pigs, 2021"
+      tier: 1
+    - allele: "SLA-2*04:02:02"
+      frequency: 0.22
+      source: "Kenyan pigs, 2021"
+      tier: 1
+    - allele: "SLA-3*02:01"
+      frequency: 0.18
+      source: "Kenyan pigs, 2021"
+      tier: 1
+  class_ii:
+    - allele: "SLA-DRB1*02:02"
+      frequency: 0.25
+      source: "Kenyan pigs, 2021"
+      tier: 1
+    - allele: "SLA-DQB1*02:02"
+      frequency: 0.20
+      source: "Kenyan pigs, 2021"
+      tier: 1
+    - allele: "SLA-DQA1*02:01"
+      frequency: 0.18
+      source: "Kenyan pigs, 2021"
+      tier: 1
+
+# Prediction thresholds
+prediction:
+  netmhcp4:
+    strong_binder_percentile: 2.0
+    weak_binder_percentile: 10.0
+  peptide_lengths:
+    ctl: [8, 9, 10, 11]
+    htl: [15]
+    bcell: [20]
+
+# Genome validation thresholds
+genome_validation:
+  expected:
+    length_min: 170000
+    length_max: 193000
+    gc_min: 35
+    gc_max: 45
+    cds_min: 150
+    cds_max: 200
+    max_ambiguous: 100
+
+# Conservation thresholds
+conservation:
+  pan_isolate: 100
+  broadly_conserved: 90
+  genotype_spanning: 70
+  equal_genotype_weighting: true
+
+# Safety thresholds
+safety:
+  antigenicity_threshold: 0.5
+  toxicity_threshold: 0.7
+  allergenicity_threshold: 0.7
+
+# Optimization constraints
+optimization:
+  min_ctl_epitopes: 5
+  min_htl_epitopes: 3
+  min_bcell_regions: 2
+  max_construct_length: 600
+  min_proteins_represented: 3
+  min_genotypes_represented: 4
+
+# Codon optimization
+codon_optimization:
+  bacterial_host: "Escherichia coli BL21(DE3)"
+  mammalian_host: "Sus scrofa"
+  cai_target: 0.80
+  gc_content_range: [0.40, 0.60]
+
+# Vectors
+vectors:
+  bacterial: "pET-28a(+)"
+  mammalian: "pVAX1"
+
+# Database
+database:
+  type: "sqlite"
+  path: "database/sqlite/asfv_vaccine.db"
+
+# Dashboard
+dashboard:
+  host: "0.0.0.0"
+  port: 8050
+  debug: true
+  title: "ASFV Vaccine Design Platform"
+
+# Logging
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

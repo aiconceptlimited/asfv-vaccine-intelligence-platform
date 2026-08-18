@@ -1,0 +1,35 @@
+# sla.yaml
+# SLA allele configuration
+
+sla:
+  class_i:
+    - allele: "SLA-1*04:01"
+      frequency: 0.15
+      source: "Kenyan pigs, 2021"
+      tier: 1
+    - allele: "SLA-1*08:01"
+      frequency: 0.11
+      source: "Kenyan pigs, 2021"
+      tier: 1
+    - allele: "SLA-2*04:02:02"
+      frequency: 0.22
+      source: "Kenyan pigs, 2021"
+      tier: 1
+    - allele: "SLA-3*02:01"
+      frequency: 0.18
+      source: "Kenyan pigs, 2021"
+      tier: 1
+    
+  class_ii:
+    - allele: "SLA-DRB1*02:02"
+      frequency: 0.25
+      source: "Kenyan pigs, 2021"
+      tier: 1
+    - allele: "SLA-DQB1*02:02"
+      frequency: 0.20
+      source: "Kenyan pigs, 2021"
+      tier: 1
+    - allele: "SLA-DQA1*02:01"
+      frequency: 0.18
+      source: "Kenyan pigs, 2021"
+      tier: 1

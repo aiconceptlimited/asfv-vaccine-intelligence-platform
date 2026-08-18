@@ -1,0 +1,9 @@
+# project.yaml
+# Project metadata
+
+project:
+  name: "ASFV_East_Africa_Vaccine_Design"
+  version: "1.0.0"
+  date: "2026-07-10"
+  pi: "Abubakar"
+  institution: "Sokoine University of Agriculture"

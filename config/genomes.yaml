@@ -1,0 +1,16 @@
+# genomes.yaml
+# Genome configuration
+# Accession manifest is the authoritative source
+
+genomes:
+  manifest: "workflow/resources/accession_manifest.txt"
+  
+  # Expected genome characteristics (for validation)
+  expected:
+    length_min: 170000
+    length_max: 193000
+    gc_min: 35
+    gc_max: 45
+    cds_min: 150
+    cds_max: 200
+    max_ambiguous: 100
