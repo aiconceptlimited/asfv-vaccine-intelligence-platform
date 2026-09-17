@@ -1,0 +1,13 @@
+# Section 3.3.1: ASFV Genome Accessions
+# East African Isolates (Genotypes II, IX, X, XV)
+PV740684,ASFV/TAN/17/Mbozi/1,Tanzania,II,2017
+PV740683,ASFV/TAN/17/Mbozi/2,Tanzania,II,2017
+PQ375363,ASFV/RWA/Rwamagana/2021,Rwanda,II,2021
+PQ375362,ASFV/RWA/Musanze/2023,Rwanda,IX,2023
+ON409979,TAN/17/Kibaha,Tanzania,II,2017
+ON409982,TAN/17/Mbagala,Tanzania,II,2017
+ON409983,TAN/20/Morogoro,Tanzania,II,2020
+ON409980,TAN/16/Magu,Tanzania,IX,2016
+ON409981,TAN/08/Mazimbu,Tanzania,XV,2008
+MW856068,MAL/19/Karonga,Malawi,II,2019
+MW856067,BUR/18/Rutana,Burundi,X,2018

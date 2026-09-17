@@ -1,0 +1,38 @@
+================================================================================
+CTL LINKER BIOLOGY — EVIDENCE REVIEW
+================================================================================
+
+1. AAY Linker (Ala-Ala-Tyr)
+   - Most commonly used CTL linker in multi-epitope vaccines
+   - Recognized by proteasome for cleavage
+   - Creates defined junction between CTL epitopes
+   - Evidence: Widely cited in MEV literature
+
+2. Alternative CTL Linkers
+   - AAA (Ala-Ala-Ala) — simpler, less defined cleavage
+   - GG (Gly-Gly) — flexible, may affect processing
+   - AAY is preferred for defined cleavage
+
+3. Proteasomal Processing
+   - CTL epitopes require proteasomal cleavage for MHC-I presentation
+   - Linker composition affects cleavage efficiency
+   - AAY is recognized as a proteasomal cleavage site
+
+4. Junctional Peptide Risk
+   - New peptides formed at linker-epitope junctions
+   - May create unintended epitopes
+   - Should be assessed computationally
+
+5. Specific Recommendations for Your Panel:
+   - 8 CTL candidates (7 pp220, 1 p30)
+   - AAY is appropriate, but junctional peptides should be checked
+   - Consider adjacent epitope compatibility
+
+================================================================================
+REFERENCES TO SEARCH
+================================================================================
+1. "AAY linker proteasomal cleavage"
+2. "Multi-epitope vaccine linker design"
+3. "CTL epitope junctional peptides"
+4. "Proteasomal processing of vaccine constructs"
+================================================================================

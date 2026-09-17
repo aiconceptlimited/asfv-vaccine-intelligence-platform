@@ -1,0 +1,16 @@
+type,protein,sequence,conservation,primary_evidence
+CTL,pp220,SQWDLVQKF,10/10,Strong SLA coverage (6 alleles)
+CTL,pp220,RVFSRLVFY,10/10,Direct pig T-cell evidence
+CTL,pp220,HIDKNIIQY,10/10,Direct pig T-cell evidence
+CTL,pp220,RSIPLANIY,9/10,Strong conservation + allele coverage
+CTL,pp220,SAMEVLHEL,9/10,Strong conservation + allele coverage
+CTL,pp220,DRKHILMEF,10/10,Perfect conservation
+CTL,pp220,YTDIVQKKY,10/10,Perfect conservation
+CTL,p30,KTLLSTVKY,10/11,P30 coverage
+HTL,p54,IVLIYLFSSRKKKAA,100%,Strongest binding (18.29 nM)
+HTL,pp220,RFIINIRSFKTVMTY,100%,Strong binding (23.00 nM)
+HTL,p72,KRVRFSLIRVHKTQV,100%,Strong binding (30.48 nM)
+HTL,p30,KEEVRLMVIKLLKKK,100%,Moderate binding (90.95 nM)
+B-cell,pcp312r,NFQNEKHVGTISPST,95%,Highest conservation (95%)
+B-cell,pcp312r,FTVKKNEQGEEIYPG,94%,High conservation (94%)
+B-cell,p30,LFEQEPSSETLKNTK,76%,Strongest IEDB support (3/3)

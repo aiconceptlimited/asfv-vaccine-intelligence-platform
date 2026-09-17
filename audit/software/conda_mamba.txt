@@ -1,0 +1,18 @@
+=== CONDA ===
+/home/abubakar/miniconda3/condabin/conda
+conda 26.3.2
+
+=== MAMBA ===
+/home/abubakar/miniconda3/condabin/mamba
+2.8.1
+
+=== ENVIRONMENTS ===
+
+# conda environments:
+#
+# * -> active
+# + -> frozen
+base                     /home/abubakar/miniconda3
+asfv_validation          /home/abubakar/miniconda3/envs/asfv_validation
+asfv_vax                 /home/abubakar/miniconda3/envs/asfv_vax
+

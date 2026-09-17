@@ -1,0 +1,10 @@
+Population,Country,Breed/Type,Sample_Size,SLA_Locus,Allele,Allele_Frequency,Haplotype,Haplotype_Frequency,Publication,DOI
+Kenyan_free_range,Kenya,Local free-ranging,9,SLA-1,SLA-1*1501/1502,0.89,Hp-F.0,0.89,Sørensen et al. 2017,10.3389/fimmu.2017.00701
+Kenyan_free_range,Kenya,Local free-ranging,9,SLA-2,SLA-2*NS#16,0.89,Hp-F.0,0.89,Sørensen et al. 2017,10.3389/fimmu.2017.00701
+Kenyan_free_range,Kenya,Local free-ranging,9,SLA-3,SLA-3*04hb06,0.78,Hp-F.0,0.89,Sørensen et al. 2017,10.3389/fimmu.2017.00701
+Kenyan_free_range,Kenya,Local free-ranging,9,SLA-1,?,0.33,Hp-6.0,0.33,Sørensen et al. 2017,10.3389/fimmu.2017.00701
+Kenyan_free_range,Kenya,Local free-ranging,9,SLA-1,?,0.22,Hp-G.0,0.22,Sørensen et al. 2017,10.3389/fimmu.2017.00701
+Kenyan_free_range,Kenya,Local free-ranging,9,SLA-1,?,0.22,Hp-H.0,0.22,Sørensen et al. 2017,10.3389/fimmu.2017.00701
+Kenyan_local,Kenya,Local adapted,27,SLA-1,?,?,?,?,2021 Study,?
+Kenyan_local,Kenya,Local adapted,27,SLA-2,?,?,?,?,2021 Study,?
+Kenyan_local,Kenya,Local adapted,27,DQB1,?,?,?,?,2021 Study,?

@@ -1,0 +1,36 @@
+{
+  "full_length_IX": [
+    {
+      "accession": "ON409980",
+      "length": 385
+    }
+  ],
+  "variant_length_II": [
+    {
+      "accession": "MW856068",
+      "length": 360
+    },
+    {
+      "accession": "ON409982",
+      "length": 360
+    },
+    {
+      "accession": "ON409983",
+      "length": 360
+    },
+    {
+      "accession": "ON409979",
+      "length": 360
+    }
+  ],
+  "truncated": [
+    {
+      "accession": "PV740683",
+      "length": 240
+    },
+    {
+      "accession": "ON409981",
+      "length": 159
+    }
+  ]
+}

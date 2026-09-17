@@ -1,0 +1,26 @@
+{
+  "protein": "p72",
+  "gene": "B646L",
+  "input_fasta": "data/interim/proteins/B646L_p72_sequences.fasta",
+  "input_fasta_checksum": "cdd442a1b99b60aa7a92c76daf337943e6a67b6f3c873376d5a9d7247c4d7d8a",
+  "conservation_file": "data/processed/alignments/B646L_p72_conservation.json",
+  "conservation_checksum": "f9e7f3b6fdcfe6105635c567231ed9303b4c88df30fb3932d4e69c1accc62813",
+  "outputs": {
+    "protein_fasta": "data/processed/epitopes/p72/input/protein.fasta",
+    "sequence_qc": "data/processed/epitopes/p72/qc/sequence_qc.json",
+    "protein_summary": "data/processed/epitopes/p72/metadata/protein_summary.json",
+    "ctl_raw": "data/processed/epitopes/p72/ctl/raw",
+    "ctl_canonical": "data/processed/epitopes/p72/ctl/canonical/ctl_canonical.tsv",
+    "ctl_merged": "data/processed/epitopes/p72/ctl/merged/ctl_candidates.tsv",
+    "ctl_metadata": "data/processed/epitopes/p72/ctl/metadata.json"
+  },
+  "modules_completed": [
+    "02_ctl_discovery"
+  ],
+  "current_module": "02_ctl_discovery",
+  "pipeline_version": "2.0",
+  "created_at": "2026-08-04T22:39:57.305903",
+  "last_updated": "2026-08-04T22:55:46.844386",
+  "qc_status": "PASS",
+  "next_module": "03_htl_discovery"
+}

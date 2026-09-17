@@ -1,0 +1,11 @@
+PMID,DOI,Year,Study_Type,SLA_Locus,Allele,ASFV_Specificity,Evidence_Modality,Grade,Tier,Notes
+34851145,10.1128/JVI.01378-21,2022,Experimental,SLA-1,SLA-1*01:01,ASFV-direct,A,Tier1,"4 ASFV crystal structures (7EM9,7EMA,7EMB,7EMD)"
+34835070,10.3390/v13112264,2021,Experimental,"SLA-1; SLA-3","SLA-1*12:01; SLA-3*03:01",ASFV-inferred,B3,Tier3,"GalaxyPepDock predicted; no crystal structures"
+26572135,10.1007/s00251-015-0883-9,2016,Experimental,"SLA-1; SLA-2; SLA-3","SLA-1*04:01; SLA-2*04:01; SLA-3*04:01",non-ASFV,B1,Tier2,"Experimental binding + stability"
+21739336,10.1007/s00251-011-0555-3,2011,Experimental,SLA-1,SLA-1*04:01,non-ASFV,B1,Tier2,"PSCPL motif; quantitative Kd; NetMHCpan"
+22984928,10.1111/j.1365-2052.2012.02400.x,2013,Experimental,"SLA-1; SLA-2","SLA-1*04:01; SLA-2*04:01",non-ASFV,B1,Tier2,"FMDV peptide binding"
+41680174,10.1038/s41541-026-01399-8,2026,Experimental,SLA-1,SLA-1*04:01,ASFV-inferred,B3,Tier2,"A859L peptides; predicted binding"
+34564574,10.3390/vetsci8090180,2021,Population,"SLA-1; SLA-2; DQB1","Kenyan alleles (8)",population-only,D,Tier4,"Allele-level frequencies from Kenyan pigs"
+26370412,10.1186/s12859-015-0724-8,2015,Computational,SLA-DRB1,SLA-DRB1*02:01,non-ASFV,C2,Tier5,"PigMatrix; AUC 0.73"
+30241566,10.1186/s13567-018-0590-2,2018,Experimental,SLA-DRB1,SLA-DRB1*02:01,non-ASFV,B2,Tier5,"Haplotype-level binding (iPAM61)"
+33430316,10.3390/vaccines9010029,2021,Experimental,UNRESOLVED,UNRESOLVED,ASFV-direct,C1,P1,"Natural presentation; 5 validated peptides; unresolved allele restriction"

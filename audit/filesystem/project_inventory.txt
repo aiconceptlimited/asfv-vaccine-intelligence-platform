@@ -1,0 +1,770 @@
+=== TOP-LEVEL PROJECT ===
+d ./.git
+d ./.snakemake
+d ./MixMHC2pred
+d ./assets
+d ./audit
+d ./backups
+d ./config
+d ./containers
+d ./dashboard
+d ./data
+d ./database
+d ./docs
+d ./logs
+d ./results
+d ./scripts
+d ./sla_i_batches
+d ./src
+d ./temp
+d ./tests
+d ./tmp
+d ./workflow
+f ./.env
+f ./.gitignore
+f ./10_candidates_summary.csv
+f ./ASFV_Project_Summary.md
+f ./C05_H02_B241.fasta
+f ./C05_H03_B121.fasta
+f ./C05_H04_B241.fasta
+f ./C05_H05_B241.fasta
+f ./C05_H06_B241.fasta
+f ./C05_H06_B241_final.fasta
+f ./C06_H02_B241.fasta
+f ./C06_H03_B121.fasta
+f ./C06_H04_B241.fasta
+f ./C06_H05_B241.fasta
+f ./C06_H06_B241.fasta
+f ./CHANGELOG.md
+f ./CTL_PROVENANCE_GAP.md
+f ./CTL_STATUS_CURRENT.md
+f ./FINAL_REPRODUCIBILITY_RECORD.md
+f ./LICENSE
+f ./PIPELINE_AUDIT.md
+f ./README.md
+f ./SLA_II_METHODOLOGY_VERIFICATION.md
+f ./Snakefile
+f ./Snakefile.bak
+f ./Snakefile.bak2
+f ./all_parsed_peptides.txt
+f ./architecture_ranking_table.tsv
+f ./cd2v_sequence.fasta
+f ./combined_architecture_ranking.tsv
+f ./construct_enumeration_summary.json
+f ./construct_enumeration_summary.txt
+f ./construct_junctions_all.tsv
+f ./construct_orders_all.fasta
+f ./construct_orders_all.tsv
+f ./create_final_mixmhc2pred.py
+f ./diverse_candidates.tsv
+f ./diverse_candidates_audited.tsv
+f ./dqa_02_01_full.fasta
+f ./dqb1_02_02_full.fasta
+f ./drb1_02_02_full.fasta
+f ./environment.yml
+f ./environment_exported.yaml
+f ./extract_junctions.py
+f ./extract_p54_record.sh
+f ./extract_p54_reference_proper.sh
+f ./final_candidate_ranking.tsv
+f ./fix_mixmhc2pred_final.py
+f ./fix_mixmhc2pred_submission.py
+f ./fix_netmhcpan_submission.py
+f ./frozen_sla_i_alleles_from_previous.txt
+f ./generate_architectures.py
+f ./generate_constructs.py
+f ./inspection_report.txt
+f ./methodology_summary.txt
+f ./netmhciipan_SLA_DRB1_02_02.tsv.txt
+f ./netmhciipan_SLA_DRB1_02_02_2026.tsv
+f ./netmhcpan_SLA-1_0101.tsv
+f ./netmhcpan_SLA-1_0101_parsed.tsv
+f ./netmhcpan_SLA-1_0401.tsv
+f ./netmhcpan_SLA-1_0401_parsed.tsv
+f ./netmhcpan_SLA-1_1201.tsv
+f ./netmhcpan_SLA-1_1201_parsed.tsv
+f ./netmhcpan_SLA-2_0401.tsv
+f ./netmhcpan_SLA-2_0401_parsed.tsv
+f ./netmhcpan_SLA-3_0301.tsv
+f ./netmhcpan_SLA-3_0301_parsed.tsv
+f ./netmhcpan_SLA-3_0401.tsv
+f ./netmhcpan_SLA-3_0401_parsed.tsv
+f ./original_peptides.txt
+f ./p30_sequence.fasta
+f ./p54_sequence.fasta
+f ./p72_sequence.fasta
+f ./parse_netmhcpan_results.py
+f ./parsed_peptides.txt
+f ./pcp312r_sequence.fasta
+f ./pp220_sequence.fasta
+f ./sla_alleles.fasta
+f ./sla_i_netmhcpan_submission.txt
+f ./sla_i_peptides.fasta
+f ./sla_i_web_submission.txt
+f ./sla_ii_15mers_only.txt
+f ./sla_ii_15mers_only_res.txt
+f ./sla_ii_candidate_affinity.tsv
+f ./sla_ii_gate1_test.txt
+f ./sla_ii_mixmhc2pred_final.txt
+f ./sla_ii_mixmhc2pred_fixed.txt
+f ./sla_ii_mixmhc2pred_input.txt
+f ./sla_ii_mixmhc2pred_submission.txt
+f ./sla_ii_panel_test.txt
+f ./sla_ii_peptides.fasta
+f ./sla_ii_pilot_test.txt
+f ./split_by_allele.py
+f ./strong_binder_peptides.txt
+f ./strong_peptides.txt
+f ./test_5_peptides.txt
+f ./test_peptide.txt
+f ./test_sla_dqa.fasta
+f ./test_sla_dqb1.fasta
+f ./test_sla_drb1.fasta
+f ./threshold_0.5_peptides.txt
+f ./threshold_1.0_peptides.txt
+f ./threshold_2.0_peptides.txt
+f ./top_50_architectures.txt
+
+=== DIRECTORY TREE (DEPTH 3) ===
+.
+./.git
+./.git/branches
+./.git/hooks
+./.git/info
+./.git/logs
+./.git/logs/refs
+./.git/objects
+./.git/objects/02
+./.git/objects/04
+./.git/objects/05
+./.git/objects/09
+./.git/objects/0b
+./.git/objects/0d
+./.git/objects/10
+./.git/objects/11
+./.git/objects/17
+./.git/objects/1b
+./.git/objects/1e
+./.git/objects/20
+./.git/objects/21
+./.git/objects/23
+./.git/objects/26
+./.git/objects/28
+./.git/objects/2a
+./.git/objects/2e
+./.git/objects/30
+./.git/objects/34
+./.git/objects/35
+./.git/objects/38
+./.git/objects/3a
+./.git/objects/3b
+./.git/objects/3d
+./.git/objects/3e
+./.git/objects/3f
+./.git/objects/40
+./.git/objects/41
+./.git/objects/42
+./.git/objects/45
+./.git/objects/46
+./.git/objects/4b
+./.git/objects/4d
+./.git/objects/4f
+./.git/objects/50
+./.git/objects/57
+./.git/objects/59
+./.git/objects/60
+./.git/objects/61
+./.git/objects/62
+./.git/objects/65
+./.git/objects/67
+./.git/objects/6b
+./.git/objects/70
+./.git/objects/77
+./.git/objects/78
+./.git/objects/7a
+./.git/objects/7b
+./.git/objects/7c
+./.git/objects/7f
+./.git/objects/82
+./.git/objects/83
+./.git/objects/84
+./.git/objects/86
+./.git/objects/87
+./.git/objects/8d
+./.git/objects/90
+./.git/objects/93
+./.git/objects/98
+./.git/objects/9a
+./.git/objects/9b
+./.git/objects/9f
+./.git/objects/a2
+./.git/objects/a3
+./.git/objects/a4
+./.git/objects/a5
+./.git/objects/a6
+./.git/objects/ad
+./.git/objects/b1
+./.git/objects/b2
+./.git/objects/b6
+./.git/objects/b8
+./.git/objects/bd
+./.git/objects/be
+./.git/objects/c1
+./.git/objects/c4
+./.git/objects/c6
+./.git/objects/cb
+./.git/objects/cf
+./.git/objects/d1
+./.git/objects/d5
+./.git/objects/d6
+./.git/objects/d8
+./.git/objects/de
+./.git/objects/e3
+./.git/objects/e4
+./.git/objects/e6
+./.git/objects/e7
+./.git/objects/e9
+./.git/objects/ee
+./.git/objects/ef
+./.git/objects/f1
+./.git/objects/f2
+./.git/objects/f3
+./.git/objects/info
+./.git/objects/pack
+./.git/refs
+./.git/refs/heads
+./.git/refs/tags
+./.snakemake
+./.snakemake/auxiliary
+./.snakemake/conda
+./.snakemake/conda-archive
+./.snakemake/incomplete
+./.snakemake/locks
+./.snakemake/log
+./.snakemake/metadata
+./.snakemake/shadow
+./.snakemake/singularity
+./MixMHC2pred
+./MixMHC2pred/.git
+./MixMHC2pred/.git/branches
+./MixMHC2pred/.git/hooks
+./MixMHC2pred/.git/info
+./MixMHC2pred/.git/logs
+./MixMHC2pred/.git/objects
+./MixMHC2pred/.git/refs
+./MixMHC2pred/PWMdef
+./MixMHC2pred/bin
+./MixMHC2pred/external
+./MixMHC2pred/external/argparse
+./MixMHC2pred/external/whereami
+./MixMHC2pred/nnetsDef
+./MixMHC2pred/rpep
+./MixMHC2pred/src
+./MixMHC2pred/test
+./assets
+./audit
+./audit/environment
+./audit/filesystem
+./audit/software
+./backups
+./config
+./containers
+./dashboard
+./dashboard/api
+./dashboard/assets
+./dashboard/backend
+./dashboard/database
+./dashboard/frontend
+./dashboard/logs
+./dashboard/static
+./dashboard/templates
+./dashboard/uploads
+./data
+./data/interim
+./data/interim/proteins
+./data/metadata
+./data/metadata/orthology
+./data/metadata/seqkit_results
+./data/metadata/structural_annotation
+./data/processed
+./data/processed/alignments
+./data/processed/blast
+./data/processed/conservation
+./data/processed/deeptmhmm
+./data/processed/epitopes
+./data/processed/genomes
+./data/processed/hmmer
+./data/processed/interproscan
+./data/processed/proteins
+./data/processed/signalp
+./data/processed/sla
+./data/processed/vaccine_design
+./data/raw
+./data/raw/annotations
+./data/raw/genomes
+./data/raw/proteins
+./data/raw/reference
+./data/raw/sla
+./data/reference
+./data/reference/sla_panel
+./data/reference/sla_tiers
+./database
+./database/backups
+./database/migrations
+./database/models
+./database/sqlite
+./docs
+./docs/api
+./docs/architecture
+./docs/figures
+./docs/methodology
+./docs/pipeline
+./docs/validation
+./docs/validation_reports
+./logs
+./logs/06_sla_reference
+./logs/07_epitope_discovery
+./logs/07_epitope_discovery/ctl_discovery
+./logs/07_epitope_discovery/sequence_qc
+./logs/analysis
+./logs/dashboard
+./logs/download
+./logs/extract
+./logs/qc
+./logs/structural
+./logs/workflow
+./results
+./results/03_genomes
+./results/04_proteins
+./results/05_alignments
+./results/06_sla
+./results/07_epitopes
+./results/07_epitopes/bcell
+./results/07_epitopes/ctl
+./results/07_epitopes/htl
+./results/08_screening
+./results/09_machine_learning
+./results/10_population_coverage
+./results/11_optimization
+./results/12_construct
+./results/13_adjuvant
+./results/14_characterization
+./results/15_structures
+./results/15_structures/docking
+./results/15_structures/folding
+./results/16_peptide_sla
+./results/17_tlr
+./results/18_md
+./results/19_codon
+./results/20_cloning
+./results/21_dashboard
+./results/final
+./results/final_construct
+./results/final_construct/C05_H06_B241
+./scripts
+./scripts/03_genome_acquisition
+./scripts/04_protein_extraction
+./scripts/05_alignment
+./scripts/05_alignment_conservation
+./scripts/06_sla_reference
+./scripts/06_vaccine_design
+./scripts/07_epitope_discovery
+./scripts/07_epitope_discovery/common
+./scripts/07_epitope_prediction
+./scripts/08_screening
+./scripts/09_machine_learning
+./scripts/10_population_coverage
+./scripts/11_optimization
+./scripts/12_construct_design
+./scripts/13_adjuvant
+./scripts/14_characterization
+./scripts/15_structure_prediction
+./scripts/16_peptide_sla
+./scripts/17_tlr
+./scripts/18_molecular_dynamics
+./scripts/19_codon_optimization
+./scripts/20_cloning
+./scripts/21_dashboard
+./scripts/ml
+./scripts/utils
+./sla_i_batches
+./src
+./src/asfv_platform
+./src/asfv_platform/__pycache__
+./src/asfv_platform/config
+./src/asfv_platform/io
+./src/asfv_platform/ncbi
+./src/asfv_platform/utils
+./src/asfv_platform/validation
+./temp
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobAntiFam
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobCDD
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobCoils
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobFinaliseInitialSteps
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobFunFam
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobGene3d
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobHAMAP
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobLoadFromFasta
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobMobiDBLite
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobPIRSF
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobPIRSR
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobPRINTS-42.0
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobPanther
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobPfam
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobPrositePatterns
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobPrositeProfiles
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobSFLD
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobSMART
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobSuperFamily-1.75
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/jobTIGRFAM
+./temp/mail.aiconceptlimited.com.ng_20260716_105048959_9p0j/kvstore
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobAntiFam
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobCDD
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobCoils
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobFinaliseInitialSteps
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobFunFam
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobGene3d
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobHAMAP
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobLoadFromFasta
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobMobiDBLite
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobPIRSF
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobPIRSR
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobPRINTS-42.0
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobPanther
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobPfam
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobPrositePatterns
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobPrositeProfiles
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobSFLD
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobSMART
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobSuperFamily-1.75
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/jobTIGRFAM
+./temp/mail.aiconceptlimited.com.ng_20260716_105545056_imty/kvstore
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobAntiFam
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobCDD
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobCoils
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobFinaliseInitialSteps
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobFunFam
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobGene3d
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobHAMAP
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobLoadFromFasta
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobMobiDBLite
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobPIRSF
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobPIRSR
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobPRINTS-42.0
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobPanther
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobPfam
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobPrositePatterns
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobPrositeProfiles
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobSFLD
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobSMART
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobSuperFamily-1.75
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/jobTIGRFAM
+./temp/mail.aiconceptlimited.com.ng_20260716_105710171_3vfb/kvstore
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobAntiFam
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobCDD
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobCoils
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobFinaliseInitialSteps
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobFunFam
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobGene3d
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobHAMAP
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobLoadFromFasta
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobMobiDBLite
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobPIRSF
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobPIRSR
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobPRINTS-42.0
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobPanther
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobPfam
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobPrositePatterns
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobPrositeProfiles
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobSFLD
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobSMART
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobSuperFamily-1.75
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/jobTIGRFAM
+./temp/mail.aiconceptlimited.com.ng_20260716_105840156_fnwq/kvstore
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobAntiFam
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobCDD
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobCoils
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobFinaliseInitialSteps
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobFunFam
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobGene3d
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobHAMAP
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobLoadFromFasta
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobMobiDBLite
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobPIRSF
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobPIRSR
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobPRINTS-42.0
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobPanther
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobPfam
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobPrositePatterns
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobPrositeProfiles
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobSFLD
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobSMART
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobSuperFamily-1.75
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/jobTIGRFAM
+./temp/mail.aiconceptlimited.com.ng_20260716_110000083_61ez/kvstore
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobAntiFam
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobCDD
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobCoils
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobFinaliseInitialSteps
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobFunFam
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobGene3d
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobHAMAP
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobLoadFromFasta
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobMobiDBLite
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobPIRSF
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobPIRSR
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobPRINTS-42.0
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobPanther
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobPfam
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobPrositePatterns
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobPrositeProfiles
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobSFLD
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobSMART
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobSuperFamily-1.75
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/jobTIGRFAM
+./temp/mail.aiconceptlimited.com.ng_20260716_110129671_62m7/kvstore
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobAntiFam
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobCDD
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobCoils
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobFinaliseInitialSteps
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobFunFam
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobGene3d
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobHAMAP
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobLoadFromFasta
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobMobiDBLite
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobPIRSF
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobPIRSR
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobPRINTS-42.0
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobPanther
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobPfam
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobPrositePatterns
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobPrositeProfiles
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobSFLD
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobSMART
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobSuperFamily-1.75
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/jobTIGRFAM
+./temp/mail.aiconceptlimited.com.ng_20260716_110300456_d5u2/kvstore
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobAntiFam
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobCDD
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobCoils
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobFinaliseInitialSteps
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobFunFam
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobGene3d
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobHAMAP
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobLoadFromFasta
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobMobiDBLite
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobPIRSF
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobPIRSR
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobPRINTS-42.0
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobPanther
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobPfam
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobPrositePatterns
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobPrositeProfiles
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobSFLD
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobSMART
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobSuperFamily-1.75
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/jobTIGRFAM
+./temp/mail.aiconceptlimited.com.ng_20260716_113314753_dcmo/kvstore
+./tests
+./tmp
+./workflow
+./workflow/envs
+./workflow/resources
+./workflow/rules
+./workflow/schema
+./workflow/scripts
+./workflow/tests
+
+=== FILE COUNTS BY EXTENSION ===
+MIT 1
+WTFPLv2 1
+[no_extension] 274
+bak 5
+bak2 1
+bionj 2
+c 3
+contree 1
+corrupt 1
+cpp 5
+csv 137
+env 1
+exe 1
+fasta 297
+gb 10
+gbff 11
+genbank 11
+gff3 6
+gitattributes 1
+gitignore 6
+gz 4
+h 1
+h3f 1
+h3i 1
+h3m 1
+h3p 1
+hmm 1
+hpp 5
+html 8
+idx 1
+iqtree 2
+joblib 2
+json 92
+log 59
+md 62
+mldist 2
+nex 1
+npy 6
+out 235
+out-filtered 7
+pack 1
+pdb 3
+pdf 5
+peptides 8
+phr 3
+phy 2
+pin 3
+plist 1
+pog 1
+pot 3
+props 5
+psd 1
+psi 1
+psq 3
+ptf 3
+pto 3
+pwm 1
+py 145
+pyc 35
+rev 1
+sample 28
+sh 11
+sha256 1
+sln 1
+smk 2
+tbl 12
+treefile 2
+tsv 101
+txt 261
+vcxproj 2
+xlsx 23
+xml 6
+yaml 9
+yml 1
+
+=== LARGE FILES >100 MB ===
+2246909846 ./data/raw/reference/pfam/Pfam-A.hmm
+1094551483 ./data/raw/reference/pfam/Pfam-A.hmm.h3p
+928801003 ./data/raw/reference/pfam/Pfam-A.hmm.h3m
+531685301 ./data/raw/reference/pfam/Pfam-A.hmm.h3f
+418160514 ./data/raw/reference/pfam/Pfam-A.hmm.gz
+262828927 ./construct_junctions_all.tsv
+
+=== RECENTLY MODIFIED FILES ===
+1787861395.2461103130 ./audit/filesystem/project_inventory.txt
+1787861395.1601081070 ./audit/environment/services_processes.txt
+1787861395.0571054650 ./audit/environment/git_status.txt
+1787861394.5690929460 ./audit/software/python_packages.txt
+1787861389.6069656480 ./audit/software/bioinformatics_tool_inventory.txt
+1787861387.1099015840 ./audit/software/containers.txt
+1787861387.0128990950 ./audit/software/workflow_engines.txt
+1787861386.2728801090 ./audit/software/conda_mamba.txt
+1787861383.6308123210 ./audit/software/python.txt
+1787861382.1387740380 ./audit/environment/network.txt
+1787861382.0837726260 ./audit/environment/system_environment.txt
+1787861381.6557616440 ./audit/01_environment_software_audit.sh
+1787861173.8394173810 ./inspection_report.txt
+1787860039.8046276170 ./results/final_construct/C05_H06_B241/D5_D6/protparam/protparam_C05_H06_B241_raw.txt
+1787860028.0033304600 ./results/final_construct/C05_H06_B241/D5_D6/toxinpred/toxinpred_C05_H06_B241_raw.txt
+1787860015.3960130530 ./results/final_construct/C05_H06_B241/D5_D6/allertop/allertop_C05_H06_B241_raw.txt
+1787860003.2417070970 ./results/final_construct/C05_H06_B241/D5_D6/vaxijen/vaxijen_C05_H06_B241_raw.txt
+1787849382.5471281500 ./C05_H06_B241_final.fasta
+1787849368.3727649060 ./FINAL_REPRODUCIBILITY_RECORD.md
+1787848742.3036409050 ./sla_ii_15mers_only_res.txt
+1787847891.8319656970 ./MixMHC2pred/PWMdef/SLA_DRA_01_01__DRB1_02_02.pwm
+1787845678.3386550180 ./sla_ii_gate1_test.txt
+1787845389.3652896230 ./sla_ii_panel_test.txt
+1787782189.0093090080 ./test_5_peptides.txt
+1787777585.7446752650 ./sla_ii_pilot_test.txt
+1787776108.6203754600 ./sla_ii_candidate_affinity.tsv
+1787774830.0992599360 ./diverse_candidates_audited.tsv
+1787765818.7056191660 ./10_candidates_summary.csv
+1787765795.0729727920 ./test_sla_drb1.fasta
+1787765795.0689726820 ./test_sla_dqb1.fasta
+1787765795.0579723810 ./test_sla_dqa.fasta
+1787765795.0529722440 ./sla_ii_peptides.fasta
+1787765795.0469720800 ./sla_i_peptides.fasta
+1787765795.0409719150 ./sla_alleles.fasta
+1787765795.0319716690 ./pp220_sequence.fasta
+1787765795.0299716140 ./pcp312r_sequence.fasta
+1787765795.0149712030 ./p72_sequence.fasta
+1787765795.0089710390 ./p54_sequence.fasta
+1787765795.0029708740 ./p30_sequence.fasta
+1787765794.9979707370 ./drb1_02_02_full.fasta
+1787765794.9919705730 ./dqb1_02_02_full.fasta
+1787765794.9859704090 ./dqa_02_01_full.fasta
+1787765794.9789702170 ./construct_orders_all.fasta
+1787765794.7859649300 ./cd2v_sequence.fasta
+1787765794.7779647110 ./C06_H06_B241.fasta
+1787765794.7679644370 ./C06_H05_B241.fasta
+1787765794.7599642170 ./C06_H04_B241.fasta
+1787765794.7499639430 ./C06_H03_B121.fasta
+1787765794.7369635870 ./C06_H02_B241.fasta
+1787765794.7259632860 ./C05_H06_B241.fasta
+1787765794.7169630400 ./C05_H05_B241.fasta
+1787765794.7079627930 ./C05_H04_B241.fasta
+1787765794.7009626010 ./C05_H03_B121.fasta
+1787765794.6929623820 ./C05_H02_B241.fasta
+1787764092.3079365060 ./diverse_candidates.tsv
+1787763945.4442590790 ./final_candidate_ranking.tsv
+1787763619.1310551100 ./top_50_architectures.txt
+1787763523.3146099750 ./combined_architecture_ranking.tsv
+1787763363.8695378420 ./netmhciipan_SLA_DRB1_02_02_2026.tsv
+1787762298.4300417700 ./strong_peptides.txt
+1787762298.2390367460 ./all_parsed_peptides.txt
+1787762219.5029602520 ./parsed_peptides.txt
+1787762219.2479535080 ./original_peptides.txt
+1787761904.3135044880 ./architecture_ranking_table.tsv
+1787760785.6198604710 ./threshold_2.0_peptides.txt
+1787760785.4198554430 ./threshold_1.0_peptides.txt
+1787760785.2228504910 ./threshold_0.5_peptides.txt
+1787760536.3755918720 ./strong_binder_peptides.txt
+1787760448.6663843050 ./netmhcpan_SLA-3_0401_parsed.tsv
+1787760448.5863822910 ./netmhcpan_SLA-3_0301_parsed.tsv
+1787760448.5063802770 ./netmhcpan_SLA-2_0401_parsed.tsv
+1787760448.4283783140 ./netmhcpan_SLA-1_1201_parsed.tsv
+1787760448.3403760980 ./netmhcpan_SLA-1_0401_parsed.tsv
+1787760448.2553739580 ./netmhcpan_SLA-1_0101_parsed.tsv
+1787760446.4993297490 ./parse_netmhcpan_results.py
+1787760255.8035258630 ./netmhciipan_SLA_DRB1_02_02.tsv.txt
+1787755663.0241686000 ./netmhcpan_SLA-3_0401.tsv
+1787755656.0959926800 ./netmhcpan_SLA-3_0301.tsv
+1787755650.3368464210 ./netmhcpan_SLA-2_0401.tsv
+1787755642.8716568020 ./netmhcpan_SLA-1_1201.tsv
+1787755633.6024213130 ./netmhcpan_SLA-1_0401.tsv
+1787755623.7601712010 ./netmhcpan_SLA-1_0101.tsv
+1787755289.6858034950 ./sla_i_batches/SLA-3_0401.txt
+1787755288.0687631930 ./sla_i_batches/SLA-3_0301.txt
+1787755286.5177245360 ./sla_i_batches/SLA-2_0401.txt
+1787755285.1976916370 ./sla_i_batches/SLA-1_1201.txt
+1787755284.1606657920 ./sla_i_batches/SLA-1_0401.txt
+1787755282.7416304260 ./sla_i_batches/SLA-1_0101.txt
+1787692479.3099648740 ./split_by_allele.py
+1787691064.6675792380 ./PIPELINE_AUDIT.md
+1787690727.2978663340 ./sla_ii_15mers_only.txt
+1787690583.6492092550 ./SLA_II_METHODOLOGY_VERIFICATION.md
+1787690256.6898797970 ./methodology_summary.txt
+1787690053.8417060660 ./MixMHC2pred/PWMdef/SLA_DRA_01_01__DRB1_02_02.pwm.corrupt
+1787689921.0233146450 ./test_peptide.txt
+1787689631.8049138660 ./sla_ii_mixmhc2pred_final.txt
+1787689549.3327979880 ./create_final_mixmhc2pred.py
+1787689422.8635468410 ./sla_ii_mixmhc2pred_fixed.txt
+1787689339.0593872310 ./fix_mixmhc2pred_final.py
+1787680262.8544992070 ./sla_i_netmhcpan_submission.txt

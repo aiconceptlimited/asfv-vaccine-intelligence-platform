@@ -1,0 +1,28 @@
+Protein	Peptide	SLA_Breadth	Best_Rank	Median_Rank	Mean_Rank	Worst_Rank	Conservation	Source_Status
+p30\tVVFHAGSLY\t3\t0.031\t0.188\t0.199\t0.387\t-\tFOUND
+p30\tKTLLSTVKY\t4\t0.057\t0.215\t0.226\t0.415\t-\tFOUND
+p30\tARIYAGQGY\t3\t0.110\t0.292\t0.263\t0.358\t-\tFOUND
+p30\tVRLMVIKLL\t2\t0.121\t0.299\t0.299\t0.478\t-\tFOUND
+p54\tAIEEEDIQF\t2\t0.079\t0.161\t0.161\t0.242\t-\tFOUND
+pCP312R\tSTDEEVIRM\t2\t0.020\t0.029\t0.029\t0.038\t-\tFOUND
+pCP312R\tKNFSSVFSL\t2\t0.042\t0.056\t0.056\t0.071\t-\tFOUND
+CD2v\tYQYNTPIYY\t5\t0.014\t0.087\t0.114\t0.271\t-\tFOUND
+CD2v\tSTQQLFKSY\t4\t0.007\t0.170\t0.156\t0.277\t-\tFOUND
+CD2v\tKSYSLPKPY\t4\t0.065\t0.113\t0.186\t0.454\t-\tFOUND
+pp220\tSQWDLVQKF\t6\t0.024\t0.082\t0.149\t0.379\t-\tFOUND
+pp220\tRVFSRLVFY\t5\t0.009\t0.044\t0.057\t0.143\t-\tFOUND
+pp220\tHIDKNIIQY\t4\t0.003\t0.056\t0.114\t0.344\t-\tFOUND
+pp220\tQIYKTLLEY\t3\t0.010\t0.040\t0.053\t0.109\t-\tFOUND
+pp220\tYTDIVQKKY\t3\t0.011\t0.048\t0.173\t0.459\t-\tFOUND
+pp220\tFLNKSTQAY\t3\t0.037\t0.058\t0.185\t0.461\t-\tFOUND
+pp220\tHNKQEFQSY\t3\t0.008\t0.167\t0.180\t0.366\t-\tFOUND
+pp220\tFVNEINRRF\t3\t0.041\t0.343\t0.266\t0.415\t-\tFOUND
+pp220\tRLAEFYQKL\t3\t0.017\t0.210\t0.213\t0.412\t-\tFOUND
+WARNING: Source file not found: epitopes/p72/ctl/strong_binders/p72_strong_binders_all.txt
+WARNING: Source file not found: epitopes/p72/ctl/strong_binders/p72_strong_binders_all.txt
+WARNING: Source file not found: epitopes/p72/ctl/strong_binders/p72_strong_binders_all.txt
+WARNING: Source file not found: epitopes/p72/ctl/strong_binders/p72_strong_binders_all.txt
+WARNING: Source file not found: epitopes/p72/ctl/strong_binders/p72_strong_binders_all.txt
+WARNING: Source file not found: epitopes/p72/ctl/strong_binders/p72_strong_binders_all.txt
+WARNING: Source file not found: epitopes/p72/ctl/strong_binders/p72_strong_binders_all.txt
+WARNING: Source file not found: epitopes/p72/ctl/strong_binders/p72_strong_binders_all.txt

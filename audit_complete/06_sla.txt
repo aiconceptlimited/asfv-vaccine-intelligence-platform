@@ -1,0 +1,18 @@
+=== SLA ALLELE HEADERS ===
+NO ALLELES FOUND
+
+=== SLA FILES ===
+-rw-rw-r-- 1 abubakar abubakar  9114 Aug 26 19:36 sla_alleles.fasta
+-rw-rw-r-- 1 abubakar abubakar 64716 Aug 25 19:51 sla_i_netmhcpan_submission.txt
+-rw-rw-r-- 1 abubakar abubakar 11666 Aug 26 19:36 sla_i_peptides.fasta
+-rw-rw-r-- 1 abubakar abubakar     0 Aug 25 18:06 sla_i_web_submission.txt
+-rw-rw-r-- 1 abubakar abubakar  4704 Aug 25 22:45 sla_ii_15mers_only.txt
+-rw-rw-r-- 1 abubakar abubakar 22622 Aug 27 18:39 sla_ii_15mers_only_res.txt
+-rw-rw-r-- 1 abubakar abubakar   160 Aug 27 17:47 sla_ii_gate1_test.txt
+-rw-rw-r-- 1 abubakar abubakar  8526 Aug 25 22:27 sla_ii_mixmhc2pred_final.txt
+-rw-rw-r-- 1 abubakar abubakar  8526 Aug 25 22:23 sla_ii_mixmhc2pred_fixed.txt
+-rw-rw-r-- 1 abubakar abubakar  4704 Aug 25 18:06 sla_ii_mixmhc2pred_input.txt
+-rw-rw-r-- 1 abubakar abubakar  8526 Aug 25 19:48 sla_ii_mixmhc2pred_submission.txt
+-rw-rw-r-- 1 abubakar abubakar   160 Aug 27 17:43 sla_ii_panel_test.txt
+-rw-rw-r-- 1 abubakar abubakar  8418 Aug 26 19:36 sla_ii_peptides.fasta
+-rw-rw-r-- 1 abubakar abubakar   160 Aug 26 22:53 sla_ii_pilot_test.txt

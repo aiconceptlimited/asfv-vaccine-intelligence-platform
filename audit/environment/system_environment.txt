@@ -1,0 +1,149 @@
+=== HOST ===
+ Static hostname: mail.aiconceptlimited.com.ng
+       Icon name: computer-vm
+         Chassis: vm 🖴
+      Machine ID: 247f5f7d74e442e984b7dd21159fd76e
+         Boot ID: 8d0b77ddcda048ff9f901ae09c71b25e
+  Virtualization: kvm
+Operating System: Ubuntu 24.04.4 LTS
+          Kernel: Linux 6.8.0-86-generic
+    Architecture: x86-64
+ Hardware Vendor: QEMU
+  Hardware Model: Standard PC _i440FX + PIIX, 1996_
+Firmware Version: rel-1.16.3-0-ga6ed6b701f0a-prebuilt.qemu.org
+   Firmware Date: Tue 2014-04-01
+    Firmware Age: 12y 4month 3w 6d
+
+=== OS ===
+PRETTY_NAME="Ubuntu 24.04.4 LTS"
+NAME="Ubuntu"
+VERSION_ID="24.04"
+VERSION="24.04.4 LTS (Noble Numbat)"
+VERSION_CODENAME=noble
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=noble
+LOGO=ubuntu-logo
+
+=== KERNEL ===
+Linux mail.aiconceptlimited.com.ng 6.8.0-86-generic #87-Ubuntu SMP PREEMPT_DYNAMIC Mon Sep 22 18:03:36 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+
+=== CPU ===
+Architecture:                         x86_64
+CPU op-mode(s):                       32-bit, 64-bit
+Address sizes:                        48 bits physical, 48 bits virtual
+Byte Order:                           Little Endian
+CPU(s):                               4
+On-line CPU(s) list:                  0-3
+Vendor ID:                            AuthenticAMD
+Model name:                           AMD EPYC Processor (with IBPB)
+CPU family:                           23
+Model:                                1
+Thread(s) per core:                   1
+Core(s) per socket:                   4
+Socket(s):                            1
+Stepping:                             2
+BogoMIPS:                             5589.49
+Flags:                                fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm rep_good nopl cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3 fma cx16 sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm cmp_legacy cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw topoext ssbd ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 arat
+Hypervisor vendor:                    KVM
+Virtualization type:                  full
+L1d cache:                            128 KiB (4 instances)
+L1i cache:                            256 KiB (4 instances)
+L2 cache:                             2 MiB (4 instances)
+L3 cache:                             8 MiB (1 instance)
+NUMA node(s):                         1
+NUMA node0 CPU(s):                    0-3
+Vulnerability Gather data sampling:   Not affected
+Vulnerability Itlb multihit:          Not affected
+Vulnerability L1tf:                   Not affected
+Vulnerability Mds:                    Not affected
+Vulnerability Meltdown:               Not affected
+Vulnerability Mmio stale data:        Not affected
+Vulnerability Reg file data sampling: Not affected
+Vulnerability Retbleed:               Mitigation; untrained return thunk; SMT disabled
+Vulnerability Spec rstack overflow:   Vulnerable: Safe RET, no microcode
+Vulnerability Spec store bypass:      Mitigation; Speculative Store Bypass disabled via prctl
+Vulnerability Spectre v1:             Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:             Mitigation; Retpolines; IBPB conditional; STIBP disabled; RSB filling; PBRSB-eIBRS Not affected; BHI Not affected
+Vulnerability Srbds:                  Not affected
+Vulnerability Tsx async abort:        Not affected
+
+=== MEMORY ===
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       2.7Gi       4.3Gi        59Mi       1.1Gi       5.0Gi
+Swap:             0B          0B          0B
+
+=== STORAGE ===
+Filesystem     Type   Size  Used Avail Use% Mounted on
+tmpfs          tmpfs  795M  2.3M  792M   1% /run
+/dev/sda1      ext4   145G   75G   71G  52% /
+tmpfs          tmpfs  3.9G  1.2M  3.9G   1% /dev/shm
+tmpfs          tmpfs  5.0M     0  5.0M   0% /run/lock
+/dev/sda16     ext4   881M  117M  703M  15% /boot
+/dev/sda15     vfat   105M  6.2M   99M   6% /boot/efi
+tmpfs          tmpfs  795M   24K  795M   1% /run/user/1000
+
+=== MOUNTED FILESYSTEMS ===
+TARGET                                                                                              SOURCE                 FSTYPE      OPTIONS
+/                                                                                                   /dev/sda1              ext4        rw,relatime,discard,errors=remount-ro,commit=30
+├─/sys                                                                                              sysfs                  sysfs       rw,nosuid,nodev,noexec,relatime
+│ ├─/sys/kernel/security                                                                            securityfs             securityfs  rw,nosuid,nodev,noexec,relatime
+│ ├─/sys/fs/cgroup                                                                                  cgroup2                cgroup2     rw,nosuid,nodev,noexec,relatime,nsdelegate,memory_recursiveprot
+│ ├─/sys/fs/pstore                                                                                  pstore                 pstore      rw,nosuid,nodev,noexec,relatime
+│ ├─/sys/fs/bpf                                                                                     bpf                    bpf         rw,nosuid,nodev,noexec,relatime,mode=700
+│ ├─/sys/kernel/debug                                                                               debugfs                debugfs     rw,nosuid,nodev,noexec,relatime
+│ │ └─/sys/kernel/debug/tracing                                                                     tracefs                tracefs     rw,nosuid,nodev,noexec,relatime
+│ ├─/sys/kernel/tracing                                                                             tracefs                tracefs     rw,nosuid,nodev,noexec,relatime
+│ ├─/sys/fs/fuse/connections                                                                        fusectl                fusectl     rw,nosuid,nodev,noexec,relatime
+│ └─/sys/kernel/config                                                                              configfs               configfs    rw,nosuid,nodev,noexec,relatime
+├─/proc                                                                                             proc                   proc        rw,nosuid,nodev,noexec,relatime
+│ └─/proc/sys/fs/binfmt_misc                                                                        systemd-1              autofs      rw,relatime,fd=32,pgrp=1,timeout=0,minproto=5,maxproto=5,direct,pipe_ino=3265
+│   └─/proc/sys/fs/binfmt_misc                                                                      binfmt_misc            binfmt_misc rw,nosuid,nodev,noexec,relatime
+├─/dev                                                                                              udev                   devtmpfs    rw,nosuid,relatime,size=4046464k,nr_inodes=1011616,mode=755,inode64
+│ ├─/dev/pts                                                                                        devpts                 devpts      rw,nosuid,noexec,relatime,gid=5,mode=620,ptmxmode=000
+│ ├─/dev/shm                                                                                        tmpfs                  tmpfs       rw,nosuid,nodev,inode64
+│ ├─/dev/hugepages                                                                                  hugetlbfs              hugetlbfs   rw,nosuid,nodev,relatime,pagesize=2M
+│ └─/dev/mqueue                                                                                     mqueue                 mqueue      rw,nosuid,nodev,noexec,relatime
+├─/run                                                                                              tmpfs                  tmpfs       rw,nosuid,nodev,noexec,relatime,size=813184k,mode=755,inode64
+│ ├─/run/lock                                                                                       tmpfs                  tmpfs       rw,nosuid,nodev,noexec,relatime,size=5120k,inode64
+│ ├─/run/user/1000                                                                                  tmpfs                  tmpfs       rw,nosuid,nodev,relatime,size=813180k,nr_inodes=203295,mode=700,uid=1000,gid=1000,inode64
+│ ├─/run/docker/netns/ad0e055df89b                                                                  nsfs[net:[4026532276]] nsfs        rw
+│ ├─/run/snapd/ns                                                                                   tmpfs[/snapd/ns]       tmpfs       rw,nosuid,nodev,noexec,relatime,size=813184k,mode=755,inode64
+│ │ ├─/run/snapd/ns/mesa-2404.mnt                                                                   nsfs[mnt:[4026532273]] nsfs        rw
+│ │ ├─/run/snapd/ns/cups.mnt                                                                        nsfs[mnt:[4026532270]] nsfs        rw
+│ │ ├─/run/snapd/ns/chromium.mnt                                                                    nsfs[mnt:[4026532339]] nsfs        rw
+│ │ └─/run/snapd/ns/thunderbird.mnt                                                                 nsfs[mnt:[4026532536]] nsfs        rw
+│ ├─/run/docker/netns/d0451e00160e                                                                  nsfs[net:[4026532409]] nsfs        rw
+│ ├─/run/docker/netns/8efbd09b54e8                                                                  nsfs[net:[4026532434]] nsfs        rw
+│ └─/run/docker/netns/7e085f29fa87                                                                  nsfs[net:[4026532344]] nsfs        rw
+├─/boot                                                                                             /dev/sda16             ext4        rw,relatime
+│ └─/boot/efi                                                                                       /dev/sda15             vfat        rw,relatime,fmask=0077,dmask=0077,codepage=437,iocharset=iso8859-1,shortname=mixed,errors=remount-ro
+├─/snap/mesa-2404/1839                                                                              /dev/loop5             squashfs    ro,nodev,relatime,errors=continue,threads=single
+├─/snap/bare/5                                                                                      /dev/loop3             squashfs    ro,nodev,relatime,errors=continue,threads=single
+├─/snap/core24/1587                                                                                 /dev/loop1             squashfs    ro,nodev,relatime,errors=continue,threads=single
+├─/var/lib/docker/rootfs/overlayfs/d1cfdc2fa1519b0749cc1086e8063d0086fc4ef7aa59dc330e9d918c3c6ccf8c overlay                overlay     rw,relatime,lowerdir=329/fs:299/fs:298/fs:297/fs:296/fs:295/fs:294/fs:293/fs:292/fs:291/fs:290/fs:289/fs:288/fs:287/fs:286/fs:285/fs:284/fs:283/fs:282/fs:281/fs:280/fs:279/fs:278/fs:277/fs:276/fs:275/fs:274/fs:273/fs:272/fs:271/fs:270/fs:269/fs:268/fs:267/fs:266/fs:265/fs:264/fs:263/fs:262/fs:261/fs:260/fs:259/fs:258/fs:257/fs:256/fs:255/fs:254/fs:253/fs:252/fs:251/fs:250/fs:249/fs:248/fs:247/fs:246/fs:245/fs:244/fs,upperdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/330/fs,workdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/330/work,nouserxattr
+├─/snap/cups/1238                                                                                   /dev/loop16            squashfs    ro,nodev,relatime,errors=continue,threads=single
+├─/snap/thunderbird/1201                                                                            /dev/loop0             squashfs    ro,nodev,relatime,errors=continue,threads=single
+├─/snap/core22/2437                                                                                 /dev/loop10            squashfs    ro,nodev,relatime,errors=continue,threads=single
+├─/snap/chromium/3507                                                                               /dev/loop17            squashfs    ro,nodev,relatime,errors=continue,threads=single
+├─/snap/snapd/27710                                                                                 /dev/loop6             squashfs    ro,nodev,relatime,errors=continue,threads=single
+├─/snap/gnome-46-2404/164                                                                           /dev/loop13            squashfs    ro,nodev,relatime,errors=continue,threads=single
+├─/snap/gtk-common-themes/1535                                                                      /dev/loop4             squashfs    ro,nodev,relatime,errors=continue,threads=single
+├─/snap/mesa-2404/1165                                                                              /dev/loop7             squashfs    ro,nodev,relatime,errors=continue,threads=single
+├─/snap/gnome-46-2404/153                                                                           /dev/loop8             squashfs    ro,nodev,relatime,errors=continue,threads=single
+├─/snap/chromium/3499                                                                               /dev/loop15            squashfs    ro,nodev,relatime,errors=continue,threads=single
+├─/snap/core22/2411                                                                                 /dev/loop2             squashfs    ro,nodev,relatime,errors=continue,threads=single
+├─/var/lib/docker/rootfs/overlayfs/bc13709a19d77716907cf5a41e8d3b0f3ad4ade2ae25b9209be9bfa0979c2547 overlay                overlay     rw,relatime,lowerdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/114/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/102/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/101/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/100/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/99/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/98/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/97/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/96/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/95/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/94/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/93/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/92/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/91/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/90/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/89/fs,upperdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/115/fs,workdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/115/work,nouserxattr
+├─/var/lib/docker/rootfs/overlayfs/bc46dd3ab8b42502ca44f80be94202905b780bcb61f81a80a8d20b92090b2de1 overlay                overlay     rw,relatime,lowerdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/110/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/109/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/108/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/107/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/106/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/105/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/104/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/103/fs,upperdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/113/fs,workdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/113/work,nouserxattr
+├─/snap/core24/1643                                                                                 /dev/loop9             squashfs    ro,nodev,relatime,errors=continue,threads=single
+├─/snap/cups/1229                                                                                   /dev/loop11            squashfs    ro,nodev,relatime,errors=continue,threads=single
+├─/snap/snapd/27591                                                                                 /dev/loop12            squashfs    ro,nodev,relatime,errors=continue,threads=single
+├─/snap/thunderbird/1228                                                                            /dev/loop14            squashfs    ro,nodev,relatime,errors=continue,threads=single
+└─/var/lib/docker/rootfs/overlayfs/7ecc85c68c95808fb35949af114711dda5375124b0c833b3bcedf25bddd7aece overlay                overlay     rw,relatime,lowerdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/325/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/324/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/323/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/322/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/321/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/320/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/319/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/318/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/317/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/316/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/315/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/314/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/313/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/312/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/311/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/310/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/309/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/308/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/307/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/306/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/305/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/304/fs:/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/89/fs,upperdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/326/fs,workdir=/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs/snapshots/326/work,nouserxattr
+
+=== UPTIME ===
+ 22:09:42 up 279 days,  9:55, 14 users,  load average: 0.45, 0.56, 0.60

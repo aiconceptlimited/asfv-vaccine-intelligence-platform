@@ -1,0 +1,17 @@
+=== ML FILES ===
+total 1872
+drwxrwxr-x 2 abubakar abubakar    4096 Aug 23 12:08 .
+drwxrwxr-x 5 abubakar abubakar    4096 Aug 23 11:16 ..
+-rw-rw-r-- 1 abubakar abubakar   26314 Aug 23 12:01 X_test.npy
+-rw-rw-r-- 1 abubakar abubakar  117119 Aug 23 12:01 X_train.npy
+-rw-rw-r-- 1 abubakar abubakar   25079 Aug 23 12:01 X_val.npy
+-rw-rw-r-- 1 abubakar abubakar 1207545 Aug 23 12:04 best_model.joblib
+-rw-rw-r-- 1 abubakar abubakar     192 Aug 23 12:08 candidate_ml_scores.csv
+-rw-rw-r-- 1 abubakar abubakar   20078 Aug 23 12:01 ctl_dataset_split.csv
+-rw-rw-r-- 1 abubakar abubakar  455510 Aug 23 12:01 ctl_features.csv
+-rw-rw-r-- 1 abubakar abubakar   17070 Aug 23 11:51 ctl_training_dataset_v1.csv
+-rw-rw-r-- 1 abubakar abubakar     706 Aug 23 12:04 ml_results.csv
+-rw-rw-r-- 1 abubakar abubakar    3557 Aug 23 12:04 scaler.joblib
+-rw-rw-r-- 1 abubakar abubakar     800 Aug 23 12:01 y_test.npy
+-rw-rw-r-- 1 abubakar abubakar    3144 Aug 23 12:01 y_train.npy
+-rw-rw-r-- 1 abubakar abubakar     768 Aug 23 12:01 y_val.npy

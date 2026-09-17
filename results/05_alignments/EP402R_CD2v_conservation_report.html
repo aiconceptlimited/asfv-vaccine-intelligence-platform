@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Conservation Report - CD2v</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        h2 { color: #34495e; margin-top: 30px; }
+        table { border-collapse: collapse; width: 100%; margin: 10px 0; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #3498db; color: white; }
+        tr:nth-child(even) { background-color: #f2f2f2; }
+        .summary { background-color: #f8f9fa; padding: 20px; border-radius: 5px; margin: 20px 0; }
+        .metric { display: inline-block; margin: 0 20px; }
+        .metric-value { font-size: 24px; font-weight: bold; }
+        .conserved { color: green; }
+        .variable { color: orange; }
+        .highly-variable { color: red; }
+    </style>
+</head>
+<body>
+    <h1>Conservation Analysis: CD2v (EP402R)</h1>
+    <p><strong>Date:</strong> 2026-07-11 16:10:58</p>
+    
+    <div class="summary">
+        <h2>Summary</h2>
+        <div class="metric">
+            <div class="metric-value">9</div>
+            <div>Sequences</div>
+        </div>
+        <div class="metric">
+            <div class="metric-value">389</div>
+            <div>Alignment Length</div>
+        </div>
+        <div class="metric">
+            <div class="metric-value">330</div>
+            <div>Mean Length (aa)</div>
+        </div>
+    </div>
+    
+    <h2>Sequence Status</h2>
+    <table>
+        <tr>
+            <th>Accession</th>
+            <th>Length (aa)</th>
+            <th>Status</th>
+        </tr>
+
+        <tr>
+            <td><strong>MW856068</strong></td>
+            <td>360</td>
+            <td class="variable">TRUNCATED</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409979</strong></td>
+            <td>360</td>
+            <td class="variable">TRUNCATED</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409980</strong></td>
+            <td>385</td>
+            <td class="conserved">FULL_LENGTH</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409981</strong></td>
+            <td>159</td>
+            <td class="highly-variable">SEVERELY_TRUNCATED</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409982</strong></td>
+            <td>360</td>
+            <td class="variable">TRUNCATED</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409983</strong></td>
+            <td>360</td>
+            <td class="variable">TRUNCATED</td>
+        </tr>
+
+        <tr>
+            <td><strong>PQ375362</strong></td>
+            <td>385</td>
+            <td class="conserved">FULL_LENGTH</td>
+        </tr>
+
+        <tr>
+            <td><strong>PQ375363</strong></td>
+            <td>360</td>
+            <td class="variable">TRUNCATED</td>
+        </tr>
+
+        <tr>
+            <td><strong>PV740683</strong></td>
+            <td>240</td>
+            <td class="variable">TRUNCATED</td>
+        </tr>
+
+    </table>
+    
+    <h2>Conservation Statistics</h2>
+    <table>
+        <tr>
+            <th>Metric</th>
+            <th>Value</th>
+        </tr>
+        <tr><td>Mean Conservation</td><td>{:.1f}%</td></tr>
+        <tr><td>Median Conservation</td><td>{:.1f}%</td></tr>
+        <tr><td>Min Conservation</td><td>{:.1f}%</td></tr>
+        <tr><td>Max Conservation</td><td>{:.1f}%</td></tr>
+        <tr><td>Highly Conserved Positions (>90%)</td><td>{}</td></tr>
+        <tr><td>Variable Positions (50-90%)</td><td>{}</td></tr>
+        <tr><td>Highly Variable Positions (<50%)</td><td>{}</td></tr>
+    </table>
+</body>
+</html>

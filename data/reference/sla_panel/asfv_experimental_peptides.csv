@@ -1,0 +1,6 @@
+Peptide,Protein,Source_Virus,Response,Presentation_Evidence,Functional_Validation,SLA_Allele,Restriction_Status,Evidence_Level,PMID
+NPTIIMEQY,H339R,BA71,1/10,Natural_SLA-I_presentation,IFN-gamma_ELISpot,UNRESOLVED,Unresolved,P1,33430316
+KNILNTLMF,I226R,BA71,1/10,Natural_SLA-I_presentation,IFN-gamma_ELISpot,UNRESOLVED,Unresolved,P1,33430316
+DKDGNSALHYL,A238L,BA71DeltaCD2,6/20,Natural_SLA-I_presentation,IFN-gamma_ELISpot,UNRESOLVED,Unresolved,P1,33430316
+AKIVEEGGEES,K145R,BA71+BA71DeltaCD2,4/20,Natural_SLA-I_presentation,IFN-gamma_ELISpot,UNRESOLVED,Unresolved,P1,33430316
+NSTLVIRI,MGF505-7R,BA71DeltaCD2,4/20,Natural_SLA-I_presentation,IFN-gamma_ELISpot,UNRESOLVED,Unresolved,P1,33430316

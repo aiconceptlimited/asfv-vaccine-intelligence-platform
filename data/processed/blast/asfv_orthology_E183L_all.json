@@ -1,0 +1,673 @@
+{
+"BlastOutput2": [
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_1",
+          "query_title": "MW856067_E183L E183L (p54) from MW856067",
+          "query_len": 186,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|2",
+                  "accession": "2",
+                  "title": "YP_009743478.1 membrane protein p54 [African swine fever virus]"
+                }
+              ],
+              "len": 186,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 385.571,
+                  "score": 989,
+                  "evalue": 1.20613e-142,
+                  "identity": 186,
+                  "positive": 186,
+                  "query_from": 1,
+                  "query_to": 186,
+                  "hit_from": 1,
+                  "hit_to": 186,
+                  "align_len": 186,
+                  "gaps": 0,
+                  "qseq": "MDSEFFQPVYPRHYGECLSPTSTPSFFSTHMCTILVAIVVLIIIIIVLIYLFSSRKKKAAAPAIEEEDIQFINPYQDQQWAGATPQPGTSKPAGATTGNVGKPITDRPVAMNRPVTNSSVADRPVMNNPVTDRLIMATGGPAAASAPSDELYTTATTQNTASQTMPAVEALRQRSTYTHKDLENSL",
+                  "hseq": "MDSEFFQPVYPRHYGECLSPTSTPSFFSTHMCTILVAIVVLIIIIIVLIYLFSSRKKKAAAPAIEEEDIQFINPYQDQQWAGATPQPGTSKPAGATTGNVGKPITDRPVAMNRPVTNSSVADRPVMNNPVTDRLIMATGGPAAASAPSDELYTTATTQNTASQTMPAVEALRQRSTYTHKDLENSL",
+                  "midline": "MDSEFFQPVYPRHYGECLSPTSTPSFFSTHMCTILVAIVVLIIIIIVLIYLFSSRKKKAAAPAIEEEDIQFINPYQDQQWAGATPQPGTSKPAGATTGNVGKPITDRPVAMNRPVTNSSVADRPVMNNPVTDRLIMATGGPAAASAPSDELYTTATTQNTASQTMPAVEALRQRSTYTHKDLENSL"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 41,
+            "eff_space": 572460,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_2",
+          "query_title": "PV740683_E183L E183L (p54) from PV740683",
+          "query_len": 185,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|2",
+                  "accession": "2",
+                  "title": "YP_009743478.1 membrane protein p54 [African swine fever virus]"
+                }
+              ],
+              "len": 186,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 255.373,
+                  "score": 651,
+                  "evalue": 3.39194e-91,
+                  "identity": 151,
+                  "positive": 163,
+                  "query_from": 1,
+                  "query_to": 185,
+                  "hit_from": 1,
+                  "hit_to": 186,
+                  "align_len": 192,
+                  "gaps": 13,
+                  "qseq": "MDSEFFQPVYPRHYGECLSPVTTPSFFSTHMYTILIAIVVLVIIIIVLIYLFSSRRKKKAA-AIEEEDIQFINPYQDQQWVEVTPQPGTSKPAGATTASVGKPVTGRP-ATNRPATN-----KPVTDNPVTDRLVMATGGPAAAPAAASAPAHPAEPYTTVTTQNTASQTMSAIENLRQRNTYTHKDLENSL",
+                  "hseq": "MDSEFFQPVYPRHYGECLSPTSTPSFFSTHMCTILVAIVVLIIIIIVLIYLFSSRKKKAAAPAIEEEDIQFINPYQDQQWAGATPQPGTSKPAGATTGNVGKPITDRPVAMNRPVTNSSVADRPVMNNPVTDRLIMATGG----PAAASAPSD--ELYTTATTQNTASQTMPAVEALRQRSTYTHKDLENSL",
+                  "midline": "MDSEFFQPVYPRHYGECLSP +TPSFFSTHM TIL+AIVVL+IIIIVLIYLFSSR+KK AA AIEEEDIQFINPYQDQQW   TPQPGTSKPAGATT +VGKP+T RP A NRP TN     +PV +NPVTDRL+MATGG    PAAASAP+   E YTT TTQNTASQTM A+E LRQR+TYTHKDLENSL"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 41,
+            "eff_space": 568512,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_3",
+          "query_title": "MW856068_E183L E183L (p54) from MW856068",
+          "query_len": 184,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|2",
+                  "accession": "2",
+                  "title": "YP_009743478.1 membrane protein p54 [African swine fever virus]"
+                }
+              ],
+              "len": 186,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 256.529,
+                  "score": 654,
+                  "evalue": 1.0556e-91,
+                  "identity": 152,
+                  "positive": 163,
+                  "query_from": 1,
+                  "query_to": 184,
+                  "hit_from": 1,
+                  "hit_to": 186,
+                  "align_len": 192,
+                  "gaps": 14,
+                  "qseq": "MDSEFFQPVYPRHYGECLSPVTTPSFFSTHMYTILIAIVVLVIIIIVLIYLFSSRKKKAA--AIEEEDIQFINPYQDQQWVEVTPQPGTSKPAGATTASVGKPVTGRP-ATNRPATN-----KPVTDNPVTDRLVMATGGPAAAPAAASAPAHPAEPYTTVTTQNTASQTMSAIENLRQRNTYTHKDLENSL",
+                  "hseq": "MDSEFFQPVYPRHYGECLSPTSTPSFFSTHMCTILVAIVVLIIIIIVLIYLFSSRKKKAAAPAIEEEDIQFINPYQDQQWAGATPQPGTSKPAGATTGNVGKPITDRPVAMNRPVTNSSVADRPVMNNPVTDRLIMATGG----PAAASAPSD--ELYTTATTQNTASQTMPAVEALRQRSTYTHKDLENSL",
+                  "midline": "MDSEFFQPVYPRHYGECLSP +TPSFFSTHM TIL+AIVVL+IIIIVLIYLFSSRKKKAA  AIEEEDIQFINPYQDQQW   TPQPGTSKPAGATT +VGKP+T RP A NRP TN     +PV +NPVTDRL+MATGG    PAAASAP+   E YTT TTQNTASQTM A+E LRQR+TYTHKDLENSL"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 41,
+            "eff_space": 564564,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_4",
+          "query_title": "ON409981_E183L E183L (p54) from ON409981",
+          "query_len": 117,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|2",
+                  "accession": "2",
+                  "title": "YP_009743478.1 membrane protein p54 [African swine fever virus]"
+                }
+              ],
+              "len": 186,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 165.236,
+                  "score": 417,
+                  "evalue": 8.6391e-57,
+                  "identity": 98,
+                  "positive": 105,
+                  "query_from": 1,
+                  "query_to": 117,
+                  "hit_from": 1,
+                  "hit_to": 119,
+                  "align_len": 119,
+                  "gaps": 2,
+                  "qseq": "MDSEFFQPVYPRHYGECLSSTPTPSFFSTHMYTILIAIVVLIIIIIVLIYLFSSRKKKAAA-AIEEEDIQFINPYQDQQWAGVPPQPGIAKPAGATTGSVSKPVMDRPIT-NNPVLRTN",
+                  "hseq": "MDSEFFQPVYPRHYGECLSPTSTPSFFSTHMCTILVAIVVLIIIIIVLIYLFSSRKKKAAAPAIEEEDIQFINPYQDQQWAGATPQPGTSKPAGATTGNVGKPITDRPVAMNRPVTNSS",
+                  "midline": "MDSEFFQPVYPRHYGECLS T TPSFFSTHM TIL+AIVVLIIIIIVLIYLFSSRKKKAAA AIEEEDIQFINPYQDQQWAG  PQPG +KPAGATTG+V KP+ DRP+  N PV  ++"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 37,
+            "eff_space": 317760,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_5",
+          "query_title": "ON409980_E183L E183L (p54) from ON409980",
+          "query_len": 185,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|2",
+                  "accession": "2",
+                  "title": "YP_009743478.1 membrane protein p54 [African swine fever virus]"
+                }
+              ],
+              "len": 186,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 325.094,
+                  "score": 832,
+                  "evalue": 8.81e-119,
+                  "identity": 179,
+                  "positive": 181,
+                  "query_from": 1,
+                  "query_to": 185,
+                  "hit_from": 1,
+                  "hit_to": 186,
+                  "align_len": 186,
+                  "gaps": 1,
+                  "qseq": "MDSEFFQPVYPRHYGECLSPTSTPSFFSTHMCTILVAIVVLIIIIIVLIYLFSSRKKKAAAAAIEEEDIQFINPYQDQQWAGATPQPGTSKPAGATTGNVGKPITDRP-ATDRPVTNSSVADRPVMNSPVTDRLIMATGGPAAASAASAELYTTATTQNTASQTMPAVEALRQRSTYTHKDLENSL",
+                  "hseq": "MDSEFFQPVYPRHYGECLSPTSTPSFFSTHMCTILVAIVVLIIIIIVLIYLFSSRKKKAAAPAIEEEDIQFINPYQDQQWAGATPQPGTSKPAGATTGNVGKPITDRPVAMNRPVTNSSVADRPVMNNPVTDRLIMATGGPAAASAPSDELYTTATTQNTASQTMPAVEALRQRSTYTHKDLENSL",
+                  "midline": "MDSEFFQPVYPRHYGECLSPTSTPSFFSTHMCTILVAIVVLIIIIIVLIYLFSSRKKKAAA AIEEEDIQFINPYQDQQWAGATPQPGTSKPAGATTGNVGKPITDRP A +RPVTNSSVADRPVMN+PVTDRLIMATGGPAAASA S ELYTTATTQNTASQTMPAVEALRQRSTYTHKDLENSL"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 41,
+            "eff_space": 568512,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_6",
+          "query_title": "ON409982_E183L E183L (p54) from ON409982",
+          "query_len": 184,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|2",
+                  "accession": "2",
+                  "title": "YP_009743478.1 membrane protein p54 [African swine fever virus]"
+                }
+              ],
+              "len": 186,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 256.529,
+                  "score": 654,
+                  "evalue": 1.0556e-91,
+                  "identity": 152,
+                  "positive": 163,
+                  "query_from": 1,
+                  "query_to": 184,
+                  "hit_from": 1,
+                  "hit_to": 186,
+                  "align_len": 192,
+                  "gaps": 14,
+                  "qseq": "MDSEFFQPVYPRHYGECLSPVTTPSFFSTHMYTILIAIVVLVIIIIVLIYLFSSRKKKAA--AIEEEDIQFINPYQDQQWVEVTPQPGTSKPAGATTASVGKPVTGRP-ATNRPATN-----KPVTDNPVTDRLVMATGGPAAAPAAASAPAHPAEPYTTVTTQNTASQTMSAIENLRQRNTYTHKDLENSL",
+                  "hseq": "MDSEFFQPVYPRHYGECLSPTSTPSFFSTHMCTILVAIVVLIIIIIVLIYLFSSRKKKAAAPAIEEEDIQFINPYQDQQWAGATPQPGTSKPAGATTGNVGKPITDRPVAMNRPVTNSSVADRPVMNNPVTDRLIMATGG----PAAASAPSD--ELYTTATTQNTASQTMPAVEALRQRSTYTHKDLENSL",
+                  "midline": "MDSEFFQPVYPRHYGECLSP +TPSFFSTHM TIL+AIVVL+IIIIVLIYLFSSRKKKAA  AIEEEDIQFINPYQDQQW   TPQPGTSKPAGATT +VGKP+T RP A NRP TN     +PV +NPVTDRL+MATGG    PAAASAP+   E YTT TTQNTASQTM A+E LRQR+TYTHKDLENSL"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 41,
+            "eff_space": 564564,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_7",
+          "query_title": "ON409983_E183L E183L (p54) from ON409983",
+          "query_len": 184,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|2",
+                  "accession": "2",
+                  "title": "YP_009743478.1 membrane protein p54 [African swine fever virus]"
+                }
+              ],
+              "len": 186,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 256.529,
+                  "score": 654,
+                  "evalue": 1.0556e-91,
+                  "identity": 152,
+                  "positive": 163,
+                  "query_from": 1,
+                  "query_to": 184,
+                  "hit_from": 1,
+                  "hit_to": 186,
+                  "align_len": 192,
+                  "gaps": 14,
+                  "qseq": "MDSEFFQPVYPRHYGECLSPVTTPSFFSTHMYTILIAIVVLVIIIIVLIYLFSSRKKKAA--AIEEEDIQFINPYQDQQWVEVTPQPGTSKPAGATTASVGKPVTGRP-ATNRPATN-----KPVTDNPVTDRLVMATGGPAAAPAAASAPAHPAEPYTTVTTQNTASQTMSAIENLRQRNTYTHKDLENSL",
+                  "hseq": "MDSEFFQPVYPRHYGECLSPTSTPSFFSTHMCTILVAIVVLIIIIIVLIYLFSSRKKKAAAPAIEEEDIQFINPYQDQQWAGATPQPGTSKPAGATTGNVGKPITDRPVAMNRPVTNSSVADRPVMNNPVTDRLIMATGG----PAAASAPSD--ELYTTATTQNTASQTMPAVEALRQRSTYTHKDLENSL",
+                  "midline": "MDSEFFQPVYPRHYGECLSP +TPSFFSTHM TIL+AIVVL+IIIIVLIYLFSSRKKKAA  AIEEEDIQFINPYQDQQW   TPQPGTSKPAGATT +VGKP+T RP A NRP TN     +PV +NPVTDRL+MATGG    PAAASAP+   E YTT TTQNTASQTM A+E LRQR+TYTHKDLENSL"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 41,
+            "eff_space": 564564,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_8",
+          "query_title": "ON409979_E183L E183L (p54) from ON409979",
+          "query_len": 184,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|2",
+                  "accession": "2",
+                  "title": "YP_009743478.1 membrane protein p54 [African swine fever virus]"
+                }
+              ],
+              "len": 186,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 256.529,
+                  "score": 654,
+                  "evalue": 1.0556e-91,
+                  "identity": 152,
+                  "positive": 163,
+                  "query_from": 1,
+                  "query_to": 184,
+                  "hit_from": 1,
+                  "hit_to": 186,
+                  "align_len": 192,
+                  "gaps": 14,
+                  "qseq": "MDSEFFQPVYPRHYGECLSPVTTPSFFSTHMYTILIAIVVLVIIIIVLIYLFSSRKKKAA--AIEEEDIQFINPYQDQQWVEVTPQPGTSKPAGATTASVGKPVTGRP-ATNRPATN-----KPVTDNPVTDRLVMATGGPAAAPAAASAPAHPAEPYTTVTTQNTASQTMSAIENLRQRNTYTHKDLENSL",
+                  "hseq": "MDSEFFQPVYPRHYGECLSPTSTPSFFSTHMCTILVAIVVLIIIIIVLIYLFSSRKKKAAAPAIEEEDIQFINPYQDQQWAGATPQPGTSKPAGATTGNVGKPITDRPVAMNRPVTNSSVADRPVMNNPVTDRLIMATGG----PAAASAPSD--ELYTTATTQNTASQTMPAVEALRQRSTYTHKDLENSL",
+                  "midline": "MDSEFFQPVYPRHYGECLSP +TPSFFSTHM TIL+AIVVL+IIIIVLIYLFSSRKKKAA  AIEEEDIQFINPYQDQQW   TPQPGTSKPAGATT +VGKP+T RP A NRP TN     +PV +NPVTDRL+MATGG    PAAASAP+   E YTT TTQNTASQTM A+E LRQR+TYTHKDLENSL"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 41,
+            "eff_space": 564564,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_9",
+          "query_title": "PQ375362_E183L E183L from PQ375362 (BA71V annotated)",
+          "query_len": 185,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|2",
+                  "accession": "2",
+                  "title": "YP_009743478.1 membrane protein p54 [African swine fever virus]"
+                }
+              ],
+              "len": 186,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 325.094,
+                  "score": 832,
+                  "evalue": 8.81e-119,
+                  "identity": 179,
+                  "positive": 181,
+                  "query_from": 1,
+                  "query_to": 185,
+                  "hit_from": 1,
+                  "hit_to": 186,
+                  "align_len": 186,
+                  "gaps": 1,
+                  "qseq": "MDSEFFQPVYPRHYGECLSPTSTPSFFSTHMCTILVAIVVLIIIIIVLIYLFSSRKKKAAAAAIEEEDIQFINPYQDQQWAGATPQPGTSKPAGATTGNVGKPITDRP-ATDRPVTNSSVADRPVMNSPVTDRLIMATGGPAAASAASAELYTTATTQNTASQTMPAVEALRQRSTYTHKDLENSL",
+                  "hseq": "MDSEFFQPVYPRHYGECLSPTSTPSFFSTHMCTILVAIVVLIIIIIVLIYLFSSRKKKAAAPAIEEEDIQFINPYQDQQWAGATPQPGTSKPAGATTGNVGKPITDRPVAMNRPVTNSSVADRPVMNNPVTDRLIMATGGPAAASAPSDELYTTATTQNTASQTMPAVEALRQRSTYTHKDLENSL",
+                  "midline": "MDSEFFQPVYPRHYGECLSPTSTPSFFSTHMCTILVAIVVLIIIIIVLIYLFSSRKKKAAA AIEEEDIQFINPYQDQQWAGATPQPGTSKPAGATTGNVGKPITDRP A +RPVTNSSVADRPVMN+PVTDRLIMATGGPAAASA S ELYTTATTQNTASQTMPAVEALRQRSTYTHKDLENSL"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 41,
+            "eff_space": 568512,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_10",
+          "query_title": "PQ375363_E183L E183L from PQ375363 (BA71V annotated)",
+          "query_len": 184,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|2",
+                  "accession": "2",
+                  "title": "YP_009743478.1 membrane protein p54 [African swine fever virus]"
+                }
+              ],
+              "len": 186,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 256.529,
+                  "score": 654,
+                  "evalue": 1.0556e-91,
+                  "identity": 152,
+                  "positive": 163,
+                  "query_from": 1,
+                  "query_to": 184,
+                  "hit_from": 1,
+                  "hit_to": 186,
+                  "align_len": 192,
+                  "gaps": 14,
+                  "qseq": "MDSEFFQPVYPRHYGECLSPVTTPSFFSTHMYTILIAIVVLVIIIIVLIYLFSSRKKKAA--AIEEEDIQFINPYQDQQWVEVTPQPGTSKPAGATTASVGKPVTGRP-ATNRPATN-----KPVTDNPVTDRLVMATGGPAAAPAAASAPAHPAEPYTTVTTQNTASQTMSAIENLRQRNTYTHKDLENSL",
+                  "hseq": "MDSEFFQPVYPRHYGECLSPTSTPSFFSTHMCTILVAIVVLIIIIIVLIYLFSSRKKKAAAPAIEEEDIQFINPYQDQQWAGATPQPGTSKPAGATTGNVGKPITDRPVAMNRPVTNSSVADRPVMNNPVTDRLIMATGG----PAAASAPSD--ELYTTATTQNTASQTMPAVEALRQRSTYTHKDLENSL",
+                  "midline": "MDSEFFQPVYPRHYGECLSP +TPSFFSTHM TIL+AIVVL+IIIIVLIYLFSSRKKKAA  AIEEEDIQFINPYQDQQW   TPQPGTSKPAGATT +VGKP+T RP A NRP TN     +PV +NPVTDRL+MATGG    PAAASAP+   E YTT TTQNTASQTM A+E LRQR+TYTHKDLENSL"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 41,
+            "eff_space": 564564,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+]
+}

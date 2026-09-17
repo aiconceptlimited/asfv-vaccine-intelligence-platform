@@ -1,0 +1,156 @@
+{
+  "MW856067": {
+    "accession": "MW856067",
+    "contigs": 1,
+    "total_length": 176564,
+    "n50": 176564,
+    "completeness": 100,
+    "contamination": 0.0,
+    "passed": true,
+    "thresholds": {
+      "min_n50": 100000,
+      "min_completeness": 90.0,
+      "max_contamination": 5.0
+    }
+  },
+  "PV740684": {
+    "accession": "PV740684",
+    "contigs": 1,
+    "total_length": 172585,
+    "n50": 172585,
+    "completeness": 100,
+    "contamination": 0.0,
+    "passed": true,
+    "thresholds": {
+      "min_n50": 100000,
+      "min_completeness": 90.0,
+      "max_contamination": 5.0
+    }
+  },
+  "PV740683": {
+    "accession": "PV740683",
+    "contigs": 1,
+    "total_length": 167022,
+    "n50": 167022,
+    "completeness": 98.25,
+    "contamination": 0.0,
+    "passed": true,
+    "thresholds": {
+      "min_n50": 100000,
+      "min_completeness": 90.0,
+      "max_contamination": 5.0
+    }
+  },
+  "MW856068": {
+    "accession": "MW856068",
+    "contigs": 1,
+    "total_length": 183325,
+    "n50": 183325,
+    "completeness": 100,
+    "contamination": 0.0,
+    "passed": true,
+    "thresholds": {
+      "min_n50": 100000,
+      "min_completeness": 90.0,
+      "max_contamination": 5.0
+    }
+  },
+  "ON409981": {
+    "accession": "ON409981",
+    "contigs": 1,
+    "total_length": 178830,
+    "n50": 178830,
+    "completeness": 100,
+    "contamination": 0.0,
+    "passed": true,
+    "thresholds": {
+      "min_n50": 100000,
+      "min_completeness": 90.0,
+      "max_contamination": 5.0
+    }
+  },
+  "ON409980": {
+    "accession": "ON409980",
+    "contigs": 1,
+    "total_length": 182514,
+    "n50": 182514,
+    "completeness": 100,
+    "contamination": 0.0,
+    "passed": true,
+    "thresholds": {
+      "min_n50": 100000,
+      "min_completeness": 90.0,
+      "max_contamination": 5.0
+    }
+  },
+  "ON409982": {
+    "accession": "ON409982",
+    "contigs": 1,
+    "total_length": 171004,
+    "n50": 171004,
+    "completeness": 100,
+    "contamination": 0.0,
+    "passed": true,
+    "thresholds": {
+      "min_n50": 100000,
+      "min_completeness": 90.0,
+      "max_contamination": 5.0
+    }
+  },
+  "ON409983": {
+    "accession": "ON409983",
+    "contigs": 1,
+    "total_length": 183389,
+    "n50": 183389,
+    "completeness": 100,
+    "contamination": 0.0,
+    "passed": true,
+    "thresholds": {
+      "min_n50": 100000,
+      "min_completeness": 90.0,
+      "max_contamination": 5.0
+    }
+  },
+  "ON409979": {
+    "accession": "ON409979",
+    "contigs": 1,
+    "total_length": 184521,
+    "n50": 184521,
+    "completeness": 100,
+    "contamination": 0.0,
+    "passed": true,
+    "thresholds": {
+      "min_n50": 100000,
+      "min_completeness": 90.0,
+      "max_contamination": 5.0
+    }
+  },
+  "PQ375363": {
+    "accession": "PQ375363",
+    "contigs": 1,
+    "total_length": 183853,
+    "n50": 183853,
+    "completeness": 100,
+    "contamination": 0.0,
+    "passed": true,
+    "thresholds": {
+      "min_n50": 100000,
+      "min_completeness": 90.0,
+      "max_contamination": 5.0
+    }
+  },
+  "PQ375362": {
+    "accession": "PQ375362",
+    "contigs": 1,
+    "total_length": 184517,
+    "n50": 184517,
+    "completeness": 100,
+    "contamination": 0.0,
+    "passed": true,
+    "thresholds": {
+      "min_n50": 100000,
+      "min_completeness": 90.0,
+      "max_contamination": 5.0
+    }
+  }
+}

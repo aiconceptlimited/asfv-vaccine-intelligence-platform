@@ -1,0 +1,80 @@
+IQ-TREE 2.2.0.3 COVID-edition built Aug  2 2022
+
+Input file name: /home/abubakar/asfv_vaccine_platform/data/processed/alignments/b646l_aligned.fasta
+Type of analysis: tree reconstruction
+Random seed number: 997279
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 11 sequences with 646 amino-acid sites
+Number of constant sites: 615 (= 95.2012% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 615 (= 95.2012% of all sites)
+Number of parsimony informative sites: 14
+Number of distinct site patterns: 70
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Uniform
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -2154.3669 (s.e. 39.1230)
+Unconstrained log-likelihood (without tree): -2425.7661
+Number of free parameters (#branches + #model parameters): 13
+Akaike information criterion (AIC) score: 4334.7338
+Corrected Akaike information criterion (AICc) score: 4335.3097
+Bayesian information criterion (BIC) score: 4392.8542
+
+Total tree length (sum of branch lengths): 0.0652
+Sum of internal branch lengths: 0.0203 (31.1101% of tree length)
+
+WARNING: 1 near-zero internal branches (<0.0015) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'MW856067' is drawn at root
+
++**MW856067
+|
+|                         +**MW856068
+|                      +**|
+|                      |  +**ON409979
+|                   +--|
+|                   |  +--PV740683
+|             +-----|
+|             |     +--------------------------------------PV740684
++-------------|
+|             +------ON409981
+|
+|  +**ON409980
++--|
+   +**PQ375362
+
+Tree in newick format:
+
+(MW856067:0.0000010000,((((MW856068:0.0000010000,ON409979:0.0000010000):0.0000010000,PV740683:0.0031106129):0.0022075547,PV740684:0.0340046847):0.0056068408,ON409981:0.0062469367):0.0124706046,(ON409980:0.0000010000,PQ375362:0.0000010000):0.0015505855);
+
+TIME STAMP
+----------
+
+Date and time: Sat Jul 11 15:02:22 2026
+Total CPU time used: 13.5706 seconds (0h:0m:13s)
+Total wall-clock time used: 9.37679 seconds (0h:0m:9s)
+

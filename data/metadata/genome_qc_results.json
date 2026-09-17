@@ -1,0 +1,486 @@
+[
+  {
+    "accession": "MW856067",
+    "file_path": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/MW856067.genbank",
+    "checks": {
+      "parseable": {
+        "value": true,
+        "passed": true
+      },
+      "assembly_status": {
+        "value": "Complete",
+        "expected": "Complete",
+        "passed": true
+      },
+      "valid_sequence": {
+        "value": "Valid",
+        "expected": "Valid (ACGTN + IUPAC codes)",
+        "passed": true
+      },
+      "ambiguous_nucleotides": {
+        "value": 11,
+        "expected": "\u2264 1000",
+        "passed": true
+      },
+      "internal_gaps": {
+        "value": 0,
+        "expected": "0",
+        "passed": true
+      },
+      "genome_length": {
+        "value": 176564,
+        "expected": "\u2265 100,000 bp",
+        "passed": true
+      }
+    },
+    "observations": {
+      "cds_count": 144,
+      "gc_content": 38.67,
+      "genome_length": 176564,
+      "n_count": 11,
+      "iupac_ambiguity_count": 33
+    },
+    "notes": [],
+    "status": "PASS"
+  },
+  {
+    "accession": "MW856068",
+    "file_path": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/MW856068.genbank",
+    "checks": {
+      "parseable": {
+        "value": true,
+        "passed": true
+      },
+      "assembly_status": {
+        "value": "Complete",
+        "expected": "Complete",
+        "passed": true
+      },
+      "valid_sequence": {
+        "value": "Valid",
+        "expected": "Valid (ACGTN + IUPAC codes)",
+        "passed": true
+      },
+      "ambiguous_nucleotides": {
+        "value": 0,
+        "expected": "\u2264 1000",
+        "passed": true
+      },
+      "internal_gaps": {
+        "value": 0,
+        "expected": "0",
+        "passed": true
+      },
+      "genome_length": {
+        "value": 183325,
+        "expected": "\u2265 100,000 bp",
+        "passed": true
+      }
+    },
+    "observations": {
+      "cds_count": 182,
+      "gc_content": 38.55,
+      "genome_length": 183325,
+      "n_count": 0,
+      "iupac_ambiguity_count": 0
+    },
+    "notes": [],
+    "status": "PASS"
+  },
+  {
+    "accession": "ON409979",
+    "file_path": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/ON409979.genbank",
+    "checks": {
+      "parseable": {
+        "value": true,
+        "passed": true
+      },
+      "assembly_status": {
+        "value": "Complete",
+        "expected": "Complete",
+        "passed": true
+      },
+      "valid_sequence": {
+        "value": "Valid",
+        "expected": "Valid (ACGTN + IUPAC codes)",
+        "passed": true
+      },
+      "ambiguous_nucleotides": {
+        "value": 0,
+        "expected": "\u2264 1000",
+        "passed": true
+      },
+      "internal_gaps": {
+        "value": 0,
+        "expected": "0",
+        "passed": true
+      },
+      "genome_length": {
+        "value": 184521,
+        "expected": "\u2265 100,000 bp",
+        "passed": true
+      }
+    },
+    "observations": {
+      "cds_count": 179,
+      "gc_content": 38.5,
+      "genome_length": 184521,
+      "n_count": 0,
+      "iupac_ambiguity_count": 0
+    },
+    "notes": [],
+    "status": "PASS"
+  },
+  {
+    "accession": "ON409980",
+    "file_path": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/ON409980.genbank",
+    "checks": {
+      "parseable": {
+        "value": true,
+        "passed": true
+      },
+      "assembly_status": {
+        "value": "Complete",
+        "expected": "Complete",
+        "passed": true
+      },
+      "valid_sequence": {
+        "value": "Valid",
+        "expected": "Valid (ACGTN + IUPAC codes)",
+        "passed": true
+      },
+      "ambiguous_nucleotides": {
+        "value": 0,
+        "expected": "\u2264 1000",
+        "passed": true
+      },
+      "internal_gaps": {
+        "value": 0,
+        "expected": "0",
+        "passed": true
+      },
+      "genome_length": {
+        "value": 182514,
+        "expected": "\u2265 100,000 bp",
+        "passed": true
+      }
+    },
+    "observations": {
+      "cds_count": 156,
+      "gc_content": 38.61,
+      "genome_length": 182514,
+      "n_count": 0,
+      "iupac_ambiguity_count": 0
+    },
+    "notes": [],
+    "status": "PASS"
+  },
+  {
+    "accession": "ON409981",
+    "file_path": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/ON409981.genbank",
+    "checks": {
+      "parseable": {
+        "value": true,
+        "passed": true
+      },
+      "assembly_status": {
+        "value": "Complete",
+        "expected": "Complete",
+        "passed": true
+      },
+      "valid_sequence": {
+        "value": "Valid",
+        "expected": "Valid (ACGTN + IUPAC codes)",
+        "passed": true
+      },
+      "ambiguous_nucleotides": {
+        "value": 0,
+        "expected": "\u2264 1000",
+        "passed": true
+      },
+      "internal_gaps": {
+        "value": 0,
+        "expected": "0",
+        "passed": true
+      },
+      "genome_length": {
+        "value": 178830,
+        "expected": "\u2265 100,000 bp",
+        "passed": true
+      }
+    },
+    "observations": {
+      "cds_count": 147,
+      "gc_content": 38.15,
+      "genome_length": 178830,
+      "n_count": 0,
+      "iupac_ambiguity_count": 0
+    },
+    "notes": [],
+    "status": "PASS"
+  },
+  {
+    "accession": "ON409982",
+    "file_path": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/ON409982.genbank",
+    "checks": {
+      "parseable": {
+        "value": true,
+        "passed": true
+      },
+      "assembly_status": {
+        "value": "Complete",
+        "expected": "Complete",
+        "passed": true
+      },
+      "valid_sequence": {
+        "value": "Valid",
+        "expected": "Valid (ACGTN + IUPAC codes)",
+        "passed": true
+      },
+      "ambiguous_nucleotides": {
+        "value": 0,
+        "expected": "\u2264 1000",
+        "passed": true
+      },
+      "internal_gaps": {
+        "value": 0,
+        "expected": "0",
+        "passed": true
+      },
+      "genome_length": {
+        "value": 171004,
+        "expected": "\u2265 100,000 bp",
+        "passed": true
+      }
+    },
+    "observations": {
+      "cds_count": 157,
+      "gc_content": 38.88,
+      "genome_length": 171004,
+      "n_count": 0,
+      "iupac_ambiguity_count": 0
+    },
+    "notes": [],
+    "status": "PASS"
+  },
+  {
+    "accession": "ON409983",
+    "file_path": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/ON409983.genbank",
+    "checks": {
+      "parseable": {
+        "value": true,
+        "passed": true
+      },
+      "assembly_status": {
+        "value": "Complete",
+        "expected": "Complete",
+        "passed": true
+      },
+      "valid_sequence": {
+        "value": "Valid",
+        "expected": "Valid (ACGTN + IUPAC codes)",
+        "passed": true
+      },
+      "ambiguous_nucleotides": {
+        "value": 0,
+        "expected": "\u2264 1000",
+        "passed": true
+      },
+      "internal_gaps": {
+        "value": 0,
+        "expected": "0",
+        "passed": true
+      },
+      "genome_length": {
+        "value": 183389,
+        "expected": "\u2265 100,000 bp",
+        "passed": true
+      }
+    },
+    "observations": {
+      "cds_count": 179,
+      "gc_content": 38.54,
+      "genome_length": 183389,
+      "n_count": 0,
+      "iupac_ambiguity_count": 0
+    },
+    "notes": [],
+    "status": "PASS"
+  },
+  {
+    "accession": "PQ375362",
+    "file_path": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/PQ375362.genbank",
+    "checks": {
+      "parseable": {
+        "value": true,
+        "passed": true
+      },
+      "assembly_status": {
+        "value": "Complete",
+        "expected": "Complete",
+        "passed": true
+      },
+      "valid_sequence": {
+        "value": "Valid",
+        "expected": "Valid (ACGTN + IUPAC codes)",
+        "passed": true
+      },
+      "ambiguous_nucleotides": {
+        "value": 0,
+        "expected": "\u2264 1000",
+        "passed": true
+      },
+      "internal_gaps": {
+        "value": 0,
+        "expected": "0",
+        "passed": true
+      },
+      "genome_length": {
+        "value": 184517,
+        "expected": "\u2265 100,000 bp",
+        "passed": true
+      }
+    },
+    "observations": {
+      "cds_count": 160,
+      "gc_content": 38.51,
+      "genome_length": 184517,
+      "n_count": 0,
+      "iupac_ambiguity_count": 35
+    },
+    "notes": [],
+    "status": "PASS"
+  },
+  {
+    "accession": "PQ375363",
+    "file_path": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/PQ375363.genbank",
+    "checks": {
+      "parseable": {
+        "value": true,
+        "passed": true
+      },
+      "assembly_status": {
+        "value": "Complete",
+        "expected": "Complete",
+        "passed": true
+      },
+      "valid_sequence": {
+        "value": "Valid",
+        "expected": "Valid (ACGTN + IUPAC codes)",
+        "passed": true
+      },
+      "ambiguous_nucleotides": {
+        "value": 0,
+        "expected": "\u2264 1000",
+        "passed": true
+      },
+      "internal_gaps": {
+        "value": 0,
+        "expected": "0",
+        "passed": true
+      },
+      "genome_length": {
+        "value": 183853,
+        "expected": "\u2265 100,000 bp",
+        "passed": true
+      }
+    },
+    "observations": {
+      "cds_count": 183,
+      "gc_content": 38.54,
+      "genome_length": 183853,
+      "n_count": 0,
+      "iupac_ambiguity_count": 0
+    },
+    "notes": [],
+    "status": "PASS"
+  },
+  {
+    "accession": "PV740683",
+    "file_path": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/PV740683.genbank",
+    "checks": {
+      "parseable": {
+        "value": true,
+        "passed": true
+      },
+      "assembly_status": {
+        "value": "Complete",
+        "expected": "Complete",
+        "passed": true
+      },
+      "valid_sequence": {
+        "value": "Valid",
+        "expected": "Valid (ACGTN + IUPAC codes)",
+        "passed": true
+      },
+      "ambiguous_nucleotides": {
+        "value": 0,
+        "expected": "\u2264 1000",
+        "passed": true
+      },
+      "internal_gaps": {
+        "value": 0,
+        "expected": "0",
+        "passed": true
+      },
+      "genome_length": {
+        "value": 167022,
+        "expected": "\u2265 100,000 bp",
+        "passed": true
+      }
+    },
+    "observations": {
+      "cds_count": 128,
+      "gc_content": 39.17,
+      "genome_length": 167022,
+      "n_count": 0,
+      "iupac_ambiguity_count": 1
+    },
+    "notes": [],
+    "status": "PASS"
+  },
+  {
+    "accession": "PV740684",
+    "file_path": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/PV740684.genbank",
+    "checks": {
+      "parseable": {
+        "value": true,
+        "passed": true
+      },
+      "assembly_status": {
+        "value": "Complete",
+        "expected": "Complete",
+        "passed": true
+      },
+      "valid_sequence": {
+        "value": "Valid",
+        "expected": "Valid (ACGTN + IUPAC codes)",
+        "passed": true
+      },
+      "ambiguous_nucleotides": {
+        "value": 0,
+        "expected": "\u2264 1000",
+        "passed": true
+      },
+      "internal_gaps": {
+        "value": 0,
+        "expected": "0",
+        "passed": true
+      },
+      "genome_length": {
+        "value": 172585,
+        "expected": "\u2265 100,000 bp",
+        "passed": true
+      }
+    },
+    "observations": {
+      "cds_count": 126,
+      "gc_content": 38.95,
+      "genome_length": 172585,
+      "n_count": 0,
+      "iupac_ambiguity_count": 1
+    },
+    "notes": [],
+    "status": "PASS"
+  }
+]

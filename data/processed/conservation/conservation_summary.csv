@@ -1,0 +1,7 @@
+gene,protein,num_sequences,alignment_length,mean_conservation,highly_conserved,variable,highly_variable
+B646L,p72,11,646,99.1,632,14,0
+CP204L,p30,11,202,95.7,176,26,0
+E183L,p54,10,193,94.3,162,31,0
+EP402R,CD2v,9,389,91.4,256,133,0
+CP2475L,pp220,10,2480,97.9,2283,197,0
+CP312R,pCP312R,11,307,96.4,276,31,0

@@ -1,0 +1,16 @@
+type,protein,sequence,start,end,conservation,alleles,rank,source,nM,iedb_support,evidence_tier,evidence_support,safety_status
+CTL,pp220,SQWDLVQKF,1091,1099,10/10,6.0,1.0,ctl_final_candidates_filtered.csv,,,Tier 2,Exact literature match (SQWDLVQKF),Double Flag (Toxin + Allergen)
+CTL,pp220,RVFSRLVFY,1462,1470,10/10,5.0,2.0,ctl_final_candidates_filtered.csv,,,Tier 2,Exact literature match (RVFSRLVFY),Toxin Only
+CTL,pp220,HIDKNIIQY,1362,1370,10/10,4.0,3.0,ctl_final_candidates_filtered.csv,,,Tier 2,Exact literature match (HIDKNIIQY),Clear
+CTL,pp220,RSIPLANIY,2008,2016,9/10,5.0,4.0,ctl_final_candidates_filtered.csv,,,Tier 3,No literature match,Allergen Only
+CTL,pp220,SAMEVLHEL,1771,1779,9/10,5.0,5.0,ctl_final_candidates_filtered.csv,,,Tier 2,Exact literature match (SAMEVLHEL),Allergen Only
+CTL,pp220,DRKHILMEF,385,393,10/10,3.0,6.0,ctl_final_candidates_filtered.csv,,,Tier 2-3,Related to RLDRKHILM (383-391),Toxin Only
+CTL,pp220,YTDIVQKKY,501,509,10/10,3.0,7.0,ctl_final_candidates_filtered.csv,,,Tier 2,Exact literature match (YTDIVQKKY),Allergen Only
+CTL,p30,KTLLSTVKY,44,52,10/11,4.0,8.0,ctl_final_candidates_filtered.csv,,,Tier 3,No literature match,Double Flag (Toxin + Allergen)
+HTL,p54,IVLIYLFSSRKKKAA,46,60,100%,,1.0,htl_final_panel.csv,18.29,,Tier 3,No experimental overlap,Clear
+HTL,pp220,RFIINIRSFKTVMTY,1898,1912,100%,,2.0,htl_final_panel.csv,23.0,,Tier 3,No literature match,Clear
+HTL,p72,KRVRFSLIRVHKTQV,429,443,100%,,3.0,htl_final_panel.csv,30.48,,Tier 3,No literature match,Allergen Only
+HTL,p30,KEEVRLMVIKLLKKK,179,193,100%,,4.0,htl_final_panel.csv,90.95,,Tier 3,No literature match,Toxin Only
+B-cell,pcp312r,NFQNEKHVGTISPST,62,76,95%,,,bcell_final_panel_provenance.csv,,2/3,Tier 1,Overlaps experimental epitope 72-83,Allergen Only
+B-cell,pcp312r,FTVKKNEQGEEIYPG,111,125,94%,,,bcell_final_panel_provenance.csv,,2/3,Tier 3,No literature match,Allergen Only
+B-cell,p30,LFEQEPSSETLKNTK,121,135,76%,,,bcell_final_panel_provenance.csv,,3/3,Tier 1,Overlaps experimental epitope 116-125,Allergen Only

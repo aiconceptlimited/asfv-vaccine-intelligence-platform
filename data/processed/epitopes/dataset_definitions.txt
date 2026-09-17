@@ -1,0 +1,35 @@
+DATASET DEFINITIONS — ML TRAINING
+=================================
+
+CTL Dataset:
+- Positive: Experimentally supported peptide-SLA-I epitopes
+  - Source: IEDB, published literature
+  - Criteria: SLA-I binding assay, T-cell assay, ELISpot
+  - Allele: SLA-1, SLA-2, SLA-3
+- Negative: Random peptides from ASFV proteins
+  - Criteria: Not predicted as epitopes, no literature support
+  - Length: 8-11 aa
+
+HTL Dataset:
+- Positive: Experimentally supported peptide-SLA-II epitopes
+  - Source: IEDB, published literature
+  - Criteria: SLA-II binding assay, T-cell assay
+  - Allele: SLA-DRB1, SLA-DQA, SLA-DQB1
+- Negative: Random peptides from ASFV proteins
+  - Criteria: Not predicted as epitopes, no literature support
+  - Length: 15 aa
+
+B-cell Dataset:
+- Positive: Experimentally supported linear B-cell epitopes
+  - Source: IEDB, published literature
+  - Criteria: Antibody binding, ELISA, peptide microarray
+- Negative: Random peptides from ASFV proteins
+  - Criteria: No antibody binding evidence
+  - Length: 15 aa
+
+Exclusion Criteria for All:
+- Ambiguous sequence (X, B, Z, J)
+- Length < 8 aa or > 15 aa
+- Unresolved allele/assay
+- Duplicates
+- ASFV candidate peptides (11 core + 4 exploratory)

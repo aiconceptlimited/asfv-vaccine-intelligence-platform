@@ -1,0 +1,28 @@
+# ASFV Vaccine Platform - MHC Prediction Methodology
+
+## SLA-I (CTL) Predictions
+- Tool: NetMHCpan [VERSION]
+- Alleles: [LIST]
+- Metric: [IC50 / %Rank]
+- Strong binder threshold: [VALUE]
+- Weak binder threshold: [VALUE]
+- Peptide lengths: [8-11]
+
+## SLA-II (HTL) Predictions
+- Tool: [NetMHCIIpan / MixMHC2pred] [VERSION]
+- Alleles: [LIST]
+- Metric: [IC50 / %Rank]
+- Strong binder threshold: [VALUE]
+- Weak binder threshold: [VALUE]
+- Peptide lengths: [15]
+
+## Epitope Selection Criteria
+- CTL: [DESCRIPTION]
+- HTL: [DESCRIPTION]
+- B-cell: [DESCRIPTION]
+
+## Junction Screening Strategy
+- Purpose: Identify unintended MHC binders at junctions
+- SLA-I: 494 unique junction peptides × 6 alleles
+- SLA-II: 294 unique junction peptides × [N] alleles
+- Filtering: Remove architectures with any strong binder junctions

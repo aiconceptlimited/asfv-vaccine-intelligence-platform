@@ -1,0 +1,606 @@
+{
+"BlastOutput2": [
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_1",
+          "query_title": "MW856067_CP204L CP204L (p30) from MW856067",
+          "query_len": 193,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|1",
+                  "accession": "1",
+                  "title": "YP_009743484.1 early phosphoprotein p30 [African swine fever virus]"
+                }
+              ],
+              "len": 201,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 399.053,
+                  "score": 1024,
+                  "evalue": 1.30376e-147,
+                  "identity": 193,
+                  "positive": 193,
+                  "query_from": 1,
+                  "query_to": 193,
+                  "hit_from": 9,
+                  "hit_to": 201,
+                  "align_len": 193,
+                  "gaps": 0,
+                  "qseq": "MKMEVIFKTDLRASSQVVFHAGSLYTWFSVEIINSGRIVTTAIKTLLSTVKYDIVRNARIYAGQGYTEQQAQEEWNMILHVLFEEETESTSSTSLESNHETNGHKADGHEINECTSSFETLFEQEPSSETLKNTKLYALAQKAVQHIEQYGKAPDFNKVIRAHNYIQTIYGSPLKEEEKEEVRLMVIKLLKKK",
+                  "hseq": "MKMEVIFKTDLRASSQVVFHAGSLYTWFSVEIINSGRIVTTAIKTLLSTVKYDIVRNARIYAGQGYTEQQAQEEWNMILHVLFEEETESTSSTSLESNHETNGHKADGHEINECTSSFETLFEQEPSSETLKNTKLYALAQKAVQHIEQYGKAPDFNKVIRAHNYIQTIYGSPLKEEEKEEVRLMVIKLLKKK",
+                  "midline": "MKMEVIFKTDLRASSQVVFHAGSLYTWFSVEIINSGRIVTTAIKTLLSTVKYDIVRNARIYAGQGYTEQQAQEEWNMILHVLFEEETESTSSTSLESNHETNGHKADGHEINECTSSFETLFEQEPSSETLKNTKLYALAQKAVQHIEQYGKAPDFNKVIRAHNYIQTIYGSPLKEEEKEEVRLMVIKLLKKK"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 41,
+            "eff_space": 600096,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_2",
+          "query_title": "PV740684_CP204L CP204L (p30) from PV740684",
+          "query_len": 194,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|1",
+                  "accession": "1",
+                  "title": "YP_009743484.1 early phosphoprotein p30 [African swine fever virus]"
+                }
+              ],
+              "len": 201,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 328.176,
+                  "score": 840,
+                  "evalue": 1.13175e-119,
+                  "identity": 169,
+                  "positive": 182,
+                  "query_from": 1,
+                  "query_to": 194,
+                  "hit_from": 1,
+                  "hit_to": 201,
+                  "align_len": 201,
+                  "gaps": 7,
+                  "qseq": "MDFILNISMKMEVIFKTDLRSSSQVVFHAGSLYNWFSVEIINSGRIVTTAIKTLLSTVKYDIVKSARIYAGQGYTEHQAQEEWNMILHVLFEEETESSASSE-------NIHEKNDNETNECTSSFETLFEQEPSSEVPKDSKLYMLAQKTVQHIEQYGKAPDFNKVIRAHNFIQTIYGTPLKEEEKEVVRLMVIKLLKKK",
+                  "hseq": "MDFILNISMKMEVIFKTDLRASSQVVFHAGSLYTWFSVEIINSGRIVTTAIKTLLSTVKYDIVRNARIYAGQGYTEQQAQEEWNMILHVLFEEETESTSSTSLESNHETNGHKADGHEINECTSSFETLFEQEPSSETLKNTKLYALAQKAVQHIEQYGKAPDFNKVIRAHNYIQTIYGSPLKEEEKEEVRLMVIKLLKKK",
+                  "midline": "MDFILNISMKMEVIFKTDLR+SSQVVFHAGSLY WFSVEIINSGRIVTTAIKTLLSTVKYDIV++ARIYAGQGYTE QAQEEWNMILHVLFEEETES++S+        N H+ + +E NECTSSFETLFEQEPSSE  K++KLY LAQK VQHIEQYGKAPDFNKVIRAHN+IQTIYG+PLKEEEKE VRLMVIKLLKKK"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 41,
+            "eff_space": 604044,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_3",
+          "query_title": "PV740683_CP204L CP204L (p30) from PV740683",
+          "query_len": 194,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|1",
+                  "accession": "1",
+                  "title": "YP_009743484.1 early phosphoprotein p30 [African swine fever virus]"
+                }
+              ],
+              "len": 201,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 328.176,
+                  "score": 840,
+                  "evalue": 1.13175e-119,
+                  "identity": 169,
+                  "positive": 182,
+                  "query_from": 1,
+                  "query_to": 194,
+                  "hit_from": 1,
+                  "hit_to": 201,
+                  "align_len": 201,
+                  "gaps": 7,
+                  "qseq": "MDFILNISMKMEVIFKTDLRSSSQVVFHAGSLYNWFSVEIINSGRIVTTAIKTLLSTVKYDIVKSARIYAGQGYTEHQAQEEWNMILHVLFEEETESSASSE-------NIHEKNDNETNECTSSFETLFEQEPSSEVPKDSKLYMLAQKTVQHIEQYGKAPDFNKVIRAHNFIQTIYGTPLKEEEKEVVRLMVIKLLKKK",
+                  "hseq": "MDFILNISMKMEVIFKTDLRASSQVVFHAGSLYTWFSVEIINSGRIVTTAIKTLLSTVKYDIVRNARIYAGQGYTEQQAQEEWNMILHVLFEEETESTSSTSLESNHETNGHKADGHEINECTSSFETLFEQEPSSETLKNTKLYALAQKAVQHIEQYGKAPDFNKVIRAHNYIQTIYGSPLKEEEKEEVRLMVIKLLKKK",
+                  "midline": "MDFILNISMKMEVIFKTDLR+SSQVVFHAGSLY WFSVEIINSGRIVTTAIKTLLSTVKYDIV++ARIYAGQGYTE QAQEEWNMILHVLFEEETES++S+        N H+ + +E NECTSSFETLFEQEPSSE  K++KLY LAQK VQHIEQYGKAPDFNKVIRAHN+IQTIYG+PLKEEEKE VRLMVIKLLKKK"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 41,
+            "eff_space": 604044,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_4",
+          "query_title": "MW856068_CP204L CP204L (p30) from MW856068",
+          "query_len": 194,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|1",
+                  "accession": "1",
+                  "title": "YP_009743484.1 early phosphoprotein p30 [African swine fever virus]"
+                }
+              ],
+              "len": 201,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 328.176,
+                  "score": 840,
+                  "evalue": 1.13175e-119,
+                  "identity": 169,
+                  "positive": 182,
+                  "query_from": 1,
+                  "query_to": 194,
+                  "hit_from": 1,
+                  "hit_to": 201,
+                  "align_len": 201,
+                  "gaps": 7,
+                  "qseq": "MDFILNISMKMEVIFKTDLRSSSQVVFHAGSLYNWFSVEIINSGRIVTTAIKTLLSTVKYDIVKSARIYAGQGYTEHQAQEEWNMILHVLFEEETESSASSE-------NIHEKNDNETNECTSSFETLFEQEPSSEVPKDSKLYMLAQKTVQHIEQYGKAPDFNKVIRAHNFIQTIYGTPLKEEEKEVVRLMVIKLLKKK",
+                  "hseq": "MDFILNISMKMEVIFKTDLRASSQVVFHAGSLYTWFSVEIINSGRIVTTAIKTLLSTVKYDIVRNARIYAGQGYTEQQAQEEWNMILHVLFEEETESTSSTSLESNHETNGHKADGHEINECTSSFETLFEQEPSSETLKNTKLYALAQKAVQHIEQYGKAPDFNKVIRAHNYIQTIYGSPLKEEEKEEVRLMVIKLLKKK",
+                  "midline": "MDFILNISMKMEVIFKTDLR+SSQVVFHAGSLY WFSVEIINSGRIVTTAIKTLLSTVKYDIV++ARIYAGQGYTE QAQEEWNMILHVLFEEETES++S+        N H+ + +E NECTSSFETLFEQEPSSE  K++KLY LAQK VQHIEQYGKAPDFNKVIRAHN+IQTIYG+PLKEEEKE VRLMVIKLLKKK"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 41,
+            "eff_space": 604044,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_5",
+          "query_title": "ON409981_CP204L CP204L (p30) from ON409981",
+          "query_len": 190,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|1",
+                  "accession": "1",
+                  "title": "YP_009743484.1 early phosphoprotein p30 [African swine fever virus]"
+                }
+              ],
+              "len": 201,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 325.094,
+                  "score": 832,
+                  "evalue": 1.80021e-118,
+                  "identity": 165,
+                  "positive": 178,
+                  "query_from": 1,
+                  "query_to": 190,
+                  "hit_from": 11,
+                  "hit_to": 201,
+                  "align_len": 192,
+                  "gaps": 3,
+                  "qseq": "MEVIFKTDLRSSSQVVFHAGSLYTWFSIEIINSGRIVTTAIKTLLNTVKYDIVRSARVYAGQGYTEQQAQEEWNMILHVLFEEEMESSASLESI--HEKNGHETNDHEIDECTSSFETLFEQEPSSSETPKDTKLYALAQKTVQHIEQYGKAPDFNKTIRAHNFIQTIYGTPLKEEEKEEVRLMVIKLLKKK",
+                  "hseq": "MEVIFKTDLRASSQVVFHAGSLYTWFSVEIINSGRIVTTAIKTLLSTVKYDIVRNARIYAGQGYTEQQAQEEWNMILHVLFEEETESTSSTSLESNHETNGHKADGHEINECTSSFETLFEQEP-SSETLKNTKLYALAQKAVQHIEQYGKAPDFNKVIRAHNYIQTIYGSPLKEEEKEEVRLMVIKLLKKK",
+                  "midline": "MEVIFKTDLR+SSQVVFHAGSLYTWFS+EIINSGRIVTTAIKTLL+TVKYDIVR+AR+YAGQGYTEQQAQEEWNMILHVLFEEE ES++S      HE NGH+ + HEI+ECTSSFETLFEQEP SSET K+TKLYALAQK VQHIEQYGKAPDFNK IRAHN+IQTIYG+PLKEEEKEEVRLMVIKLLKKK"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 41,
+            "eff_space": 588252,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_6",
+          "query_title": "ON409980_CP204L CP204L (p30) from ON409980",
+          "query_len": 201,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|1",
+                  "accession": "1",
+                  "title": "YP_009743484.1 early phosphoprotein p30 [African swine fever virus]"
+                }
+              ],
+              "len": 201,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 405.216,
+                  "score": 1040,
+                  "evalue": 6.49503e-150,
+                  "identity": 196,
+                  "positive": 197,
+                  "query_from": 1,
+                  "query_to": 201,
+                  "hit_from": 1,
+                  "hit_to": 201,
+                  "align_len": 201,
+                  "gaps": 0,
+                  "qseq": "MDFILNISMKMEVIFKTDLRASSQVVFHAGSLYTWFSVEIINSGRIVTTAIKTLLSTVKYDIVRNARIYAGQGYTEQQAQEEWNMILHVLFEEEAESTSSTSLESNHETNGHKADSHETNECTSSFETLFEQEPSSETPKDTKLYALAQKAVQHIEQYGKAPDFNKVIRAHNYIQTIYGSPLKEEEKEEVRLMVIKLLKKK",
+                  "hseq": "MDFILNISMKMEVIFKTDLRASSQVVFHAGSLYTWFSVEIINSGRIVTTAIKTLLSTVKYDIVRNARIYAGQGYTEQQAQEEWNMILHVLFEEETESTSSTSLESNHETNGHKADGHEINECTSSFETLFEQEPSSETLKNTKLYALAQKAVQHIEQYGKAPDFNKVIRAHNYIQTIYGSPLKEEEKEEVRLMVIKLLKKK",
+                  "midline": "MDFILNISMKMEVIFKTDLRASSQVVFHAGSLYTWFSVEIINSGRIVTTAIKTLLSTVKYDIVRNARIYAGQGYTEQQAQEEWNMILHVLFEEE ESTSSTSLESNHETNGHKAD HE NECTSSFETLFEQEPSSET K+TKLYALAQKAVQHIEQYGKAPDFNKVIRAHNYIQTIYGSPLKEEEKEEVRLMVIKLLKKK"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 42,
+            "eff_space": 626778,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_7",
+          "query_title": "ON409982_CP204L CP204L (p30) from ON409982",
+          "query_len": 194,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|1",
+                  "accession": "1",
+                  "title": "YP_009743484.1 early phosphoprotein p30 [African swine fever virus]"
+                }
+              ],
+              "len": 201,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 328.176,
+                  "score": 840,
+                  "evalue": 1.13175e-119,
+                  "identity": 169,
+                  "positive": 182,
+                  "query_from": 1,
+                  "query_to": 194,
+                  "hit_from": 1,
+                  "hit_to": 201,
+                  "align_len": 201,
+                  "gaps": 7,
+                  "qseq": "MDFILNISMKMEVIFKTDLRSSSQVVFHAGSLYNWFSVEIINSGRIVTTAIKTLLSTVKYDIVKSARIYAGQGYTEHQAQEEWNMILHVLFEEETESSASSE-------NIHEKNDNETNECTSSFETLFEQEPSSEVPKDSKLYMLAQKTVQHIEQYGKAPDFNKVIRAHNFIQTIYGTPLKEEEKEVVRLMVIKLLKKK",
+                  "hseq": "MDFILNISMKMEVIFKTDLRASSQVVFHAGSLYTWFSVEIINSGRIVTTAIKTLLSTVKYDIVRNARIYAGQGYTEQQAQEEWNMILHVLFEEETESTSSTSLESNHETNGHKADGHEINECTSSFETLFEQEPSSETLKNTKLYALAQKAVQHIEQYGKAPDFNKVIRAHNYIQTIYGSPLKEEEKEEVRLMVIKLLKKK",
+                  "midline": "MDFILNISMKMEVIFKTDLR+SSQVVFHAGSLY WFSVEIINSGRIVTTAIKTLLSTVKYDIV++ARIYAGQGYTE QAQEEWNMILHVLFEEETES++S+        N H+ + +E NECTSSFETLFEQEPSSE  K++KLY LAQK VQHIEQYGKAPDFNKVIRAHN+IQTIYG+PLKEEEKE VRLMVIKLLKKK"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 41,
+            "eff_space": 604044,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_8",
+          "query_title": "ON409983_CP204L CP204L (p30) from ON409983",
+          "query_len": 194,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|1",
+                  "accession": "1",
+                  "title": "YP_009743484.1 early phosphoprotein p30 [African swine fever virus]"
+                }
+              ],
+              "len": 201,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 328.176,
+                  "score": 840,
+                  "evalue": 1.13175e-119,
+                  "identity": 169,
+                  "positive": 182,
+                  "query_from": 1,
+                  "query_to": 194,
+                  "hit_from": 1,
+                  "hit_to": 201,
+                  "align_len": 201,
+                  "gaps": 7,
+                  "qseq": "MDFILNISMKMEVIFKTDLRSSSQVVFHAGSLYNWFSVEIINSGRIVTTAIKTLLSTVKYDIVKSARIYAGQGYTEHQAQEEWNMILHVLFEEETESSASSE-------NIHEKNDNETNECTSSFETLFEQEPSSEVPKDSKLYMLAQKTVQHIEQYGKAPDFNKVIRAHNFIQTIYGTPLKEEEKEVVRLMVIKLLKKK",
+                  "hseq": "MDFILNISMKMEVIFKTDLRASSQVVFHAGSLYTWFSVEIINSGRIVTTAIKTLLSTVKYDIVRNARIYAGQGYTEQQAQEEWNMILHVLFEEETESTSSTSLESNHETNGHKADGHEINECTSSFETLFEQEPSSETLKNTKLYALAQKAVQHIEQYGKAPDFNKVIRAHNYIQTIYGSPLKEEEKEEVRLMVIKLLKKK",
+                  "midline": "MDFILNISMKMEVIFKTDLR+SSQVVFHAGSLY WFSVEIINSGRIVTTAIKTLLSTVKYDIV++ARIYAGQGYTE QAQEEWNMILHVLFEEETES++S+        N H+ + +E NECTSSFETLFEQEPSSE  K++KLY LAQK VQHIEQYGKAPDFNKVIRAHN+IQTIYG+PLKEEEKE VRLMVIKLLKKK"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 41,
+            "eff_space": 604044,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_9",
+          "query_title": "ON409979_CP204L CP204L (p30) from ON409979",
+          "query_len": 194,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|1",
+                  "accession": "1",
+                  "title": "YP_009743484.1 early phosphoprotein p30 [African swine fever virus]"
+                }
+              ],
+              "len": 201,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 328.176,
+                  "score": 840,
+                  "evalue": 1.13175e-119,
+                  "identity": 169,
+                  "positive": 182,
+                  "query_from": 1,
+                  "query_to": 194,
+                  "hit_from": 1,
+                  "hit_to": 201,
+                  "align_len": 201,
+                  "gaps": 7,
+                  "qseq": "MDFILNISMKMEVIFKTDLRSSSQVVFHAGSLYNWFSVEIINSGRIVTTAIKTLLSTVKYDIVKSARIYAGQGYTEHQAQEEWNMILHVLFEEETESSASSE-------NIHEKNDNETNECTSSFETLFEQEPSSEVPKDSKLYMLAQKTVQHIEQYGKAPDFNKVIRAHNFIQTIYGTPLKEEEKEVVRLMVIKLLKKK",
+                  "hseq": "MDFILNISMKMEVIFKTDLRASSQVVFHAGSLYTWFSVEIINSGRIVTTAIKTLLSTVKYDIVRNARIYAGQGYTEQQAQEEWNMILHVLFEEETESTSSTSLESNHETNGHKADGHEINECTSSFETLFEQEPSSETLKNTKLYALAQKAVQHIEQYGKAPDFNKVIRAHNYIQTIYGSPLKEEEKEEVRLMVIKLLKKK",
+                  "midline": "MDFILNISMKMEVIFKTDLR+SSQVVFHAGSLY WFSVEIINSGRIVTTAIKTLLSTVKYDIV++ARIYAGQGYTE QAQEEWNMILHVLFEEETES++S+        N H+ + +E NECTSSFETLFEQEPSSE  K++KLY LAQK VQHIEQYGKAPDFNKVIRAHN+IQTIYG+PLKEEEKE VRLMVIKLLKKK"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 41,
+            "eff_space": 604044,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+]
+}

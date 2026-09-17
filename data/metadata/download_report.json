@@ -1,0 +1,423 @@
+{
+  "timestamp": "2026-07-11T13:43:30.527848",
+  "total_genomes": 11,
+  "valid_genomes": 11,
+  "invalid_genomes": 0,
+  "successful_downloads": 11,
+  "failed_downloads": 0,
+  "all_verified": true,
+  "email_used": "your_email@example.com",
+  "output_dir": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes",
+  "downloads": [
+    {
+      "accession": "PV740684",
+      "success": true,
+      "genbank_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/PV740684.genbank",
+      "fasta_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/PV740684.fasta",
+      "metadata": {
+        "accession": "PV740684",
+        "accession_version": "PV740684.1",
+        "length": 172585,
+        "gc_content": 38.95,
+        "ambiguous": 0,
+        "cds_count": 126,
+        "assembly_status": "Complete",
+        "strain": "ASFV/TAN/17/Mbozi/1",
+        "country": "Tanzania",
+        "genotype": "II",
+        "year": 2017
+      }
+    },
+    {
+      "accession": "PV740683",
+      "success": true,
+      "genbank_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/PV740683.genbank",
+      "fasta_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/PV740683.fasta",
+      "metadata": {
+        "accession": "PV740683",
+        "accession_version": "PV740683.1",
+        "length": 167022,
+        "gc_content": 39.17,
+        "ambiguous": 0,
+        "cds_count": 128,
+        "assembly_status": "Complete",
+        "strain": "ASFV/TAN/17/Mbozi/2",
+        "country": "Tanzania",
+        "genotype": "II",
+        "year": 2017
+      }
+    },
+    {
+      "accession": "PQ375363",
+      "success": true,
+      "genbank_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/PQ375363.genbank",
+      "fasta_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/PQ375363.fasta",
+      "metadata": {
+        "accession": "PQ375363",
+        "accession_version": "PQ375363.1",
+        "length": 183853,
+        "gc_content": 38.54,
+        "ambiguous": 0,
+        "cds_count": 183,
+        "assembly_status": "Complete",
+        "strain": "ASFV/RWA/Rwamagana/2021",
+        "country": "Rwanda",
+        "genotype": "II",
+        "year": 2021
+      }
+    },
+    {
+      "accession": "PQ375362",
+      "success": true,
+      "genbank_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/PQ375362.genbank",
+      "fasta_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/PQ375362.fasta",
+      "metadata": {
+        "accession": "PQ375362",
+        "accession_version": "PQ375362.1",
+        "length": 184517,
+        "gc_content": 38.51,
+        "ambiguous": 0,
+        "cds_count": 160,
+        "assembly_status": "Complete",
+        "strain": "ASFV/RWA/Musanze/2023",
+        "country": "Rwanda",
+        "genotype": "IX",
+        "year": 2023
+      }
+    },
+    {
+      "accession": "ON409979",
+      "success": true,
+      "genbank_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/ON409979.genbank",
+      "fasta_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/ON409979.fasta",
+      "metadata": {
+        "accession": "ON409979",
+        "accession_version": "ON409979.1",
+        "length": 184521,
+        "gc_content": 38.5,
+        "ambiguous": 0,
+        "cds_count": 179,
+        "assembly_status": "Complete",
+        "strain": "TAN/17/Kibaha",
+        "country": "Tanzania",
+        "genotype": "II",
+        "year": 2017
+      }
+    },
+    {
+      "accession": "ON409982",
+      "success": true,
+      "genbank_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/ON409982.genbank",
+      "fasta_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/ON409982.fasta",
+      "metadata": {
+        "accession": "ON409982",
+        "accession_version": "ON409982.1",
+        "length": 171004,
+        "gc_content": 38.88,
+        "ambiguous": 0,
+        "cds_count": 157,
+        "assembly_status": "Complete",
+        "strain": "TAN/17/Mbagala",
+        "country": "Tanzania",
+        "genotype": "II",
+        "year": 2017
+      }
+    },
+    {
+      "accession": "ON409983",
+      "success": true,
+      "genbank_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/ON409983.genbank",
+      "fasta_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/ON409983.fasta",
+      "metadata": {
+        "accession": "ON409983",
+        "accession_version": "ON409983.1",
+        "length": 183389,
+        "gc_content": 38.54,
+        "ambiguous": 0,
+        "cds_count": 179,
+        "assembly_status": "Complete",
+        "strain": "TAN/20/Morogoro",
+        "country": "Tanzania",
+        "genotype": "II",
+        "year": 2020
+      }
+    },
+    {
+      "accession": "ON409980",
+      "success": true,
+      "genbank_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/ON409980.genbank",
+      "fasta_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/ON409980.fasta",
+      "metadata": {
+        "accession": "ON409980",
+        "accession_version": "ON409980.1",
+        "length": 182514,
+        "gc_content": 38.61,
+        "ambiguous": 0,
+        "cds_count": 156,
+        "assembly_status": "Complete",
+        "strain": "TAN/16/Magu",
+        "country": "Tanzania",
+        "genotype": "IX",
+        "year": 2016
+      }
+    },
+    {
+      "accession": "ON409981",
+      "success": true,
+      "genbank_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/ON409981.genbank",
+      "fasta_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/ON409981.fasta",
+      "metadata": {
+        "accession": "ON409981",
+        "accession_version": "ON409981.1",
+        "length": 178830,
+        "gc_content": 38.15,
+        "ambiguous": 0,
+        "cds_count": 147,
+        "assembly_status": "Complete",
+        "strain": "TAN/08/Mazimbu",
+        "country": "Tanzania",
+        "genotype": "XV",
+        "year": 2008
+      }
+    },
+    {
+      "accession": "MW856068",
+      "success": true,
+      "genbank_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/MW856068.genbank",
+      "fasta_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/MW856068.fasta",
+      "metadata": {
+        "accession": "MW856068",
+        "accession_version": "MW856068.1",
+        "length": 183325,
+        "gc_content": 38.55,
+        "ambiguous": 0,
+        "cds_count": 182,
+        "assembly_status": "Complete",
+        "strain": "MAL/19/Karonga",
+        "country": "Malawi",
+        "genotype": "II",
+        "year": 2019
+      }
+    },
+    {
+      "accession": "MW856067",
+      "success": true,
+      "genbank_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/MW856067.genbank",
+      "fasta_file": "/home/abubakar/asfv_vaccine_platform/data/raw/genomes/MW856067.fasta",
+      "metadata": {
+        "accession": "MW856067",
+        "accession_version": "MW856067.1",
+        "length": 176564,
+        "gc_content": 38.67,
+        "ambiguous": 11,
+        "cds_count": 144,
+        "assembly_status": "Complete",
+        "strain": "BUR/18/Rutana",
+        "country": "Burundi",
+        "genotype": "X",
+        "year": 2018
+      }
+    }
+  ],
+  "verification": {
+    "all_valid": true,
+    "PV740684": {
+      "genbank": {
+        "exists": true,
+        "size_bytes": 302753,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "genbank"
+      },
+      "fasta": {
+        "exists": true,
+        "size_bytes": 175545,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "fasta"
+      }
+    },
+    "PV740683": {
+      "genbank": {
+        "exists": true,
+        "size_bytes": 296007,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "genbank"
+      },
+      "fasta": {
+        "exists": true,
+        "size_bytes": 169889,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "fasta"
+      }
+    },
+    "PQ375363": {
+      "genbank": {
+        "exists": true,
+        "size_bytes": 353945,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "genbank"
+      },
+      "fasta": {
+        "exists": true,
+        "size_bytes": 187004,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "fasta"
+      }
+    },
+    "PQ375362": {
+      "genbank": {
+        "exists": true,
+        "size_bytes": 361355,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "genbank"
+      },
+      "fasta": {
+        "exists": true,
+        "size_bytes": 187677,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "fasta"
+      }
+    },
+    "ON409979": {
+      "genbank": {
+        "exists": true,
+        "size_bytes": 366930,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "genbank"
+      },
+      "fasta": {
+        "exists": true,
+        "size_bytes": 187673,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "fasta"
+      }
+    },
+    "ON409982": {
+      "genbank": {
+        "exists": true,
+        "size_bytes": 338344,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "genbank"
+      },
+      "fasta": {
+        "exists": true,
+        "size_bytes": 173932,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "fasta"
+      }
+    },
+    "ON409983": {
+      "genbank": {
+        "exists": true,
+        "size_bytes": 365596,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "genbank"
+      },
+      "fasta": {
+        "exists": true,
+        "size_bytes": 186524,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "fasta"
+      }
+    },
+    "ON409980": {
+      "genbank": {
+        "exists": true,
+        "size_bytes": 374090,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "genbank"
+      },
+      "fasta": {
+        "exists": true,
+        "size_bytes": 185630,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "fasta"
+      }
+    },
+    "ON409981": {
+      "genbank": {
+        "exists": true,
+        "size_bytes": 357436,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "genbank"
+      },
+      "fasta": {
+        "exists": true,
+        "size_bytes": 181888,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "fasta"
+      }
+    },
+    "MW856068": {
+      "genbank": {
+        "exists": true,
+        "size_bytes": 368132,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "genbank"
+      },
+      "fasta": {
+        "exists": true,
+        "size_bytes": 186458,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "fasta"
+      }
+    },
+    "MW856067": {
+      "genbank": {
+        "exists": true,
+        "size_bytes": 355245,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "genbank"
+      },
+      "fasta": {
+        "exists": true,
+        "size_bytes": 179583,
+        "is_valid": true,
+        "can_parse": true,
+        "record_count": 1,
+        "format": "fasta"
+      }
+    }
+  }
+}

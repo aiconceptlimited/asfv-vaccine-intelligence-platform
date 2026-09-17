@@ -1,0 +1,4 @@
+Protein,Peptide,nM,Reason_for_Exclusion,Notes
+p72,KRVRFSLIRVHKTQV,30.48,"Substantial sequence overlap with CTL candidate region (positions 423-437)","Excluded due to redundancy between HTL and CTL candidate sets"
+cd2v,FIAIITFLSLRKRKK,25.45,"Not conserved across ASFV isolates","Variable region in CD2v"
+pcp312r,KNIIKLVQRKISSNA,123.90,"Not found in alignment","Could not verify conservation"

@@ -1,0 +1,39 @@
+ML TRAINING DATASET PLAN
+========================
+
+Sources:
+1. IEDB epitope dataset (positive)
+2. Random peptides from ASFV proteins (negative)
+3. Published ASFV epitopes from literature (positive)
+4. NetMHCpan training set (for CTL)
+
+Expected Size:
+- CTL: 500-1000 positive + 500-1000 negative
+- HTL: 500-1000 positive + 500-1000 negative
+- B-cell: 300-500 positive + 300-500 negative
+
+Features:
+- Sequence length
+- Amino acid composition
+- Hydrophobicity
+- Charge
+- Molecular weight
+- MHC binding score (for CTL/HTL)
+- SLA allele count (for CTL/HTL)
+- Conservation score
+- Disorder score (for B-cell)
+- Accessibility score (for B-cell)
+- Toxicity flag
+- Allergenicity flag
+- Antigenicity score
+
+Target:
+- Epitope vs non-epitope classification
+- Or continuous immunogenicity score
+
+Validation:
+- 5-fold cross-validation
+- Held-out test set (20%)
+- ROC-AUC, PR-AUC, F1-score
+- Calibration
+

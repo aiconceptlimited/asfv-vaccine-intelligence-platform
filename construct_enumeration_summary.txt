@@ -1,0 +1,9 @@
+ASFV construct architecture enumeration
+=====================================
+CTL permutations: 6
+HTL permutations: 6
+B-cell permutations: 720
+Complete architectures: 25,920
+Sequence length: 203 aa
+Linkers: AAY / GPGPG / GGS / EAAAK
+Status: Enumeration complete - ready for junction extraction

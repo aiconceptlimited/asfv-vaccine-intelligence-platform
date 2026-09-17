@@ -1,0 +1,56 @@
+[
+  {
+    "antigen": "p72",
+    "gene": "B646L",
+    "conservation": 99.1,
+    "sequences": 9,
+    "role": "Primary",
+    "weight_percent": 17.2,
+    "weight_fraction": 0.172
+  },
+  {
+    "antigen": "pp220",
+    "gene": "CP2475L",
+    "conservation": 97.9,
+    "sequences": 8,
+    "role": "Secondary",
+    "weight_percent": 17.0,
+    "weight_fraction": 0.17
+  },
+  {
+    "antigen": "pCP312R",
+    "gene": "CP312R",
+    "conservation": 96.4,
+    "sequences": 9,
+    "role": "Secondary",
+    "weight_percent": 16.8,
+    "weight_fraction": 0.168
+  },
+  {
+    "antigen": "p30",
+    "gene": "CP204L",
+    "conservation": 95.7,
+    "sequences": 9,
+    "role": "Primary",
+    "weight_percent": 16.6,
+    "weight_fraction": 0.166
+  },
+  {
+    "antigen": "p54",
+    "gene": "E183L",
+    "conservation": 94.3,
+    "sequences": 8,
+    "role": "Tertiary",
+    "weight_percent": 16.4,
+    "weight_fraction": 0.164
+  },
+  {
+    "antigen": "CD2v_159",
+    "gene": "EP402R",
+    "conservation": 91.4,
+    "sequences": 7,
+    "role": "Auxiliary",
+    "weight_percent": 15.9,
+    "weight_fraction": 0.159
+  }
+]

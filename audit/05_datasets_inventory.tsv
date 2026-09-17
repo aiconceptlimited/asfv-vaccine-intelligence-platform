@@ -1,0 +1,5 @@
+name	path	type	record_count	columns	size_kb
+mapped_epitopes	data/processed/epitopes/mapped_epitopes.json	json	6	N/A	31.4
+conservation_summary	data/processed/conservation/conservation_summary.csv	csv	6	8	0.3
+final_candidate_ranking	final_candidate_ranking.tsv	tsv	25920	23	11997.7
+construct_orders_all	construct_orders_all.tsv	tsv	25920	unknown	15339.5

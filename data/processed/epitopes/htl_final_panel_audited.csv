@@ -1,0 +1,5 @@
+Rank,Protein,Peptide,nM,1-log50k,Conservation_Fraction,Conservation_Percent,Position,Notes
+1,p54,IVLIYLFSSRKKKAA,18.29,0.731,4/4,100,46,"Strong binder; hydrophobic (53%); basic (27%)"
+2,pp220,RFIINIRSFKTVMTY,23.00,0.710,3/3,100,1898,"Strong binder; hydrophobic (47%); basic (20%)"
+3,p72,KRVRFSLIRVHKTQV,30.48,0.684,11/11,100,429,"Strong binder; basic (40%); check CTL overlap"
+4,p30,KEEVRLMVIKLLKKK,90.95,0.583,4/4,100,179,"Good binder; basic (40%); charged (53%)"

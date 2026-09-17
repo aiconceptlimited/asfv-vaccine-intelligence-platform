@@ -1,0 +1,37 @@
+{
+  "Pig proteome": {
+    "status": "PASS",
+    "size": 49275930,
+    "path": "data/raw/reference/sus_scrofa_proteome.fasta"
+  },
+  "BLAST database": {
+    "status": "PASS",
+    "size": 7448177,
+    "path": "data/raw/reference/sus_scrofa_proteome.phr"
+  },
+  "ASFV proteins": {
+    "status": "PASS",
+    "size": 34635,
+    "path": "data/processed/proteins/ASFV_proteins.fasta"
+  },
+  "BLAST results": {
+    "status": "PASS",
+    "size": 62043,
+    "path": "data/processed/blast/asfv_vs_pig_blast.json"
+  },
+  "Clustal alignments": {
+    "status": "PASS",
+    "size": 7608,
+    "path": "data/processed/alignments/B646L_p72_sequences_clustal.fasta"
+  },
+  "ENA confirmation": {
+    "status": "PASS",
+    "size": 915,
+    "path": "data/metadata/ena_confirmation.json"
+  },
+  "Protein extraction metadata": {
+    "status": "PASS",
+    "size": 462,
+    "path": "data/processed/proteins/protein_metadata.json"
+  }
+}

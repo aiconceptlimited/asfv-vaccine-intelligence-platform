@@ -1,0 +1,24 @@
+B-CELL DISORDER/FLEXIBILITY ANALYSIS — SUMMARY
+================================================
+
+Date: 2026-08-22
+Tool: IUPred2A (long disorder)
+
+Results:
+
+1. pcp312r 111-125: FTVKKNEQGEEIYPG
+   - Average IUPred Score: 0.57
+   - Status: DISORDERED
+   - Interpretation: Favorable for B-cell epitope
+
+2. p30 121-135: LFEQEPSSETLKNTK
+   - Average IUPred Score: 0.82
+   - Status: HIGHLY DISORDERED
+   - Interpretation: Very favorable for B-cell epitope
+
+3. pcp312r 62-76: NFQNEKHVGTISPST (Exploratory)
+   - Average IUPred Score: 0.80
+   - Status: HIGHLY DISORDERED
+   - Interpretation: Very favorable for B-cell epitope
+
+Conclusion: All B-cell candidates pass the disorder/flexibility QC filter.

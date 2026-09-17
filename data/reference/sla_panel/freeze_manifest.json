@@ -1,0 +1,43 @@
+{
+  "panel_version": "1.0",
+  "freeze_date": "2026-08-15",
+  "status": "FROZEN_FOR_MODULE_2",
+  "scope": "Prediction panel for CTL and HTL epitope discovery",
+  "evidence_audit": {
+    "prisma_complete": true,
+    "primary_sources_verified": true,
+    "pdb_set_verified": true,
+    "paper_12_corrected": true,
+    "paper_15_unresolved": true
+  },
+  "tier_summary": {
+    "Tier 1": 1,
+    "Tier 2": 3,
+    "Tier 3": 2,
+    "Tier 4": 8,
+    "Tier 5": 1,
+    "Total": 15
+  },
+  "allele_count": {
+    "total_records": 15,
+    "unique_alleles": 15
+  },
+  "allele_list": [
+    "SLA-1*01:01",
+    "SLA-1*04:01", "SLA-2*04:01", "SLA-3*04:01",
+    "SLA-1*12:01", "SLA-3*03:01",
+    "SLA-1*07:07", "SLA-1*14:04", "SLA-1*14:05",
+    "SLA-2*06:07", "SLA-2*05:04", "SLA-2*04:02:02",
+    "SLA-DQB1*07:01:02", "SLA-DQB1*07:01:01",
+    "SLA-DRB1*02:01"
+  ],
+  "references": [
+    "PMID:34851145", "PMID:34835070", "PMID:26572135",
+    "PMID:21739336", "PMID:22984928", "PMID:41680174",
+    "PMID:34564574", "PMID:26370412", "PMID:30241566",
+    "PMID:33430316"
+  ],
+  "notes": {
+    "future_updates": "This panel is frozen for Module 2 prediction. Any future evidence updates should be assigned to SLA Panel v1.1+."
+  }
+}

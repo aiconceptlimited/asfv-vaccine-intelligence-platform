@@ -1,0 +1,164 @@
+{
+  "p72": {
+    "gene": "B646L",
+    "protein": {
+      "present": true,
+      "metrics": {
+        "sequence_count": 9,
+        "min_length": 385,
+        "max_length": 646,
+        "avg_length": 617.0,
+        "complexity": "20/20"
+      }
+    },
+    "alignment": {
+      "present": false,
+      "metrics": null
+    },
+    "conservation": {
+      "present": true,
+      "metrics": {
+        "positions": 646,
+        "mean_conservation": 99.1,
+        "highly_conserved": 632,
+        "variable": 14,
+        "highly_variable": 0
+      }
+    }
+  },
+  "p30": {
+    "gene": "CP204L",
+    "protein": {
+      "present": true,
+      "metrics": {
+        "sequence_count": 9,
+        "min_length": 190,
+        "max_length": 201,
+        "avg_length": 194.22222222222223,
+        "complexity": "20/20"
+      }
+    },
+    "alignment": {
+      "present": false,
+      "metrics": null
+    },
+    "conservation": {
+      "present": true,
+      "metrics": {
+        "positions": 202,
+        "mean_conservation": 95.7,
+        "highly_conserved": 176,
+        "variable": 26,
+        "highly_variable": 0
+      }
+    }
+  },
+  "p54": {
+    "gene": "E183L",
+    "protein": {
+      "present": true,
+      "metrics": {
+        "sequence_count": 8,
+        "min_length": 117,
+        "max_length": 186,
+        "avg_length": 176.125,
+        "complexity": "20/20"
+      }
+    },
+    "alignment": {
+      "present": false,
+      "metrics": null
+    },
+    "conservation": {
+      "present": true,
+      "metrics": {
+        "positions": 193,
+        "mean_conservation": 94.3,
+        "highly_conserved": 162,
+        "variable": 31,
+        "highly_variable": 0
+      }
+    }
+  },
+  "CD2v": {
+    "gene": "EP402R",
+    "protein": {
+      "present": true,
+      "metrics": {
+        "sequence_count": 7,
+        "min_length": 159,
+        "max_length": 385,
+        "avg_length": 317.7142857142857,
+        "complexity": "20/20"
+      }
+    },
+    "alignment": {
+      "present": false,
+      "metrics": null
+    },
+    "conservation": {
+      "present": true,
+      "metrics": {
+        "positions": 389,
+        "mean_conservation": 91.4,
+        "highly_conserved": 256,
+        "variable": 133,
+        "highly_variable": 0
+      }
+    }
+  },
+  "pp220": {
+    "gene": "CP2475L",
+    "protein": {
+      "present": true,
+      "metrics": {
+        "sequence_count": 8,
+        "min_length": 1323,
+        "max_length": 2477,
+        "avg_length": 2268.125,
+        "complexity": "20/20"
+      }
+    },
+    "alignment": {
+      "present": false,
+      "metrics": null
+    },
+    "conservation": {
+      "present": true,
+      "metrics": {
+        "positions": 2480,
+        "mean_conservation": 97.9,
+        "highly_conserved": 2283,
+        "variable": 197,
+        "highly_variable": 0
+      }
+    }
+  },
+  "pCP312R": {
+    "gene": "CP312R",
+    "protein": {
+      "present": true,
+      "metrics": {
+        "sequence_count": 9,
+        "min_length": 300,
+        "max_length": 307,
+        "avg_length": 306.1111111111111,
+        "complexity": "21/20"
+      }
+    },
+    "alignment": {
+      "present": false,
+      "metrics": null
+    },
+    "conservation": {
+      "present": true,
+      "metrics": {
+        "positions": 307,
+        "mean_conservation": 96.4,
+        "highly_conserved": 276,
+        "variable": 31,
+        "highly_variable": 0
+      }
+    }
+  }
+}

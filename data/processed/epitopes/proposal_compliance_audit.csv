@@ -1,0 +1,18 @@
+Requirement,Result,Evidence File,Status
+SLA-I Prediction (NetMHCpan),Completed,ctl_final_candidates_filtered.csv,✅
+SLA-II Prediction (NetMHCIIpan),Completed,htl_final_panel.csv,✅
+Conservation Filtering,Completed,core_panel_11_epitopes.csv,✅
+Host Similarity (Exact k-mer),Completed,pig_proteome_similarity_results.csv,✅
+Host Similarity (Local),Completed,pig_proteome_local_similarity.csv,✅
+Toxicity (ToxinPred2),Completed,toxinpred2_results.csv,✅
+Allergenicity (AlgPred2),Completed,algpred2_results.csv,✅
+PigMatrix,Unavailable,pigmatrix_mixmhc_note.txt,⚠️
+MixMHCpred,Unavailable,pigmatrix_mixmhc_note.txt,⚠️
+VaxiJen,Unavailable (Offline),vaxijen_status.txt,⚠️
+AllerTOP,Invalid (Concatenated),allerTOP_results.csv,⚠️
+IUPred2A (Disorder),Completed,iupred_results_summary.txt,✅
+IEDB Experimental Evidence,Completed,iedb_evidence_summary.txt,✅
+Coordinate Verification,Completed,core_panel_11_epitopes.csv,✅
+SLA Population Metadata,Completed,sla_metadata.json,✅
+Panel-Level QC,Completed,core_panel_11_epitopes.csv,✅
+Stability/Sensitivity Framework,Documented,stability_framework.txt,✅

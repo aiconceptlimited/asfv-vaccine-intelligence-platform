@@ -1,0 +1,85 @@
+{
+  "panel_version": "1.0",
+  "status": "FROZEN_FOR_MODULE_2",
+  "freeze_date": "2026-08-15",
+  "evidence_framework": {
+    "evidence_modalities": {
+      "A": "Direct ASFV + allele-specific experimental evidence",
+      "B1": "Direct experimental peptide binding to defined SLA",
+      "B2": "Experimental haplotype/cell-panel evidence",
+      "B3": "ASFV T-cell evidence with inferred/computational SLA restriction",
+      "C1": "Natural immunopeptidomic presentation",
+      "C2": "Computational prediction",
+      "D": "Population genetics"
+    },
+    "asfv_specificity": {
+      "ASFV-direct": "Direct experimental evidence of ASFV peptide presentation",
+      "ASFV-inferred": "ASFV T-cell response with computational SLA assignment",
+      "non-ASFV": "Experimental binding evidence only",
+      "population-only": "Population frequency data only"
+    }
+  },
+  "tiers": {
+    "Tier 1": {
+      "description": "Direct ASFV allele-specific evidence",
+      "alleles": ["SLA-1*01:01"],
+      "pdb_asfv": ["7EM9", "7EMA", "7EMB", "7EMD"],
+      "pdb_non_asfv": ["7EMC (FMDV)"]
+    },
+    "Tier 2": {
+      "description": "Experimentally characterized SLA-I with strong binding evidence",
+      "alleles": ["SLA-1*04:01", "SLA-2*04:01", "SLA-3*04:01"],
+      "notes": "SLA-1*04:01 has B1 (experimental binding) + B3 (ASFV-inferred) evidence dimensions"
+    },
+    "Tier 3": {
+      "description": "ASFV-associated with inferred/computational SLA restriction",
+      "alleles": ["SLA-1*12:01", "SLA-3*03:01"],
+      "notes": "GalaxyPepDock predicted; no crystal structures"
+    },
+    "Tier 4": {
+      "description": "African population-relevant alleles (Kenya)",
+      "alleles": [
+        "SLA-1*07:07", "SLA-1*14:04", "SLA-1*14:05",
+        "SLA-2*06:07", "SLA-2*05:04", "SLA-2*04:02:02",
+        "SLA-DQB1*07:01:02", "SLA-DQB1*07:01:01"
+      ],
+      "frequencies": "From Machuka et al. 2021"
+    },
+    "Tier 5": {
+      "description": "Computational/contextual SLA-II evidence",
+      "alleles": ["SLA-DRB1*02:01"],
+      "notes": "PigMatrix (AUC 0.73) + haplotype evidence"
+    }
+  },
+  "allele_summary": {
+    "total_records": 15,
+    "unique_alleles": 15,
+    "tier_counts": {
+      "Tier 1": 1,
+      "Tier 2": 3,
+      "Tier 3": 2,
+      "Tier 4": 8,
+      "Tier 5": 1
+    }
+  },
+  "references": {
+    "primary_papers": [
+      {"pmid": "34851145", "doi": "10.1128/JVI.01378-21"},
+      {"pmid": "34835070", "doi": "10.3390/v13112264"},
+      {"pmid": "26572135", "doi": "10.1007/s00251-015-0883-9"},
+      {"pmid": "21739336", "doi": "10.1007/s00251-011-0555-3"},
+      {"pmid": "22984928", "doi": "10.1111/j.1365-2052.2012.02400.x"},
+      {"pmid": "41680174", "doi": "10.1038/s41541-026-01399-8"},
+      {"pmid": "34564574", "doi": "10.3390/vetsci8090180"},
+      {"pmid": "26370412", "doi": "10.1186/s12859-015-0724-8"},
+      {"pmid": "30241566", "doi": "10.1186/s13567-018-0590-2"},
+      {"pmid": "33430316", "doi": "10.3390/vaccines9010029"}
+    ]
+  },
+  "notes": {
+    "paper_12": "GalaxyPepDock predictions; NOT crystal structures",
+    "paper_15": "C1 natural presentation; unresolved allele restriction; no allele promotion",
+    "sla_1_04_01": "B1 (experimental binding) + B3 (ASFV-inferred) combined in Tier 2",
+    "future_updates": "This panel is frozen for Module 2 prediction. Any future evidence updates should be assigned to SLA Panel v1.1+."
+  }
+}

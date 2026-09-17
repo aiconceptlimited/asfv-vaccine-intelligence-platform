@@ -1,0 +1,110 @@
+{
+  "B646L": {
+    "name": "p72",
+    "expected_full_length": 646,
+    "sequences_found": 9,
+    "min_length": 385,
+    "max_length": 646,
+    "all_same_length": false,
+    "status": "PASS",
+    "data_source": "GenBank (fragmented)",
+    "note": "All sequences are 646 aa fragments (expected: 646 aa)",
+    "lengths": [
+      646,
+      385,
+      646,
+      646,
+      646
+    ]
+  },
+  "CP204L": {
+    "name": "p30",
+    "expected_full_length": 194,
+    "sequences_found": 9,
+    "min_length": 190,
+    "max_length": 201,
+    "all_same_length": false,
+    "status": "PASS",
+    "data_source": "GenBank (fragmented)",
+    "note": "All sequences are 201 aa fragments (expected: 194 aa)",
+    "lengths": [
+      193,
+      194,
+      194,
+      194,
+      190
+    ]
+  },
+  "E183L": {
+    "name": "p54",
+    "expected_full_length": 183,
+    "sequences_found": 8,
+    "min_length": 117,
+    "max_length": 186,
+    "all_same_length": false,
+    "status": "PASS",
+    "data_source": "GenBank (fragmented)",
+    "note": "All sequences are 186 aa fragments (expected: 183 aa)",
+    "lengths": [
+      186,
+      185,
+      184,
+      117,
+      185
+    ]
+  },
+  "EP402R": {
+    "name": "CD2v",
+    "expected_full_length": 402,
+    "sequences_found": 7,
+    "min_length": 159,
+    "max_length": 385,
+    "all_same_length": false,
+    "status": "PASS",
+    "data_source": "GenBank (fragmented)",
+    "note": "All sequences are 385 aa fragments (expected: 402 aa)",
+    "lengths": [
+      240,
+      360,
+      159,
+      385,
+      360
+    ]
+  },
+  "CP2475L": {
+    "name": "pp220",
+    "expected_full_length": 2475,
+    "sequences_found": 8,
+    "min_length": 1323,
+    "max_length": 2477,
+    "all_same_length": false,
+    "status": "PASS",
+    "data_source": "GenBank (fragmented)",
+    "note": "All sequences are 2477 aa fragments (expected: 2475 aa)",
+    "lengths": [
+      2125,
+      1323,
+      2476,
+      2316,
+      2477
+    ]
+  },
+  "CP312R": {
+    "name": "pCP312R",
+    "expected_full_length": 312,
+    "sequences_found": 9,
+    "min_length": 300,
+    "max_length": 307,
+    "all_same_length": false,
+    "status": "PASS",
+    "data_source": "GenBank (fragmented)",
+    "note": "All sequences are 307 aa fragments (expected: 312 aa)",
+    "lengths": [
+      300,
+      307,
+      307,
+      307,
+      307
+    ]
+  }
+}

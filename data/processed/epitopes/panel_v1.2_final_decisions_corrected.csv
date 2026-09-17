@@ -1,0 +1,16 @@
+type,protein,sequence,start,end,conservation,alleles,rank,source,nM,iedb_support,evidence_tier,evidence_support,safety_status,final_decision,decision_reason
+CTL,pp220,SQWDLVQKF,1091,1099,10/10,6.0,1.0,ctl_final_candidates_filtered.csv,,,Tier 2,Published pp220 predicted SLA-I peptide (2022),Double Flag (Toxin + Allergen),KEEP,Good computational support (safety flag noted)
+CTL,pp220,RVFSRLVFY,1462,1470,10/10,5.0,2.0,ctl_final_candidates_filtered.csv,,,Tier 1,"Published pp220/p150 T-cell peptide; pig IFN-γ ELISpot evidence (2022, 2025)",Toxin Only,KEEP,Strong experimental evidence
+CTL,pp220,HIDKNIIQY,1362,1370,10/10,4.0,3.0,ctl_final_candidates_filtered.csv,,,Tier 1,"Published pp220/p150 T-cell peptide; pig IFN-γ ELISpot evidence (2022, 2025)",Clear,KEEP,Strong experimental evidence
+CTL,pp220,RSIPLANIY,2008,2016,9/10,5.0,4.0,ctl_final_candidates_filtered.csv,,,Tier 3,No literature match found,Allergen Only,REVIEW,"No literature support, safety flag"
+CTL,pp220,SAMEVLHEL,1771,1779,9/10,5.0,5.0,ctl_final_candidates_filtered.csv,,,Tier 2,Published pp220 predicted SLA-I peptide (2022),Allergen Only,KEEP,Good computational support (safety flag noted)
+CTL,pp220,DRKHILMEF,385,393,10/10,3.0,6.0,ctl_final_candidates_filtered.csv,,,Tier 2-3,7/9 aa overlap with published RLDRKHILM (383-391) (2022),Toxin Only,KEEP,Promising regional/overlap evidence (verify coordinates)
+CTL,pp220,YTDIVQKKY,501,509,10/10,3.0,7.0,ctl_final_candidates_filtered.csv,,,Tier 2,Published pp220 computational candidate; SLA-1*0401 binding predicted (2022),Allergen Only,KEEP,Good computational support (safety flag noted)
+CTL,p30,KTLLSTVKY,44,52,10/11,4.0,8.0,ctl_final_candidates_filtered.csv,,,Tier 3,No literature match found,Double Flag (Toxin + Allergen),REVIEW,"No literature support, safety flag"
+HTL,p54,IVLIYLFSSRKKKAA,46,60,100%,,1.0,htl_final_panel.csv,18.29,,Tier 3,No direct p54 experimental/epitope evidence found,Clear,REVIEW,"No literature support, but safety clear"
+HTL,pp220,RFIINIRSFKTVMTY,1898,1912,100%,,2.0,htl_final_panel.csv,23.0,,Tier 2-3,Contains FIINIRSFK from published pp220 set (2022),Clear,KEEP,Promising regional/overlap evidence (verify coordinates)
+HTL,p72,KRVRFSLIRVHKTQV,429,443,100%,,3.0,htl_final_panel.csv,30.48,,Tier 3,No direct p72 experimental/epitope evidence found,Allergen Only,REVIEW,"No literature support, safety flag"
+HTL,p30,KEEVRLMVIKLLKKK,179,193,100%,,4.0,htl_final_panel.csv,90.95,,Tier 3,No direct p30 experimental/epitope evidence found,Toxin Only,REVIEW,"No literature support, safety flag"
+B-cell,pcp312r,NFQNEKHVGTISPST,62,76,95%,,,bcell_final_panel_provenance.csv,,2/3,Tier 2-3,Possible regional relationship to CP312R 72-83; needs reference mapping,Allergen Only,KEEP,Promising regional/overlap evidence (verify coordinates)
+B-cell,pcp312r,FTVKKNEQGEEIYPG,111,125,94%,,,bcell_final_panel_provenance.csv,,2/3,Tier 1,"Contains experimentally mapped CP312R epitope KNEQGEEIYP (122-131) (2023, 2024)",Allergen Only,KEEP,Strong experimental evidence
+B-cell,p30,LFEQEPSSETLKNTK,121,135,76%,,,bcell_final_panel_provenance.csv,,3/3,Tier 1,Overlaps experimentally characterized p30 epitope 117-125 SSFETLFEQ and 116-125 TSSFETLFEQ (2025),Allergen Only,KEEP,Strong experimental evidence

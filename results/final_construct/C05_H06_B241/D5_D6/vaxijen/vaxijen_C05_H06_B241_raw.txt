@@ -1,0 +1,14 @@
+============================================================
+VAXIJEN 2.0 - Antigenicity Prediction
+============================================================
+Date: 2026-08-27
+Sequence ID: C05_H06_B241
+Model selected: Virus
+Threshold for this model: 0.5
+
+Sequence:
+YTDIVQKKYAAYHIDKNIIQYAAYSAMEVLHELEAAAKKEEVRLMVIKLLKKKGPGPGRFIINIRSFKTVMTYGPGPGIVLIYLFSSRKKKAAEAAAKTNSSVADRPVMNNPVGGSLFEQEPSSETLKNTKGGSRMNVVKKRDRDPCLQGGSAASAPSDELYTTATTGGSNFQNEKHVGTISPSTGGSFTVKKNEQGEEIYPG
+
+Overall Prediction for the Protective Antigen = 0.4766
+Probable NON-ANTIGEN
+============================================================

@@ -1,0 +1,3 @@
+peptides,peptide_ids,panel_size,allele_breadth,unique_alleles,avg_conservation,evidence_score,avg_netmhcpan,avg_ml,allergen_count,protein_diversity,size_score,candidates
+"['HIDKNIIQY', 'RSIPLANIY', 'SAMEVLHEL']","['CTL_pp220_1362', 'CTL_pp220_2008', 'CTL_pp220_1771']",3,1.0,6,0.9333333333333332,9,0.7576666666666667,0.20666666666666667,2,1,1.0,"['HIDKNIIQY', 'RSIPLANIY', 'SAMEVLHEL']"
+"['HIDKNIIQY', 'SAMEVLHEL', 'YTDIVQKKY']","['CTL_pp220_1362', 'CTL_pp220_1771', 'CTL_pp220_501']",3,1.0,6,0.9666666666666667,10,0.7343333333333334,0.26666666666666666,2,1,1.0,"['HIDKNIIQY', 'SAMEVLHEL', 'YTDIVQKKY']"

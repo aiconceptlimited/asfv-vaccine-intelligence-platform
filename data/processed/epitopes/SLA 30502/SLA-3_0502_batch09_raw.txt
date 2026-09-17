@@ -1,0 +1,1320 @@
+# NetMHCpan version 4.1b
+
+# Tmpdir made /var/www/services/services/NetMHCpan-4.1/tmp/netMHCpanFx0Rwx
+# Input is in FSA format
+
+# Peptide length 9
+
+# Make both EL and BA predictions
+
+SLA-3:0502 : Distance to training data  0.261 (using nearest neighbor SLA-304:01)
+
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      NADKPLPNP NADKPLPNP  0  0  0  0  0    NADKPLPNP  pCP312R_pep181 0.0013130   40.658 0.021688   59.543 39542.02
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep181. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      ADKPLPNPI ADKPLPNPI  0  0  0  0  0    ADKPLPNPI  pCP312R_pep182 0.1310030    1.939 0.097009    7.827 17503.61 <= WB
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep182. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 1. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      DKPLPNPIA DKPLPNPIA  0  0  0  0  0    DKPLPNPIA  pCP312R_pep183 0.0030290   31.221 0.023574   55.811 38743.29
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep183. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      KPLPNPIAR KPLPNPIAR  0  0  0  0  0    KPLPNPIAR  pCP312R_pep184 0.0064670   23.569 0.018151   67.525 41084.60
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep184. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      PLPNPIARI PLPNPIARI  0  0  0  0  0    PLPNPIARI  pCP312R_pep185 0.0149030   15.761 0.041305   32.874 31980.04
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep185. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      LPNPIARIR LPNPIARIR  0  0  0  0  0    LPNPIARIR  pCP312R_pep186 0.0013160   40.631 0.017413   69.339 41413.96
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep186. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      PNPIARIRI PNPIARIRI  0  0  0  0  0    PNPIARIRI  pCP312R_pep187 0.0052940   25.563 0.042579   31.738 31542.24
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep187. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      NPIARIRIK NPIARIRIK  0  0  0  0  0    NPIARIRIK  pCP312R_pep188 0.0007700   47.350 0.021459   59.996 39640.11
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep188. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      PIARIRIKI PIARIRIKI  0  0  0  0  0    PIARIRIKI  pCP312R_pep189 0.0172730   14.457 0.051143   25.361 28750.85
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep189. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      IARIRIKIN IARIRIKIN  0  0  0  0  0    IARIRIKIN  pCP312R_pep190 0.0001320   70.870 0.013706   79.306 43108.79
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep190. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      ARIRIKINP ARIRIKINP  0  0  0  0  0    ARIRIKINP  pCP312R_pep191 0.0221400   12.423 0.053695   23.699 27967.83
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep191. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      RIRIKINPA RIRIKINPA  0  0  0  0  0    RIRIKINPA  pCP312R_pep192 0.0116090   17.986 0.076062   13.292 21956.18
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep192. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      IRIKINPAT IRIKINPAT  0  0  0  0  0    IRIKINPAT  pCP312R_pep193 0.0165910   14.796 0.057132   21.690 26946.88
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep193. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      RIKINPATS RIKINPATS  0  0  0  0  0    RIKINPATS  pCP312R_pep194 0.0022250   34.569 0.028442   47.567 36755.45
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep194. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      IKINPATSI IKINPATSI  0  0  0  0  0    IKINPATSI  pCP312R_pep195 0.2031750    0.818 0.124044    3.932 13064.45 <= WB
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep195. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 1. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      KINPATSIL KINPATSIL  0  0  0  0  0    KINPATSIL  pCP312R_pep196 0.1304730    1.953 0.099536    7.357 17031.52 <= WB
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep196. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 1. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      INPATSILT INPATSILT  0  0  0  0  0    INPATSILT  pCP312R_pep197 0.0009380   44.851 0.033664   40.682 34736.33
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep197. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      NPATSILTP NPATSILTP  0  0  0  0  0    NPATSILTP  pCP312R_pep198 0.0012150   41.606 0.024109   54.786 38519.66
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep198. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      PATSILTPI PATSILTPI  0  0  0  0  0    PATSILTPI  pCP312R_pep199 0.0021650   34.873 0.050924   25.506 28819.05
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep199. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      ATSILTPIL ATSILTPIL  0  0  0  0  0    ATSILTPIL  pCP312R_pep200 0.0815150    3.824 0.106956    6.091 15717.63
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep200. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      TSILTPILL TSILTPILL  0  0  0  0  0    TSILTPILL  pCP312R_pep201 0.1605830    1.333 0.138745    2.662 11143.24 <= WB
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep201. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 1. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      SILTPILLD SILTPILLD  0  0  0  0  0    SILTPILLD  pCP312R_pep202 0.0001370   70.326 0.020876   61.275 39890.95
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep202. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      ILTPILLDK ILTPILLDK  0  0  0  0  0    ILTPILLDK  pCP312R_pep203 0.0027080   32.412 0.024409   54.273 38394.84
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep203. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      LTPILLDKN LTPILLDKN  0  0  0  0  0    LTPILLDKN  pCP312R_pep204 0.0000390   84.583 0.007367   95.188 46169.23
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep204. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      TPILLDKNK TPILLDKNK  0  0  0  0  0    TPILLDKNK  pCP312R_pep205 0.0001310   70.978 0.009127   91.580 45298.35
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep205. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      PILLDKNKP PILLDKNKP  0  0  0  0  0    PILLDKNKP  pCP312R_pep206 0.0000340   85.882 0.004846   96.835 47445.92
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep206. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      ILLDKNKPI ILLDKNKPI  0  0  0  0  0    ILLDKNKPI  pCP312R_pep207 0.0928410    3.233 0.109340    5.736 15317.38
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep207. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      LLDKNKPIT LLDKNKPIT  0  0  0  0  0    LLDKNKPIT  pCP312R_pep208 0.0023530   33.929 0.025663   52.128 37877.41
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep208. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      LDKNKPITL LDKNKPITL  0  0  0  0  0    LDKNKPITL  pCP312R_pep209 0.3167610    0.263 0.134892    2.941 11617.60 <= SB
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep209. Allele SLA-3:0502. Number of high binders 1. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      DKNKPITLQ DKNKPITLQ  0  0  0  0  0    DKNKPITLQ  pCP312R_pep210 0.0006370   49.784 0.011833   84.570 43991.32
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep210. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      KNKPITLQN KNKPITLQN  0  0  0  0  0    KNKPITLQN  pCP312R_pep211 0.0031270   30.880 0.030022   45.301 36132.45
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep211. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      NKPITLQNG NKPITLQNG  0  0  0  0  0    NKPITLQNG  pCP312R_pep212 0.0011100   42.733 0.021304   60.336 39706.64
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep212. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      KPITLQNGK KPITLQNGK  0  0  0  0  0    KPITLQNGK  pCP312R_pep213 0.0006310   49.902 0.013394   80.177 43254.57
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep213. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      PITLQNGKT PITLQNGKT  0  0  0  0  0    PITLQNGKT  pCP312R_pep214 0.0000050   96.875 0.004615   96.986 47564.64
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep214. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      ITLQNGKTS ITLQNGKTS  0  0  0  0  0    ITLQNGKTS  pCP312R_pep215 0.0018100   36.945 0.017675   68.695 41296.74
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep215. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      TLQNGKTSF TLQNGKTSF  0  0  0  0  0    TLQNGKTSF  pCP312R_pep216 0.1393130    1.733 0.096841    7.859 17535.46 <= WB
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep216. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 1. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      LQNGKTSFE LQNGKTSFE  0  0  0  0  0    LQNGKTSFE  pCP312R_pep217 0.0013680   40.162 0.024963   53.325 38165.38
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep217. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      QNGKTSFEE QNGKTSFEE  0  0  0  0  0    QNGKTSFEE  pCP312R_pep218 0.0001550   68.828 0.020742   61.569 39948.82
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep218. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      NGKTSFEEL NGKTSFEEL  0  0  0  0  0    NGKTSFEEL  pCP312R_pep219 0.2555170    0.476 0.178325    0.941  7261.50 <= SB
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep219. Allele SLA-3:0502. Number of high binders 1. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      GKTSFEELK GKTSFEELK  0  0  0  0  0    GKTSFEELK  pCP312R_pep220 0.0008720   45.809 0.017095   70.129 41556.72
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep220. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      KTSFEELKD KTSFEELKD  0  0  0  0  0    KTSFEELKD  pCP312R_pep221 0.0000230   89.118 0.008696   92.581 45510.09
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep221. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      TSFEELKDE TSFEELKDE  0  0  0  0  0    TSFEELKDE  pCP312R_pep222 0.0001500   69.219 0.008448   93.158 45632.38
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep222. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      SFEELKDED SFEELKDED  0  0  0  0  0    SFEELKDED  pCP312R_pep223 0.0000540   81.458 0.010542   88.038 44610.14
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep223. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      FEELKDEDG FEELKDEDG  0  0  0  0  0    FEELKDEDG  pCP312R_pep224 0.0003490   57.923 0.011340   85.908 44226.60
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep224. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      EELKDEDGV EELKDEDGV  0  0  0  0  0    EELKDEDGV  pCP312R_pep225 0.0019480   36.109 0.015996   73.032 42053.81
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep225. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      ELKDEDGVK ELKDEDGVK  0  0  0  0  0    ELKDEDGVK  pCP312R_pep226 0.0000990   74.457 0.007615   95.026 46045.53
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep226. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      LKDEDGVKA LKDEDGVKA  0  0  0  0  0    LKDEDGVKA  pCP312R_pep227 0.0028320   31.925 0.020844   61.345 39904.77
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep227. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      KDEDGVKAN KDEDGVKAN  0  0  0  0  0    KDEDGVKAN  pCP312R_pep228 0.0000530   81.667 0.005530   96.388 47096.07
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep228. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      DEDGVKANP DEDGVKANP  0  0  0  0  0    DEDGVKANP  pCP312R_pep229 0.0049500   26.228 0.014096   78.219 42927.27
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep229. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      EDGVKANPD EDGVKANPD  0  0  0  0  0    EDGVKANPD  pCP312R_pep230 0.0000310   86.765 0.008406   93.255 45653.13
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep230. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      DGVKANPDN DGVKANPDN  0  0  0  0  0    DGVKANPDN  pCP312R_pep231 0.0000040   97.500 0.005905   96.143 46905.39
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep231. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      GVKANPDNI GVKANPDNI  0  0  0  0  0    GVKANPDNI  pCP312R_pep232 0.0278730   10.601 0.046841   28.346 30120.73
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep232. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      VKANPDNIH VKANPDNIH  0  0  0  0  0    VKANPDNIH  pCP312R_pep233 0.0014520   39.472 0.011919   84.328 43950.41
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep233. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      KANPDNIHK KANPDNIHK  0  0  0  0  0    KANPDNIHK  pCP312R_pep234 0.0014660   39.360 0.014895   75.992 42557.76
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep234. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      ANPDNIHKL ANPDNIHKL  0  0  0  0  0    ANPDNIHKL  pCP312R_pep235 0.2325290    0.598 0.084495   10.698 20041.51 <= WB
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep235. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 1. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      NPDNIHKLI NPDNIHKLI  0  0  0  0  0    NPDNIHKLI  pCP312R_pep236 0.0723130    4.416 0.068016   16.367 23953.28
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep236. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      PDNIHKLIE PDNIHKLIE  0  0  0  0  0    PDNIHKLIE  pCP312R_pep237 0.0002480   62.582 0.009449   90.832 45140.82
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep237. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      DNIHKLIES DNIHKLIES  0  0  0  0  0    DNIHKLIES  pCP312R_pep238 0.0014650   39.368 0.027465   49.082 37146.07
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep238. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      NIHKLIESH NIHKLIESH  0  0  0  0  0    NIHKLIESH  pCP312R_pep239 0.0039810   28.360 0.018864   65.772 40768.88
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep239. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      IHKLIESHS IHKLIESHS  0  0  0  0  0    IHKLIESHS  pCP312R_pep240 0.0076600   21.969 0.028630   47.284 36680.77
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep240. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      HKLIESHSI HKLIESHSI  0  0  0  0  0    HKLIESHSI  pCP312R_pep241 0.2253120    0.646 0.136445    2.829 11424.02 <= WB
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep241. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 1. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      KLIESHSIH KLIESHSIH  0  0  0  0  0    KLIESHSIH  pCP312R_pep242 0.0042570   27.694 0.027717   48.684 37044.92
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep242. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      LIESHSIHD LIESHSIHD  0  0  0  0  0    LIESHSIHD  pCP312R_pep243 0.0000120   93.333 0.009995   89.498 44874.94
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep243. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      IESHSIHDG IESHSIHDG  0  0  0  0  0    IESHSIHDG  pCP312R_pep244 0.0015030   39.064 0.024973   53.308 38161.26
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep244. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      ESHSIHDGI ESHSIHDGI  0  0  0  0  0    ESHSIHDGI  pCP312R_pep245 0.0200140   13.220 0.073215   14.307 22643.05
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep245. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      SHSIHDGII SHSIHDGII  0  0  0  0  0    SHSIHDGII  pCP312R_pep246 0.0603330    5.404 0.118366    4.556 13892.22
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep246. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      HSIHDGIIN HSIHDGIIN  0  0  0  0  0    HSIHDGIIN  pCP312R_pep247 0.0000790   77.273 0.013031   81.199 43424.79
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep247. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      SIHDGIINA SIHDGIINA  0  0  0  0  0    SIHDGIINA  pCP312R_pep248 0.0267720   10.907 0.047791   27.660 29812.71
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep248. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      IHDGIINAR IHDGIINAR  0  0  0  0  0    IHDGIINAR  pCP312R_pep249 0.0129990   16.973 0.029483   46.054 36343.79
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep249. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      HDGIINARS HDGIINARS  0  0  0  0  0    HDGIINARS  pCP312R_pep250 0.0003410   58.231 0.014177   77.993 42889.66
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep250. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      DGIINARSI DGIINARSI  0  0  0  0  0    DGIINARSI  pCP312R_pep251 0.0465990    6.994 0.098885    7.474 17151.90
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep251. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      GIINARSIC GIINARSIC  0  0  0  0  0    GIINARSIC  pCP312R_pep252 0.0008200   46.574 0.014105   78.194 42923.09
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep252. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      IINARSICI IINARSICI  0  0  0  0  0    IINARSICI  pCP312R_pep253 0.0355500    8.840 0.120473    4.319 13579.10
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep253. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      INARSICIS INARSICIS  0  0  0  0  0    INARSICIS  pCP312R_pep254 0.0001800   66.875 0.037018   36.975 33498.36
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep254. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      NARSICISN NARSICISN  0  0  0  0  0    NARSICISN  pCP312R_pep255 0.0000520   81.875 0.023674   55.613 38701.39
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep255. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      ARSICISNM ARSICISNM  0  0  0  0  0    ARSICISNM  pCP312R_pep256 0.0912530    3.307 0.131117    3.266 12101.95
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep256. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      RSICISNMG RSICISNMG  0  0  0  0  0    RSICISNMG  pCP312R_pep257 0.0002560   62.143 0.055813   22.453 27334.20
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep257. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      SICISNMGI SICISNMGI  0  0  0  0  0    SICISNMGI  pCP312R_pep258 0.0055290   25.119 0.073779   14.095 22505.30
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep258. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      ICISNMGIS ICISNMGIS  0  0  0  0  0    ICISNMGIS  pCP312R_pep259 0.0000120   93.333 0.011199   86.284 44294.14
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep259. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      CISNMGISF CISNMGISF  0  0  0  0  0    CISNMGISF  pCP312R_pep260 0.0093300   20.022 0.076807   13.032 21779.91
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep260. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      ISNMGISFP ISNMGISFP  0  0  0  0  0    ISNMGISFP  pCP312R_pep261 0.0004140   55.423 0.028227   47.890 36841.08
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep261. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      SNMGISFPL SNMGISFPL  0  0  0  0  0    SNMGISFPL  pCP312R_pep262 0.1930310    0.923 0.364099    0.010   972.93 <= WB
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep262. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 1. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      NMGISFPLC NMGISFPLC  0  0  0  0  0    NMGISFPLC  pCP312R_pep263 0.0103140   19.087 0.056990   21.771 26988.30
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep263. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      MGISFPLCL MGISFPLCL  0  0  0  0  0    MGISFPLCL  pCP312R_pep264 0.1596970    1.347 0.251922    0.133  3274.88 <= WB
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep264. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 1. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      GISFPLCLE GISFPLCLE  0  0  0  0  0    GISFPLCLE  pCP312R_pep265 0.0000100   94.167 0.009388   90.974 45170.64
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep265. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      ISFPLCLEM ISFPLCLEM  0  0  0  0  0    ISFPLCLEM  pCP312R_pep266 0.1088490    2.574 0.151254    1.918  9732.67
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep266. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      SFPLCLEMG SFPLCLEMG  0  0  0  0  0    SFPLCLEMG  pCP312R_pep267 0.0000960   74.783 0.023095   56.759 38944.60
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep267. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      FPLCLEMGV FPLCLEMGV  0  0  0  0  0    FPLCLEMGV  pCP312R_pep268 0.0068940   22.948 0.065413   17.497 24637.48
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep268. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      PLCLEMGVV PLCLEMGVV  0  0  0  0  0    PLCLEMGVV  pCP312R_pep269 0.0000840   76.515 0.020484   62.135 40060.51
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep269. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      LCLEMGVVK LCLEMGVVK  0  0  0  0  0    LCLEMGVVK  pCP312R_pep270 0.0001040   73.913 0.013313   80.405 43292.50
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep270. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      CLEMGVVKV CLEMGVVKV  0  0  0  0  0    CLEMGVVKV  pCP312R_pep271 0.0036260   29.315 0.035912   38.172 33901.64
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep271. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      LEMGVVKVF LEMGVVKVF  0  0  0  0  0    LEMGVVKVF  pCP312R_pep272 0.1485340    1.529 0.113769    5.107 14600.67 <= WB
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep272. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 1. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      EMGVVKVFE EMGVVKVFE  0  0  0  0  0    EMGVVKVFE  pCP312R_pep273 0.0002720   61.264 0.014211   77.899 42873.89
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep273. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      MGVVKVFEK MGVVKVFEK  0  0  0  0  0    MGVVKVFEK  pCP312R_pep274 0.0041260   27.987 0.054492   23.226 27727.69
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep274. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      GVVKVFEKN GVVKVFEKN  0  0  0  0  0    GVVKVFEKN  pCP312R_pep275 0.0001780   67.031 0.007814   94.631 45946.48
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep275. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      VVKVFEKNN VVKVFEKNN  0  0  0  0  0    VVKVFEKNN  pCP312R_pep276 0.0003380   58.346 0.007922   94.380 45892.82
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep276. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      VKVFEKNNG VKVFEKNNG  0  0  0  0  0    VKVFEKNNG  pCP312R_pep277 0.0003220   58.962 0.013711   79.292 43106.48
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep277. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      KVFEKNNGI KVFEKNNGI  0  0  0  0  0    KVFEKNNGI  pCP312R_pep278 0.1689210    1.218 0.113268    5.178 14680.03 <= WB
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep278. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 1. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      VFEKNNGID VFEKNNGID  0  0  0  0  0    VFEKNNGID  pCP312R_pep279 0.0000130   92.917 0.009832   89.933 44954.13
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep279. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      FEKNNGIDV FEKNNGIDV  0  0  0  0  0    FEKNNGIDV  pCP312R_pep280 0.0341230    9.119 0.072107   14.724 22916.13
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep280. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      EKNNGIDVN EKNNGIDVN  0  0  0  0  0    EKNNGIDVN  pCP312R_pep281 0.0000240   88.824 0.008163   93.820 45773.32
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep281. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      KNNGIDVNS KNNGIDVNS  0  0  0  0  0    KNNGIDVNS  pCP312R_pep282 0.0003740   56.962 0.016992   70.401 41603.05
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep282. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      NNGIDVNSI NNGIDVNSI  0  0  0  0  0    NNGIDVNSI  pCP312R_pep283 0.0125290   17.313 0.068055   16.351 23943.17
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep283. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      NGIDVNSIY NGIDVNSIY  0  0  0  0  0    NGIDVNSIY  pCP312R_pep284 0.0134620   16.673 0.041888   32.347 31778.95
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep284. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      GIDVNSIYG GIDVNSIYG  0  0  0  0  0    GIDVNSIYG  pCP312R_pep285 0.0001000   74.348 0.014408   77.350 42782.61
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep285. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      IDVNSIYGS IDVNSIYGS  0  0  0  0  0    IDVNSIYGS  pCP312R_pep286 0.0002570   62.088 0.016454   71.823 41845.93
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep286. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      DVNSIYGSD DVNSIYGSD  0  0  0  0  0    DVNSIYGSD  pCP312R_pep287 0.0000100   94.167 0.009346   91.071 45191.15
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep287. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      VNSIYGSDD VNSIYGSDD  0  0  0  0  0    VNSIYGSDD  pCP312R_pep288 0.0000050   96.875 0.010939   86.978 44418.92
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep288. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      NSIYGSDDI NSIYGSDDI  0  0  0  0  0    NSIYGSDDI  pCP312R_pep289 0.0014230   39.704 0.052631   24.372 28291.66
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep289. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      SIYGSDDIS SIYGSDDIS  0  0  0  0  0    SIYGSDDIS  pCP312R_pep290 0.0000890   75.758 0.012894   81.584 43489.22
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep290. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      IYGSDDIST IYGSDDIST  0  0  0  0  0    IYGSDDIST  pCP312R_pep291 0.0024200   33.629 0.020523   62.049 40043.59
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep291. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      YGSDDISTL YGSDDISTL  0  0  0  0  0    YGSDDISTL  pCP312R_pep292 0.1241030    2.130 0.103077    6.737 16391.33
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep292. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      GSDDISTLV GSDDISTLV  0  0  0  0  0    GSDDISTLV  pCP312R_pep293 0.0337070    9.205 0.052484   24.470 28336.71
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep293. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      SDDISTLVN SDDISTLVN  0  0  0  0  0    SDDISTLVN  pCP312R_pep294 0.0001390   70.109 0.015695   73.827 42191.00
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep294. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      DDISTLVNQ DDISTLVNQ  0  0  0  0  0    DDISTLVNQ  pCP312R_pep295 0.0004120   55.500 0.008012   94.171 45848.16
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep295. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      DISTLVNQI DISTLVNQI  0  0  0  0  0    DISTLVNQI  pCP312R_pep296 0.0264660   10.992 0.049368   26.557 29308.33
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep296. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      ISTLVNQIA ISTLVNQIA  0  0  0  0  0    ISTLVNQIA  pCP312R_pep297 0.0027630   32.192 0.043452   30.997 31245.70
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep297. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      STLVNQIAI STLVNQIAI  0  0  0  0  0    STLVNQIAI  pCP312R_pep298 0.0654100    4.935 0.114698    4.981 14454.65
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep298. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL Score_BA %Rank_BA  Aff(nM) BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0502      TLVNQIAIA TLVNQIAIA  0  0  0  0  0    TLVNQIAIA  pCP312R_pep299 0.0019600   36.036 0.034618   39.578 34379.61
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein pCP312R_pep299. Allele SLA-3:0502. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------

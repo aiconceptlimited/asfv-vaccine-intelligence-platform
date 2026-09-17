@@ -1,0 +1,14 @@
+=== SYSTEM ===
+Hostname: mail.aiconceptlimited.com.ng
+OS: Ubuntu 24.04.4 LTS
+Kernel: 6.8.0-86-generic
+CPU: 4 cores
+Memory: 7.8Gi
+Storage: 145G
+
+=== SOFTWARE ===
+Python: Python 3.12.3
+Conda: conda 26.3.2
+Docker: Docker version 29.6.2, build dfc4efb
+Git: git version 2.43.0
+Snakemake: 7.32.4

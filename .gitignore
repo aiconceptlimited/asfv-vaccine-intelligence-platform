@@ -1,44 +1,93 @@
-# Python
+# ============================================================
+# ASFV Vaccine Intelligence Platform
+# ============================================================
+
+# ---------- Python ----------
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# ---------- Virtual environments ----------
 env/
 venv/
+.venv
 ENV/
 env.bak/
 venv.bak/
 
-# Data
-data/raw/genomes/*.genbank
-data/raw/genomes/*.fasta
-data/raw/proteins/
-data/interim/
-data/processed/
+# ---------- Secrets ----------
+.env
+.env.*
+!.env.example
 
-# Results
-results/
+# ---------- Raw data (downloadable) ----------
+data/raw/
+data/interim/
+
+# ---------- Large regenerable intermediates ----------
+construct_junctions_all.tsv
+construct_orders_all.tsv
+construct_orders_all.fasta
+
+# ---------- Raw NetMHCpan output (parsed versions are tracked) ----------
+netmhcpan_SLA-*.tsv
+!netmhcpan_SLA-*_parsed.tsv
+netmhciipan_SLA_DRB1_02_02_2026.tsv
+
+# ---------- Huge per-allele GenBank dumps ----------
+data/processed/epitopes/data/
+
+# ---------- Third-party tools (clone separately) ----------
+MixMHC2pred/
+
+# ---------- Logs, temp ----------
 logs/
+temp/
+tmp/
 *.log
 
-# Database
+# ---------- Backups ----------
+*.bak
+*.bak2
+*.save
+*.save.*
+*~
+
+# ---------- Databases ----------
 database/*.db
 database/*.sqlite
 
-# Dashboard uploads
+# ---------- Dashboard uploads ----------
 dashboard/uploads/*
 
-# IDE
+# ---------- IDE / OS ----------
 .vscode/
 .idea/
 *.swp
 *.swo
-
-# OS
 .DS_Store
 Thumbs.db
 
-# Environment
-.env
-.venv
+# ---------- Empty / placeholder files ----------
+generate_constructs.py
+cd2v_sequence.fasta
+p30_sequence.fasta
+p54_sequence.fasta
+p72_sequence.fasta
+pp220_sequence.fasta
+top_50_architectures.txt
+sla_i_web_submission.txt
+
+# ---------- Test artifacts ----------
+test_5_peptides.txt
+test_peptide.txt
+test_sla_*.fasta
+sla_ii_*_test.txt
+
+# ---------- Duplicate mixmhc2pred submissions ----------
+sla_ii_mixmhc2pred_fixed.txt
+sla_ii_mixmhc2pred_submission.txt

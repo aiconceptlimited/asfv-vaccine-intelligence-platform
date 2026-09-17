@@ -1,0 +1,49 @@
+============================================================
+HONEST DATA INVENTORY - REAL FILES ONLY
+============================================================
+
+GENOMES:
+- Accessions: 11
+- Files: 11
+
+PROTEINS:
+- Combined FASTA: 50
+- Conservation CSV: data/processed/conservation/conservation_summary.csv
+
+CD2v:
+- Categories file: data/metadata/cd2v_categories.json
+
+EPITOPES:
+- mapped_epitopes.json: data/processed/epitopes/mapped_epitopes.json
+- File size: 32104
+
+SLA:
+- sla_alleles.fasta: sla_alleles.fasta
+- Alleles found: 0
+0
+
+ARCHITECTURE:
+- construct_orders_all.tsv: construct_orders_all.tsv
+- Lines: 25921
+- construct_junctions_all.tsv: -rw-rw-r-- 1 abubakar abubakar 251M Aug 25 17:53 construct_junctions_all.tsv
+
+CANDIDATES:
+- FASTAs: 11
+
+QC:
+- VaxiJen: results/final_construct/C05_H06_B241/D5_D6/vaxijen/vaxijen_C05_H06_B241_raw.txt
+- AllerTOP: results/final_construct/C05_H06_B241/D5_D6/allertop/allertop_C05_H06_B241_raw.txt
+- ToxinPred: results/final_construct/C05_H06_B241/D5_D6/toxinpred/toxinpred_C05_H06_B241_raw.txt
+- ProtParam: results/final_construct/C05_H06_B241/D5_D6/protparam/protparam_C05_H06_B241_raw.txt
+
+ML:
+- best_model.joblib: data/processed/epitopes/datasets/ctl/final/best_model.joblib
+- scaler.joblib: data/processed/epitopes/datasets/ctl/final/scaler.joblib
+- numpy files: 6
+
+POPULATION COVERAGE:
+- allele_coverage.tsv: data/processed/allele_coverage.tsv
+
+============================================================
+END OF HONEST INVENTORY
+============================================================

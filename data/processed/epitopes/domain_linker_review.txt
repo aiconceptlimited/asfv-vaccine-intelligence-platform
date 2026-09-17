@@ -1,0 +1,30 @@
+================================================================================
+DOMAIN/ADJUVANT SEPARATION — EVIDENCE REVIEW
+================================================================================
+
+1. EAAAK Linker (Glu-Ala-Ala-Ala-Lys)
+   - Rigid α-helical spacer
+   - Used to separate functional domains
+   - Well-established in protein engineering
+
+2. When EAAAK is Justified
+   - When an adjuvant/domain requires spatial separation
+   - When structural rigidity is needed
+   - Not always necessary for simple epitope constructs
+
+3. Orientation of Adjuvant Relative to Epitopes
+   - N-terminal vs C-terminal placement
+   - Affects processing and presentation
+   - Should be decided based on biology
+
+4. Specific Recommendations for Your Panel:
+   - Consider if an adjuvant is being used
+   - If not, EAAAK may not be necessary
+   - Simpler architecture may be preferred
+
+================================================================================
+REFERENCES TO SEARCH
+================================================================================
+1. "EAAAK linker protein engineering"
+2. "Adjuvant orientation multi-epitope vaccine"
+================================================================================

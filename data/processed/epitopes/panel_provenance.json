@@ -1,0 +1,26 @@
+{
+  "panel_version": "1.0",
+  "date_frozen": "2026-08-21",
+  "total_epitopes": 15,
+  "ctl_count": 8,
+  "htl_count": 4,
+  "bcell_count": 3,
+  "proteins_included": [
+    "p30",
+    "p54",
+    "p72",
+    "pcp312r",
+    "pp220"
+  ],
+  "proteins_excluded": [
+    "cd2v"
+  ],
+  "reference_dataset": "East African ASFV isolates (9-11 sequences per protein)",
+  "bepipred_version": "3.0",
+  "iedb_methods": [
+    "Emini",
+    "Parker",
+    "Kolaskar"
+  ],
+  "deeplbcepred_status": "Unavailable (documented limitation)"
+}

@@ -1,0 +1,5 @@
+haplotype,prevalence,n_animals,total_animals,sla1_allele,sla2_allele,sla3_allele,source,pmid,doi,verified,notes
+Hp-F.0,0.89,8,9,SLA-1*1501/1502,SLA-2*NS#16,SLA-3*04hb06,Sørensen et al. 2017,?,10.3389/fimmu.2017.00701,FALSE,NEEDS VERIFICATION - check exact allele names
+Hp-6.0,0.33,3,9,SLA-1*0805,SLA-2*0504,SLA-3*0601,Sørensen et al. 2017,?,10.3389/fimmu.2017.00701,FALSE,NEEDS VERIFICATION
+Hp-G.0,0.22,2,9,SLA-1*rh03,SLA-2*05rh03,SLA-3*0601,Sørensen et al. 2017,?,10.3389/fimmu.2017.00701,FALSE,NEEDS VERIFICATION
+Hp-H.0,0.22,2,9,SLA-1*HB01,SLA-2*HB04,SLA-3*0502,Sørensen et al. 2017,?,10.3389/fimmu.2017.00701,FALSE,NEEDS VERIFICATION

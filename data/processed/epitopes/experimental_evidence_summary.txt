@@ -1,0 +1,99 @@
+================================================================================
+ASFV EPITOPE EXPERIMENTAL EVIDENCE SUMMARY
+================================================================================
+Date: 2026-08-21
+Reference: Literature search results for ASFV epitopes in pigs
+
+================================================================================
+TIER 1: EXPERIMENTAL EPITOPE EVIDENCE (Overlaps with Your Candidates)
+================================================================================
+
+1. p30 116-125: TSSFETLFEQ
+   - Source: Liu et al., 2025
+   - Method: Monoclonal antibody Q4-1F10B7, competitive ELISA
+   - Your candidate: p30 121-135 (LFEQEPSSETLKNTK) overlaps this epitope
+   - Status: ✅ Strong experimental support
+
+2. pCP312R 72-83: TIPPSTDEEVIR
+   - Source: Gao et al., Vet Microbiol 2024
+   - Method: Monoclonal antibodies, truncated protein mapping, Western blotting, IFA
+   - Your candidate: pCP312R 62-76 (NFQNEKHVGTISPST) overlaps this epitope
+   - Status: ✅ Good experimental support
+
+================================================================================
+TIER 2: INDEPENDENT PUBLISHED COMPUTATIONAL EVIDENCE (Exact Matches)
+================================================================================
+
+1. pp220 SQWDLVQKF (1091-1099)
+   - Source: Juan et al., 2022
+   - Method: Immunoinformatics, SLA-1*0401 docking
+   - Your candidate: CTL_pp220_1091 (exact match)
+   - Status: ✅ Strong computational support
+
+2. pp220 RVFSRLVFY (1462-1470)
+   - Source: Juan et al., 2022
+   - Method: Immunoinformatics, SLA-1*0401 docking
+   - Your candidate: CTL_pp220_1462 (exact match)
+   - Status: ✅ Strong computational support
+
+3. pp220 HIDKNIIQY (1362-1370)
+   - Source: Juan et al., 2022
+   - Method: Immunoinformatics, SLA-1*0401 docking
+   - Your candidate: CTL_pp220_1362 (exact match)
+   - Status: ✅ Strong computational support
+
+4. pp220 SAMEVLHEL (1771-1779)
+   - Source: Juan et al., 2022
+   - Method: Immunoinformatics, SLA-1*0401 docking
+   - Your candidate: CTL_pp220_1771 (exact match)
+   - Status: ✅ Strong computational support
+
+5. pp220 YTDIVQKKY (501-509)
+   - Source: Juan et al., 2022
+   - Method: Immunoinformatics, SLA-1*0401 docking
+   - Your candidate: CTL_pp220_501 (exact match)
+   - Status: ✅ Strong computational support
+
+6. pp220 RLDRKHILM (383-391)
+   - Source: Juan et al., 2022
+   - Method: Immunoinformatics, SLA-1*0401 docking
+   - Your candidate: CTL_pp220_385 (DRKHILMEF) related
+   - Status: ⚠️ Moderate computational support
+
+================================================================================
+EXPERIMENTALLY VALIDATED EPITOPES NOT IN YOUR PANEL (For Reference)
+================================================================================
+
+1. p54 66-76: IQFINPYQDQQ
+   - Source: He et al., Viruses 2025
+   - Method: Monoclonal antibody 1F9, blocking ELISA
+   - Your candidates: None overlap
+
+2. p54 60-72: AAIEEEDIQFINP
+   - Source: Primary literature
+   - Method: Monoclonal antibody mapping
+   - Your candidates: None overlap
+
+3. p54 128-148: MATGGPAAAPAAASAPAHPAE
+   - Source: Primary literature
+   - Method: Monoclonal antibody mapping
+   - Your candidates: None overlap
+
+4. p54 163-175: MSAIENLRQRNTY
+   - Source: Primary literature
+   - Method: Monoclonal antibody mapping
+   - Your candidates: None overlap
+
+5. p72 283-288: NSHNIQ
+   - Source: Primary literature
+   - Method: Monoclonal antibody 2F11, blocking ELISA
+   - Your candidates: None (p72 only has HTL epitope)
+
+================================================================================
+EVIDENCE TIER SUMMARY
+================================================================================
+Tier 1 (Experimental overlap): 2 candidates
+Tier 2 (Literature match): 5 candidates
+Tier 2-3 (Related): 1 candidate
+Tier 3 (Your prediction): 7 candidates
+================================================================================

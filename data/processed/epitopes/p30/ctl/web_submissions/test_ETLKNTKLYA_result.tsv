@@ -1,0 +1,91 @@
+
+# NetMHCpan version 4.1b
+
+# Tmpdir made /var/www/services/services/NetMHCpan-4.1/tmp/netMHCpanTnx5fZ
+# Input is in PEPTIDE format
+
+# Make EL predictions
+
+SLA-1:0101 : Distance to training data  0.229 (using nearest neighbor SLA-104:01)
+
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-1:0101     ETLKNTKLYA ETLKNTLYA  0  6  1  0  0   ETLKNTKLYA         PEPLIST 0.0058340   32.561
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein PEPLIST. Allele SLA-1:0101. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+
+SLA-1:0401 : Distance to training data  0.000 (using nearest neighbor SLA-104:01)
+
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-1:0401     ETLKNTKLYA ETLKNTKLY  0  0  0  0  0    ETLKNTKLY         PEPLIST 0.0141230   21.475
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein PEPLIST. Allele SLA-1:0401. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+
+SLA-2:0401 : Distance to training data  0.000 (using nearest neighbor SLA-204:01)
+
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-2:0401     ETLKNTKLYA ETLKNTKLY  0  0  0  0  0    ETLKNTKLY         PEPLIST 0.0496190   11.496
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein PEPLIST. Allele SLA-2:0401. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+
+SLA-3:0401 : Distance to training data  0.000 (using nearest neighbor SLA-304:01)
+
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0401     ETLKNTKLYA ETLKNTKLY  0  0  0  0  0    ETLKNTKLY         PEPLIST 0.0006790   37.071
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein PEPLIST. Allele SLA-3:0401. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+
+SLA-1:1201 : Distance to training data  0.273 (using nearest neighbor SLA-104:01)
+
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-1:1201     ETLKNTKLYA ETLKNTKLY  0  0  0  0  0    ETLKNTKLY         PEPLIST 0.0328180   22.919
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein PEPLIST. Allele SLA-1:1201. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------
+
+SLA-3:0301 : Distance to training data  0.228 (using nearest neighbor SLA-304:01)
+
+# Rank Threshold for Strong binding peptides   0.500
+# Rank Threshold for Weak binding peptides   2.000
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+   1  SLA-3:0301     ETLKNTKLYA ETLKNTKLY  0  0  0  0  0    ETLKNTKLY         PEPLIST 0.0015950   38.162
+---------------------------------------------------------------------------------------------------------------------------
+
+Protein PEPLIST. Allele SLA-3:0301. Number of high binders 0. Number of weak binders 0. Number of peptides 1
+
+-----------------------------------------------------------------------------------

@@ -1,0 +1,126 @@
+IQ-TREE 2.0.7 built Apr  1 2024
+
+Input file name: data/processed/alignments/b646l_aligned.fasta
+Type of analysis: tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 8176
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 11 sequences with 646 amino-acid sites
+Number of constant sites: 615 (= 95.2012% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 615 (= 95.2012% of all sites)
+Number of parsimony informative sites: 14
+Number of distinct site patterns: 70
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Uniform
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -2154.3669 (s.e. 39.1228)
+Unconstrained log-likelihood (without tree): -2425.7661
+Number of free parameters (#branches + #model parameters): 13
+Akaike information criterion (AIC) score: 4334.7338
+Corrected Akaike information criterion (AICc) score: 4335.3097
+Bayesian information criterion (BIC) score: 4392.8542
+
+Total tree length (sum of branch lengths): 0.0652
+Sum of internal branch lengths: 0.0203 (31.1104% of tree length)
+
+WARNING: 1 near-zero internal branches (<0.0015) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'MW856067' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++**MW856067
+|
+|                         +**MW856068
+|                      +**| (44)
+|                      |  +**ON409979
+|                   +--| (70)
+|                   |  +--PV740683
+|             +-----| (88)
+|             |     +--------------------------------------PV740684
++-------------| (100)
+|             +------ON409981
+|
+|  +**ON409980
++--| (65)
+   +**PQ375362
+
+Tree in newick format:
+
+(MW856067:0.0000010000,((((MW856068:0.0000010000,ON409979:0.0000010000)44:0.0000010000,PV740683:0.0031106129)70:0.0022074382,PV740684:0.0340050205)88:0.0056073351,ON409981:0.0062476251)100:0.0124709475,(ON409980:0.0000010000,PQ375362:0.0000010000)65:0.0015505853);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -2154.372729
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--MW856067
+|
+|                                  +**MW856068
+|                               +**|
+|                               |  +**ON409983
+|                            +**|
+|                            |  +**PQ375363
+|                         +--|
+|                         |  +**ON409982
+|                      +--| (44)
+|                      |  +--ON409979
+|                   +--| (70)
+|                   |  +--PV740683
+|             +-----| (88)
+|             |     +--------------------------------------PV740684
++-------------| (100)
+|             +------ON409981
+|
+|  +--ON409980
++--| (65)
+   +--PQ375362
+
+
+Consensus tree in newick format: 
+
+(MW856067:0.0000025120,(((((((MW856068:0.0000000000,ON409983:0.0000000000):0.0000000000,PQ375363:0.0000000000):0.0000000000,ON409982:0.0000000000):0.0000025120,ON409979:0.0000025120)44:0.0000025120,PV740683:0.0031106133)70:0.0022015569,PV740684:0.0340046901)88:0.0056092382,ON409981:0.0062475582)100:0.0124707098,(ON409980:0.0000025120,PQ375362:0.0000025120)65:0.0015506104);
+
+TIME STAMP
+----------
+
+Date and time: Sun Aug  2 22:44:53 2026
+Total CPU time used: 24.412538 seconds (0h:0m:24s)
+Total wall-clock time used: 13.00472856 seconds (0h:0m:13s)
+

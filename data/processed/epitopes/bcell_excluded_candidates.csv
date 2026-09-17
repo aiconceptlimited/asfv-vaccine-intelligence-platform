@@ -1,0 +1,4 @@
+protein,window,sequence,conservation,iedb_support,reason
+p54,116-130,TNSSVADRPVMNNPV,58.67%,2/3,"Low conservation, gaps in alignments"
+p54,143-157,AASAPSDELYTTATT,43.33%,2/3,"Very low conservation, many gaps"
+pcp312r,82-96,RMNVVKKRDRDPCLQ,26.67%,3/3,"Extremely low conservation, insertions in isolates"

@@ -1,0 +1,7 @@
+=== DOCKER ===
+/usr/bin/docker
+Docker version 29.6.2, build dfc4efb
+
+=== APPTAINER ===
+
+=== SINGULARITY ===

@@ -1,0 +1,7 @@
+protein,reference_start,reference_end,alignment_start,alignment_end,sequence,bepipred_score,conservation,topology,iedb_support
+p30,121,135,129,144,LFEQEPSSETLKNTK,0.287,High,Extracellular,3/3
+pcp312r,82,96,83,103,RMNVVKKRDRDPCLQ,0.289,High,Capsid surface,3/3
+p54,116,130,116,130,TNSSVADRPVMNNPV,0.294,High,Extracellular,2/3
+p54,143,157,143,163,AASAPSDELYTTATT,0.288,High,Extracellular,2/3
+pcp312r,62,76,63,77,NFQNEKHVGTISPST,0.28,High,Capsid surface,2/3
+pcp312r,111,125,118,132,FTVKKNEQGEEIYPG,0.288,High,Capsid surface,2/3

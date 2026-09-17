@@ -1,0 +1,2019 @@
+{
+"BlastOutput2": [
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_1",
+          "query_title": "MW856067_B646L B646L (p72) from MW856067",
+          "query_len": 646,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 115,
+            "eff_space": 19538177922,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_2",
+          "query_title": "MW856067_CP204L CP204L (p30) from MW856067",
+          "query_len": 193,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 103,
+            "eff_space": 3380216580,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_3",
+          "query_title": "MW856067_CP312R CP312R (pCP312R) from MW856067",
+          "query_len": 300,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 108,
+            "eff_space": 7150096704,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_4",
+          "query_title": "MW856067_E183L E183L (p54) from MW856067",
+          "query_len": 186,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 102,
+            "eff_space": 3160209108,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_5",
+          "query_title": "PV740684_B646L B646L (p72) from PV740684",
+          "query_len": 385,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 111,
+            "eff_space": 10151525188,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_6",
+          "query_title": "PV740684_CP2475L CP2475L (pp220) from PV740684",
+          "query_len": 2125,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 125,
+            "eff_space": 72318624000,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_7",
+          "query_title": "PV740684_CP204L CP204L (p30) from PV740684",
+          "query_len": 194,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 103,
+            "eff_space": 3417774542,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_8",
+          "query_title": "PV740684_CP312R CP312R (pCP312R) from PV740684",
+          "query_len": 307,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 108,
+            "eff_space": 7410777313,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_9",
+          "query_title": "PV740683_EP402R EP402R (CD2v) from PV740683",
+          "query_len": 240,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 106,
+            "eff_space": 5007209758,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_10",
+          "query_title": "PV740683_B646L B646L (p72) from PV740683",
+          "query_len": 646,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 115,
+            "eff_space": 19538177922,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_11",
+          "query_title": "PV740683_CP2475L CP2475L (pp220) from PV740683",
+          "query_len": 1323,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 121,
+            "eff_space": 43769161624,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_12",
+          "query_title": "PV740683_CP204L CP204L (p30) from PV740683",
+          "query_len": 194,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 103,
+            "eff_space": 3417774542,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_13",
+          "query_title": "PV740683_CP312R CP312R (pCP312R) from PV740683",
+          "query_len": 307,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 108,
+            "eff_space": 7410777313,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_14",
+          "query_title": "PV740683_E183L E183L (p54) from PV740683",
+          "query_len": 185,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 102,
+            "eff_space": 3122587571,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_15",
+          "query_title": "MW856068_EP402R EP402R (CD2v) from MW856068",
+          "query_len": 360,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "ref|NP_998941.1|",
+                  "accession": "NP_998941",
+                  "title": "T-cell surface antigen CD2 precursor [Sus scrofa]"
+                }
+              ],
+              "len": 340,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 51.6026,
+                  "score": 122,
+                  "evalue": 9.3207e-07,
+                  "identity": 31,
+                  "positive": 73,
+                  "query_from": 104,
+                  "query_to": 255,
+                  "hit_from": 116,
+                  "hit_to": 259,
+                  "align_len": 156,
+                  "gaps": 16,
+                  "qseq": "NYTIKLLTPATPPNITYNCTNFLITCKKNNGTNTNIYLNINDTFVKYTNESILEYNWNNSNINNFTATCIINNTISTSNETTLINCTYLTLSSNYFYTFFKLYYIPLSIIIGITISILLISIITFLSLRKRK----KHVEEIESPPPESNEEEQCQ",
+                  "hseq": "KFDLPILDGVSKPVISWSCADKTVTCEVAEGSDPKLKLYVNKSTAREGRQKVILWKWNTKWSTLF--KCVASNNASEQISMVTISCTGQGLD----------IYLIIGICGGGTVFLIFIALLIFYTSKRKKQSSRRNDEELEIRAKRASPEERGR",
+                  "midline": " + + +L   + P I+++C +  +TC+   G++  + L +N +  +   + ++ + WN      F   C+ +N  S       I+CT   L            Y+ + I  G T+ ++ I+++ F + +++K    ++ EE+E     ++ EE+ +"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 110,
+            "eff_space": 9278234250,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_16",
+          "query_title": "MW856068_B646L B646L (p72) from MW856068",
+          "query_len": 646,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 115,
+            "eff_space": 19538177922,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_17",
+          "query_title": "MW856068_CP2475L CP2475L (pp220) from MW856068",
+          "query_len": 2476,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 126,
+            "eff_space": 84824981950,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_18",
+          "query_title": "MW856068_CP204L CP204L (p30) from MW856068",
+          "query_len": 194,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 103,
+            "eff_space": 3417774542,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_19",
+          "query_title": "MW856068_CP312R CP312R (pCP312R) from MW856068",
+          "query_len": 307,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 108,
+            "eff_space": 7410777313,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_20",
+          "query_title": "MW856068_E183L E183L (p54) from MW856068",
+          "query_len": 184,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 102,
+            "eff_space": 3084966034,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_21",
+          "query_title": "ON409981_EP402R EP402R (CD2v) from ON409981",
+          "query_len": 159,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 100,
+            "eff_space": 2227172533,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_22",
+          "query_title": "ON409981_B646L B646L (p72) from ON409981",
+          "query_len": 646,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 115,
+            "eff_space": 19538177922,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_23",
+          "query_title": "ON409981_CP2475L CP2475L (pp220) from ON409981",
+          "query_len": 2316,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 125,
+            "eff_space": 79225052592,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_24",
+          "query_title": "ON409981_CP204L CP204L (p30) from ON409981",
+          "query_len": 190,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 103,
+            "eff_space": 3267542694,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_25",
+          "query_title": "ON409981_CP312R CP312R (pCP312R) from ON409981",
+          "query_len": 307,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 108,
+            "eff_space": 7410777313,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_26",
+          "query_title": "ON409981_E183L E183L (p54) from ON409981",
+          "query_len": 117,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 89,
+            "eff_space": 1076544336,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_27",
+          "query_title": "ON409980_EP402R EP402R (CD2v) from ON409980",
+          "query_len": 385,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 111,
+            "eff_space": 10151525188,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_28",
+          "query_title": "ON409980_B646L B646L (p72) from ON409980",
+          "query_len": 646,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 115,
+            "eff_space": 19538177922,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_29",
+          "query_title": "ON409980_CP2475L CP2475L (pp220) from ON409980",
+          "query_len": 2477,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 126,
+            "eff_space": 84861077687,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_30",
+          "query_title": "ON409980_CP204L CP204L (p30) from ON409980",
+          "query_len": 201,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 103,
+            "eff_space": 3680680276,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_31",
+          "query_title": "ON409980_CP312R CP312R (pCP312R) from ON409980",
+          "query_len": 306,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 108,
+            "eff_space": 7373537226,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_32",
+          "query_title": "ON409980_E183L E183L (p54) from ON409980",
+          "query_len": 185,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 102,
+            "eff_space": 3122587571,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_33",
+          "query_title": "ON409982_EP402R EP402R (CD2v) from ON409982",
+          "query_len": 360,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "ref|NP_998941.1|",
+                  "accession": "NP_998941",
+                  "title": "T-cell surface antigen CD2 precursor [Sus scrofa]"
+                }
+              ],
+              "len": 340,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 51.6026,
+                  "score": 122,
+                  "evalue": 9.3207e-07,
+                  "identity": 31,
+                  "positive": 73,
+                  "query_from": 104,
+                  "query_to": 255,
+                  "hit_from": 116,
+                  "hit_to": 259,
+                  "align_len": 156,
+                  "gaps": 16,
+                  "qseq": "NYTIKLLTPATPPNITYNCTNFLITCKKNNGTNTNIYLNINDTFVKYTNESILEYNWNNSNINNFTATCIINNTISTSNETTLINCTYLTLSSNYFYTFFKLYYIPLSIIIGITISILLISIITFLSLRKRK----KHVEEIESPPPESNEEEQCQ",
+                  "hseq": "KFDLPILDGVSKPVISWSCADKTVTCEVAEGSDPKLKLYVNKSTAREGRQKVILWKWNTKWSTLF--KCVASNNASEQISMVTISCTGQGLD----------IYLIIGICGGGTVFLIFIALLIFYTSKRKKQSSRRNDEELEIRAKRASPEERGR",
+                  "midline": " + + +L   + P I+++C +  +TC+   G++  + L +N +  +   + ++ + WN      F   C+ +N  S       I+CT   L            Y+ + I  G T+ ++ I+++ F + +++K    ++ EE+E     ++ EE+ +"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 110,
+            "eff_space": 9278234250,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_34",
+          "query_title": "ON409982_B646L B646L (p72) from ON409982",
+          "query_len": 646,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 115,
+            "eff_space": 19538177922,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_35",
+          "query_title": "ON409982_CP2475L CP2475L (pp220) from ON409982",
+          "query_len": 2476,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 126,
+            "eff_space": 84824981950,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_36",
+          "query_title": "ON409982_CP204L CP204L (p30) from ON409982",
+          "query_len": 194,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 103,
+            "eff_space": 3417774542,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_37",
+          "query_title": "ON409982_CP312R CP312R (pCP312R) from ON409982",
+          "query_len": 307,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 108,
+            "eff_space": 7410777313,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_38",
+          "query_title": "ON409982_E183L E183L (p54) from ON409982",
+          "query_len": 184,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 102,
+            "eff_space": 3084966034,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_39",
+          "query_title": "ON409983_EP402R EP402R (CD2v) from ON409983",
+          "query_len": 360,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "ref|NP_998941.1|",
+                  "accession": "NP_998941",
+                  "title": "T-cell surface antigen CD2 precursor [Sus scrofa]"
+                }
+              ],
+              "len": 340,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 51.6026,
+                  "score": 122,
+                  "evalue": 9.3207e-07,
+                  "identity": 31,
+                  "positive": 73,
+                  "query_from": 104,
+                  "query_to": 255,
+                  "hit_from": 116,
+                  "hit_to": 259,
+                  "align_len": 156,
+                  "gaps": 16,
+                  "qseq": "NYTIKLLTPATPPNITYNCTNFLITCKKNNGTNTNIYLNINDTFVKYTNESILEYNWNNSNINNFTATCIINNTISTSNETTLINCTYLTLSSNYFYTFFKLYYIPLSIIIGITISILLISIITFLSLRKRK----KHVEEIESPPPESNEEEQCQ",
+                  "hseq": "KFDLPILDGVSKPVISWSCADKTVTCEVAEGSDPKLKLYVNKSTAREGRQKVILWKWNTKWSTLF--KCVASNNASEQISMVTISCTGQGLD----------IYLIIGICGGGTVFLIFIALLIFYTSKRKKQSSRRNDEELEIRAKRASPEERGR",
+                  "midline": " + + +L   + P I+++C +  +TC+   G++  + L +N +  +   + ++ + WN      F   C+ +N  S       I+CT   L            Y+ + I  G T+ ++ I+++ F + +++K    ++ EE+E     ++ EE+ +"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 110,
+            "eff_space": 9278234250,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_40",
+          "query_title": "ON409983_B646L B646L (p72) from ON409983",
+          "query_len": 646,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 115,
+            "eff_space": 19538177922,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_41",
+          "query_title": "ON409983_CP2475L CP2475L (pp220) from ON409983",
+          "query_len": 2476,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 126,
+            "eff_space": 84824981950,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_42",
+          "query_title": "ON409983_CP204L CP204L (p30) from ON409983",
+          "query_len": 194,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 103,
+            "eff_space": 3417774542,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_43",
+          "query_title": "ON409983_CP312R CP312R (pCP312R) from ON409983",
+          "query_len": 307,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 108,
+            "eff_space": 7410777313,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_44",
+          "query_title": "ON409983_E183L E183L (p54) from ON409983",
+          "query_len": 184,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 102,
+            "eff_space": 3084966034,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_45",
+          "query_title": "ON409979_EP402R EP402R (CD2v) from ON409979",
+          "query_len": 360,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "ref|NP_998941.1|",
+                  "accession": "NP_998941",
+                  "title": "T-cell surface antigen CD2 precursor [Sus scrofa]"
+                }
+              ],
+              "len": 340,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 51.6026,
+                  "score": 122,
+                  "evalue": 9.3207e-07,
+                  "identity": 31,
+                  "positive": 73,
+                  "query_from": 104,
+                  "query_to": 255,
+                  "hit_from": 116,
+                  "hit_to": 259,
+                  "align_len": 156,
+                  "gaps": 16,
+                  "qseq": "NYTIKLLTPATPPNITYNCTNFLITCKKNNGTNTNIYLNINDTFVKYTNESILEYNWNNSNINNFTATCIINNTISTSNETTLINCTYLTLSSNYFYTFFKLYYIPLSIIIGITISILLISIITFLSLRKRK----KHVEEIESPPPESNEEEQCQ",
+                  "hseq": "KFDLPILDGVSKPVISWSCADKTVTCEVAEGSDPKLKLYVNKSTAREGRQKVILWKWNTKWSTLF--KCVASNNASEQISMVTISCTGQGLD----------IYLIIGICGGGTVFLIFIALLIFYTSKRKKQSSRRNDEELEIRAKRASPEERGR",
+                  "midline": " + + +L   + P I+++C +  +TC+   G++  + L +N +  +   + ++ + WN      F   C+ +N  S       I+CT   L            Y+ + I  G T+ ++ I+++ F + +++K    ++ EE+E     ++ EE+ +"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 110,
+            "eff_space": 9278234250,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_46",
+          "query_title": "ON409979_B646L B646L (p72) from ON409979",
+          "query_len": 646,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 115,
+            "eff_space": 19538177922,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_47",
+          "query_title": "ON409979_CP2475L CP2475L (pp220) from ON409979",
+          "query_len": 2476,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 126,
+            "eff_space": 84824981950,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_48",
+          "query_title": "ON409979_CP204L CP204L (p30) from ON409979",
+          "query_len": 194,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 103,
+            "eff_space": 3417774542,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_49",
+          "query_title": "ON409979_CP312R CP312R (pCP312R) from ON409979",
+          "query_len": 307,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 108,
+            "eff_space": 7410777313,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.5.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/sus_scrofa_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_50",
+          "query_title": "ON409979_E183L E183L (p54) from ON409979",
+          "query_len": 184,
+          "hits": [
+          ],
+          "stat": {
+            "db_num": 63575,
+            "db_len": 44106187,
+            "hsp_len": 102,
+            "eff_space": 3084966034,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          },
+          "message": "No hits found"
+        }
+      }
+    }
+  }
+]
+}

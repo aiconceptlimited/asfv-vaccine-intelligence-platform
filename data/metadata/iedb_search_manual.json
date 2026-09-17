@@ -1,0 +1,38 @@
+{
+  "B646L": {
+    "search_url": "https://www.iedb.org/search/?source_organism=African swine fever virus&host=Sus scrofa&protein=B646L",
+    "protein": "B646L",
+    "host": "Sus scrofa",
+    "source_organism": "African swine fever virus"
+  },
+  "CP204L": {
+    "search_url": "https://www.iedb.org/search/?source_organism=African swine fever virus&host=Sus scrofa&protein=CP204L",
+    "protein": "CP204L",
+    "host": "Sus scrofa",
+    "source_organism": "African swine fever virus"
+  },
+  "E183L": {
+    "search_url": "https://www.iedb.org/search/?source_organism=African swine fever virus&host=Sus scrofa&protein=E183L",
+    "protein": "E183L",
+    "host": "Sus scrofa",
+    "source_organism": "African swine fever virus"
+  },
+  "EP402R": {
+    "search_url": "https://www.iedb.org/search/?source_organism=African swine fever virus&host=Sus scrofa&protein=EP402R",
+    "protein": "EP402R",
+    "host": "Sus scrofa",
+    "source_organism": "African swine fever virus"
+  },
+  "CP2475L": {
+    "search_url": "https://www.iedb.org/search/?source_organism=African swine fever virus&host=Sus scrofa&protein=CP2475L",
+    "protein": "CP2475L",
+    "host": "Sus scrofa",
+    "source_organism": "African swine fever virus"
+  },
+  "CP312R": {
+    "search_url": "https://www.iedb.org/search/?source_organism=African swine fever virus&host=Sus scrofa&protein=CP312R",
+    "protein": "CP312R",
+    "host": "Sus scrofa",
+    "source_organism": "African swine fever virus"
+  }
+}

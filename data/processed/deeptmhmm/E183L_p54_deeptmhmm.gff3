@@ -1,0 +1,48 @@
+##gff-version 3
+# MW856067_E183L Length: 186
+# MW856067_E183L Number of predicted TMRs: 1
+MW856067_E183L	outside	1	33				
+MW856067_E183L	TMhelix	34	51				
+MW856067_E183L	inside	52	186				
+//
+# PV740683_E183L Length: 185
+# PV740683_E183L Number of predicted TMRs: 1
+PV740683_E183L	outside	1	33				
+PV740683_E183L	TMhelix	34	52				
+PV740683_E183L	inside	53	185				
+//
+# MW856068_E183L Length: 184
+# MW856068_E183L Number of predicted TMRs: 1
+MW856068_E183L	outside	1	33				
+MW856068_E183L	TMhelix	34	52				
+MW856068_E183L	inside	53	184				
+//
+# ON409981_E183L Length: 117
+# ON409981_E183L Number of predicted TMRs: 1
+ON409981_E183L	outside	1	30				
+ON409981_E183L	TMhelix	31	51				
+ON409981_E183L	inside	52	117				
+//
+# ON409980_E183L Length: 185
+# ON409980_E183L Number of predicted TMRs: 1
+ON409980_E183L	outside	1	30				
+ON409980_E183L	TMhelix	31	51				
+ON409980_E183L	inside	52	185				
+//
+# ON409982_E183L Length: 184
+# ON409982_E183L Number of predicted TMRs: 1
+ON409982_E183L	outside	1	33				
+ON409982_E183L	TMhelix	34	52				
+ON409982_E183L	inside	53	184				
+//
+# ON409983_E183L Length: 184
+# ON409983_E183L Number of predicted TMRs: 1
+ON409983_E183L	outside	1	33				
+ON409983_E183L	TMhelix	34	52				
+ON409983_E183L	inside	53	184				
+//
+# ON409979_E183L Length: 184
+# ON409979_E183L Number of predicted TMRs: 1
+ON409979_E183L	outside	1	33				
+ON409979_E183L	TMhelix	34	52				
+ON409979_E183L	inside	53	184				

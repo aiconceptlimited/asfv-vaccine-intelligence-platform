@@ -1,0 +1,16 @@
+=== NETWORK INTERFACES ===
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+eth0             UP             212.47.66.222/21 2a02:c207:2291:8226::1/64 fe80::250:56ff:fe5e:5c74/64 
+docker0          DOWN           172.17.0.1/16 fe80::4481:faff:fe77:3e29/64 
+br-9ede4a38bc00  UP             172.19.0.1/16 fe80::a086:16ff:fe55:2e12/64 
+veth6259ee9@if2  UP             fe80::bc4d:2dff:fe87:2cc9/64 
+veth1aaf1f0@if2  UP             fe80::8050:87ff:fee0:6d30/64 
+br-8781cc15a14d  UP             172.18.0.1/16 fe80::d058:5aff:feae:31fc/64 
+veth78b45b0@if2  UP             fe80::c086:55ff:fe5e:7f2a/64 
+veth56ddd38@if2  UP             fe80::78ae:56ff:fe64:ebc4/64 
+
+=== ROUTING ===
+default via 212.47.64.1 dev eth0 proto static 
+172.17.0.0/16 dev docker0 proto kernel scope link src 172.17.0.1 linkdown 
+172.18.0.0/16 dev br-8781cc15a14d proto kernel scope link src 172.18.0.1 
+172.19.0.0/16 dev br-9ede4a38bc00 proto kernel scope link src 172.19.0.1 

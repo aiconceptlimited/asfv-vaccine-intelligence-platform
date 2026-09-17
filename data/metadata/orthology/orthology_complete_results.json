@@ -1,0 +1,166 @@
+{
+  "B646L": {
+    "gene": "B646L",
+    "protein": "p72",
+    "expected_length": 646,
+    "sequences": 9,
+    "lengths": [
+      646,
+      385,
+      646,
+      646,
+      646,
+      646,
+      646,
+      646,
+      646
+    ],
+    "length_match": false,
+    "blast": {
+      "subject": "YP_009743452.1|B646L|p72",
+      "identity": 99.84520123839009,
+      "evalue": 0.0,
+      "bitscore": 1348.95,
+      "length": 646
+    },
+    "reciprocal_best_hit": true,
+    "domains": [],
+    "orthology_verified": false
+  },
+  "CP204L": {
+    "gene": "CP204L",
+    "protein": "p30",
+    "expected_length": 204,
+    "sequences": 9,
+    "lengths": [
+      193,
+      194,
+      194,
+      194,
+      190,
+      201,
+      194,
+      194,
+      194
+    ],
+    "length_match": true,
+    "blast": {
+      "subject": "YP_009743478.1|E183L|p54",
+      "identity": 38.095238095238095,
+      "evalue": 5.27818,
+      "bitscore": 15.3938,
+      "length": 21
+    },
+    "reciprocal_best_hit": false,
+    "domains": [],
+    "orthology_verified": false
+  },
+  "E183L": {
+    "gene": "E183L",
+    "protein": "p54",
+    "expected_length": 183,
+    "sequences": 8,
+    "lengths": [
+      186,
+      185,
+      184,
+      117,
+      185,
+      184,
+      184,
+      184
+    ],
+    "length_match": false,
+    "blast": {
+      "subject": "YP_009743452.1|B646L|p72",
+      "identity": 31.818181818181817,
+      "evalue": 1.26789,
+      "bitscore": 17.3198,
+      "length": 22
+    },
+    "reciprocal_best_hit": false,
+    "domains": [],
+    "orthology_verified": false
+  },
+  "EP402R": {
+    "gene": "EP402R",
+    "protein": "CD2v",
+    "expected_length": 402,
+    "sequences": 7,
+    "lengths": [
+      240,
+      360,
+      159,
+      385,
+      360,
+      360,
+      360
+    ],
+    "length_match": false,
+    "blast": {
+      "subject": "YP_009743466.1|EP402R|CD2v",
+      "identity": 97.5,
+      "evalue": 1.13319e-166,
+      "bitscore": 454.521,
+      "length": 240
+    },
+    "reciprocal_best_hit": true,
+    "domains": [],
+    "orthology_verified": false
+  },
+  "CP2475L": {
+    "gene": "CP2475L",
+    "protein": "pp220",
+    "expected_length": 2475,
+    "sequences": 8,
+    "lengths": [
+      2125,
+      1323,
+      2476,
+      2316,
+      2477,
+      2476,
+      2476,
+      2476
+    ],
+    "length_match": false,
+    "blast": {
+      "subject": "YP_009743452.1|B646L|p72",
+      "identity": 66.66666666666666,
+      "evalue": 1.31015,
+      "bitscore": 21.1718,
+      "length": 12
+    },
+    "reciprocal_best_hit": false,
+    "domains": [],
+    "orthology_verified": false
+  },
+  "CP312R": {
+    "gene": "CP312R",
+    "protein": "pCP312R",
+    "expected_length": 312,
+    "sequences": 9,
+    "lengths": [
+      300,
+      307,
+      307,
+      307,
+      307,
+      306,
+      307,
+      307,
+      307
+    ],
+    "length_match": true,
+    "blast": {
+      "subject": "YP_009743452.1|B646L|p72",
+      "identity": 43.75,
+      "evalue": 0.938328,
+      "bitscore": 18.4754,
+      "length": 16
+    },
+    "reciprocal_best_hit": false,
+    "domains": [],
+    "orthology_verified": false
+  }
+}

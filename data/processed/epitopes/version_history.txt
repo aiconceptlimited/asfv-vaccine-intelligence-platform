@@ -1,0 +1,34 @@
+EPITOPE PANEL VERSION HISTORY
+=============================
+
+Version 1.0 — Initial Panel (18 epitopes)
+  - 8 CTL, 4 HTL, 6 B-cell
+  - File: master_epitope_panel_18.csv
+
+Version 1.1 — Revised Panel (15 epitopes)
+  - 8 CTL, 4 HTL, 3 B-cell
+  - 3 B-cell candidates removed after conservation QC
+  - File: master_epitope_panel_15_final.csv
+
+Version 1.2 — Refined Evidence Classification
+  - Evidence tiers applied
+  - File: panel_v1.2_refined_decisions.csv
+
+Version 1.3 — Corrected Decisions
+  - IVLIYLFSSRKKKAA upgraded to Tier 1B
+  - NFQNEKHVGTISPST downgraded to Tier 3
+  - File: panel_v1.3_corrected_decisions.csv
+
+Version 1.4 — Final Corrected Panel
+  - KEEVRLMVIKLLKKK upgraded to Tier 2-3
+  - File: panel_v1.4_final_corrected.csv
+
+Version 2.0 — FINAL FROZEN PANEL (11 Core + 4 Exploratory)
+  - Core: 11 evidence-supported epitopes
+  - Exploratory: 4 computational candidates
+  - Files:
+    - core_panel_11_FINAL.csv
+    - exploratory_panel_4_FINAL.csv
+    - panel_master_FINAL_15.csv
+  - Status: FROZEN
+  - Date: 2026-08-22

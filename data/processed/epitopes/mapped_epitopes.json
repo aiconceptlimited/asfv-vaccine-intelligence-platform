@@ -1,0 +1,1294 @@
+{
+  "B646L": {
+    "protein": "B646L",
+    "total_sequences": 9,
+    "epitope_count": 3,
+    "sequences": [
+      {
+        "accession": "MW856067",
+        "length": 646,
+        "epitopes": [
+          {
+            "start": 50,
+            "end": 65,
+            "sequence": "SQIEETHMVHFNAHFK",
+            "type": "B-cell",
+            "reference": "Li et al. 2019",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 120,
+            "end": 135,
+            "sequence": "APIQGSSQMGAHGQLQ",
+            "type": "B-cell",
+            "reference": "Zhou et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 200,
+            "end": 215,
+            "sequence": "LDEYSSDVTTLVRKFC",
+            "type": "T-cell",
+            "reference": "Wang et al. 2018",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 3
+      },
+      {
+        "accession": "PV740684",
+        "length": 385,
+        "epitopes": [
+          {
+            "start": 50,
+            "end": 65,
+            "sequence": "HYSCNGPQTPKYYQPP",
+            "type": "B-cell",
+            "reference": "Li et al. 2019",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 120,
+            "end": 135,
+            "sequence": "FIAGRPSRRNIRFKPW",
+            "type": "B-cell",
+            "reference": "Zhou et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 200,
+            "end": 215,
+            "sequence": "WPIEYMFIGLKPTWNI",
+            "type": "T-cell",
+            "reference": "Wang et al. 2018",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 3
+      },
+      {
+        "accession": "PV740683",
+        "length": 646,
+        "epitopes": [
+          {
+            "start": 50,
+            "end": 65,
+            "sequence": "SQIEETHLVHFNAHFK",
+            "type": "B-cell",
+            "reference": "Li et al. 2019",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 120,
+            "end": 135,
+            "sequence": "APIQGTSQMGAHGQLQ",
+            "type": "B-cell",
+            "reference": "Zhou et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 200,
+            "end": 215,
+            "sequence": "LDEYSSDVTTLVRKFC",
+            "type": "T-cell",
+            "reference": "Wang et al. 2018",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 3
+      },
+      {
+        "accession": "MW856068",
+        "length": 646,
+        "epitopes": [
+          {
+            "start": 50,
+            "end": 65,
+            "sequence": "SQIEETHLVHFNAHFK",
+            "type": "B-cell",
+            "reference": "Li et al. 2019",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 120,
+            "end": 135,
+            "sequence": "APIQGTSQMGAHGQLQ",
+            "type": "B-cell",
+            "reference": "Zhou et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 200,
+            "end": 215,
+            "sequence": "LDEYSSDVTTLVRKFC",
+            "type": "T-cell",
+            "reference": "Wang et al. 2018",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 3
+      },
+      {
+        "accession": "ON409981",
+        "length": 646,
+        "epitopes": [
+          {
+            "start": 50,
+            "end": 65,
+            "sequence": "SQIEETHMVHFNAHFK",
+            "type": "B-cell",
+            "reference": "Li et al. 2019",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 120,
+            "end": 135,
+            "sequence": "APIQGSSQMGAHGQLQ",
+            "type": "B-cell",
+            "reference": "Zhou et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 200,
+            "end": 215,
+            "sequence": "LDEYSSDVTTLVRKFC",
+            "type": "T-cell",
+            "reference": "Wang et al. 2018",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 3
+      },
+      {
+        "accession": "ON409980",
+        "length": 646,
+        "epitopes": [
+          {
+            "start": 50,
+            "end": 65,
+            "sequence": "SQIEETHMVHFNAHFK",
+            "type": "B-cell",
+            "reference": "Li et al. 2019",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 120,
+            "end": 135,
+            "sequence": "APIQGSSQMGAHGQLQ",
+            "type": "B-cell",
+            "reference": "Zhou et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 200,
+            "end": 215,
+            "sequence": "LDEYSSDVTTLVRKFC",
+            "type": "T-cell",
+            "reference": "Wang et al. 2018",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 3
+      },
+      {
+        "accession": "ON409982",
+        "length": 646,
+        "epitopes": [
+          {
+            "start": 50,
+            "end": 65,
+            "sequence": "SQIEETHLVHFNAHFK",
+            "type": "B-cell",
+            "reference": "Li et al. 2019",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 120,
+            "end": 135,
+            "sequence": "APIQGTSQMGAHGQLQ",
+            "type": "B-cell",
+            "reference": "Zhou et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 200,
+            "end": 215,
+            "sequence": "LDEYSSDVTTLVRKFC",
+            "type": "T-cell",
+            "reference": "Wang et al. 2018",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 3
+      },
+      {
+        "accession": "ON409983",
+        "length": 646,
+        "epitopes": [
+          {
+            "start": 50,
+            "end": 65,
+            "sequence": "SQIEETHLVHFNAHFK",
+            "type": "B-cell",
+            "reference": "Li et al. 2019",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 120,
+            "end": 135,
+            "sequence": "APIQGTSQMGAHGQLQ",
+            "type": "B-cell",
+            "reference": "Zhou et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 200,
+            "end": 215,
+            "sequence": "LDEYSSDVTTLVRKFC",
+            "type": "T-cell",
+            "reference": "Wang et al. 2018",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 3
+      },
+      {
+        "accession": "ON409979",
+        "length": 646,
+        "epitopes": [
+          {
+            "start": 50,
+            "end": 65,
+            "sequence": "SQIEETHLVHFNAHFK",
+            "type": "B-cell",
+            "reference": "Li et al. 2019",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 120,
+            "end": 135,
+            "sequence": "APIQGTSQMGAHGQLQ",
+            "type": "B-cell",
+            "reference": "Zhou et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 200,
+            "end": 215,
+            "sequence": "LDEYSSDVTTLVRKFC",
+            "type": "T-cell",
+            "reference": "Wang et al. 2018",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 3
+      }
+    ]
+  },
+  "CP204L": {
+    "protein": "CP204L",
+    "total_sequences": 9,
+    "epitope_count": 2,
+    "sequences": [
+      {
+        "accession": "MW856067",
+        "length": 193,
+        "epitopes": [
+          {
+            "start": 30,
+            "end": 45,
+            "sequence": "VEIINSGRIVTTAIKT",
+            "type": "B-cell",
+            "reference": "Zhang et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 80,
+            "end": 95,
+            "sequence": "HVLFEEETESTSSTSL",
+            "type": "T-cell",
+            "reference": "Liu et al. 2019",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "PV740684",
+        "length": 194,
+        "epitopes": [
+          {
+            "start": 30,
+            "end": 45,
+            "sequence": "GSLYNWFSVEIINSGR",
+            "type": "B-cell",
+            "reference": "Zhang et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 80,
+            "end": 95,
+            "sequence": "QEEWNMILHVLFEEET",
+            "type": "T-cell",
+            "reference": "Liu et al. 2019",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "PV740683",
+        "length": 194,
+        "epitopes": [
+          {
+            "start": 30,
+            "end": 45,
+            "sequence": "GSLYNWFSVEIINSGR",
+            "type": "B-cell",
+            "reference": "Zhang et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 80,
+            "end": 95,
+            "sequence": "QEEWNMILHVLFEEET",
+            "type": "T-cell",
+            "reference": "Liu et al. 2019",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "MW856068",
+        "length": 194,
+        "epitopes": [
+          {
+            "start": 30,
+            "end": 45,
+            "sequence": "GSLYNWFSVEIINSGR",
+            "type": "B-cell",
+            "reference": "Zhang et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 80,
+            "end": 95,
+            "sequence": "QEEWNMILHVLFEEET",
+            "type": "T-cell",
+            "reference": "Liu et al. 2019",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409981",
+        "length": 190,
+        "epitopes": [
+          {
+            "start": 30,
+            "end": 45,
+            "sequence": "IINSGRIVTTAIKTLL",
+            "type": "B-cell",
+            "reference": "Zhang et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 80,
+            "end": 95,
+            "sequence": "LFEEEMESSASLESIH",
+            "type": "T-cell",
+            "reference": "Liu et al. 2019",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409980",
+        "length": 201,
+        "epitopes": [
+          {
+            "start": 30,
+            "end": 45,
+            "sequence": "GSLYTWFSVEIINSGR",
+            "type": "B-cell",
+            "reference": "Zhang et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 80,
+            "end": 95,
+            "sequence": "QEEWNMILHVLFEEEA",
+            "type": "T-cell",
+            "reference": "Liu et al. 2019",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409982",
+        "length": 194,
+        "epitopes": [
+          {
+            "start": 30,
+            "end": 45,
+            "sequence": "GSLYNWFSVEIINSGR",
+            "type": "B-cell",
+            "reference": "Zhang et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 80,
+            "end": 95,
+            "sequence": "QEEWNMILHVLFEEET",
+            "type": "T-cell",
+            "reference": "Liu et al. 2019",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409983",
+        "length": 194,
+        "epitopes": [
+          {
+            "start": 30,
+            "end": 45,
+            "sequence": "GSLYNWFSVEIINSGR",
+            "type": "B-cell",
+            "reference": "Zhang et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 80,
+            "end": 95,
+            "sequence": "QEEWNMILHVLFEEET",
+            "type": "T-cell",
+            "reference": "Liu et al. 2019",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409979",
+        "length": 194,
+        "epitopes": [
+          {
+            "start": 30,
+            "end": 45,
+            "sequence": "GSLYNWFSVEIINSGR",
+            "type": "B-cell",
+            "reference": "Zhang et al. 2020",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 80,
+            "end": 95,
+            "sequence": "QEEWNMILHVLFEEET",
+            "type": "T-cell",
+            "reference": "Liu et al. 2019",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      }
+    ]
+  },
+  "E183L": {
+    "protein": "E183L",
+    "total_sequences": 8,
+    "epitope_count": 2,
+    "sequences": [
+      {
+        "accession": "MW856067",
+        "length": 186,
+        "epitopes": [
+          {
+            "start": 20,
+            "end": 35,
+            "sequence": "PTSTPSFFSTHMCTIL",
+            "type": "B-cell",
+            "reference": "Rodriguez et al. 2021",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 140,
+            "end": 155,
+            "sequence": "GPAAASAPSDELYTTA",
+            "type": "B-cell",
+            "reference": "Gao et al. 2020",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "PV740683",
+        "length": 185,
+        "epitopes": [
+          {
+            "start": 20,
+            "end": 35,
+            "sequence": "PVTTPSFFSTHMYTIL",
+            "type": "B-cell",
+            "reference": "Rodriguez et al. 2021",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 140,
+            "end": 155,
+            "sequence": "AASAPAHPAEPYTTVT",
+            "type": "B-cell",
+            "reference": "Gao et al. 2020",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "MW856068",
+        "length": 184,
+        "epitopes": [
+          {
+            "start": 20,
+            "end": 35,
+            "sequence": "PVTTPSFFSTHMYTIL",
+            "type": "B-cell",
+            "reference": "Rodriguez et al. 2021",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 140,
+            "end": 155,
+            "sequence": "ASAPAHPAEPYTTVTT",
+            "type": "B-cell",
+            "reference": "Gao et al. 2020",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409981",
+        "length": 117,
+        "epitopes": [
+          {
+            "start": 20,
+            "end": 35,
+            "sequence": "STPTPSFFSTHMYTIL",
+            "type": "B-cell",
+            "reference": "Rodriguez et al. 2021",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 140,
+            "end": 155,
+            "sequence": null,
+            "type": "B-cell",
+            "reference": "Gao et al. 2020",
+            "mapped": false,
+            "reason": "Out of sequence range (sequence length: 117)"
+          }
+        ],
+        "mapped_count": 1
+      },
+      {
+        "accession": "ON409980",
+        "length": 185,
+        "epitopes": [
+          {
+            "start": 20,
+            "end": 35,
+            "sequence": "PTSTPSFFSTHMCTIL",
+            "type": "B-cell",
+            "reference": "Rodriguez et al. 2021",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 140,
+            "end": 155,
+            "sequence": "PAAASAASAELYTTAT",
+            "type": "B-cell",
+            "reference": "Gao et al. 2020",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409982",
+        "length": 184,
+        "epitopes": [
+          {
+            "start": 20,
+            "end": 35,
+            "sequence": "PVTTPSFFSTHMYTIL",
+            "type": "B-cell",
+            "reference": "Rodriguez et al. 2021",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 140,
+            "end": 155,
+            "sequence": "ASAPAHPAEPYTTVTT",
+            "type": "B-cell",
+            "reference": "Gao et al. 2020",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409983",
+        "length": 184,
+        "epitopes": [
+          {
+            "start": 20,
+            "end": 35,
+            "sequence": "PVTTPSFFSTHMYTIL",
+            "type": "B-cell",
+            "reference": "Rodriguez et al. 2021",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 140,
+            "end": 155,
+            "sequence": "ASAPAHPAEPYTTVTT",
+            "type": "B-cell",
+            "reference": "Gao et al. 2020",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409979",
+        "length": 184,
+        "epitopes": [
+          {
+            "start": 20,
+            "end": 35,
+            "sequence": "PVTTPSFFSTHMYTIL",
+            "type": "B-cell",
+            "reference": "Rodriguez et al. 2021",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 140,
+            "end": 155,
+            "sequence": "ASAPAHPAEPYTTVTT",
+            "type": "B-cell",
+            "reference": "Gao et al. 2020",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      }
+    ]
+  },
+  "EP402R": {
+    "protein": "EP402R",
+    "total_sequences": 7,
+    "epitope_count": 2,
+    "sequences": [
+      {
+        "accession": "PV740683",
+        "length": 240,
+        "epitopes": [
+          {
+            "start": 100,
+            "end": 115,
+            "sequence": "NQIINYTIKLLTPATP",
+            "type": "B-cell",
+            "reference": "Chen et al. 2021",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 250,
+            "end": 265,
+            "sequence": null,
+            "type": "T-cell",
+            "reference": "Wu et al. 2022",
+            "mapped": false,
+            "reason": "Out of sequence range (sequence length: 240)"
+          }
+        ],
+        "mapped_count": 1
+      },
+      {
+        "accession": "MW856068",
+        "length": 360,
+        "epitopes": [
+          {
+            "start": 100,
+            "end": 115,
+            "sequence": "NQIINYTIKLLTPATP",
+            "type": "B-cell",
+            "reference": "Chen et al. 2021",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 250,
+            "end": 265,
+            "sequence": "EEEQCQHDDTTSIHEP",
+            "type": "T-cell",
+            "reference": "Wu et al. 2022",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409981",
+        "length": 159,
+        "epitopes": [
+          {
+            "start": 100,
+            "end": 115,
+            "sequence": "PKPCPPPKPCPPPKSC",
+            "type": "B-cell",
+            "reference": "Chen et al. 2021",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 250,
+            "end": 265,
+            "sequence": null,
+            "type": "T-cell",
+            "reference": "Wu et al. 2022",
+            "mapped": false,
+            "reason": "Out of sequence range (sequence length: 159)"
+          }
+        ],
+        "mapped_count": 1
+      },
+      {
+        "accession": "ON409980",
+        "length": 385,
+        "epitopes": [
+          {
+            "start": 100,
+            "end": 115,
+            "sequence": "SPHDEKIFDTMFQIIY",
+            "type": "B-cell",
+            "reference": "Chen et al. 2021",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 250,
+            "end": 265,
+            "sequence": "SLRKRKKHVEEIESPS",
+            "type": "T-cell",
+            "reference": "Wu et al. 2022",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409982",
+        "length": 360,
+        "epitopes": [
+          {
+            "start": 100,
+            "end": 115,
+            "sequence": "NQIINYTIKLLTPATP",
+            "type": "B-cell",
+            "reference": "Chen et al. 2021",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 250,
+            "end": 265,
+            "sequence": "EEEQCQHDDTTSIHEP",
+            "type": "T-cell",
+            "reference": "Wu et al. 2022",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409983",
+        "length": 360,
+        "epitopes": [
+          {
+            "start": 100,
+            "end": 115,
+            "sequence": "NQIINYTIKLLTPATP",
+            "type": "B-cell",
+            "reference": "Chen et al. 2021",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 250,
+            "end": 265,
+            "sequence": "EEEQCQHDDTTSIHEP",
+            "type": "T-cell",
+            "reference": "Wu et al. 2022",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409979",
+        "length": 360,
+        "epitopes": [
+          {
+            "start": 100,
+            "end": 115,
+            "sequence": "NQIINYTIKLLTPATP",
+            "type": "B-cell",
+            "reference": "Chen et al. 2021",
+            "length": 16,
+            "mapped": true
+          },
+          {
+            "start": 250,
+            "end": 265,
+            "sequence": "EEEQCQHDDTTSIHEP",
+            "type": "T-cell",
+            "reference": "Wu et al. 2022",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      }
+    ]
+  },
+  "CP2475L": {
+    "protein": "CP2475L",
+    "total_sequences": 8,
+    "epitope_count": 2,
+    "sequences": [
+      {
+        "accession": "PV740684",
+        "length": 2125,
+        "epitopes": [
+          {
+            "start": 500,
+            "end": 520,
+            "sequence": "DVFFTFMLKSMAAKIFIVLGI",
+            "type": "B-cell",
+            "reference": "Yang et al. 2020",
+            "length": 21,
+            "mapped": true
+          },
+          {
+            "start": 1500,
+            "end": 1520,
+            "sequence": "GNDPVQLSDMPGVQLIMKNYN",
+            "type": "T-cell",
+            "reference": "Kim et al. 2021",
+            "length": 21,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "PV740683",
+        "length": 1323,
+        "epitopes": [
+          {
+            "start": 500,
+            "end": 520,
+            "sequence": "VFFTFMLKSMAAKIFIVLGIY",
+            "type": "B-cell",
+            "reference": "Yang et al. 2020",
+            "length": 21,
+            "mapped": true
+          },
+          {
+            "start": 1500,
+            "end": 1520,
+            "sequence": null,
+            "type": "T-cell",
+            "reference": "Kim et al. 2021",
+            "mapped": false,
+            "reason": "Out of sequence range (sequence length: 1323)"
+          }
+        ],
+        "mapped_count": 1
+      },
+      {
+        "accession": "MW856068",
+        "length": 2476,
+        "epitopes": [
+          {
+            "start": 500,
+            "end": 520,
+            "sequence": "FYTDIVQKKYGGEEDCECTRV",
+            "type": "B-cell",
+            "reference": "Yang et al. 2020",
+            "length": 21,
+            "mapped": true
+          },
+          {
+            "start": 1500,
+            "end": 1520,
+            "sequence": "NAQEENTLSYWDNIALRTYAN",
+            "type": "T-cell",
+            "reference": "Kim et al. 2021",
+            "length": 21,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409981",
+        "length": 2316,
+        "epitopes": [
+          {
+            "start": 500,
+            "end": 520,
+            "sequence": "FYTDIVQKKYGGGEDCECTRV",
+            "type": "B-cell",
+            "reference": "Yang et al. 2020",
+            "length": 21,
+            "mapped": true
+          },
+          {
+            "start": 1500,
+            "end": 1520,
+            "sequence": "AQEENALSFWTDVAPRAYANV",
+            "type": "T-cell",
+            "reference": "Kim et al. 2021",
+            "length": 21,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409980",
+        "length": 2477,
+        "epitopes": [
+          {
+            "start": 500,
+            "end": 520,
+            "sequence": "FYTDIVQKKYGGGEDCECTKV",
+            "type": "B-cell",
+            "reference": "Yang et al. 2020",
+            "length": 21,
+            "mapped": true
+          },
+          {
+            "start": 1500,
+            "end": 1520,
+            "sequence": "AQEENALSFWTAVAPAPRAYA",
+            "type": "T-cell",
+            "reference": "Kim et al. 2021",
+            "length": 21,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409982",
+        "length": 2476,
+        "epitopes": [
+          {
+            "start": 500,
+            "end": 520,
+            "sequence": "FYTDIVQKKYGGEEDCECTRV",
+            "type": "B-cell",
+            "reference": "Yang et al. 2020",
+            "length": 21,
+            "mapped": true
+          },
+          {
+            "start": 1500,
+            "end": 1520,
+            "sequence": "NAQEENTLSYWDNIALRTYAN",
+            "type": "T-cell",
+            "reference": "Kim et al. 2021",
+            "length": 21,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409983",
+        "length": 2476,
+        "epitopes": [
+          {
+            "start": 500,
+            "end": 520,
+            "sequence": "FYTDIVQKKYGGEEDCECTRV",
+            "type": "B-cell",
+            "reference": "Yang et al. 2020",
+            "length": 21,
+            "mapped": true
+          },
+          {
+            "start": 1500,
+            "end": 1520,
+            "sequence": "NAQEENTLSYWDNIALRTYAN",
+            "type": "T-cell",
+            "reference": "Kim et al. 2021",
+            "length": 21,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      },
+      {
+        "accession": "ON409979",
+        "length": 2476,
+        "epitopes": [
+          {
+            "start": 500,
+            "end": 520,
+            "sequence": "FYTDIVQKKYGGEEDCECTRV",
+            "type": "B-cell",
+            "reference": "Yang et al. 2020",
+            "length": 21,
+            "mapped": true
+          },
+          {
+            "start": 1500,
+            "end": 1520,
+            "sequence": "NAQEENTLSYWDNIALRTYAN",
+            "type": "T-cell",
+            "reference": "Kim et al. 2021",
+            "length": 21,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 2
+      }
+    ]
+  },
+  "CP312R": {
+    "protein": "CP312R",
+    "total_sequences": 9,
+    "epitope_count": 1,
+    "sequences": [
+      {
+        "accession": "MW856067",
+        "length": 300,
+        "epitopes": [
+          {
+            "start": 100,
+            "end": 115,
+            "sequence": "YKISPPLEDDGFTVKK",
+            "type": "B-cell",
+            "reference": "Park et al. 2021",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 1
+      },
+      {
+        "accession": "PV740684",
+        "length": 307,
+        "epitopes": [
+          {
+            "start": 100,
+            "end": 115,
+            "sequence": "PCLQFNKYKISPPLED",
+            "type": "B-cell",
+            "reference": "Park et al. 2021",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 1
+      },
+      {
+        "accession": "PV740683",
+        "length": 307,
+        "epitopes": [
+          {
+            "start": 100,
+            "end": 115,
+            "sequence": "PCLQFNKYKISPPLED",
+            "type": "B-cell",
+            "reference": "Park et al. 2021",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 1
+      },
+      {
+        "accession": "MW856068",
+        "length": 307,
+        "epitopes": [
+          {
+            "start": 100,
+            "end": 115,
+            "sequence": "PCLQFNKYKISPPLED",
+            "type": "B-cell",
+            "reference": "Park et al. 2021",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 1
+      },
+      {
+        "accession": "ON409981",
+        "length": 307,
+        "epitopes": [
+          {
+            "start": 100,
+            "end": 115,
+            "sequence": "PCLQFNKYKISPPLEE",
+            "type": "B-cell",
+            "reference": "Park et al. 2021",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 1
+      },
+      {
+        "accession": "ON409980",
+        "length": 306,
+        "epitopes": [
+          {
+            "start": 100,
+            "end": 115,
+            "sequence": "CLQFNKYKISPPLEDD",
+            "type": "B-cell",
+            "reference": "Park et al. 2021",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 1
+      },
+      {
+        "accession": "ON409982",
+        "length": 307,
+        "epitopes": [
+          {
+            "start": 100,
+            "end": 115,
+            "sequence": "PCLQFNKYKISPPLED",
+            "type": "B-cell",
+            "reference": "Park et al. 2021",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 1
+      },
+      {
+        "accession": "ON409983",
+        "length": 307,
+        "epitopes": [
+          {
+            "start": 100,
+            "end": 115,
+            "sequence": "PCLQFNKYKISPPLED",
+            "type": "B-cell",
+            "reference": "Park et al. 2021",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 1
+      },
+      {
+        "accession": "ON409979",
+        "length": 307,
+        "epitopes": [
+          {
+            "start": 100,
+            "end": 115,
+            "sequence": "PCLQFNKYKISPPLED",
+            "type": "B-cell",
+            "reference": "Park et al. 2021",
+            "length": 16,
+            "mapped": true
+          }
+        ],
+        "mapped_count": 1
+      }
+    ]
+  }
+}

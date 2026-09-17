@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "warnings": [],
+  "errors": [],
+  "sequence_statistics": {
+    "count": 9,
+    "minimum_length": 385,
+    "maximum_length": 646,
+    "mean_length": 617.0,
+    "median_length": 646,
+    "unique_sequences": 6,
+    "duplicate_sequences": 3,
+    "complete_sequences": 8,
+    "partial_sequences": 1,
+    "expected_length": 646,
+    "partial_sequence_details": [
+      {
+        "id": "PV740684_B646L",
+        "length": 385,
+        "expected": 646
+      }
+    ]
+  },
+  "checksums": {
+    "protein": "cdd442a1b99b60aa7a92c76daf337943e6a67b6f3c873376d5a9d7247c4d7d8a",
+    "conservation": "f9e7f3b6fdcfe6105635c567231ed9303b4c88df30fb3932d4e69c1accc62813"
+  },
+  "conservation_linkage": {
+    "protein": "p72",
+    "gene": "B646L",
+    "alignment_length": 646,
+    "number_of_sequences": 9,
+    "matches": true
+  }
+}

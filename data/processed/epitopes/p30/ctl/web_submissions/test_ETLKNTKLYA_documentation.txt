@@ -1,0 +1,13 @@
+# Single Peptide Test: ETLKNTKLYA
+# Date: $(date)
+# Purpose: Determine NetMHCpan behavior for peptide ETLKNTKLYA
+# Configuration: PEPTIDE, Pig (SLA), 6 alleles
+
+RESULTS:
+
+Peptide: ETLKNTKLYA Core: ETLKNTLYA Rank: 0 BindLevel: 0
+Peptide: ETLKNTKLYA Core: ETLKNTKLY Rank: 0 BindLevel: 0
+Peptide: ETLKNTKLYA Core: ETLKNTKLY Rank: 0 BindLevel: 0
+Peptide: ETLKNTKLYA Core: ETLKNTKLY Rank: 0 BindLevel: 0
+Peptide: ETLKNTKLYA Core: ETLKNTKLY Rank: 0 BindLevel: 0
+Peptide: ETLKNTKLYA Core: ETLKNTKLY Rank: 0 BindLevel: 0

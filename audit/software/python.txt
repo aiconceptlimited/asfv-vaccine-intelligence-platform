@@ -1,0 +1,11 @@
+=== PYTHON ===
+/usr/bin/python3
+Python 3.12.3
+/usr/bin/python3
+3.12.3 (main, Jun 19 2026, 12:46:00) [GCC 13.3.0]
+
+=== PIP ===
+pip 24.0 from /usr/lib/python3/dist-packages/pip (python 3.12)
+
+=== BIOPYTHON ===
+Biopython: 1.83

@@ -1,0 +1,43 @@
+=== SYSTEMD SERVICES RELEVANT TO PROJECT ===
+  apache-htcacheclean.service                    loaded    active     running      Disk Cache Cleaning Daemon for Apache HTTP Server
+● apache2.service                                loaded    failed     failed       The Apache HTTP Server
+  docker.service                                 loaded    active     running      Docker Application Container Engine
+  garbaprrsv-dashboard.service                   loaded    active     running      GarbaPRRSV Streamlit Dashboard
+● intelliprrsv2.service                          loaded    failed     failed       IntelliPRRSV2 Streamlit Dashboard
+  mysql.service                                  loaded    active     running      MySQL Community Server
+  nginx.service                                  loaded    active     running      A high performance web server and a reverse proxy server
+  pcv2-dashboard.service                         loaded    active     running      PCV2 Epitope Dashboard
+  ppr_dashboard.service                          loaded    active     running      PPRV Dashboard
+  prrsv-dashboard.service                        loaded    active     running      PRRSV ORF5 Evolutionary Intelligence Dashboard
+  prrsv_dashboard.service                        loaded    activating auto-restart PRRSV EII Dashboard Service
+  vaxintaic-dashboard.service                    loaded    active     running      VAXINTAIC v3 Streamlit Dashboard
+  vaxintaic_dashboard.service                    loaded    inactive   dead         VAXINTAIC Nanoparticle & mRNA Vaccine Intelligence Dashboard
+
+=== RUNNING PROCESSES RELEVANT TO PROJECT ===
+abubakar  453397  0.1  3.1 1548468 253664 ?      Sl   Jun24 155:05 python dashboard_complete.py
+www-data  727234  0.0  0.5 263860 48188 ?        S    Aug21   0:08 apache2 -DFOREGROUND
+root     1734409  0.0  0.0  17132  1536 ?        S    Jan01   0:00 sudo mysql -u vaxuser -p
+root     1734410  0.0  0.0  17132  1328 pts/1    Ss   Jan01   0:00 sudo mysql -u vaxuser -p
+root     1734411  0.0  0.0  24708  2048 pts/1    T+   Jan01   0:00 mysql -u vaxuser -p
+root     2011520  0.0  0.1  23940  9396 ?        Ss   06:39   0:00 nginx: master process /usr/sbin/nginx -g daemon on; master_process on;
+abubakar 2011576  1.1  0.9 454160 74696 ?        Ssl  06:39  10:34 /home/abubakar/ppr_project/ppr_env/bin/python -m streamlit run scripts/visualize_results.py --server.port 8502 --server.address 0.0.0.0
+abubakar 2011578  0.0  0.8 154464 68524 ?        Ss   06:39   0:03 /home/abubakar/vaxintaic/.venv_vaxintaic/bin/python3 /home/abubakar/vaxintaic/.venv_vaxintaic/bin/streamlit run app_master.py --server.port 8501 --server.address 0.0.0.0
+abubakar 2011585  0.7  0.9 453304 73584 ?        Ssl  06:39   7:05 /home/abubakar/pcv2_env/bin/python3 /home/abubakar/pcv2_env/bin/streamlit run dashboard.py --server.port 8504 --server.address 0.0.0.0
+mysql    2011616  2.4  5.3 2510568 437064 ?      Ssl  06:39  23:06 /usr/sbin/mysqld
+abubakar 2011675  0.0  0.8 153216 68508 ?        Ss   06:39   0:03 /home/abubakar/intelliprrsv2/venv/bin/python3 /home/abubakar/intelliprrsv2/venv/bin/streamlit run app.py --server.port 8503 --server.address 0.0.0.0 --server.headless true
+www-data 2064346  0.0  0.1  25292 10624 ?        S    11:34   0:01 nginx: worker process
+www-data 2064347  0.0  0.1  25292 10496 ?        S    11:34   0:01 nginx: worker process
+www-data 2064348  0.0  0.1  25292 10496 ?        S    11:34   0:02 nginx: worker process
+www-data 2064349  0.0  0.1  25292 10496 ?        S    11:34   0:01 nginx: worker process
+abubakar 2180640  118  1.0 331020 82404 ?        Rsl  22:09   0:01 /home/abubakar/prrsv_eii/venv/bin/python /home/abubakar/prrsv_eii/dashboard_complete.py
+www-data 3217057  0.0  0.0   3620  1416 ?        Ss   Jul29   7:04 /usr/bin/htcacheclean -d 120 -p /var/cache/apache2/mod_cache_disk -l 300M -n
+root     3434732  0.0  0.2 248476 20396 ?        Ss   Jul29   9:01 apache2 -DFOREGROUND
+www-data 3434815  0.0  0.4 264124 39884 ?        S    Jul29   0:48 apache2 -DFOREGROUND
+www-data 3434816  0.0  0.4 264136 39652 ?        S    Jul29   0:50 apache2 -DFOREGROUND
+www-data 3434817  0.0  0.4 263992 38584 ?        S    Jul29   0:47 apache2 -DFOREGROUND
+www-data 3434818  0.0  0.4 264100 39232 ?        S    Jul29   0:45 apache2 -DFOREGROUND
+www-data 3434819  0.0  0.4 264064 39204 ?        S    Jul29   0:47 apache2 -DFOREGROUND
+www-data 3471509  0.0  0.4 264052 39248 ?        S    Jul29   0:47 apache2 -DFOREGROUND
+mysql    3482340  0.0  0.0   4748  2176 ?        S    Jul29   0:16 dovecot/anvil
+www-data 3860367  0.0  0.4 264044 38096 ?        S    Jul31   0:44 apache2 -DFOREGROUND
+abubakar 4105291  0.0  2.5 1677888 204132 ?      Sl   Jun16  61:13 python dashboard/dashboard_readonly.py

@@ -1,0 +1,9 @@
+=== SCRIPT COUNT ===
+Total: 82
+
+=== BY PHASE ===
+03_genome_acquisition: 15
+04_protein_extraction: 22
+05_alignment_conservation: 10
+06_sla_reference: 4
+07_epitope_discovery: 24

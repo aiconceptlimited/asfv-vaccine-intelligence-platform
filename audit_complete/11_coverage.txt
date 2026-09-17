@@ -1,0 +1,3 @@
+=== COVERAGE FILES ===
+-rw-rw-r-- 1 abubakar abubakar   66 Aug 17 17:50 data/processed/allele_coverage.tsv
+-rw-rw-r-- 1 abubakar abubakar 1558 Aug 17 17:51 data/processed/allele_coverage_fixed.tsv

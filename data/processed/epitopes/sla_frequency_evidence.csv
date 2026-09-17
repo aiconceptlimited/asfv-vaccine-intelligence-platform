@@ -1,0 +1,4 @@
+population,country,breed,sample_size,locus,allele,frequency,frequency_type,source,pmid,doi,table,page,original_value,verified,verification_date,notes
+Kenyan_free_range,Kenya,Local free-ranging,9,SLA-1,SLA-1*1501/1502,0.89,carrier_frequency,Sørensen et al. 2017,?,10.3389/fimmu.2017.00701,?,?,89%,FALSE,2026-08-23,NEEDS VERIFICATION - check exact nomenclature and frequency type
+Kenyan_free_range,Kenya,Local free-ranging,9,SLA-2,SLA-2*NS#16,0.89,carrier_frequency,Sørensen et al. 2017,?,10.3389/fimmu.2017.00701,?,?,89%,FALSE,2026-08-23,NEEDS VERIFICATION - check exact nomenclature
+Kenyan_free_range,Kenya,Local free-ranging,9,SLA-3,SLA-3*04hb06,0.78,carrier_frequency,Sørensen et al. 2017,?,10.3389/fimmu.2017.00701,?,?,78%,FALSE,2026-08-23,NEEDS VERIFICATION - check exact nomenclature

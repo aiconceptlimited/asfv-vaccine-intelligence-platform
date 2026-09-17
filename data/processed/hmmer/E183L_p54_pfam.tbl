@@ -1,0 +1,213 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name         accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+# ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+ASFV_J13L             PF05568.17 MW856067_E183L       -           5.4e-102  340.1   7.6  1.5e-101  338.6   7.6   1.6   1   1   0   1   1   1   1 African swine fever virus J13L protein
+ODV-E18               PF10717.15 MW856067_E183L       -            0.00029   21.4   1.2   0.00063   20.3   0.0   2.1   2   0   0   2   2   2   1 Occlusion-derived virus envelope protein ODV-E18
+DUF4064               PF13273.13 MW856067_E183L       -             0.0092   16.9   0.2      0.02   15.8   0.0   1.6   2   0   0   2   2   2   1 Protein of unknown function (DUF4064)
+Phycodna_minor_capsid PF25630.2  MW856067_E183L       -               0.04   14.9   0.1     0.064   14.3   0.1   1.3   1   0   0   1   1   1   0 Phycodnaviridae minor capsid protein
+CR_prot_dom_plant     PF22812.1  MW856067_E183L       -              0.044   14.9   1.0     0.091   13.9   0.4   1.9   2   0   0   2   2   1   0 Plant cysteine-rich protein domain
+Orf78                 PF06024.18 MW856067_E183L       -              0.075   14.0   0.7      0.11   13.6   0.1   1.5   2   0   0   2   2   1   0 Orf78 (ac78)
+Stevor                PF17410.8  MW856067_E183L       -                0.1   12.8   0.3      0.18   12.0   0.3   1.3   1   0   0   1   1   1   0 Subtelomeric Variable Open Reading frame
+DUF5385               PF17359.8  MW856067_E183L       -               0.12   12.7   0.4      0.18   12.1   0.4   1.2   1   0   0   1   1   1   0 Family of unknown function (DUF5385)
+TRAP_alpha            PF03896.22 MW856067_E183L       -               0.22   11.4   0.0      0.34   10.8   0.0   1.2   1   0   0   1   1   1   0 Translocon-associated protein (TRAP), alpha subunit
+Adeno_E3_CR2          PF02439.21 MW856067_E183L       -               0.23   11.9   6.1      0.35   11.4   6.1   1.2   1   0   0   1   1   1   0 Adenovirus E3 region protein CR2
+YxzE                  PF25184.2  MW856067_E183L       -               0.26   13.1   0.6      0.43   12.3   0.6   1.3   1   0   0   1   1   1   0 YxzE-like putative bacteriocin
+DUF8429               PF28533.1  MW856067_E183L       -               0.28   11.8   0.3       0.5   11.0   0.3   1.4   1   0   0   1   1   1   0 Coiled-coil region of unknown function (DUF8429)
+FixQ                  PF05545.17 MW856067_E183L       -               0.35   11.6   0.1      0.55   10.9   0.1   1.3   1   0   0   1   1   1   0 Cbb3-type cytochrome oxidase component FixQ
+TMEM154               PF15102.11 MW856067_E183L       -               0.57   10.7   6.0      0.33   11.5   0.5   2.1   2   0   0   2   2   2   0 TMEM154 protein family
+RIFIN                 PF02009.22 MW856067_E183L       -               0.62   10.6   2.8      0.28   11.8   0.8   1.4   2   0   0   2   2   2   0 Rifin
+OAD_gamma             PF04277.19 MW856067_E183L       -                2.8    9.4   5.4      0.72   11.3   2.0   1.9   2   1   0   2   2   2   0 Oxaloacetate decarboxylase, gamma chain
+EVI2B                 PF27913.1  MW856067_E183L       -                8.9    6.7   6.1        18    5.7   2.1   2.2   2   0   0   2   2   2   0 Protein EVI2B
+ASFV_J13L             PF05568.17 PV740683_E183L       -           6.4e-115  382.2   4.2  7.2e-115  382.1   4.2   1.0   1   0   0   1   1   1   1 African swine fever virus J13L protein
+CD34_antigen          PF06365.18 PV740683_E183L       -              0.001   19.8   0.0    0.0014   19.4   0.0   1.2   1   0   0   1   1   1   1 CD34/Podocalyxin family
+ODV-E18               PF10717.15 PV740683_E183L       -             0.0054   17.3   1.1     0.019   15.6   0.1   2.3   2   1   0   2   2   2   1 Occlusion-derived virus envelope protein ODV-E18
+BILF1                 PF25732.2  PV740683_E183L       -             0.0097   15.8   0.1     0.013   15.4   0.1   1.1   1   0   0   1   1   1   1 Gammaherpesvirus G-protein coupled receptor
+DUF4064               PF13273.13 PV740683_E183L       -              0.024   15.5   0.4     0.046   14.6   0.1   1.6   2   0   0   2   2   1   0 Protein of unknown function (DUF4064)
+TRAP_alpha            PF03896.22 PV740683_E183L       -              0.026   14.5   0.1     0.044   13.7   0.1   1.3   1   0   0   1   1   1   0 Translocon-associated protein (TRAP), alpha subunit
+Phycodna_minor_capsid PF25630.2  PV740683_E183L       -              0.035   15.1   0.7     0.059   14.4   0.7   1.4   1   0   0   1   1   1   0 Phycodnaviridae minor capsid protein
+SIT                   PF15330.12 PV740683_E183L       -              0.044   15.0   0.7     0.085   14.1   0.0   1.7   2   0   0   2   2   2   0 SHP2-interacting transmembrane adaptor protein, SIT
+Stevor                PF17410.8  PV740683_E183L       -              0.045   14.0   1.3     0.053   13.8   0.5   1.4   2   0   0   2   2   2   0 Subtelomeric Variable Open Reading frame
+DUF6249               PF19762.5  PV740683_E183L       -              0.052   14.2   1.0     0.082   13.6   1.0   1.3   1   0   0   1   1   1   0 Domain of unknown function (DUF6249)
+Orf78                 PF06024.18 PV740683_E183L       -              0.053   14.5   0.6     0.053   14.5   0.6   1.6   2   0   0   2   2   1   0 Orf78 (ac78)
+RIFIN                 PF02009.22 PV740683_E183L       -              0.061   14.0   1.8     0.061   14.0   1.8   1.5   2   0   0   2   2   2   0 Rifin
+COX2_TM               PF02790.21 PV740683_E183L       -              0.063   14.2   1.3      0.12   13.2   0.6   1.8   2   0   0   2   2   2   0 Cytochrome C oxidase subunit II, transmembrane domain
+DUF8429               PF28533.1  PV740683_E183L       -              0.068   13.8   0.5     0.068   13.8   0.5   1.6   2   0   0   2   2   2   0 Coiled-coil region of unknown function (DUF8429)
+TMEM154               PF15102.11 PV740683_E183L       -              0.077   13.5   0.8     0.077   13.5   0.8   2.1   2   0   0   2   2   2   0 TMEM154 protein family
+ECSCR                 PF15820.11 PV740683_E183L       -              0.078   13.6   0.3      0.16   12.5   0.3   1.5   1   0   0   1   1   1   0 Endothelial cell-specific chemotaxis regulator
+CR_prot_dom_plant     PF22812.1  PV740683_E183L       -              0.087   14.0   0.2      0.23   12.6   0.2   1.7   1   0   0   1   1   1   0 Plant cysteine-rich protein domain
+DUF4381               PF14316.12 PV740683_E183L       -               0.09   13.8   0.0      0.15   13.1   0.0   1.3   1   0   0   1   1   1   0 Domain of unknown function (DUF4381)
+YxzE                  PF25184.2  PV740683_E183L       -               0.12   14.2   0.3       0.2   13.4   0.3   1.3   1   0   0   1   1   1   0 YxzE-like putative bacteriocin
+DUF4006               PF13179.14 PV740683_E183L       -               0.13   12.7   1.3      0.18   12.3   0.1   1.9   2   0   0   2   2   2   0 Family of unknown function (DUF4006)
+YukC                  PF10140.16 PV740683_E183L       -               0.14   11.7   0.6      0.21   11.2   0.6   1.2   1   0   0   1   1   1   0 WXG100 protein secretion system (Wss), protein YukC
+DUF2730               PF10805.15 PV740683_E183L       -               0.15   13.1   0.1      0.27   12.2   0.1   1.4   1   0   0   1   1   1   0 Phage Mu-like releasin family
+Opalin                PF27852.2  PV740683_E183L       -               0.18   12.6   0.0      0.29   11.9   0.0   1.4   1   0   0   1   1   1   0 Opalin
+DUF5385               PF17359.8  PV740683_E183L       -               0.23   11.8   1.0      0.35   11.2   1.0   1.3   1   0   0   1   1   1   0 Family of unknown function (DUF5385)
+NDUF_B4               PF07225.18 PV740683_E183L       -               0.24   12.0   0.0      0.41   11.3   0.0   1.3   1   0   0   1   1   1   0 NADH-ubiquinone oxidoreductase B15 subunit (NDUFB4)
+FixQ                  PF05545.17 PV740683_E183L       -               0.26   12.0   0.4      0.41   11.3   0.4   1.3   1   0   0   1   1   1   0 Cbb3-type cytochrome oxidase component FixQ
+Sigma_reg_N           PF13800.12 PV740683_E183L       -               0.29   12.1   3.2      0.23   12.5   0.7   1.8   2   0   0   2   2   2   0 Sigma factor regulator N-terminal
+TMEM132_C             PF15706.11 PV740683_E183L       -                0.3   11.6   0.0      0.59   10.6   0.0   1.5   1   0   0   1   1   1   0 TMEM132 C-terminal
+C3orf18_N             PF27898.1  PV740683_E183L       -               0.49   11.1   3.7      0.86   10.3   3.7   1.3   1   0   0   1   1   1   0 C3orf18, N-terminal domain
+Glycophorin_A         PF01102.24 PV740683_E183L       -                  2    9.4   5.9       3.4    8.7   0.9   2.3   2   0   0   2   2   2   0 Glycophorin A
+EzrA                  PF06160.18 PV740683_E183L       -                2.1    7.3   7.1      0.12   11.4   2.4   1.3   2   0   0   2   2   2   0 Septation ring formation regulator, EzrA
+DUF6715               PF20462.6  PV740683_E183L       -                4.8    7.6   4.9      0.63   10.5   0.5   1.6   2   0   0   2   2   2   0 Domain of unknown function (DUF6715)
+ASFV_J13L             PF05568.17 MW856068_E183L       -           4.5e-114  379.5   4.3    5e-114  379.3   4.3   1.0   1   0   0   1   1   1   1 African swine fever virus J13L protein
+ODV-E18               PF10717.15 MW856068_E183L       -             0.0097   16.5   1.4     0.028   15.0   0.1   2.3   2   1   0   2   2   2   1 Occlusion-derived virus envelope protein ODV-E18
+BILF1                 PF25732.2  MW856068_E183L       -              0.013   15.3   0.1     0.018   14.9   0.1   1.1   1   0   0   1   1   1   0 Gammaherpesvirus G-protein coupled receptor
+DUF4064               PF13273.13 MW856068_E183L       -              0.016   16.2   0.5     0.027   15.4   0.1   1.6   2   0   0   2   2   1   0 Protein of unknown function (DUF4064)
+CD34_antigen          PF06365.18 MW856068_E183L       -              0.025   15.3   0.0     0.033   14.9   0.0   1.2   1   0   0   1   1   1   0 CD34/Podocalyxin family
+ECSCR                 PF15820.11 MW856068_E183L       -              0.032   14.8   0.2     0.068   13.8   0.2   1.5   1   0   0   1   1   1   0 Endothelial cell-specific chemotaxis regulator
+Phycodna_minor_capsid PF25630.2  MW856068_E183L       -              0.036   15.1   0.8      0.06   14.4   0.8   1.4   1   0   0   1   1   1   0 Phycodnaviridae minor capsid protein
+TRAP_alpha            PF03896.22 MW856068_E183L       -              0.043   13.7   0.1     0.073   13.0   0.1   1.3   1   0   0   1   1   1   0 Translocon-associated protein (TRAP), alpha subunit
+YukC                  PF10140.16 MW856068_E183L       -              0.054   13.1   0.7     0.082   12.5   0.7   1.2   1   0   0   1   1   1   0 WXG100 protein secretion system (Wss), protein YukC
+COX2_TM               PF02790.21 MW856068_E183L       -              0.082   13.8   1.5      0.15   12.9   0.7   1.8   2   0   0   2   2   2   0 Cytochrome C oxidase subunit II, transmembrane domain
+CR_prot_dom_plant     PF22812.1  MW856068_E183L       -              0.097   13.8   0.3      0.25   12.5   0.3   1.7   1   0   0   1   1   1   0 Plant cysteine-rich protein domain
+Baculo_11_kDa         PF06143.17 MW856068_E183L       -               0.11   12.8   0.6      0.23   11.8   0.6   1.5   1   0   0   1   1   1   0 Baculovirus 11 kDa family
+DUF8429               PF28533.1  MW856068_E183L       -               0.12   13.0   0.7      0.12   13.0   0.7   1.6   2   0   0   2   2   2   0 Coiled-coil region of unknown function (DUF8429)
+Viral_Beta_CD         PF04530.18 MW856068_E183L       -               0.12   13.4   0.3      0.27   12.3   0.0   1.7   2   0   0   2   2   2   0 Viral Beta C/D like family
+PspB                  PF06667.18 MW856068_E183L       -               0.13   13.1   0.3      0.22   12.3   0.3   1.3   1   0   0   1   1   1   0 Phage shock protein B
+Orf78                 PF06024.18 MW856068_E183L       -               0.13   13.3   0.7      0.13   13.3   0.7   1.6   2   0   0   2   2   2   0 Orf78 (ac78)
+DUF6249               PF19762.5  MW856068_E183L       -               0.14   12.8   0.8      0.23   12.2   0.8   1.3   1   0   0   1   1   1   0 Domain of unknown function (DUF6249)
+DUF4006               PF13179.14 MW856068_E183L       -               0.18   12.2   1.6      0.21   12.0   0.1   1.9   2   0   0   2   2   2   0 Family of unknown function (DUF4006)
+YxzE                  PF25184.2  MW856068_E183L       -               0.19   13.5   0.3       0.3   12.8   0.3   1.3   1   0   0   1   1   1   0 YxzE-like putative bacteriocin
+Stevor                PF17410.8  MW856068_E183L       -               0.24   11.6   1.8      0.24   11.6   0.8   1.4   2   0   0   2   2   2   0 Subtelomeric Variable Open Reading frame
+FixQ                  PF05545.17 MW856068_E183L       -               0.27   11.9   0.5      0.47   11.1   0.5   1.3   1   0   0   1   1   1   0 Cbb3-type cytochrome oxidase component FixQ
+DUF5385               PF17359.8  MW856068_E183L       -               0.28   11.5   1.0      0.42   10.9   1.0   1.3   1   0   0   1   1   1   0 Family of unknown function (DUF5385)
+Sigma_reg_N           PF13800.12 MW856068_E183L       -               0.62   11.1   3.5      0.42   11.6   0.8   1.8   2   0   0   2   2   2   0 Sigma factor regulator N-terminal
+C3orf18_N             PF27898.1  MW856068_E183L       -               0.98   10.1   3.6       1.8    9.3   3.6   1.3   1   0   0   1   1   1   0 C3orf18, N-terminal domain
+Mid2                  PF04478.18 MW856068_E183L       -                1.1    9.8   4.1       1.6    9.2   0.3   2.2   2   0   0   2   2   2   0 Mid2 like cell wall stress sensor
+RIFIN                 PF02009.22 MW856068_E183L       -                1.2    9.6   4.2       0.5   10.9   1.7   1.5   2   0   0   2   2   2   0 Rifin
+TMEM154               PF15102.11 MW856068_E183L       -                2.2    8.8   6.1      0.44   11.1   0.7   2.1   2   0   0   2   2   2   0 TMEM154 protein family
+ASFV_J13L             PF05568.17 ON409981_E183L       -            2.3e-74  250.0   0.6   2.8e-74  249.7   0.6   1.0   1   0   0   1   1   1   1 African swine fever virus J13L protein
+ODV-E18               PF10717.15 ON409981_E183L       -            0.00071   20.1   0.7    0.0016   18.9   0.1   1.8   2   0   0   2   2   2   1 Occlusion-derived virus envelope protein ODV-E18
+DUF4064               PF13273.13 ON409981_E183L       -             0.0016   19.3   0.1    0.0019   19.1   0.1   1.1   1   0   0   1   1   1   1 Protein of unknown function (DUF4064)
+BILF1                 PF25732.2  ON409981_E183L       -             0.0063   16.4   0.2    0.0073   16.2   0.2   1.0   1   0   0   1   1   1   1 Gammaherpesvirus G-protein coupled receptor
+Phycodna_minor_capsid PF25630.2  ON409981_E183L       -             0.0094   17.0   0.1     0.014   16.4   0.1   1.3   1   0   0   1   1   1   1 Phycodnaviridae minor capsid protein
+Orf78                 PF06024.18 ON409981_E183L       -              0.026   15.5   0.4     0.033   15.2   0.4   1.1   1   0   0   1   1   1   0 Orf78 (ac78)
+TRAP_alpha            PF03896.22 ON409981_E183L       -              0.028   14.3   0.1     0.037   14.0   0.1   1.1   1   0   0   1   1   1   0 Translocon-associated protein (TRAP), alpha subunit
+CD34_antigen          PF06365.18 ON409981_E183L       -              0.035   14.8   0.0     0.041   14.6   0.0   1.1   1   0   0   1   1   1   0 CD34/Podocalyxin family
+DUF8429               PF28533.1  ON409981_E183L       -               0.05   14.2   0.7     0.064   13.9   0.7   1.1   1   0   0   1   1   1   0 Coiled-coil region of unknown function (DUF8429)
+Stevor                PF17410.8  ON409981_E183L       -              0.053   13.8   0.7     0.064   13.5   0.7   1.1   1   0   0   1   1   1   0 Subtelomeric Variable Open Reading frame
+EzrA                  PF06160.18 ON409981_E183L       -              0.057   12.5   1.8     0.062   12.3   1.8   1.0   1   0   0   1   1   1   0 Septation ring formation regulator, EzrA
+YxzE                  PF25184.2  ON409981_E183L       -              0.074   14.8   0.4     0.094   14.5   0.4   1.2   1   0   0   1   1   1   0 YxzE-like putative bacteriocin
+ECSCR                 PF15820.11 ON409981_E183L       -              0.087   13.4   0.2      0.12   13.0   0.2   1.2   1   0   0   1   1   1   0 Endothelial cell-specific chemotaxis regulator
+DUF4006               PF13179.14 ON409981_E183L       -              0.088   13.2   0.2      0.13   12.7   0.2   1.3   1   0   0   1   1   1   0 Family of unknown function (DUF4006)
+DUF5385               PF17359.8  ON409981_E183L       -              0.088   13.1   0.8       0.1   12.9   0.8   1.1   1   0   0   1   1   1   0 Family of unknown function (DUF5385)
+Viral_Beta_CD         PF04530.18 ON409981_E183L       -                0.1   13.6   0.2      0.13   13.2   0.2   1.3   1   0   0   1   1   1   0 Viral Beta C/D like family
+YukC                  PF10140.16 ON409981_E183L       -               0.12   12.0   0.4      0.14   11.7   0.4   1.0   1   0   0   1   1   1   0 WXG100 protein secretion system (Wss), protein YukC
+DUF4381               PF14316.12 ON409981_E183L       -               0.13   13.3   0.0      0.17   12.9   0.0   1.2   1   0   0   1   1   1   0 Domain of unknown function (DUF4381)
+TMEM154               PF15102.11 ON409981_E183L       -               0.16   12.5   0.7      0.21   12.1   0.7   1.2   1   0   0   1   1   1   0 TMEM154 protein family
+FixQ                  PF05545.17 ON409981_E183L       -               0.16   12.6   0.5      0.24   12.1   0.5   1.2   1   0   0   1   1   1   0 Cbb3-type cytochrome oxidase component FixQ
+RIFIN                 PF02009.22 ON409981_E183L       -               0.19   12.4   1.9      0.23   12.1   1.9   1.1   1   0   0   1   1   1   0 Rifin
+C3orf18_N             PF27898.1  ON409981_E183L       -                0.2   12.3   3.1      0.33   11.7   3.1   1.2   1   0   0   1   1   1   0 C3orf18, N-terminal domain
+PspB                  PF06667.18 ON409981_E183L       -               0.21   12.4   0.3       0.3   11.9   0.3   1.1   1   0   0   1   1   1   0 Phage shock protein B
+DUF2730               PF10805.15 ON409981_E183L       -               0.37   11.8   0.1      0.48   11.4   0.1   1.1   1   0   0   1   1   1   0 Phage Mu-like releasin family
+FeoB_associated       PF12669.13 ON409981_E183L       -                9.7    7.4   7.5        14    6.9   7.5   1.2   1   0   0   1   1   1   0 FeoB-associated Cys-rich membrane protein
+ASFV_J13L             PF05568.17 ON409980_E183L       -             1e-103  345.7   6.4    2e-103  344.8   6.4   1.4   1   1   0   1   1   1   1 African swine fever virus J13L protein
+ODV-E18               PF10717.15 ON409980_E183L       -            0.00035   21.1   0.8    0.0016   19.0   0.0   2.3   2   1   1   3   3   3   1 Occlusion-derived virus envelope protein ODV-E18
+DUF4064               PF13273.13 ON409980_E183L       -             0.0047   17.8   0.7      0.01   16.8   0.1   1.7   2   0   0   2   2   2   1 Protein of unknown function (DUF4064)
+Phycodna_minor_capsid PF25630.2  ON409980_E183L       -              0.029   15.4   0.1     0.046   14.7   0.1   1.3   1   0   0   1   1   1   0 Phycodnaviridae minor capsid protein
+CR_prot_dom_plant     PF22812.1  ON409980_E183L       -              0.036   15.2   0.4     0.091   13.9   0.4   1.7   1   0   0   1   1   1   0 Plant cysteine-rich protein domain
+Stevor                PF17410.8  ON409980_E183L       -              0.072   13.4   1.5      0.17   12.1   0.3   1.8   2   0   0   2   2   2   0 Subtelomeric Variable Open Reading frame
+Orf78                 PF06024.18 ON409980_E183L       -              0.084   13.9   1.2     0.092   13.8   0.2   1.5   2   0   0   2   2   1   0 Orf78 (ac78)
+DUF8429               PF28533.1  ON409980_E183L       -               0.13   12.8   0.5      0.27   11.8   0.5   1.4   1   0   0   1   1   1   0 Coiled-coil region of unknown function (DUF8429)
+TRAP_alpha            PF03896.22 ON409980_E183L       -               0.14   12.0   0.0      0.23   11.4   0.0   1.2   1   0   0   1   1   1   0 Translocon-associated protein (TRAP), alpha subunit
+YxzE                  PF25184.2  ON409980_E183L       -               0.16   13.8   0.3      0.27   13.0   0.3   1.4   1   0   0   1   1   1   0 YxzE-like putative bacteriocin
+FixQ                  PF05545.17 ON409980_E183L       -                0.2   12.4   0.2      0.35   11.6   0.2   1.3   1   0   0   1   1   1   0 Cbb3-type cytochrome oxidase component FixQ
+DUF5385               PF17359.8  ON409980_E183L       -                0.2   12.0   0.8      0.31   11.4   0.8   1.2   1   0   0   1   1   1   0 Family of unknown function (DUF5385)
+Adeno_E3_CR2          PF02439.21 ON409980_E183L       -               0.22   12.0   6.1      0.31   11.5   6.1   1.2   1   0   0   1   1   1   0 Adenovirus E3 region protein CR2
+DUF4006               PF13179.14 ON409980_E183L       -               0.25   11.7   0.4      0.49   10.8   0.4   1.5   1   0   0   1   1   1   0 Family of unknown function (DUF4006)
+Baculo_11_kDa         PF06143.17 ON409980_E183L       -               0.31   11.4   1.3      0.54   10.6   1.3   1.4   1   0   0   1   1   1   0 Baculovirus 11 kDa family
+RIFIN                 PF02009.22 ON409980_E183L       -               0.66   10.6   3.7      0.31   11.6   1.1   1.6   2   0   0   2   2   2   0 Rifin
+TMEM154               PF15102.11 ON409980_E183L       -                1.1    9.8   7.5      0.26   11.9   0.7   2.1   2   0   0   2   2   2   0 TMEM154 protein family
+OAD_gamma             PF04277.19 ON409980_E183L       -                  4    8.9   6.0        10    7.6   6.0   2.0   1   1   0   1   1   1   0 Oxaloacetate decarboxylase, gamma chain
+ASFV_J13L             PF05568.17 ON409982_E183L       -           4.5e-114  379.5   4.3    5e-114  379.3   4.3   1.0   1   0   0   1   1   1   1 African swine fever virus J13L protein
+ODV-E18               PF10717.15 ON409982_E183L       -             0.0097   16.5   1.4     0.028   15.0   0.1   2.3   2   1   0   2   2   2   1 Occlusion-derived virus envelope protein ODV-E18
+BILF1                 PF25732.2  ON409982_E183L       -              0.013   15.3   0.1     0.018   14.9   0.1   1.1   1   0   0   1   1   1   0 Gammaherpesvirus G-protein coupled receptor
+DUF4064               PF13273.13 ON409982_E183L       -              0.016   16.2   0.5     0.027   15.4   0.1   1.6   2   0   0   2   2   1   0 Protein of unknown function (DUF4064)
+CD34_antigen          PF06365.18 ON409982_E183L       -              0.025   15.3   0.0     0.033   14.9   0.0   1.2   1   0   0   1   1   1   0 CD34/Podocalyxin family
+ECSCR                 PF15820.11 ON409982_E183L       -              0.032   14.8   0.2     0.068   13.8   0.2   1.5   1   0   0   1   1   1   0 Endothelial cell-specific chemotaxis regulator
+Phycodna_minor_capsid PF25630.2  ON409982_E183L       -              0.036   15.1   0.8      0.06   14.4   0.8   1.4   1   0   0   1   1   1   0 Phycodnaviridae minor capsid protein
+TRAP_alpha            PF03896.22 ON409982_E183L       -              0.043   13.7   0.1     0.073   13.0   0.1   1.3   1   0   0   1   1   1   0 Translocon-associated protein (TRAP), alpha subunit
+YukC                  PF10140.16 ON409982_E183L       -              0.054   13.1   0.7     0.082   12.5   0.7   1.2   1   0   0   1   1   1   0 WXG100 protein secretion system (Wss), protein YukC
+COX2_TM               PF02790.21 ON409982_E183L       -              0.082   13.8   1.5      0.15   12.9   0.7   1.8   2   0   0   2   2   2   0 Cytochrome C oxidase subunit II, transmembrane domain
+CR_prot_dom_plant     PF22812.1  ON409982_E183L       -              0.097   13.8   0.3      0.25   12.5   0.3   1.7   1   0   0   1   1   1   0 Plant cysteine-rich protein domain
+Baculo_11_kDa         PF06143.17 ON409982_E183L       -               0.11   12.8   0.6      0.23   11.8   0.6   1.5   1   0   0   1   1   1   0 Baculovirus 11 kDa family
+DUF8429               PF28533.1  ON409982_E183L       -               0.12   13.0   0.7      0.12   13.0   0.7   1.6   2   0   0   2   2   2   0 Coiled-coil region of unknown function (DUF8429)
+Viral_Beta_CD         PF04530.18 ON409982_E183L       -               0.12   13.4   0.3      0.27   12.3   0.0   1.7   2   0   0   2   2   2   0 Viral Beta C/D like family
+PspB                  PF06667.18 ON409982_E183L       -               0.13   13.1   0.3      0.22   12.3   0.3   1.3   1   0   0   1   1   1   0 Phage shock protein B
+Orf78                 PF06024.18 ON409982_E183L       -               0.13   13.3   0.7      0.13   13.3   0.7   1.6   2   0   0   2   2   2   0 Orf78 (ac78)
+DUF6249               PF19762.5  ON409982_E183L       -               0.14   12.8   0.8      0.23   12.2   0.8   1.3   1   0   0   1   1   1   0 Domain of unknown function (DUF6249)
+DUF4006               PF13179.14 ON409982_E183L       -               0.18   12.2   1.6      0.21   12.0   0.1   1.9   2   0   0   2   2   2   0 Family of unknown function (DUF4006)
+YxzE                  PF25184.2  ON409982_E183L       -               0.19   13.5   0.3       0.3   12.8   0.3   1.3   1   0   0   1   1   1   0 YxzE-like putative bacteriocin
+Stevor                PF17410.8  ON409982_E183L       -               0.24   11.6   1.8      0.24   11.6   0.8   1.4   2   0   0   2   2   2   0 Subtelomeric Variable Open Reading frame
+FixQ                  PF05545.17 ON409982_E183L       -               0.27   11.9   0.5      0.47   11.1   0.5   1.3   1   0   0   1   1   1   0 Cbb3-type cytochrome oxidase component FixQ
+DUF5385               PF17359.8  ON409982_E183L       -               0.28   11.5   1.0      0.42   10.9   1.0   1.3   1   0   0   1   1   1   0 Family of unknown function (DUF5385)
+Sigma_reg_N           PF13800.12 ON409982_E183L       -               0.62   11.1   3.5      0.42   11.6   0.8   1.8   2   0   0   2   2   2   0 Sigma factor regulator N-terminal
+C3orf18_N             PF27898.1  ON409982_E183L       -               0.98   10.1   3.6       1.8    9.3   3.6   1.3   1   0   0   1   1   1   0 C3orf18, N-terminal domain
+Mid2                  PF04478.18 ON409982_E183L       -                1.1    9.8   4.1       1.6    9.2   0.3   2.2   2   0   0   2   2   2   0 Mid2 like cell wall stress sensor
+RIFIN                 PF02009.22 ON409982_E183L       -                1.2    9.6   4.2       0.5   10.9   1.7   1.5   2   0   0   2   2   2   0 Rifin
+TMEM154               PF15102.11 ON409982_E183L       -                2.2    8.8   6.1      0.44   11.1   0.7   2.1   2   0   0   2   2   2   0 TMEM154 protein family
+ASFV_J13L             PF05568.17 ON409983_E183L       -           4.5e-114  379.5   4.3    5e-114  379.3   4.3   1.0   1   0   0   1   1   1   1 African swine fever virus J13L protein
+ODV-E18               PF10717.15 ON409983_E183L       -             0.0097   16.5   1.4     0.028   15.0   0.1   2.3   2   1   0   2   2   2   1 Occlusion-derived virus envelope protein ODV-E18
+BILF1                 PF25732.2  ON409983_E183L       -              0.013   15.3   0.1     0.018   14.9   0.1   1.1   1   0   0   1   1   1   0 Gammaherpesvirus G-protein coupled receptor
+DUF4064               PF13273.13 ON409983_E183L       -              0.016   16.2   0.5     0.027   15.4   0.1   1.6   2   0   0   2   2   1   0 Protein of unknown function (DUF4064)
+CD34_antigen          PF06365.18 ON409983_E183L       -              0.025   15.3   0.0     0.033   14.9   0.0   1.2   1   0   0   1   1   1   0 CD34/Podocalyxin family
+ECSCR                 PF15820.11 ON409983_E183L       -              0.032   14.8   0.2     0.068   13.8   0.2   1.5   1   0   0   1   1   1   0 Endothelial cell-specific chemotaxis regulator
+Phycodna_minor_capsid PF25630.2  ON409983_E183L       -              0.036   15.1   0.8      0.06   14.4   0.8   1.4   1   0   0   1   1   1   0 Phycodnaviridae minor capsid protein
+TRAP_alpha            PF03896.22 ON409983_E183L       -              0.043   13.7   0.1     0.073   13.0   0.1   1.3   1   0   0   1   1   1   0 Translocon-associated protein (TRAP), alpha subunit
+YukC                  PF10140.16 ON409983_E183L       -              0.054   13.1   0.7     0.082   12.5   0.7   1.2   1   0   0   1   1   1   0 WXG100 protein secretion system (Wss), protein YukC
+COX2_TM               PF02790.21 ON409983_E183L       -              0.082   13.8   1.5      0.15   12.9   0.7   1.8   2   0   0   2   2   2   0 Cytochrome C oxidase subunit II, transmembrane domain
+CR_prot_dom_plant     PF22812.1  ON409983_E183L       -              0.097   13.8   0.3      0.25   12.5   0.3   1.7   1   0   0   1   1   1   0 Plant cysteine-rich protein domain
+Baculo_11_kDa         PF06143.17 ON409983_E183L       -               0.11   12.8   0.6      0.23   11.8   0.6   1.5   1   0   0   1   1   1   0 Baculovirus 11 kDa family
+DUF8429               PF28533.1  ON409983_E183L       -               0.12   13.0   0.7      0.12   13.0   0.7   1.6   2   0   0   2   2   2   0 Coiled-coil region of unknown function (DUF8429)
+Viral_Beta_CD         PF04530.18 ON409983_E183L       -               0.12   13.4   0.3      0.27   12.3   0.0   1.7   2   0   0   2   2   2   0 Viral Beta C/D like family
+PspB                  PF06667.18 ON409983_E183L       -               0.13   13.1   0.3      0.22   12.3   0.3   1.3   1   0   0   1   1   1   0 Phage shock protein B
+Orf78                 PF06024.18 ON409983_E183L       -               0.13   13.3   0.7      0.13   13.3   0.7   1.6   2   0   0   2   2   2   0 Orf78 (ac78)
+DUF6249               PF19762.5  ON409983_E183L       -               0.14   12.8   0.8      0.23   12.2   0.8   1.3   1   0   0   1   1   1   0 Domain of unknown function (DUF6249)
+DUF4006               PF13179.14 ON409983_E183L       -               0.18   12.2   1.6      0.21   12.0   0.1   1.9   2   0   0   2   2   2   0 Family of unknown function (DUF4006)
+YxzE                  PF25184.2  ON409983_E183L       -               0.19   13.5   0.3       0.3   12.8   0.3   1.3   1   0   0   1   1   1   0 YxzE-like putative bacteriocin
+Stevor                PF17410.8  ON409983_E183L       -               0.24   11.6   1.8      0.24   11.6   0.8   1.4   2   0   0   2   2   2   0 Subtelomeric Variable Open Reading frame
+FixQ                  PF05545.17 ON409983_E183L       -               0.27   11.9   0.5      0.47   11.1   0.5   1.3   1   0   0   1   1   1   0 Cbb3-type cytochrome oxidase component FixQ
+DUF5385               PF17359.8  ON409983_E183L       -               0.28   11.5   1.0      0.42   10.9   1.0   1.3   1   0   0   1   1   1   0 Family of unknown function (DUF5385)
+Sigma_reg_N           PF13800.12 ON409983_E183L       -               0.62   11.1   3.5      0.42   11.6   0.8   1.8   2   0   0   2   2   2   0 Sigma factor regulator N-terminal
+C3orf18_N             PF27898.1  ON409983_E183L       -               0.98   10.1   3.6       1.8    9.3   3.6   1.3   1   0   0   1   1   1   0 C3orf18, N-terminal domain
+Mid2                  PF04478.18 ON409983_E183L       -                1.1    9.8   4.1       1.6    9.2   0.3   2.2   2   0   0   2   2   2   0 Mid2 like cell wall stress sensor
+RIFIN                 PF02009.22 ON409983_E183L       -                1.2    9.6   4.2       0.5   10.9   1.7   1.5   2   0   0   2   2   2   0 Rifin
+TMEM154               PF15102.11 ON409983_E183L       -                2.2    8.8   6.1      0.44   11.1   0.7   2.1   2   0   0   2   2   2   0 TMEM154 protein family
+ASFV_J13L             PF05568.17 ON409979_E183L       -           4.5e-114  379.5   4.3    5e-114  379.3   4.3   1.0   1   0   0   1   1   1   1 African swine fever virus J13L protein
+ODV-E18               PF10717.15 ON409979_E183L       -             0.0097   16.5   1.4     0.028   15.0   0.1   2.3   2   1   0   2   2   2   1 Occlusion-derived virus envelope protein ODV-E18
+BILF1                 PF25732.2  ON409979_E183L       -              0.013   15.3   0.1     0.018   14.9   0.1   1.1   1   0   0   1   1   1   0 Gammaherpesvirus G-protein coupled receptor
+DUF4064               PF13273.13 ON409979_E183L       -              0.016   16.2   0.5     0.027   15.4   0.1   1.6   2   0   0   2   2   1   0 Protein of unknown function (DUF4064)
+CD34_antigen          PF06365.18 ON409979_E183L       -              0.025   15.3   0.0     0.033   14.9   0.0   1.2   1   0   0   1   1   1   0 CD34/Podocalyxin family
+ECSCR                 PF15820.11 ON409979_E183L       -              0.032   14.8   0.2     0.068   13.8   0.2   1.5   1   0   0   1   1   1   0 Endothelial cell-specific chemotaxis regulator
+Phycodna_minor_capsid PF25630.2  ON409979_E183L       -              0.036   15.1   0.8      0.06   14.4   0.8   1.4   1   0   0   1   1   1   0 Phycodnaviridae minor capsid protein
+TRAP_alpha            PF03896.22 ON409979_E183L       -              0.043   13.7   0.1     0.073   13.0   0.1   1.3   1   0   0   1   1   1   0 Translocon-associated protein (TRAP), alpha subunit
+YukC                  PF10140.16 ON409979_E183L       -              0.054   13.1   0.7     0.082   12.5   0.7   1.2   1   0   0   1   1   1   0 WXG100 protein secretion system (Wss), protein YukC
+COX2_TM               PF02790.21 ON409979_E183L       -              0.082   13.8   1.5      0.15   12.9   0.7   1.8   2   0   0   2   2   2   0 Cytochrome C oxidase subunit II, transmembrane domain
+CR_prot_dom_plant     PF22812.1  ON409979_E183L       -              0.097   13.8   0.3      0.25   12.5   0.3   1.7   1   0   0   1   1   1   0 Plant cysteine-rich protein domain
+Baculo_11_kDa         PF06143.17 ON409979_E183L       -               0.11   12.8   0.6      0.23   11.8   0.6   1.5   1   0   0   1   1   1   0 Baculovirus 11 kDa family
+DUF8429               PF28533.1  ON409979_E183L       -               0.12   13.0   0.7      0.12   13.0   0.7   1.6   2   0   0   2   2   2   0 Coiled-coil region of unknown function (DUF8429)
+Viral_Beta_CD         PF04530.18 ON409979_E183L       -               0.12   13.4   0.3      0.27   12.3   0.0   1.7   2   0   0   2   2   2   0 Viral Beta C/D like family
+PspB                  PF06667.18 ON409979_E183L       -               0.13   13.1   0.3      0.22   12.3   0.3   1.3   1   0   0   1   1   1   0 Phage shock protein B
+Orf78                 PF06024.18 ON409979_E183L       -               0.13   13.3   0.7      0.13   13.3   0.7   1.6   2   0   0   2   2   2   0 Orf78 (ac78)
+DUF6249               PF19762.5  ON409979_E183L       -               0.14   12.8   0.8      0.23   12.2   0.8   1.3   1   0   0   1   1   1   0 Domain of unknown function (DUF6249)
+DUF4006               PF13179.14 ON409979_E183L       -               0.18   12.2   1.6      0.21   12.0   0.1   1.9   2   0   0   2   2   2   0 Family of unknown function (DUF4006)
+YxzE                  PF25184.2  ON409979_E183L       -               0.19   13.5   0.3       0.3   12.8   0.3   1.3   1   0   0   1   1   1   0 YxzE-like putative bacteriocin
+Stevor                PF17410.8  ON409979_E183L       -               0.24   11.6   1.8      0.24   11.6   0.8   1.4   2   0   0   2   2   2   0 Subtelomeric Variable Open Reading frame
+FixQ                  PF05545.17 ON409979_E183L       -               0.27   11.9   0.5      0.47   11.1   0.5   1.3   1   0   0   1   1   1   0 Cbb3-type cytochrome oxidase component FixQ
+DUF5385               PF17359.8  ON409979_E183L       -               0.28   11.5   1.0      0.42   10.9   1.0   1.3   1   0   0   1   1   1   0 Family of unknown function (DUF5385)
+Sigma_reg_N           PF13800.12 ON409979_E183L       -               0.62   11.1   3.5      0.42   11.6   0.8   1.8   2   0   0   2   2   2   0 Sigma factor regulator N-terminal
+C3orf18_N             PF27898.1  ON409979_E183L       -               0.98   10.1   3.6       1.8    9.3   3.6   1.3   1   0   0   1   1   1   0 C3orf18, N-terminal domain
+Mid2                  PF04478.18 ON409979_E183L       -                1.1    9.8   4.1       1.6    9.2   0.3   2.2   2   0   0   2   2   2   0 Mid2 like cell wall stress sensor
+RIFIN                 PF02009.22 ON409979_E183L       -                1.2    9.6   4.2       0.5   10.9   1.7   1.5   2   0   0   2   2   2   0 Rifin
+TMEM154               PF15102.11 ON409979_E183L       -                2.2    8.8   6.1      0.44   11.1   0.7   2.1   2   0   0   2   2   2   0 TMEM154 protein family
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      data/interim/proteins/E183L_p54_sequences.fasta
+# Target file:     data/raw/reference/pfam/Pfam-A.hmm
+# Option settings: hmmscan --tblout data/processed/hmmer/E183L_p54_pfam.tbl data/raw/reference/pfam/Pfam-A.hmm data/interim/proteins/E183L_p54_sequences.fasta 
+# Current dir:     /home/abubakar/asfv_vaccine_platform
+# Date:            Thu Jul 23 11:03:42 2026
+# [ok]

@@ -1,0 +1,37 @@
+================================================================================
+HTL LINKER BIOLOGY — EVIDENCE REVIEW
+================================================================================
+
+1. GPGPG Linker (Gly-Pro-Gly-Pro-Gly)
+   - Most commonly used HTL linker
+   - Flexible, glycine-proline-rich sequence
+   - Maintains structural independence of HTL epitopes
+   - Important for MHC-II binding (HTL epitopes bind as 15-mers)
+
+2. Alternative HTL Linkers
+   - GGGGS — flexible, may not provide enough spatial separation
+   - GGS — shorter, less separation
+   - GPGPG is preferred for HTL constructs
+
+3. MHC-II Processing
+   - HTL epitopes are 15-mers (your HTLs are 15-mers)
+   - MHC-II binding requires flexible presentation
+   - Linker should not interfere with the 15-mer binding core
+
+4. Junctional Peptide Risk
+   - New 15-mer sequences formed at linker-epitope junctions
+   - May create unintended MHC-II binding peptides
+   - Should be assessed computationally
+
+5. Specific Recommendations for Your Panel:
+   - 3 HTL candidates (p54, pp220, p30) — all 15-mers
+   - GPGPG is appropriate, but junctional 15-mers should be checked
+   - Consider whether linkers create new 9-mer CTL epitopes
+
+================================================================================
+REFERENCES TO SEARCH
+================================================================================
+1. "GPGPG linker MHC-II"
+2. "HTL epitope linker design"
+3. "MHC-II presentation of multi-epitope vaccines"
+================================================================================

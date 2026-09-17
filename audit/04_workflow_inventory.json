@@ -1,0 +1,26 @@
+{
+  "rules": [
+    "workflow/rules/03_genome_acquisition.smk",
+    "workflow/rules/04_protein_extraction.smk"
+  ],
+  "resources": [
+    "workflow/resources/accession_manifest.txt"
+  ],
+  "envs": [
+    "workflow/envs/base_env.yaml"
+  ],
+  "config": [
+    "config/proteins.yaml",
+    "config/genomes.yaml",
+    "config/sla.yaml",
+    "config/pipeline.yaml",
+    "config/project.yaml",
+    "config/thresholds.yaml",
+    "config/dashboard.yaml"
+  ],
+  "entrypoints": [
+    "Snakefile.bak",
+    "Snakefile.bak2",
+    "Snakefile"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-08-28T13:08:50.486706",
+  "hostname": "mail.aiconceptlimited.com.ng",
+  "system": {
+    "os": "Linux-6.8.0-86-generic-x86_64-with-glibc2.39",
+    "kernel": "6.8.0-86-generic",
+    "architecture": "x86_64"
+  },
+  "software": {
+    "python": "Python 3.12.3",
+    "conda": "conda 26.3.2",
+    "docker": "Docker version 29.6.2, build dfc4efb",
+    "git": "git version 2.43.0",
+    "snakemake": "7.32.4"
+  },
+  "conda_envs": [
+    "base",
+    "asfv_validation",
+    "asfv_vax"
+  ],
+  "resources": {
+    "cpu_cores": 4,
+    "total_ram": "MemTotal:        8131808 kB",
+    "disk_total_gb": 144.3,
+    "disk_used_gb": 72.1,
+    "disk_free_gb": 72.1
+  }
+}

@@ -1,0 +1,22 @@
+PCP312R Reference Provenance
+
+Original sequence (MW856067_CP312R):
+- Length: 300 aa
+- Contains X at position 154 (unknown/ambiguous residue)
+
+Cleaning operation:
+- X at position 154 removed
+- Cleaned sequence length: 299 aa
+- Coordinates after position 154 are shifted by -1
+
+Coordinate mapping:
+- Positions 1-153: Original coordinates preserved
+- Position 154: X (removed, no peptide should map here)
+- Positions 155-300: Cleaned coordinates = Original - 1
+
+Peptides affected by X154:
+- Any 9-mer crossing the X154 region (positions 150-158)
+- These peptides should be flagged as crossing the deletion junction
+- They represent artificial sequences and should NOT be used as candidates
+
+Status: PROVENANCE RECORDED

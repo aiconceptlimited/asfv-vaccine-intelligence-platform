@@ -1,0 +1,5 @@
+Allele,PMID,DOI,Evidence_Type,Method,ASFV_Relevance,Population,Grade,Notes
+SLA-1*01:01,34851145,10.1128/JVI.01378-21,Experimental,"Crystal structure, tetramer, ELISPOT",Yes,Yorkshire,A,ASFV p72-specific CD8+ T-cell response
+SLA-1*04:01,26572135,10.1007/s00251-015-0883-9,Experimental,"Binding affinity, stability assay",No,Commercial,B,Combined prediction; NetMHCpan; no crystal structure
+SLA-2*04:01,26572135,10.1007/s00251-015-0883-9,Experimental,"Binding affinity, stability assay",No,Commercial,B,Combined prediction; NetMHCpan; no crystal structure
+SLA-3*04:01,26572135,10.1007/s00251-015-0883-9,Experimental,"Binding affinity, stability assay; motif characterized",No,Commercial,B,Combined prediction; NetMHCpan; no crystal structure

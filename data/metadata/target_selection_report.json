@@ -1,0 +1,76 @@
+{
+  "section": "3.4.1 Target Selection",
+  "date": "2026-08-03",
+  "status": "completed",
+  "methodology": {
+    "description": "Evidence-based selection of ASFV vaccine candidate proteins",
+    "selection_criteria": [
+      "Known immune response (IEDB evidence)",
+      "High conservation across ASFV genotypes (derived from conservation analysis)",
+      "Role in virus structure or replication",
+      "Evidence of expression during infection"
+    ]
+  },
+  "target_proteins": [
+    {
+      "protein": "p72",
+      "gene": "B646L",
+      "function": "Major capsid protein",
+      "conservation": 99.1,
+      "sequences": 11,
+      "rationale": "Most conserved protein; structural antigen; IEDB evidence",
+      "evidence": ["IEDB: Known B-cell epitopes", "Literature: Major immunogenic protein"]
+    },
+    {
+      "protein": "p30",
+      "gene": "CP204L",
+      "function": "Early phosphoprotein",
+      "conservation": 95.7,
+      "sequences": 11,
+      "rationale": "Early immunogenic protein; strong antibody response",
+      "evidence": ["IEDB: Known epitopes", "Literature: Expressed early in infection"]
+    },
+    {
+      "protein": "p54",
+      "gene": "E183L",
+      "function": "Transmembrane protein",
+      "conservation": 94.3,
+      "sequences": 10,
+      "rationale": "Membrane protein involved in viral entry",
+      "evidence": ["IEDB: Known epitopes", "Literature: Important for virus entry"]
+    },
+    {
+      "protein": "CD2v",
+      "gene": "EP402R",
+      "function": "Surface glycoprotein",
+      "conservation": 91.4,
+      "sequences": 9,
+      "rationale": "Protective antigen; serotype marker; special handling required",
+      "evidence": ["IEDB: Known epitopes", "Literature: Protective antigen"],
+      "special_handling": true
+    },
+    {
+      "protein": "pp220",
+      "gene": "CP2475L",
+      "function": "Polyprotein",
+      "conservation": 97.9,
+      "sequences": 10,
+      "rationale": "Structural polyprotein with conserved regions",
+      "evidence": ["Literature: Major structural protein"]
+    },
+    {
+      "protein": "pCP312R",
+      "gene": "CP312R",
+      "function": "Capsid protein",
+      "conservation": 96.4,
+      "sequences": 11,
+      "rationale": "Immunogenic candidate supported by literature",
+      "evidence": ["IEDB: Known epitopes", "Literature: Capsid protein"]
+    }
+  ],
+  "summary": {
+    "total_proteins": 6,
+    "mean_conservation": 95.8,
+    "date": "2026-08-03"
+  }
+}

@@ -1,0 +1,1739 @@
+[
+  {
+    "position": 1,
+    "consensus": "M",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 2,
+    "consensus": "D",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 3,
+    "consensus": "S",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 4,
+    "consensus": "E",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 5,
+    "consensus": "F",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 6,
+    "consensus": "F",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 7,
+    "consensus": "Q",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 8,
+    "consensus": "P",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 9,
+    "consensus": "V",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 10,
+    "consensus": "Y",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 11,
+    "consensus": "P",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 12,
+    "consensus": "R",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 13,
+    "consensus": "H",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 14,
+    "consensus": "Y",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 15,
+    "consensus": "G",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 16,
+    "consensus": "E",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 17,
+    "consensus": "C",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 18,
+    "consensus": "L",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 19,
+    "consensus": "S",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 20,
+    "consensus": "P",
+    "frequency": 90.0,
+    "entropy": 0.3251,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 21,
+    "consensus": "V",
+    "frequency": 60.0,
+    "entropy": 0.673,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 22,
+    "consensus": "T",
+    "frequency": 60.0,
+    "entropy": 0.8979,
+    "variants": 3,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 23,
+    "consensus": "T",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 24,
+    "consensus": "P",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 25,
+    "consensus": "S",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 26,
+    "consensus": "F",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 27,
+    "consensus": "F",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 28,
+    "consensus": "S",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 29,
+    "consensus": "T",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 30,
+    "consensus": "H",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 31,
+    "consensus": "M",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 32,
+    "consensus": "Y",
+    "frequency": 70.0,
+    "entropy": 0.6109,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 33,
+    "consensus": "T",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 34,
+    "consensus": "I",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 35,
+    "consensus": "L",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 36,
+    "consensus": "I",
+    "frequency": 70.0,
+    "entropy": 0.6109,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 37,
+    "consensus": "A",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 38,
+    "consensus": "I",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 39,
+    "consensus": "V",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 40,
+    "consensus": "V",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 41,
+    "consensus": "L",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 42,
+    "consensus": "V",
+    "frequency": 60.0,
+    "entropy": 0.673,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 43,
+    "consensus": "I",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 44,
+    "consensus": "I",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 45,
+    "consensus": "I",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 46,
+    "consensus": "I",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 47,
+    "consensus": "V",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 48,
+    "consensus": "L",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 49,
+    "consensus": "I",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 50,
+    "consensus": "Y",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 51,
+    "consensus": "L",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 52,
+    "consensus": "F",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 53,
+    "consensus": "S",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 54,
+    "consensus": "S",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 55,
+    "consensus": "R",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 90.0,
+    "residue_count": 1
+  },
+  {
+    "position": 56,
+    "consensus": "R",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 57,
+    "consensus": "K",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 58,
+    "consensus": "K",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 59,
+    "consensus": "K",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 60,
+    "consensus": "A",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 70.0,
+    "residue_count": 3
+  },
+  {
+    "position": 61,
+    "consensus": "A",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 60.0,
+    "residue_count": 4
+  },
+  {
+    "position": 62,
+    "consensus": "A",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 63,
+    "consensus": "A",
+    "frequency": 90.0,
+    "entropy": 0.3251,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 64,
+    "consensus": "A",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 65,
+    "consensus": "I",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 66,
+    "consensus": "E",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 67,
+    "consensus": "E",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 68,
+    "consensus": "E",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 69,
+    "consensus": "D",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 70,
+    "consensus": "I",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 71,
+    "consensus": "Q",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 72,
+    "consensus": "F",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 73,
+    "consensus": "I",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 74,
+    "consensus": "N",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 75,
+    "consensus": "P",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 76,
+    "consensus": "Y",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 77,
+    "consensus": "Q",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 78,
+    "consensus": "D",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 79,
+    "consensus": "Q",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 80,
+    "consensus": "Q",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 81,
+    "consensus": "W",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 82,
+    "consensus": "V",
+    "frequency": 60.0,
+    "entropy": 0.673,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 83,
+    "consensus": "E",
+    "frequency": 60.0,
+    "entropy": 0.673,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 84,
+    "consensus": "V",
+    "frequency": 70.0,
+    "entropy": 0.6109,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 85,
+    "consensus": "T",
+    "frequency": 90.0,
+    "entropy": 0.3251,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 86,
+    "consensus": "P",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 87,
+    "consensus": "Q",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 88,
+    "consensus": "P",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 89,
+    "consensus": "G",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 90,
+    "consensus": "T",
+    "frequency": 90.0,
+    "entropy": 0.3251,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 91,
+    "consensus": "S",
+    "frequency": 90.0,
+    "entropy": 0.3251,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 92,
+    "consensus": "K",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 93,
+    "consensus": "P",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 94,
+    "consensus": "A",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 95,
+    "consensus": "G",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 96,
+    "consensus": "A",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 97,
+    "consensus": "T",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 98,
+    "consensus": "T",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 99,
+    "consensus": "A",
+    "frequency": 60.0,
+    "entropy": 0.673,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 100,
+    "consensus": "S",
+    "frequency": 70.0,
+    "entropy": 0.6109,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 101,
+    "consensus": "V",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 102,
+    "consensus": "G",
+    "frequency": 90.0,
+    "entropy": 0.3251,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 103,
+    "consensus": "K",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 104,
+    "consensus": "P",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 105,
+    "consensus": "V",
+    "frequency": 70.0,
+    "entropy": 0.6109,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 106,
+    "consensus": "T",
+    "frequency": 90.0,
+    "entropy": 0.3251,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 107,
+    "consensus": "G",
+    "frequency": 60.0,
+    "entropy": 0.673,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 108,
+    "consensus": "R",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 109,
+    "consensus": "P",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 110,
+    "consensus": "V",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 90.0,
+    "residue_count": 1
+  },
+  {
+    "position": 111,
+    "consensus": "A",
+    "frequency": 90.0,
+    "entropy": 0.3251,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 112,
+    "consensus": "T",
+    "frequency": 90.0,
+    "entropy": 0.3251,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 113,
+    "consensus": "N",
+    "frequency": 80.0,
+    "entropy": 0.5004,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 114,
+    "consensus": "R",
+    "frequency": 90.0,
+    "entropy": 0.3251,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 115,
+    "consensus": "P",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 116,
+    "consensus": "A",
+    "frequency": 60.0,
+    "entropy": 0.673,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 117,
+    "consensus": "T",
+    "frequency": 90.0,
+    "entropy": 0.3251,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 118,
+    "consensus": "N",
+    "frequency": 90.0,
+    "entropy": 0.3251,
+    "variants": 2,
+    "gap_frequency": 0.0,
+    "residue_count": 10
+  },
+  {
+    "position": 119,
+    "consensus": "S",
+    "frequency": 75.0,
+    "entropy": 0.5623,
+    "variants": 2,
+    "gap_frequency": 60.0,
+    "residue_count": 4
+  },
+  {
+    "position": 120,
+    "consensus": "S",
+    "frequency": 75.0,
+    "entropy": 0.5623,
+    "variants": 2,
+    "gap_frequency": 60.0,
+    "residue_count": 4
+  },
+  {
+    "position": 121,
+    "consensus": "V",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 70.0,
+    "residue_count": 3
+  },
+  {
+    "position": 122,
+    "consensus": "A",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 70.0,
+    "residue_count": 3
+  },
+  {
+    "position": 123,
+    "consensus": "D",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 70.0,
+    "residue_count": 3
+  },
+  {
+    "position": 124,
+    "consensus": "K",
+    "frequency": 66.67,
+    "entropy": 0.6365,
+    "variants": 2,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 125,
+    "consensus": "P",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 126,
+    "consensus": "V",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 127,
+    "consensus": "T",
+    "frequency": 66.67,
+    "entropy": 0.6365,
+    "variants": 2,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 128,
+    "consensus": "D",
+    "frequency": 66.67,
+    "entropy": 0.6365,
+    "variants": 2,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 129,
+    "consensus": "N",
+    "frequency": 77.78,
+    "entropy": 0.5297,
+    "variants": 2,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 130,
+    "consensus": "P",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 131,
+    "consensus": "V",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 132,
+    "consensus": "T",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 133,
+    "consensus": "D",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 134,
+    "consensus": "R",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 135,
+    "consensus": "L",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 136,
+    "consensus": "V",
+    "frequency": 66.67,
+    "entropy": 0.6365,
+    "variants": 2,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 137,
+    "consensus": "M",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 138,
+    "consensus": "A",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 139,
+    "consensus": "T",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 140,
+    "consensus": "G",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 141,
+    "consensus": "G",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 142,
+    "consensus": "P",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 143,
+    "consensus": "A",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 144,
+    "consensus": "A",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 145,
+    "consensus": "A",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 146,
+    "consensus": "P",
+    "frequency": 66.67,
+    "entropy": 0.6365,
+    "variants": 2,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 147,
+    "consensus": "A",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 148,
+    "consensus": "A",
+    "frequency": 88.89,
+    "entropy": 0.3488,
+    "variants": 2,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 149,
+    "consensus": "A",
+    "frequency": 66.67,
+    "entropy": 0.6365,
+    "variants": 2,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 150,
+    "consensus": "S",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 40.0,
+    "residue_count": 6
+  },
+  {
+    "position": 151,
+    "consensus": "A",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 40.0,
+    "residue_count": 6
+  },
+  {
+    "position": 152,
+    "consensus": "P",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 40.0,
+    "residue_count": 6
+  },
+  {
+    "position": 153,
+    "consensus": "A",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 40.0,
+    "residue_count": 6
+  },
+  {
+    "position": 154,
+    "consensus": "H",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 40.0,
+    "residue_count": 6
+  },
+  {
+    "position": 155,
+    "consensus": "P",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 40.0,
+    "residue_count": 6
+  },
+  {
+    "position": 156,
+    "consensus": "A",
+    "frequency": 88.89,
+    "entropy": 0.3488,
+    "variants": 2,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 157,
+    "consensus": "E",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 158,
+    "consensus": "P",
+    "frequency": 66.67,
+    "entropy": 0.6365,
+    "variants": 2,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 159,
+    "consensus": "Y",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 160,
+    "consensus": "T",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 161,
+    "consensus": "T",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 162,
+    "consensus": "V",
+    "frequency": 66.67,
+    "entropy": 0.6365,
+    "variants": 2,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 163,
+    "consensus": "T",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 164,
+    "consensus": "T",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 165,
+    "consensus": "Q",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 166,
+    "consensus": "N",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 167,
+    "consensus": "T",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 168,
+    "consensus": "A",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 169,
+    "consensus": "S",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 170,
+    "consensus": "Q",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 171,
+    "consensus": "T",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 172,
+    "consensus": "M",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 173,
+    "consensus": "S",
+    "frequency": 66.67,
+    "entropy": 0.6365,
+    "variants": 2,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 174,
+    "consensus": "A",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 175,
+    "consensus": "I",
+    "frequency": 66.67,
+    "entropy": 0.6365,
+    "variants": 2,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 176,
+    "consensus": "E",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 177,
+    "consensus": "N",
+    "frequency": 66.67,
+    "entropy": 0.6365,
+    "variants": 2,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 178,
+    "consensus": "L",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 179,
+    "consensus": "R",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 180,
+    "consensus": "Q",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 181,
+    "consensus": "R",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 182,
+    "consensus": "N",
+    "frequency": 66.67,
+    "entropy": 0.6365,
+    "variants": 2,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 183,
+    "consensus": "T",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 184,
+    "consensus": "Y",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 185,
+    "consensus": "T",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 186,
+    "consensus": "H",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 187,
+    "consensus": "K",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 188,
+    "consensus": "D",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 189,
+    "consensus": "L",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 190,
+    "consensus": "E",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 191,
+    "consensus": "N",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 192,
+    "consensus": "S",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  },
+  {
+    "position": 193,
+    "consensus": "L",
+    "frequency": 100.0,
+    "entropy": -0.0,
+    "variants": 1,
+    "gap_frequency": 10.0,
+    "residue_count": 9
+  }
+]

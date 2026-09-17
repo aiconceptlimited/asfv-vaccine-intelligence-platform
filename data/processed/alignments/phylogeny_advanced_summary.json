@@ -1,0 +1,7 @@
+{
+  "input_file": "data/processed/alignments/b646l_aligned.fasta",
+  "trimmed_file": "data/processed/alignments/b646l_aligned.fasta",
+  "bootstrap_prefix": "data/processed/alignments/b646l_phylogeny_bs",
+  "trimmed": true,
+  "bootstrap_completed": false
+}

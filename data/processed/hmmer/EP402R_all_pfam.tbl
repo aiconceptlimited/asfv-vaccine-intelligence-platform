@@ -1,0 +1,36 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Membra_charge        PF27867.1  MW856068_EP402R      -               0.44   11.3   3.8       2.2    9.0   0.1   2.4   2   0   0   2   2   2   0 Integral membrane protein
+ArlX                 PF24151.2  ON409981_EP402R      -               0.24   11.6   0.1      0.29   11.3   0.1   1.1   1   0   0   1   1   1   0 ArlX
+YxzE                 PF25184.2  ON409981_EP402R      -               0.36   12.6   0.1      0.48   12.2   0.1   1.1   1   0   0   1   1   1   0 YxzE-like putative bacteriocin
+TMIGD3_C             PF28919.1  ON409981_EP402R      -                3.6    7.8   5.1       5.8    7.2   5.1   1.4   1   0   0   1   1   1   0 TMIGD3 C-terminal domain
+TMEM154              PF15102.11 ON409980_EP402R      -             0.0018   18.8   0.1    0.0036   17.9   0.1   1.5   1   0   0   1   1   1   1 TMEM154 protein family
+NCMAP                PF27960.1  ON409980_EP402R      -              0.061   14.0   0.4      0.15   12.8   0.4   1.7   1   0   0   1   1   1   0 Noncompact myelin-associated protein
+Myc_target_1         PF15179.12 ON409980_EP402R      -               0.14   12.8   0.0       0.3   11.7   0.0   1.5   1   0   0   1   1   1   0 Myc target protein 1
+DUF4834              PF16118.11 ON409980_EP402R      -               0.15   13.8   0.0      0.32   12.7   0.0   1.6   1   0   0   1   1   1   0 Domain of unknown function (DUF4834)
+YxzE                 PF25184.2  ON409980_EP402R      -               0.24   13.1   0.1      0.58   11.9   0.1   1.6   1   0   0   1   1   1   0 YxzE-like putative bacteriocin
+YqfB                 PF27722.1  ON409980_EP402R      -               0.27   12.3   0.2      0.49   11.5   0.2   1.3   1   0   0   1   1   1   0 Membrane protein YqfB
+DUF1514              PF07438.18 ON409980_EP402R      -                  1   10.1   7.1      0.41   11.4   0.4   3.2   3   0   0   3   3   3   0 Protein of unknown function (DUF1514)
+Membra_charge        PF27867.1  ON409982_EP402R      -               0.44   11.3   3.8       2.2    9.0   0.1   2.4   2   0   0   2   2   2   0 Integral membrane protein
+Membra_charge        PF27867.1  ON409983_EP402R      -               0.44   11.3   3.8       2.2    9.0   0.1   2.4   2   0   0   2   2   2   0 Integral membrane protein
+Membra_charge        PF27867.1  ON409979_EP402R      -               0.44   11.3   3.8       2.2    9.0   0.1   2.4   2   0   0   2   2   2   0 Integral membrane protein
+TMEM154              PF15102.11 PQ375362_EP402R      -             0.0018   18.8   0.1    0.0036   17.9   0.1   1.5   1   0   0   1   1   1   1 TMEM154 protein family
+NCMAP                PF27960.1  PQ375362_EP402R      -              0.061   14.0   0.4      0.15   12.8   0.4   1.7   1   0   0   1   1   1   0 Noncompact myelin-associated protein
+SCIMP                PF15050.12 PQ375362_EP402R      -               0.11   13.6   0.0      0.33   12.1   0.0   1.8   1   0   0   1   1   1   0 SCIMP protein
+Myc_target_1         PF15179.12 PQ375362_EP402R      -               0.14   12.8   0.0       0.3   11.7   0.0   1.5   1   0   0   1   1   1   0 Myc target protein 1
+DUF4834              PF16118.11 PQ375362_EP402R      -               0.15   13.8   0.0      0.32   12.7   0.0   1.6   1   0   0   1   1   1   0 Domain of unknown function (DUF4834)
+YxzE                 PF25184.2  PQ375362_EP402R      -               0.24   13.1   0.1      0.58   11.9   0.1   1.6   1   0   0   1   1   1   0 YxzE-like putative bacteriocin
+YqfB                 PF27722.1  PQ375362_EP402R      -               0.27   12.3   0.2      0.49   11.5   0.2   1.3   1   0   0   1   1   1   0 Membrane protein YqfB
+DUF1514              PF07438.18 PQ375362_EP402R      -                  1   10.1   7.1      0.41   11.4   0.4   3.2   3   0   0   3   3   3   0 Protein of unknown function (DUF1514)
+Membra_charge        PF27867.1  PQ375363_EP402R      -               0.44   11.3   3.8       2.2    9.0   0.1   2.4   2   0   0   2   2   2   0 Integral membrane protein
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      data/interim/proteins/merged/EP402R_CD2v_all.fasta
+# Target file:     data/raw/reference/pfam/Pfam-A.hmm
+# Option settings: hmmscan --tblout data/processed/hmmer/EP402R_all_pfam.tbl data/raw/reference/pfam/Pfam-A.hmm data/interim/proteins/merged/EP402R_CD2v_all.fasta 
+# Current dir:     /home/abubakar/asfv_vaccine_platform
+# Date:            Thu Jul 23 11:34:15 2026
+# [ok]

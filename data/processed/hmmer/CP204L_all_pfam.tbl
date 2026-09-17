@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+AIPR_N               PF22879.2  MW856067_CP204L      -              0.047   14.4   0.2     0.067   13.9   0.2   1.2   1   0   0   1   1   1   0 Abortive infection phage resistance protein N-terminal domain
+ZNF380_CC            PF23406.2  ON409981_CP204L      -              0.099   13.9   1.1       0.2   12.9   1.1   1.6   1   0   0   1   1   1   0 ZNF380 coiled-coil
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      data/interim/proteins/merged/CP204L_p30_all.fasta
+# Target file:     data/raw/reference/pfam/Pfam-A.hmm
+# Option settings: hmmscan --tblout data/processed/hmmer/CP204L_all_pfam.tbl data/raw/reference/pfam/Pfam-A.hmm data/interim/proteins/merged/CP204L_p30_all.fasta 
+# Current dir:     /home/abubakar/asfv_vaccine_platform
+# Date:            Thu Jul 23 11:33:45 2026
+# [ok]

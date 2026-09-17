@@ -1,0 +1,2 @@
+file	format	type	num_seqs	sum_len	min_len	avg_len	max_len	Q1	Q2	Q3	sum_gap	N50	Q20(%)	Q30(%)	GC(%)
+data/raw/genomes/PQ375362.fasta	FASTA	DNA	1	184517	184517	184517.0	184517	92258.5	184517.0	92258.5	0	184517	0.00	0.00	38.51

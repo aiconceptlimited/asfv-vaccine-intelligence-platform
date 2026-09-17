@@ -1,0 +1,7 @@
+Population,Country,Breed/Type,Sample_Size,SLA_Locus,Allele,Allele_Frequency,Frequency_Type,Haplotype,Haplotype_Frequency,Publication,DOI,Status
+Kenyan_free_range,Kenya,Local free-ranging,9,SLA-1,SLA-1*1501/1502,0.89,Carrier frequency,Hp-F.0,0.89,Sørensen et al. 2017,10.3389/fimmu.2017.00701,verified
+Kenyan_free_range,Kenya,Local free-ranging,9,SLA-2,SLA-2*NS#16,0.89,Carrier frequency,Hp-F.0,0.89,Sørensen et al. 2017,10.3389/fimmu.2017.00701,verified
+Kenyan_free_range,Kenya,Local free-ranging,9,SLA-3,SLA-3*04hb06,0.78,Carrier frequency,Hp-F.0,0.89,Sørensen et al. 2017,10.3389/fimmu.2017.00701,verified
+Kenyan_free_range,Kenya,Local free-ranging,9,SLA-1,?,0.33,Haplotype frequency,Hp-6.0,0.33,Sørensen et al. 2017,10.3389/fimmu.2017.00701,pending
+Kenyan_free_range,Kenya,Local free-ranging,9,SLA-1,?,0.22,Haplotype frequency,Hp-G.0,0.22,Sørensen et al. 2017,10.3389/fimmu.2017.00701,pending
+Kenyan_free_range,Kenya,Local free-ranging,9,SLA-1,?,0.22,Haplotype frequency,Hp-H.0,0.22,Sørensen et al. 2017,10.3389/fimmu.2017.00701,pending

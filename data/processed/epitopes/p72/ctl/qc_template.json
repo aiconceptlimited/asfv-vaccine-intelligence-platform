@@ -1,0 +1,38 @@
+{
+  "run_id": "CTL_p72_20260815_001",
+  "protein": "p72",
+  "gene": "B646L",
+  "tool": {
+    "name": "NetMHCpan-4.1",
+    "version": "4.1",
+    "configuration": "default, threshold 0.5% rank"
+  },
+  "sla_alleles": [
+    "SLA-1*01:01",
+    "SLA-1*04:01",
+    "SLA-2*04:01",
+    "SLA-3*04:01",
+    "SLA-1*12:01",
+    "SLA-3*03:01"
+  ],
+  "input": {
+    "file": "data/interim/proteins/B646L_p72_sequences.fasta",
+    "checksum": "cdd442a1b99b60aa",
+    "sequences": 9
+  },
+  "peptides": {
+    "lengths": [8, 9, 10, 11],
+    "total": 2550
+  },
+  "output": {
+    "raw": "data/processed/epitopes/p72/ctl/raw/netmhcpan.tsv",
+    "canonical": "data/processed/epitopes/p72/ctl/canonical/ctl_canonical.tsv",
+    "merged": "data/processed/epitopes/p72/ctl/merged/ctl_candidates.tsv"
+  },
+  "parser": {
+    "status": "PENDING",
+    "records_parsed": 0,
+    "duplicates_removed": 0
+  },
+  "timestamp": "2026-08-15T14:30:00"
+}

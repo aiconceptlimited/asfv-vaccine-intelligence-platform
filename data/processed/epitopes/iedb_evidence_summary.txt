@@ -1,0 +1,51 @@
+IEDB EXPERIMENTAL EVIDENCE SUMMARY
+==================================
+
+Date: 2026-08-22
+Search Terms Used:
+- "African swine fever virus" AND "epitope"
+- "ASFV" AND "T cell" AND "pig"
+- "ASFV" AND "SLA"
+- "p30" AND "ASFV" AND "epitope"
+- "pp220" AND "ASFV" AND "epitope"
+- "p54" AND "ASFV" AND "epitope"
+- "p72" AND "ASFV" AND "epitope"
+- "pCP312R" AND "ASFV" AND "epitope"
+
+Experimental Evidence Found:
+
+1. p30 116-125: TSSFETLFEQ
+   - Source: Liu et al., Transbound Emerg Dis, 2025
+   - Method: Monoclonal antibody Q4-1F10B7
+   - Evidence: Linear B-cell epitope
+   - Your candidate: LFEQEPSSETLKNTK (overlaps)
+
+2. p54 149-161: IVLIYLFSSRKKKAA
+   - Source: Desmet et al., Virus Res, 2023
+   - Method: High-density peptide microarray
+   - Evidence: Universally reactive B-cell epitope in ASFV-positive sera
+   - Your candidate: IVLIYLFSSRKKKAA (exact match)
+
+3. pCP312R 122-131: KNEQGEEIYP
+   - Source: Hagoss et al., 2023
+   - Method: Monoclonal antibodies, peptide scanning, Western blot
+   - Evidence: Experimentally mapped CP312R antigenic determinant
+   - Your candidate: FTVKKNEQGEEIYPG (contains epitope)
+
+4. pp220 T-cell Epitopes:
+   - HIDKNIIQY (1363-1371): IFN-γ-inducing in pigs (SLA-1*04:01)
+   - RVFSRLVFY (1463-1471): IFN-γ-inducing in pigs (SLA-1*02:01)
+   - Source: Zajac et al., Front Vet Sci, 2022
+   - Evidence: Direct pig T-cell IFN-γ responses
+   - Your candidates: Exact matches
+
+5. pp220 Predicted SLA-I Peptides (Computational):
+   - SQWDLVQKF, SAMEVLHEL, YTDIVQKKY, FIINIRSFK, RLDRKHILM
+   - Source: Zajac et al., 2022
+   - Evidence: Published computational predictions
+   - Your candidates: SQWDLVQKF, SAMEVLHEL, YTDIVQKKY, RFIINIRSFKTVMTY (contains FIINIRSFK), DRKHILMEF (overlaps RLDRKHILM)
+
+Status:
+- Experimental evidence documented for 4 candidates
+- Published computational evidence for 7 candidates
+- No evidence found for 4 candidates

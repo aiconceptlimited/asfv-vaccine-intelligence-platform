@@ -1,0 +1,12 @@
+# workflow/envs/base_env.yaml
+# Base environment for ASFV pipeline
+name: asfv_vax
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - biopython=1.79
+  - pandas=1.5.3
+  - numpy=1.23.5

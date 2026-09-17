@@ -1,0 +1,6 @@
+SCRIPTS INVENTORY SUMMARY
+==========================
+Total scripts: 147
+Total lines: 14784
+Average lines per script: 100
+Scripts with main guard: 64

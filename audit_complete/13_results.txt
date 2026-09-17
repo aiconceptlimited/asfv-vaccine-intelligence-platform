@@ -1,0 +1,4 @@
+=== RESULTS WITH CONTENT ===
+  results/03_genomes/: 2 files
+  results/05_alignments/: 6 files
+  results/final_construct/: 4 files

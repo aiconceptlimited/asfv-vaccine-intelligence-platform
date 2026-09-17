@@ -1,0 +1,29 @@
+================================================================================
+JUNCTIONAL EPITOPE RISK — EVIDENCE REVIEW
+================================================================================
+
+1. What Are Junctional Epitopes?
+   - New sequences formed at linker-epitope junctions
+   - Can create unintended CTL or HTL epitopes
+   - May cause off-target immune responses
+
+2. How to Assess Junctional Epitopes
+   - Extract all junctional peptides (linker + flanking epitope residues)
+   - Predict MHC-I and MHC-II binding
+   - Check against self/host proteome for off-target risk
+
+3. Specific Recommendations for Your Panel:
+   - 11 candidates = 10 junctions
+   - CTL junctions: epitope-AAY-epitope
+   - HTL junctions: epitope-GPGPG-epitope
+   - HTL-CTL junctions: epitope-GPGPG-AAY-epitope (or similar)
+   - Each junction creates new peptide sequences
+   - All junctional peptides should be assessed
+
+================================================================================
+REFERENCES TO SEARCH
+================================================================================
+1. "Junctional epitope vaccine"
+2. "Off-target epitope prediction"
+3. "Linker junction immunogenicity"
+================================================================================

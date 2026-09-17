@@ -1,0 +1,40 @@
+DATASET QC CHECKLIST
+====================
+
+For Each Dataset (CTL, HTL, B-cell):
+
+1. Source Verification
+   ☐ IEDB source recorded
+   ☐ Literature reference recorded
+   ☐ Assay type recorded
+   ☐ Allele recorded (where applicable)
+
+2. Label Verification
+   ☐ Positive: Experimental support verified
+   ☐ Negative: No literature support verified
+   ☐ Label definition documented
+
+3. Data Quality
+   ☐ No ambiguous residues (X, B, Z, J)
+   ☐ Correct length (8-11 for CTL, 15 for HTL/B-cell)
+   ☐ No duplicates within dataset
+   ☐ No ASFV candidate peptides (11 core + 4 exploratory)
+
+4. Provenance
+   ☐ Source recorded for every row
+   ☐ Reference recorded for every row
+   ☐ Date of extraction recorded
+   ☐ Version recorded
+
+5. Data Leakage Prevention
+   ☐ Cluster-aware split: ≥80% sequence identity → same cluster
+   ☐ Clusters split across train/validation/test
+   ☐ ASFV candidates completely excluded from training
+
+Quality Target:
+- CTL: 500-1000 positive + 500-1000 negative
+- HTL: 500-1000 positive + 500-1000 negative
+- B-cell: 300-500 positive + 300-500 negative
+
+But: Quality > Quantity
+- 600 high-quality positives > 1000 mixed-quality positives

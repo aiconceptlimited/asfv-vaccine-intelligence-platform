@@ -1,0 +1,119 @@
+=== TOOL INVENTORY ===
+Date: 2026-08-27T22:09:47+02:00
+
+------------------------------------------------------------
+TOOL: seqkit
+PATH: /usr/bin/seqkit
+Error: unknown flag: --version
+Usage:
+  seqkit [command]
+
+Available Commands:
+
+------------------------------------------------------------
+TOOL: mafft
+PATH: /usr/bin/mafft
+v7.505 (2022/Apr/10)
+
+------------------------------------------------------------
+TOOL: clustalo
+PATH: /usr/bin/clustalo
+1.2.4
+
+------------------------------------------------------------
+TOOL: trimAl
+PATH: NOT_FOUND
+
+------------------------------------------------------------
+TOOL: iqtree2
+PATH: /usr/bin/iqtree2
+IQ-TREE multicore version 2.0.7 for Linux 64-bit built Apr  1 2024
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+
+------------------------------------------------------------
+TOOL: iqtree
+PATH: NOT_FOUND
+
+------------------------------------------------------------
+TOOL: blastp
+PATH: /usr/bin/blastp
+USAGE
+  blastp [-h] [-help] [-import_search_strategy filename]
+    [-export_search_strategy filename] [-task task_name] [-db database_name]
+    [-dbsize num_letters] [-gilist filename] [-seqidlist filename]
+    [-negative_gilist filename] [-negative_seqidlist filename]
+
+------------------------------------------------------------
+TOOL: mmseqs
+PATH: NOT_FOUND
+
+------------------------------------------------------------
+TOOL: hmmscan
+PATH: /usr/bin/hmmscan
+Failed to parse command line: No such option "--version".
+Usage: hmmscan [-options] <hmmdb> <seqfile>
+
+where most common options are:
+  -h : show brief help on version and usage
+
+------------------------------------------------------------
+TOOL: hmmsearch
+PATH: /usr/bin/hmmsearch
+Failed to parse command line: No such option "--version".
+Usage: hmmsearch [options] <hmmfile> <seqdb>
+
+where most common options are:
+  -h : show brief help on version and usage
+
+------------------------------------------------------------
+TOOL: signalp6
+PATH: NOT_FOUND
+
+------------------------------------------------------------
+TOOL: deepTMHMM
+PATH: NOT_FOUND
+
+------------------------------------------------------------
+TOOL: gromacs
+PATH: NOT_FOUND
+
+------------------------------------------------------------
+TOOL: pymol
+PATH: /usr/bin/pymol
+Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 112, in _get_module_details
+  File "/usr/lib/python3/dist-packages/pymol/__init__.py", line 81, in <module>
+    from imp import find_module
+
+------------------------------------------------------------
+TOOL: chimerax
+PATH: NOT_FOUND
+
+------------------------------------------------------------
+TOOL: mysql
+PATH: /usr/bin/mysql
+mysql  Ver 8.0.46-0ubuntu0.24.04.3 for Linux on x86_64 ((Ubuntu))
+
+------------------------------------------------------------
+TOOL: mysqldump
+PATH: /usr/bin/mysqldump
+mysqldump  Ver 8.0.46-0ubuntu0.24.04.3 for Linux on x86_64 ((Ubuntu))
+
+------------------------------------------------------------
+TOOL: git
+PATH: /usr/bin/git
+git version 2.43.0
+
+------------------------------------------------------------
+TOOL: node
+PATH: /usr/bin/node
+v20.20.2
+
+------------------------------------------------------------
+TOOL: npm
+PATH: /usr/bin/npm
+10.8.2
+

@@ -1,0 +1,5 @@
+type,protein,sequence,start,end,status,reason,qc_status,panel_status
+CTL,pp220,RSIPLANIY,2008,2016,Exploratory,No direct literature match established,PASSED (Exploratory),EXPLORATORY
+CTL,p30,KTLLSTVKY,44,52,Exploratory,No direct literature match established,PASSED (Exploratory),EXPLORATORY
+HTL,p72,KRVRFSLIRVHKTQV,429,443,Exploratory,No direct literature match established,PASSED (Exploratory),EXPLORATORY
+B-cell,pcp312r,NFQNEKHVGTISPST,62,76,Exploratory,No verified direct literature support; CP312R relationship requires coordinate verification,PASSED (Exploratory),EXPLORATORY

@@ -1,0 +1,12 @@
+{
+  "parser_version": "2.0",
+  "biopython_version": "1.79",
+  "execution_timestamp": "2026-08-04T14:03:48.688983",
+  "input_files": {
+    "fasta": "data/raw/sla/ipd_release/sla_alleles.fasta",
+    "metadata": "data/raw/sla/ipd_release/sla_metadata.tsv",
+    "tiers": "data/reference/sla_tiers/sla_tier_assignments_full.json"
+  },
+  "source": "IPD-MHC SLA Database",
+  "total_alleles": 523
+}

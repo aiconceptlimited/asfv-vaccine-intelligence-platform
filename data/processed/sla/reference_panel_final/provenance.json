@@ -1,0 +1,31 @@
+{
+  "parser_version": "2.0",
+  "biopython_version": "1.79",
+  "execution_timestamp": "2026-08-04T14:07:30.830840",
+  "input_files": {
+    "fasta": "data/raw/sla/ipd_release/sla_alleles.fasta",
+    "metadata": "data/raw/sla/ipd_release/sla_metadata.tsv",
+    "tiers": "data/reference/sla_tiers/sla_tier_assignments_full.json"
+  },
+  "source": "IPD-MHC SLA Database",
+  "total_alleles": 523,
+  "database": {
+    "name": "IPD-MHC SLA Database",
+    "release": "2026-04",
+    "download_date": "2026-08-04",
+    "source_url": "https://www.ebi.ac.uk/ipd/mhc/sla/",
+    "total_alleles": 523,
+    "verified": false,
+    "note": "Release number requires verification against official IPD-MHC documentation"
+  },
+  "checksums": {
+    "fasta_file": "b01a3fccdde84939e6e10ca06e841ce7f8337279c78ddbc8d86ccefbcf5a9c0c",
+    "metadata_file": "generated_2026-08-04"
+  },
+  "allele_summary": {
+    "total": 523,
+    "class_i": 270,
+    "class_ii": 221,
+    "other_loci": 32
+  }
+}

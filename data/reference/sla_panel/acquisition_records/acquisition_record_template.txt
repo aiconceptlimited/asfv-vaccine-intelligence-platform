@@ -1,0 +1,30 @@
+# SLA-II Allele Acquisition Record
+
+## Allele Information
+- Allele: [ALLELE_NAME]
+- Locus: [LOCUS]
+- Class: II
+- Database: IPD-MHC SLA
+- Accession: [ACCESSION]
+- Version: [VERSION]
+
+## Sequence Information
+- Sequence Type: Protein / Nucleotide
+- Sequence Length: [LENGTH] aa
+- Sequence Completeness: Full-length / Partial (Exon 2 only)
+- Checksum (SHA-256): [CHECKSUM]
+
+## Source Information
+- Retrieval Date: [DATE]
+- Source Publication: [PUBLICATION]
+- Evidence Level: Tier 1 / Tier 2 / Tier 3
+- Population: [POPULATION]
+
+## Validation
+- Locus Verified: [YES/NO]
+- Allele Verified: [YES/NO]
+- Sequence Verified: [YES/NO]
+- Validation Status: PENDING / PASS / FAIL
+
+## Notes
+[NOTES]

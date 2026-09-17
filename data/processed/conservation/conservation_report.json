@@ -1,0 +1,512 @@
+[
+  {
+    "gene": "B646L",
+    "protein": "p72",
+    "num_sequences": 11,
+    "alignment_length": 646,
+    "mean_conservation": 99.1,
+    "highly_conserved": 632,
+    "variable": 14,
+    "highly_variable": 0,
+    "sequences": [
+      {
+        "accession": "MW856067",
+        "length": 646,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "MW856068",
+        "length": 646,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409979",
+        "length": 646,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409980",
+        "length": 646,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409981",
+        "length": 646,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409982",
+        "length": 646,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409983",
+        "length": 646,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PQ375362",
+        "length": 646,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PQ375363",
+        "length": 646,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PV740683",
+        "length": 646,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PV740684",
+        "length": 385,
+        "status": "TRUNCATED"
+      }
+    ],
+    "stats": {
+      "num_sequences": 11,
+      "alignment_length": 646,
+      "mean_sequence_length": 622.3,
+      "min_sequence_length": 385,
+      "max_sequence_length": 646,
+      "mean_gaps": 23.7,
+      "max_gaps": 261,
+      "sequences": [
+        "MW856067|B646L|646aa|FULL_LENGTH",
+        "MW856068|B646L|646aa|FULL_LENGTH",
+        "ON409979|B646L|646aa|FULL_LENGTH",
+        "ON409980|B646L|646aa|FULL_LENGTH",
+        "ON409981|B646L|646aa|FULL_LENGTH",
+        "ON409982|B646L|646aa|FULL_LENGTH",
+        "ON409983|B646L|646aa|FULL_LENGTH",
+        "PQ375362|B646L|646aa|FULL_LENGTH",
+        "PQ375363|B646L|646aa|FULL_LENGTH",
+        "PV740683|B646L|646aa|FULL_LENGTH",
+        "PV740684|B646L|385aa|SEVERELY_TRUNCATED"
+      ]
+    }
+  },
+  {
+    "gene": "CP204L",
+    "protein": "p30",
+    "num_sequences": 11,
+    "alignment_length": 202,
+    "mean_conservation": 95.7,
+    "highly_conserved": 176,
+    "variable": 26,
+    "highly_variable": 0,
+    "sequences": [
+      {
+        "accession": "MW856067",
+        "length": 193,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "MW856068",
+        "length": 194,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409979",
+        "length": 194,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409980",
+        "length": 201,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409981",
+        "length": 190,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409982",
+        "length": 194,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409983",
+        "length": 194,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PQ375362",
+        "length": 201,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PQ375363",
+        "length": 194,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PV740683",
+        "length": 194,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PV740684",
+        "length": 194,
+        "status": "FULL_LENGTH"
+      }
+    ],
+    "stats": {
+      "num_sequences": 11,
+      "alignment_length": 202,
+      "mean_sequence_length": 194.8,
+      "min_sequence_length": 190,
+      "max_sequence_length": 201,
+      "mean_gaps": 7.2,
+      "max_gaps": 12,
+      "sequences": [
+        "MW856067|CP204L|193aa|FULL_LENGTH",
+        "MW856068|CP204L|194aa|FULL_LENGTH",
+        "ON409979|CP204L|194aa|FULL_LENGTH",
+        "ON409980|CP204L|201aa|FULL_LENGTH",
+        "ON409981|CP204L|190aa|FULL_LENGTH",
+        "ON409982|CP204L|194aa|FULL_LENGTH",
+        "ON409983|CP204L|194aa|FULL_LENGTH",
+        "PQ375362|CP204L|201aa|FULL_LENGTH",
+        "PQ375363|CP204L|194aa|FULL_LENGTH",
+        "PV740683|CP204L|194aa|FULL_LENGTH",
+        "PV740684|CP204L|194aa|FULL_LENGTH"
+      ]
+    }
+  },
+  {
+    "gene": "E183L",
+    "protein": "p54",
+    "num_sequences": 10,
+    "alignment_length": 193,
+    "mean_conservation": 94.3,
+    "highly_conserved": 162,
+    "variable": 31,
+    "highly_variable": 0,
+    "sequences": [
+      {
+        "accession": "MW856067",
+        "length": 186,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "MW856068",
+        "length": 184,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409979",
+        "length": 184,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409980",
+        "length": 185,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409981",
+        "length": 117,
+        "status": "TRUNCATED"
+      },
+      {
+        "accession": "ON409982",
+        "length": 184,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409983",
+        "length": 184,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PQ375362",
+        "length": 185,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PQ375363",
+        "length": 184,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PV740683",
+        "length": 185,
+        "status": "FULL_LENGTH"
+      }
+    ],
+    "stats": {
+      "num_sequences": 10,
+      "alignment_length": 193,
+      "mean_sequence_length": 177.8,
+      "min_sequence_length": 117,
+      "max_sequence_length": 186,
+      "mean_gaps": 15.2,
+      "max_gaps": 76,
+      "sequences": [
+        "MW856067|E183L|186aa|FULL_LENGTH",
+        "MW856068|E183L|184aa|FULL_LENGTH",
+        "ON409979|E183L|184aa|FULL_LENGTH",
+        "ON409980|E183L|185aa|FULL_LENGTH",
+        "ON409981|E183L|117aa|SEVERELY_TRUNCATED",
+        "ON409982|E183L|184aa|FULL_LENGTH",
+        "ON409983|E183L|184aa|FULL_LENGTH",
+        "PQ375362|E183L|185aa|FULL_LENGTH",
+        "PQ375363|E183L|184aa|FULL_LENGTH",
+        "PV740683|E183L|185aa|FULL_LENGTH"
+      ]
+    }
+  },
+  {
+    "gene": "EP402R",
+    "protein": "CD2v",
+    "num_sequences": 9,
+    "alignment_length": 389,
+    "mean_conservation": 91.4,
+    "highly_conserved": 256,
+    "variable": 133,
+    "highly_variable": 0,
+    "sequences": [
+      {
+        "accession": "MW856068",
+        "length": 360,
+        "status": "TRUNCATED"
+      },
+      {
+        "accession": "ON409979",
+        "length": 360,
+        "status": "TRUNCATED"
+      },
+      {
+        "accession": "ON409980",
+        "length": 385,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409981",
+        "length": 159,
+        "status": "SEVERELY_TRUNCATED"
+      },
+      {
+        "accession": "ON409982",
+        "length": 360,
+        "status": "TRUNCATED"
+      },
+      {
+        "accession": "ON409983",
+        "length": 360,
+        "status": "TRUNCATED"
+      },
+      {
+        "accession": "PQ375362",
+        "length": 385,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PQ375363",
+        "length": 360,
+        "status": "TRUNCATED"
+      },
+      {
+        "accession": "PV740683",
+        "length": 240,
+        "status": "TRUNCATED"
+      }
+    ],
+    "stats": {
+      "num_sequences": 9,
+      "alignment_length": 389,
+      "mean_sequence_length": 329.9,
+      "min_sequence_length": 159,
+      "max_sequence_length": 385,
+      "mean_gaps": 59.1,
+      "max_gaps": 230,
+      "sequences": [
+        "MW856068|EP402R|360aa|TRUNCATED",
+        "ON409979|EP402R|360aa|TRUNCATED",
+        "ON409980|EP402R|385aa|FULL_LENGTH",
+        "ON409981|EP402R|159aa|SEVERELY_TRUNCATED",
+        "ON409982|EP402R|360aa|TRUNCATED",
+        "ON409983|EP402R|360aa|TRUNCATED",
+        "PQ375362|EP402R|385aa|FULL_LENGTH",
+        "PQ375363|EP402R|360aa|TRUNCATED",
+        "PV740683|EP402R|240aa|SEVERELY_TRUNCATED"
+      ]
+    }
+  },
+  {
+    "gene": "CP2475L",
+    "protein": "pp220",
+    "num_sequences": 10,
+    "alignment_length": 2480,
+    "mean_conservation": 97.9,
+    "highly_conserved": 2283,
+    "variable": 197,
+    "highly_variable": 0,
+    "sequences": [
+      {
+        "accession": "MW856068",
+        "length": 2476,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409979",
+        "length": 2476,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409980",
+        "length": 2477,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409981",
+        "length": 2316,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409982",
+        "length": 2476,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409983",
+        "length": 2476,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PQ375362",
+        "length": 2477,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PQ375363",
+        "length": 2476,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PV740683",
+        "length": 1323,
+        "status": "TRUNCATED"
+      },
+      {
+        "accession": "PV740684",
+        "length": 2125,
+        "status": "TRUNCATED"
+      }
+    ],
+    "stats": {
+      "num_sequences": 10,
+      "alignment_length": 2480,
+      "mean_sequence_length": 2309.8,
+      "min_sequence_length": 1323,
+      "max_sequence_length": 2477,
+      "mean_gaps": 170.2,
+      "max_gaps": 1157,
+      "sequences": [
+        "MW856068|CP2475L|2476aa|FULL_LENGTH",
+        "ON409979|CP2475L|2476aa|FULL_LENGTH",
+        "ON409980|CP2475L|2477aa|FULL_LENGTH",
+        "ON409981|CP2475L|2316aa|FULL_LENGTH",
+        "ON409982|CP2475L|2476aa|FULL_LENGTH",
+        "ON409983|CP2475L|2476aa|FULL_LENGTH",
+        "PQ375362|CP2475L|2477aa|FULL_LENGTH",
+        "PQ375363|CP2475L|2476aa|FULL_LENGTH",
+        "PV740683|CP2475L|1323aa|SEVERELY_TRUNCATED",
+        "PV740684|CP2475L|2125aa|TRUNCATED"
+      ]
+    }
+  },
+  {
+    "gene": "CP312R",
+    "protein": "pCP312R",
+    "num_sequences": 11,
+    "alignment_length": 307,
+    "mean_conservation": 96.4,
+    "highly_conserved": 276,
+    "variable": 31,
+    "highly_variable": 0,
+    "sequences": [
+      {
+        "accession": "MW856067",
+        "length": 300,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "MW856068",
+        "length": 307,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409979",
+        "length": 307,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409980",
+        "length": 306,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409981",
+        "length": 307,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409982",
+        "length": 307,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "ON409983",
+        "length": 307,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PQ375362",
+        "length": 306,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PQ375363",
+        "length": 307,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PV740683",
+        "length": 307,
+        "status": "FULL_LENGTH"
+      },
+      {
+        "accession": "PV740684",
+        "length": 307,
+        "status": "FULL_LENGTH"
+      }
+    ],
+    "stats": {
+      "num_sequences": 11,
+      "alignment_length": 307,
+      "mean_sequence_length": 306.2,
+      "min_sequence_length": 300,
+      "max_sequence_length": 307,
+      "mean_gaps": 0.8,
+      "max_gaps": 7,
+      "sequences": [
+        "MW856067|CP312R|300aa|FULL_LENGTH",
+        "MW856068|CP312R|307aa|FULL_LENGTH",
+        "ON409979|CP312R|307aa|FULL_LENGTH",
+        "ON409980|CP312R|306aa|FULL_LENGTH",
+        "ON409981|CP312R|307aa|FULL_LENGTH",
+        "ON409982|CP312R|307aa|FULL_LENGTH",
+        "ON409983|CP312R|307aa|FULL_LENGTH",
+        "PQ375362|CP312R|306aa|FULL_LENGTH",
+        "PQ375363|CP312R|307aa|FULL_LENGTH",
+        "PV740683|CP312R|307aa|FULL_LENGTH",
+        "PV740684|CP312R|307aa|FULL_LENGTH"
+      ]
+    }
+  }
+]

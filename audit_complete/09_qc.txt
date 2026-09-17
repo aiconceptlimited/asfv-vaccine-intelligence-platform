@@ -1,0 +1,64 @@
+=== VAXIJEN ===
+============================================================
+VAXIJEN 2.0 - Antigenicity Prediction
+============================================================
+Date: 2026-08-27
+Sequence ID: C05_H06_B241
+Model selected: Virus
+Threshold for this model: 0.5
+
+Sequence:
+YTDIVQKKYAAYHIDKNIIQYAAYSAMEVLHELEAAAKKEEVRLMVIKLLKKKGPGPGRFIINIRSFKTVMTYGPGPGIVLIYLFSSRKKKAAEAAAKTNSSVADRPVMNNPVGGSLFEQEPSSETLKNTKGGSRMNVVKKRDRDPCLQGGSAASAPSDELYTTATTGGSNFQNEKHVGTISPSTGGSFTVKKNEQGEEIYPG
+
+Overall Prediction for the Protective Antigen = 0.4766
+Probable NON-ANTIGEN
+============================================================
+
+=== ALLERTOP ===
+============================================================
+ALLERTOP 2.0 - Allergenicity Prediction
+============================================================
+Date: 2026-08-27
+Sequence ID: C05_H06_B241
+
+Sequence:
+YTDIVQKKYAAYHIDKNIIQYAAYSAMEVLHELEAAAKKEEVRLMVIKLLKKKGPGPGRFIINIRSFKTVMTYGPGPGIVLIYLFSSRKKKAAEAAAKTNSSVADRPVMNNPVGGSLFEQEPSSETLKNTKGGSRMNVVKKRDRDPCLQGGSAASAPSDELYTTATTGGSNFQNEKHVGTISPSTGGSFTVKKNEQGEEIYPG
+
+Most similar protein: sp|Q96PE2|ARHGH_HUMAN Rho guanine nucleotide exchange factor 17 OS=Homo sapiens GN=ARHGEF17 PE=1 SV=1
+Classification based on the most similar protein: Probable NON-ALLERGEN
+============================================================
+
+=== TOXINPRED ===
+============================================================
+TOXINPRED - Toxicity Prediction
+============================================================
+Date: 2026-08-27
+Sequence ID: C05_H06_B241
+Workflow: Protein (peptide scanning)
+
+Sequence:
+YTDIVQKKYAAYHIDKNIIQYAAYSAMEVLHELEAAAKKEEVRLMVIKLLKKKGPGPGRFIINIRSFKTVMTYGPGPGIVLIYLFSSRKKKAAEAAAKTNSSVADRPVMNNPVGGSLFEQEPSSETLKNTKGGSRMNVVKKRDRDPCLQGGSAASAPSDELYTTATTGGSNFQNEKHVGTISPSTGGSFTVKKNEQGEEIYPG
+
+Result: All peptides scanned were predicted as NON-TOXIN
+Job ID: 69592
+============================================================
+
+=== PROTPARAM ===
+============================================================
+PROTPARAM - Physicochemical Properties
+============================================================
+Date: 2026-08-27
+Sequence ID: C05_H06_B241
+
+Sequence:
+YTDIVQKKYAAYHIDKNIIQYAAYSAMEVLHELEAAAKKEEVRLMVIKLLKKKGPGPGRFIINIRSFKTVMTYGPGPGIVLIYLFSSRKKKAAEAAAKTNSSVADRPVMNNPVGGSLFEQEPSSETLKNTKGGSRMNVVKKRDRDPCLQGGSAASAPSDELYTTATTGGSNFQNEKHVGTISPSTGGSFTVKKNEQGEEIYPG
+
+Results:
+- Number of amino acids: 203
+- Molecular weight: 22006.82 Da
+- Theoretical pI: 9.50
+- Instability index: 38.80 (STABLE)
+- Aliphatic index: 71.63
+- GRAVY: -0.50 (Hydrophilic)
+- Estimated charge at pH 7: +9.03
+============================================================

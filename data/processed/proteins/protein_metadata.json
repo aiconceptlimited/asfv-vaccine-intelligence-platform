@@ -1,0 +1,26 @@
+{
+  "total_proteins": 50,
+  "protein_counts": {
+    "B646L": 9,
+    "CP204L": 9,
+    "CP312R": 9,
+    "E183L": 8,
+    "CP2475L": 8,
+    "EP402R": 7
+  },
+  "source_files": [
+    "MW856067.gbff",
+    "PV740684.gbff",
+    "PV740683.gbff",
+    "MW856068.gbff",
+    "ON409981.gbff",
+    "ON409980.gbff",
+    "ON409982.gbff",
+    "ON409983.gbff",
+    "ON409979.gbff",
+    "PQ375363.gbff",
+    "PQ375362.gbff"
+  ],
+  "status": "SUCCESS",
+  "validation_status": "PASS"
+}

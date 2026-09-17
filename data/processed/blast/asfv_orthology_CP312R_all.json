@@ -1,0 +1,740 @@
+{
+"BlastOutput2": [
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_1",
+          "query_title": "MW856067_CP312R CP312R (pCP312R) from MW856067",
+          "query_len": 300,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|5",
+                  "accession": "5",
+                  "title": "YP_009743472.1 capsid protein pCP312R [African swine fever virus]"
+                }
+              ],
+              "len": 300,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 610.142,
+                  "score": 1572,
+                  "evalue": 0,
+                  "identity": 300,
+                  "positive": 300,
+                  "query_from": 1,
+                  "query_to": 300,
+                  "hit_from": 1,
+                  "hit_to": 300,
+                  "align_len": 300,
+                  "gaps": 0,
+                  "qseq": "MTTIFHADDLLHALQQAKAEKNFSSVFSLDWDKLRIAKRNTSVKYVTVHVMVKGKKAPLMFNFQNEKHVGTISPSTDEEVIRMNVVKKRDRDPCLQFNKYKISPPLEDDGFTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPKNXKTKNIIKLVQRKISSNAAKNADKSLPNPIARIRIKVNPITNTLAPVLLDKSKPITLQNGKTSFEELKDKDGVKANPDNIHKLIESHSIHDGIINARSICISSMGISFPLCLEMGVVKVFEKNNGIDVDSIYGPDEITNLINQVTIA",
+                  "hseq": "MTTIFHADDLLHALQQAKAEKNFSSVFSLDWDKLRIAKRNTSVKYVTVHVMVKGKKAPLMFNFQNEKHVGTISPSTDEEVIRMNVVKKRDRDPCLQFNKYKISPPLEDDGFTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPKNXKTKNIIKLVQRKISSNAAKNADKSLPNPIARIRIKVNPITNTLAPVLLDKSKPITLQNGKTSFEELKDKDGVKANPDNIHKLIESHSIHDGIINARSICISSMGISFPLCLEMGVVKVFEKNNGIDVDSIYGPDEITNLINQVTIA",
+                  "midline": "MTTIFHADDLLHALQQAKAEKNFSSVFSLDWDKLRIAKRNTSVKYVTVHVMVKGKKAPLMFNFQNEKHVGTISPSTDEEVIRMNVVKKRDRDPCLQFNKYKISPPLEDDGFTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPKNXKTKNIIKLVQRKISSNAAKNADKSLPNPIARIRIKVNPITNTLAPVLLDKSKPITLQNGKTSFEELKDKDGVKANPDNIHKLIESHSIHDGIINARSICISSMGISFPLCLEMGVVKVFEKNNGIDVDSIYGPDEITNLINQVTIA"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 45,
+            "eff_space": 1000620,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_2",
+          "query_title": "PV740684_CP312R CP312R (pCP312R) from PV740684",
+          "query_len": 307,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|5",
+                  "accession": "5",
+                  "title": "YP_009743472.1 capsid protein pCP312R [African swine fever virus]"
+                }
+              ],
+              "len": 300,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 541.191,
+                  "score": 1393,
+                  "evalue": 0,
+                  "identity": 265,
+                  "positive": 286,
+                  "query_from": 1,
+                  "query_to": 307,
+                  "hit_from": 1,
+                  "hit_to": 300,
+                  "align_len": 307,
+                  "gaps": 7,
+                  "qseq": "MTTHIFHADDLLQALQQAKAEKNFSSVFSLDWDKLRTAKRNTTVKYVTVNVIVKGKKAPLMFNFQNEKHVGTIPPSTDEEVIRMNAENPKFLVKKRDRDPCLQFNKYKISPPLEDDGLTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPEAMKTKHVIKLIQRKISNSAVKNADKPLPNPIARIRIKINPATSILTPILLDKNKPITLQNGKTSFEELKDEDGVKANPDNIHKLIESHSIHDGIINARSICISNMGISFPLCLEMGVVKVFEKNNGIDVNSIYGSDDISTLVNQIAIA",
+                  "hseq": "MTT-IFHADDLLHALQQAKAEKNFSSVFSLDWDKLRIAKRNTSVKYVTVHVMVKGKKAPLMFNFQNEKHVGTISPSTDEEVIRMN------VVKKRDRDPCLQFNKYKISPPLEDDGFTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPKNXKTKNIIKLVQRKISSNAAKNADKSLPNPIARIRIKVNPITNTLAPVLLDKSKPITLQNGKTSFEELKDKDGVKANPDNIHKLIESHSIHDGIINARSICISSMGISFPLCLEMGVVKVFEKNNGIDVDSIYGPDEITNLINQVTIA",
+                  "midline": "MTT IFHADDLL ALQQAKAEKNFSSVFSLDWDKLR AKRNT+VKYVTV+V+VKGKKAPLMFNFQNEKHVGTI PSTDEEVIRMN      +VKKRDRDPCLQFNKYKISPPLEDDG TVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGP+  KTK++IKL+QRKIS++A KNADK LPNPIARIRIK+NP T+ L P+LLDK+KPITLQNGKTSFEELKD+DGVKANPDNIHKLIESHSIHDGIINARSICIS+MGISFPLCLEMGVVKVFEKNNGIDV+SIYG D+I+ L+NQ+ IA"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 45,
+            "eff_space": 1028088,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_3",
+          "query_title": "PV740683_CP312R CP312R (pCP312R) from PV740683",
+          "query_len": 307,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|5",
+                  "accession": "5",
+                  "title": "YP_009743472.1 capsid protein pCP312R [African swine fever virus]"
+                }
+              ],
+              "len": 300,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 541.191,
+                  "score": 1393,
+                  "evalue": 0,
+                  "identity": 265,
+                  "positive": 286,
+                  "query_from": 1,
+                  "query_to": 307,
+                  "hit_from": 1,
+                  "hit_to": 300,
+                  "align_len": 307,
+                  "gaps": 7,
+                  "qseq": "MTTHIFHADDLLQALQQAKAEKNFSSVFSLDWDKLRTAKRNTTVKYVTVNVIVKGKKAPLMFNFQNEKHVGTIPPSTDEEVIRMNAENPKFLVKKRDRDPCLQFNKYKISPPLEDDGLTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPEAMKTKHVIKLIQRKISNSAVKNADKPLPNPIARIRIKINPATSILTPILLDKNKPITLQNGKTSFEELKDEDGVKANPDNIHKLIESHSIHDGIINARSICISNMGISFPLCLEMGVVKVFEKNNGIDVNSIYGSDDISTLVNQIAIA",
+                  "hseq": "MTT-IFHADDLLHALQQAKAEKNFSSVFSLDWDKLRIAKRNTSVKYVTVHVMVKGKKAPLMFNFQNEKHVGTISPSTDEEVIRMN------VVKKRDRDPCLQFNKYKISPPLEDDGFTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPKNXKTKNIIKLVQRKISSNAAKNADKSLPNPIARIRIKVNPITNTLAPVLLDKSKPITLQNGKTSFEELKDKDGVKANPDNIHKLIESHSIHDGIINARSICISSMGISFPLCLEMGVVKVFEKNNGIDVDSIYGPDEITNLINQVTIA",
+                  "midline": "MTT IFHADDLL ALQQAKAEKNFSSVFSLDWDKLR AKRNT+VKYVTV+V+VKGKKAPLMFNFQNEKHVGTI PSTDEEVIRMN      +VKKRDRDPCLQFNKYKISPPLEDDG TVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGP+  KTK++IKL+QRKIS++A KNADK LPNPIARIRIK+NP T+ L P+LLDK+KPITLQNGKTSFEELKD+DGVKANPDNIHKLIESHSIHDGIINARSICIS+MGISFPLCLEMGVVKVFEKNNGIDV+SIYG D+I+ L+NQ+ IA"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 45,
+            "eff_space": 1028088,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_4",
+          "query_title": "MW856068_CP312R CP312R (pCP312R) from MW856068",
+          "query_len": 307,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|5",
+                  "accession": "5",
+                  "title": "YP_009743472.1 capsid protein pCP312R [African swine fever virus]"
+                }
+              ],
+              "len": 300,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 541.191,
+                  "score": 1393,
+                  "evalue": 0,
+                  "identity": 265,
+                  "positive": 286,
+                  "query_from": 1,
+                  "query_to": 307,
+                  "hit_from": 1,
+                  "hit_to": 300,
+                  "align_len": 307,
+                  "gaps": 7,
+                  "qseq": "MTTHIFHADDLLQALQQAKAEKNFSSVFSLDWDKLRTAKRNTTVKYVTVNVIVKGKKAPLMFNFQNEKHVGTIPPSTDEEVIRMNAENPKFLVKKRDRDPCLQFNKYKISPPLEDDGLTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPEAMKTKHVIKLIQRKISNSAVKNADKPLPNPIARIRIKINPATSILTPILLDKNKPITLQNGKTSFEELKDEDGVKANPDNIHKLIESHSIHDGIINARSICISNMGISFPLCLEMGVVKVFEKNNGIDVNSIYGSDDISTLVNQIAIA",
+                  "hseq": "MTT-IFHADDLLHALQQAKAEKNFSSVFSLDWDKLRIAKRNTSVKYVTVHVMVKGKKAPLMFNFQNEKHVGTISPSTDEEVIRMN------VVKKRDRDPCLQFNKYKISPPLEDDGFTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPKNXKTKNIIKLVQRKISSNAAKNADKSLPNPIARIRIKVNPITNTLAPVLLDKSKPITLQNGKTSFEELKDKDGVKANPDNIHKLIESHSIHDGIINARSICISSMGISFPLCLEMGVVKVFEKNNGIDVDSIYGPDEITNLINQVTIA",
+                  "midline": "MTT IFHADDLL ALQQAKAEKNFSSVFSLDWDKLR AKRNT+VKYVTV+V+VKGKKAPLMFNFQNEKHVGTI PSTDEEVIRMN      +VKKRDRDPCLQFNKYKISPPLEDDG TVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGP+  KTK++IKL+QRKIS++A KNADK LPNPIARIRIK+NP T+ L P+LLDK+KPITLQNGKTSFEELKD+DGVKANPDNIHKLIESHSIHDGIINARSICIS+MGISFPLCLEMGVVKVFEKNNGIDV+SIYG D+I+ L+NQ+ IA"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 45,
+            "eff_space": 1028088,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_5",
+          "query_title": "ON409981_CP312R CP312R (pCP312R) from ON409981",
+          "query_len": 307,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|5",
+                  "accession": "5",
+                  "title": "YP_009743472.1 capsid protein pCP312R [African swine fever virus]"
+                }
+              ],
+              "len": 300,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 556.984,
+                  "score": 1434,
+                  "evalue": 0,
+                  "identity": 273,
+                  "positive": 287,
+                  "query_from": 3,
+                  "query_to": 307,
+                  "hit_from": 2,
+                  "hit_to": 300,
+                  "align_len": 305,
+                  "gaps": 6,
+                  "qseq": "TTIFHADDLLQALQQAKAEKNFSSVFTLDWDKLRIAKRNTSVKYVTVYVMVKGKKAPLMFNFQNEKHVGTIPPSTDEEVIRINAENPKFLVKKRDRDPCLQFNKYKISPPLEEDGLTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPETMKTKNIIKLVQRKISNSAIKNADKPLPNPIARIRIKINPTTNMLAPILLDKNKPITLQNGKTSFEELKDEDGAKANPDNIHKLIESHSIHDGIINARSICISNMGISFPLCLEMGVVKVFEKNNGIDVDSIYGSDDITNLINQVAIA",
+                  "hseq": "TTIFHADDLLHALQQAKAEKNFSSVFSLDWDKLRIAKRNTSVKYVTVHVMVKGKKAPLMFNFQNEKHVGTISPSTDEEVIRMN------VVKKRDRDPCLQFNKYKISPPLEDDGFTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPKNXKTKNIIKLVQRKISSNAAKNADKSLPNPIARIRIKVNPITNTLAPVLLDKSKPITLQNGKTSFEELKDKDGVKANPDNIHKLIESHSIHDGIINARSICISSMGISFPLCLEMGVVKVFEKNNGIDVDSIYGPDEITNLINQVTIA",
+                  "midline": "TTIFHADDLL ALQQAKAEKNFSSVF+LDWDKLRIAKRNTSVKYVTV+VMVKGKKAPLMFNFQNEKHVGTI PSTDEEVIR+N      +VKKRDRDPCLQFNKYKISPPLE+DG TVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGP+  KTKNIIKLVQRKIS++A KNADK LPNPIARIRIK+NP TN LAP+LLDK+KPITLQNGKTSFEELKD+DG KANPDNIHKLIESHSIHDGIINARSICIS+MGISFPLCLEMGVVKVFEKNNGIDVDSIYG D+ITNLINQV IA"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 45,
+            "eff_space": 1028088,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_6",
+          "query_title": "ON409980_CP312R CP312R (pCP312R) from ON409980",
+          "query_len": 306,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|5",
+                  "accession": "5",
+                  "title": "YP_009743472.1 capsid protein pCP312R [African swine fever virus]"
+                }
+              ],
+              "len": 300,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 590.112,
+                  "score": 1520,
+                  "evalue": 0,
+                  "identity": 291,
+                  "positive": 296,
+                  "query_from": 1,
+                  "query_to": 306,
+                  "hit_from": 1,
+                  "hit_to": 300,
+                  "align_len": 306,
+                  "gaps": 6,
+                  "qseq": "MTTIFHADDLLHALQQAKAEKNFSSVFSLDWDKLRIAKRNTSVKYVTVHVMVKGKKAPLMFNFQNEKHVGTISPSTDEEVIRMNAENPKFLVKKRDRDPCLQFNKYKISPPLEDDGLTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPENMKTKNIIKLVQRKISSNAAKNADKSLPNPIARIRIKVNPITNMLAPILLDKSKPITLQNGKTSFEELKDKDGVKANPDNIHKLIESNSIHDGIINARSICISSMGISFPLCLEMGVVKVFEKNNGIDVDSIYGPDDITNLINQVAIA",
+                  "hseq": "MTTIFHADDLLHALQQAKAEKNFSSVFSLDWDKLRIAKRNTSVKYVTVHVMVKGKKAPLMFNFQNEKHVGTISPSTDEEVIRMN------VVKKRDRDPCLQFNKYKISPPLEDDGFTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPKNXKTKNIIKLVQRKISSNAAKNADKSLPNPIARIRIKVNPITNTLAPVLLDKSKPITLQNGKTSFEELKDKDGVKANPDNIHKLIESHSIHDGIINARSICISSMGISFPLCLEMGVVKVFEKNNGIDVDSIYGPDEITNLINQVTIA",
+                  "midline": "MTTIFHADDLLHALQQAKAEKNFSSVFSLDWDKLRIAKRNTSVKYVTVHVMVKGKKAPLMFNFQNEKHVGTISPSTDEEVIRMN      +VKKRDRDPCLQFNKYKISPPLEDDG TVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGP+N KTKNIIKLVQRKISSNAAKNADKSLPNPIARIRIKVNPITN LAP+LLDKSKPITLQNGKTSFEELKDKDGVKANPDNIHKLIES+SIHDGIINARSICISSMGISFPLCLEMGVVKVFEKNNGIDVDSIYGPD+ITNLINQV IA"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 45,
+            "eff_space": 1024164,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_7",
+          "query_title": "ON409982_CP312R CP312R (pCP312R) from ON409982",
+          "query_len": 307,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|5",
+                  "accession": "5",
+                  "title": "YP_009743472.1 capsid protein pCP312R [African swine fever virus]"
+                }
+              ],
+              "len": 300,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 541.191,
+                  "score": 1393,
+                  "evalue": 0,
+                  "identity": 265,
+                  "positive": 286,
+                  "query_from": 1,
+                  "query_to": 307,
+                  "hit_from": 1,
+                  "hit_to": 300,
+                  "align_len": 307,
+                  "gaps": 7,
+                  "qseq": "MTTHIFHADDLLQALQQAKAEKNFSSVFSLDWDKLRTAKRNTTVKYVTVNVIVKGKKAPLMFNFQNEKHVGTIPPSTDEEVIRMNAENPKFLVKKRDRDPCLQFNKYKISPPLEDDGLTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPEAMKTKHVIKLIQRKISNSAVKNADKPLPNPIARIRIKINPATSILTPILLDKNKPITLQNGKTSFEELKDEDGVKANPDNIHKLIESHSIHDGIINARSICISNMGISFPLCLEMGVVKVFEKNNGIDVNSIYGSDDISTLVNQIAIA",
+                  "hseq": "MTT-IFHADDLLHALQQAKAEKNFSSVFSLDWDKLRIAKRNTSVKYVTVHVMVKGKKAPLMFNFQNEKHVGTISPSTDEEVIRMN------VVKKRDRDPCLQFNKYKISPPLEDDGFTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPKNXKTKNIIKLVQRKISSNAAKNADKSLPNPIARIRIKVNPITNTLAPVLLDKSKPITLQNGKTSFEELKDKDGVKANPDNIHKLIESHSIHDGIINARSICISSMGISFPLCLEMGVVKVFEKNNGIDVDSIYGPDEITNLINQVTIA",
+                  "midline": "MTT IFHADDLL ALQQAKAEKNFSSVFSLDWDKLR AKRNT+VKYVTV+V+VKGKKAPLMFNFQNEKHVGTI PSTDEEVIRMN      +VKKRDRDPCLQFNKYKISPPLEDDG TVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGP+  KTK++IKL+QRKIS++A KNADK LPNPIARIRIK+NP T+ L P+LLDK+KPITLQNGKTSFEELKD+DGVKANPDNIHKLIESHSIHDGIINARSICIS+MGISFPLCLEMGVVKVFEKNNGIDV+SIYG D+I+ L+NQ+ IA"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 45,
+            "eff_space": 1028088,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_8",
+          "query_title": "ON409983_CP312R CP312R (pCP312R) from ON409983",
+          "query_len": 307,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|5",
+                  "accession": "5",
+                  "title": "YP_009743472.1 capsid protein pCP312R [African swine fever virus]"
+                }
+              ],
+              "len": 300,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 541.191,
+                  "score": 1393,
+                  "evalue": 0,
+                  "identity": 265,
+                  "positive": 286,
+                  "query_from": 1,
+                  "query_to": 307,
+                  "hit_from": 1,
+                  "hit_to": 300,
+                  "align_len": 307,
+                  "gaps": 7,
+                  "qseq": "MTTHIFHADDLLQALQQAKAEKNFSSVFSLDWDKLRTAKRNTTVKYVTVNVIVKGKKAPLMFNFQNEKHVGTIPPSTDEEVIRMNAENPKFLVKKRDRDPCLQFNKYKISPPLEDDGLTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPEAMKTKHVIKLIQRKISNSAVKNADKPLPNPIARIRIKINPATSILTPILLDKNKPITLQNGKTSFEELKDEDGVKANPDNIHKLIESHSIHDGIINARSICISNMGISFPLCLEMGVVKVFEKNNGIDVNSIYGSDDISTLVNQIAIA",
+                  "hseq": "MTT-IFHADDLLHALQQAKAEKNFSSVFSLDWDKLRIAKRNTSVKYVTVHVMVKGKKAPLMFNFQNEKHVGTISPSTDEEVIRMN------VVKKRDRDPCLQFNKYKISPPLEDDGFTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPKNXKTKNIIKLVQRKISSNAAKNADKSLPNPIARIRIKVNPITNTLAPVLLDKSKPITLQNGKTSFEELKDKDGVKANPDNIHKLIESHSIHDGIINARSICISSMGISFPLCLEMGVVKVFEKNNGIDVDSIYGPDEITNLINQVTIA",
+                  "midline": "MTT IFHADDLL ALQQAKAEKNFSSVFSLDWDKLR AKRNT+VKYVTV+V+VKGKKAPLMFNFQNEKHVGTI PSTDEEVIRMN      +VKKRDRDPCLQFNKYKISPPLEDDG TVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGP+  KTK++IKL+QRKIS++A KNADK LPNPIARIRIK+NP T+ L P+LLDK+KPITLQNGKTSFEELKD+DGVKANPDNIHKLIESHSIHDGIINARSICIS+MGISFPLCLEMGVVKVFEKNNGIDV+SIYG D+I+ L+NQ+ IA"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 45,
+            "eff_space": 1028088,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_9",
+          "query_title": "ON409979_CP312R CP312R (pCP312R) from ON409979",
+          "query_len": 307,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|5",
+                  "accession": "5",
+                  "title": "YP_009743472.1 capsid protein pCP312R [African swine fever virus]"
+                }
+              ],
+              "len": 300,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 541.191,
+                  "score": 1393,
+                  "evalue": 0,
+                  "identity": 265,
+                  "positive": 286,
+                  "query_from": 1,
+                  "query_to": 307,
+                  "hit_from": 1,
+                  "hit_to": 300,
+                  "align_len": 307,
+                  "gaps": 7,
+                  "qseq": "MTTHIFHADDLLQALQQAKAEKNFSSVFSLDWDKLRTAKRNTTVKYVTVNVIVKGKKAPLMFNFQNEKHVGTIPPSTDEEVIRMNAENPKFLVKKRDRDPCLQFNKYKISPPLEDDGLTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPEAMKTKHVIKLIQRKISNSAVKNADKPLPNPIARIRIKINPATSILTPILLDKNKPITLQNGKTSFEELKDEDGVKANPDNIHKLIESHSIHDGIINARSICISNMGISFPLCLEMGVVKVFEKNNGIDVNSIYGSDDISTLVNQIAIA",
+                  "hseq": "MTT-IFHADDLLHALQQAKAEKNFSSVFSLDWDKLRIAKRNTSVKYVTVHVMVKGKKAPLMFNFQNEKHVGTISPSTDEEVIRMN------VVKKRDRDPCLQFNKYKISPPLEDDGFTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPKNXKTKNIIKLVQRKISSNAAKNADKSLPNPIARIRIKVNPITNTLAPVLLDKSKPITLQNGKTSFEELKDKDGVKANPDNIHKLIESHSIHDGIINARSICISSMGISFPLCLEMGVVKVFEKNNGIDVDSIYGPDEITNLINQVTIA",
+                  "midline": "MTT IFHADDLL ALQQAKAEKNFSSVFSLDWDKLR AKRNT+VKYVTV+V+VKGKKAPLMFNFQNEKHVGTI PSTDEEVIRMN      +VKKRDRDPCLQFNKYKISPPLEDDG TVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGP+  KTK++IKL+QRKIS++A KNADK LPNPIARIRIK+NP T+ L P+LLDK+KPITLQNGKTSFEELKD+DGVKANPDNIHKLIESHSIHDGIINARSICIS+MGISFPLCLEMGVVKVFEKNNGIDV+SIYG D+I+ L+NQ+ IA"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 45,
+            "eff_space": 1028088,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_10",
+          "query_title": "PQ375362_CP312R CP312R from PQ375362 (BA71V annotated)",
+          "query_len": 306,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|5",
+                  "accession": "5",
+                  "title": "YP_009743472.1 capsid protein pCP312R [African swine fever virus]"
+                }
+              ],
+              "len": 300,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 590.112,
+                  "score": 1520,
+                  "evalue": 0,
+                  "identity": 291,
+                  "positive": 296,
+                  "query_from": 1,
+                  "query_to": 306,
+                  "hit_from": 1,
+                  "hit_to": 300,
+                  "align_len": 306,
+                  "gaps": 6,
+                  "qseq": "MTTIFHADDLLHALQQAKAEKNFSSVFSLDWDKLRIAKRNTSVKYVTVHVMVKGKKAPLMFNFQNEKHVGTISPSTDEEVIRMNAENPKFLVKKRDRDPCLQFNKYKISPPLEDDGLTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPENMKTKNIIKLVQRKISSNAAKNADKSLPNPIARIRIKVNPITNMLAPILLDKSKPITLQNGKTSFEELKDKDGVKANPDNIHKLIESNSIHDGIINARSICISSMGISFPLCLEMGVVKVFEKNNGIDVDSIYGPDDITNLINQVAIA",
+                  "hseq": "MTTIFHADDLLHALQQAKAEKNFSSVFSLDWDKLRIAKRNTSVKYVTVHVMVKGKKAPLMFNFQNEKHVGTISPSTDEEVIRMN------VVKKRDRDPCLQFNKYKISPPLEDDGFTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPKNXKTKNIIKLVQRKISSNAAKNADKSLPNPIARIRIKVNPITNTLAPVLLDKSKPITLQNGKTSFEELKDKDGVKANPDNIHKLIESHSIHDGIINARSICISSMGISFPLCLEMGVVKVFEKNNGIDVDSIYGPDEITNLINQVTIA",
+                  "midline": "MTTIFHADDLLHALQQAKAEKNFSSVFSLDWDKLRIAKRNTSVKYVTVHVMVKGKKAPLMFNFQNEKHVGTISPSTDEEVIRMN      +VKKRDRDPCLQFNKYKISPPLEDDG TVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGP+N KTKNIIKLVQRKISSNAAKNADKSLPNPIARIRIKVNPITN LAP+LLDKSKPITLQNGKTSFEELKDKDGVKANPDNIHKLIES+SIHDGIINARSICISSMGISFPLCLEMGVVKVFEKNNGIDVDSIYGPD+ITNLINQV IA"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 45,
+            "eff_space": 1024164,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+,
+{
+    "report": {
+      "program": "blastp",
+      "version": "BLASTP 2.12.0+",
+      "reference": "Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), \"Gapped BLAST and PSI-BLAST: a new generation of protein database search programs\", Nucleic Acids Res. 25:3389-3402.",
+      "search_target": {
+        "db": "data/raw/reference/asfv_reference_proteome"
+      },
+      "params": {
+        "matrix": "BLOSUM62",
+        "expect": 1e-05,
+        "gap_open": 11,
+        "gap_extend": 1,
+        "filter": "F",
+        "cbs": 2
+      },
+      "results": {
+        "search": {
+          "query_id": "Query_11",
+          "query_title": "PQ375363_CP312R CP312R from PQ375363 (BA71V annotated)",
+          "query_len": 307,
+          "hits": [
+            {
+              "num": 1,
+              "description": [
+                {
+                  "id": "gnl|BL_ORD_ID|5",
+                  "accession": "5",
+                  "title": "YP_009743472.1 capsid protein pCP312R [African swine fever virus]"
+                }
+              ],
+              "len": 300,
+              "hsps": [
+                {
+                  "num": 1,
+                  "bit_score": 541.191,
+                  "score": 1393,
+                  "evalue": 0,
+                  "identity": 265,
+                  "positive": 286,
+                  "query_from": 1,
+                  "query_to": 307,
+                  "hit_from": 1,
+                  "hit_to": 300,
+                  "align_len": 307,
+                  "gaps": 7,
+                  "qseq": "MTTHIFHADDLLQALQQAKAEKNFSSVFSLDWDKLRTAKRNTTVKYVTVNVIVKGKKAPLMFNFQNEKHVGTIPPSTDEEVIRMNAENPKFLVKKRDRDPCLQFNKYKISPPLEDDGLTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPEAMKTKHVIKLIQRKISNSAVKNADKPLPNPIARIRIKINPATSILTPILLDKNKPITLQNGKTSFEELKDEDGVKANPDNIHKLIESHSIHDGIINARSICISNMGISFPLCLEMGVVKVFEKNNGIDVNSIYGSDDISTLVNQIAIA",
+                  "hseq": "MTT-IFHADDLLHALQQAKAEKNFSSVFSLDWDKLRIAKRNTSVKYVTVHVMVKGKKAPLMFNFQNEKHVGTISPSTDEEVIRMN------VVKKRDRDPCLQFNKYKISPPLEDDGFTVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGPKNXKTKNIIKLVQRKISSNAAKNADKSLPNPIARIRIKVNPITNTLAPVLLDKSKPITLQNGKTSFEELKDKDGVKANPDNIHKLIESHSIHDGIINARSICISSMGISFPLCLEMGVVKVFEKNNGIDVDSIYGPDEITNLINQVTIA",
+                  "midline": "MTT IFHADDLL ALQQAKAEKNFSSVFSLDWDKLR AKRNT+VKYVTV+V+VKGKKAPLMFNFQNEKHVGTI PSTDEEVIRMN      +VKKRDRDPCLQFNKYKISPPLEDDG TVKKNEQGEEIYPGDEEKSKLFQIIELLEEAFEDAVQKGP+  KTK++IKL+QRKIS++A KNADK LPNPIARIRIK+NP T+ L P+LLDK+KPITLQNGKTSFEELKD+DGVKANPDNIHKLIESHSIHDGIINARSICIS+MGISFPLCLEMGVVKVFEKNNGIDV+SIYG D+I+ L+NQ+ IA"
+                }
+              ]
+            }
+          ],
+          "stat": {
+            "db_num": 6,
+            "db_len": 4194,
+            "hsp_len": 45,
+            "eff_space": 1028088,
+            "kappa": 0.041,
+            "lambda": 0.267,
+            "entropy": 0.14
+          }
+        }
+      }
+    }
+  }
+]
+}

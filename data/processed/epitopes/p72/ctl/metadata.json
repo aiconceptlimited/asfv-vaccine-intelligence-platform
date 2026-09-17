@@ -1,0 +1,43 @@
+{
+  "module": "02_ctl_discovery",
+  "module_version": "1.0.0",
+  "protein": "p72",
+  "gene": "B646L",
+  "peptide_lengths": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "total_peptides": 2550,
+  "total_predictions": 0,
+  "total_candidates": 0,
+  "adapter_results": [
+    {
+      "tool": "NetMHCpan-4.1",
+      "status": "TOOL_NOT_AVAILABLE",
+      "executable_found": false,
+      "raw_output": "data/processed/epitopes/p72/ctl/raw/netmhcpan.tsv",
+      "record_count": 0,
+      "warnings": [
+        "Executable 'netMHCpan' not found in PATH"
+      ],
+      "errors": [],
+      "executable_path": null
+    },
+    {
+      "tool": "PigMatrix",
+      "status": "TOOL_NOT_AVAILABLE",
+      "executable_found": false,
+      "raw_output": "data/processed/epitopes/p72/ctl/raw/pigmatrix.tsv",
+      "record_count": 0,
+      "warnings": [
+        "Executable 'pigmatrix' not found in PATH"
+      ],
+      "errors": [],
+      "executable_path": null
+    }
+  ],
+  "created": "2026-08-04T22:55:46.843266",
+  "status": "COMPLETED_NO_PREDICTIONS"
+}

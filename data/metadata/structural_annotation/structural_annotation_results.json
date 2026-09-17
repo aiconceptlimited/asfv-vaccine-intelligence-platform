@@ -1,0 +1,6508 @@
+{
+  "CP312R": {
+    "protein": "pCP312R",
+    "sequences": [
+      {
+        "accession": "MW856067",
+        "length": 300,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 42,
+            "end": 61,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 128,
+            "end": 147,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 182,
+            "end": 201,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 246,
+            "end": 265,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 1,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Conserved protein",
+            "accession": "IPR027842",
+            "description": "ASFV conserved protein",
+            "e_value": "1.3e-18"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "MW856068",
+        "length": 307,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 43,
+            "end": 62,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 135,
+            "end": 154,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 189,
+            "end": 208,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 253,
+            "end": 272,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 1,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Conserved protein",
+            "accession": "IPR027842",
+            "description": "ASFV conserved protein",
+            "e_value": "1.3e-18"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409979",
+        "length": 307,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 43,
+            "end": 62,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 135,
+            "end": 154,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 189,
+            "end": 208,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 253,
+            "end": 272,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 1,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Conserved protein",
+            "accession": "IPR027842",
+            "description": "ASFV conserved protein",
+            "e_value": "1.3e-18"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409980",
+        "length": 306,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 42,
+            "end": 61,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 134,
+            "end": 153,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 185,
+            "end": 204,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 252,
+            "end": 271,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 1,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Conserved protein",
+            "accession": "IPR027842",
+            "description": "ASFV conserved protein",
+            "e_value": "1.3e-18"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409981",
+        "length": 307,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 43,
+            "end": 62,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 135,
+            "end": 154,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 189,
+            "end": 208,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 253,
+            "end": 272,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 1,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Conserved protein",
+            "accession": "IPR027842",
+            "description": "ASFV conserved protein",
+            "e_value": "1.3e-18"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409982",
+        "length": 307,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 43,
+            "end": 62,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 135,
+            "end": 154,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 189,
+            "end": 208,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 253,
+            "end": 272,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 1,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Conserved protein",
+            "accession": "IPR027842",
+            "description": "ASFV conserved protein",
+            "e_value": "1.3e-18"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409983",
+        "length": 307,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 43,
+            "end": 62,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 135,
+            "end": 154,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 189,
+            "end": 208,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 253,
+            "end": 272,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 1,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Conserved protein",
+            "accession": "IPR027842",
+            "description": "ASFV conserved protein",
+            "e_value": "1.3e-18"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "PQ375362",
+        "length": 306,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 42,
+            "end": 61,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 134,
+            "end": 153,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 185,
+            "end": 204,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 252,
+            "end": 271,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 1,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Conserved protein",
+            "accession": "IPR027842",
+            "description": "ASFV conserved protein",
+            "e_value": "1.3e-18"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "PQ375363",
+        "length": 307,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 43,
+            "end": 62,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 135,
+            "end": 154,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 189,
+            "end": 208,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 253,
+            "end": 272,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 1,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Conserved protein",
+            "accession": "IPR027842",
+            "description": "ASFV conserved protein",
+            "e_value": "1.3e-18"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "PV740683",
+        "length": 307,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 43,
+            "end": 62,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 135,
+            "end": 154,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 189,
+            "end": 208,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 253,
+            "end": 272,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 1,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Conserved protein",
+            "accession": "IPR027842",
+            "description": "ASFV conserved protein",
+            "e_value": "1.3e-18"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "PV740684",
+        "length": 307,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 43,
+            "end": 62,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 135,
+            "end": 154,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 189,
+            "end": 208,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 253,
+            "end": 272,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 1,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Conserved protein",
+            "accession": "IPR027842",
+            "description": "ASFV conserved protein",
+            "e_value": "1.3e-18"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      }
+    ],
+    "summary": {
+      "total": 11,
+      "has_signal_peptide": 0,
+      "has_transmembrane": 11,
+      "has_domains": 0
+    }
+  },
+  "EP402R": {
+    "protein": "CD2v",
+    "sequences": [
+      {
+        "accession": "MW856068",
+        "length": 360,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 15,
+            "helix_score": 11,
+            "confidence": "High"
+          },
+          {
+            "start": 197,
+            "end": 216,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 217,
+            "end": 236,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Ig-like domain",
+            "accession": "IPR013151",
+            "description": "Immunoglobulin-like domain",
+            "e_value": "2.3e-28"
+          },
+          {
+            "name": "CD2-like",
+            "accession": "IPR014759",
+            "description": "CD2-like extracellular domain",
+            "e_value": "4.5e-25"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "ON409979",
+        "length": 360,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 15,
+            "helix_score": 11,
+            "confidence": "High"
+          },
+          {
+            "start": 197,
+            "end": 216,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 217,
+            "end": 236,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Ig-like domain",
+            "accession": "IPR013151",
+            "description": "Immunoglobulin-like domain",
+            "e_value": "2.3e-28"
+          },
+          {
+            "name": "CD2-like",
+            "accession": "IPR014759",
+            "description": "CD2-like extracellular domain",
+            "e_value": "4.5e-25"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "ON409980",
+        "length": 385,
+        "signal_peptide": {
+          "signal_peptide": true,
+          "confidence": "High",
+          "cleavage_site": "Position 15-25",
+          "hydrophobic_core": "IFLISFKMIL",
+          "n_region_basic": 1,
+          "hydrophobic_count": 8
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 14,
+            "helix_score": 8,
+            "confidence": "Medium"
+          },
+          {
+            "start": 97,
+            "end": 116,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 214,
+            "end": 233,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 234,
+            "end": 253,
+            "length": 20,
+            "hydrophobic_count": 13,
+            "helix_score": 8,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Ig-like domain",
+            "accession": "IPR013151",
+            "description": "Immunoglobulin-like domain",
+            "e_value": "2.3e-28"
+          },
+          {
+            "name": "CD2-like",
+            "accession": "IPR014759",
+            "description": "CD2-like extracellular domain",
+            "e_value": "4.5e-25"
+          }
+        ],
+        "has_signal_peptide": true,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "ON409981",
+        "length": 159,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 14,
+            "helix_score": 8,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Ig-like domain",
+            "accession": "IPR013151",
+            "description": "Immunoglobulin-like domain",
+            "e_value": "2.3e-28"
+          },
+          {
+            "name": "CD2-like",
+            "accession": "IPR014759",
+            "description": "CD2-like extracellular domain",
+            "e_value": "4.5e-25"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "ON409982",
+        "length": 360,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 15,
+            "helix_score": 11,
+            "confidence": "High"
+          },
+          {
+            "start": 197,
+            "end": 216,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 217,
+            "end": 236,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Ig-like domain",
+            "accession": "IPR013151",
+            "description": "Immunoglobulin-like domain",
+            "e_value": "2.3e-28"
+          },
+          {
+            "name": "CD2-like",
+            "accession": "IPR014759",
+            "description": "CD2-like extracellular domain",
+            "e_value": "4.5e-25"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "ON409983",
+        "length": 360,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 15,
+            "helix_score": 11,
+            "confidence": "High"
+          },
+          {
+            "start": 197,
+            "end": 216,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 217,
+            "end": 236,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Ig-like domain",
+            "accession": "IPR013151",
+            "description": "Immunoglobulin-like domain",
+            "e_value": "2.3e-28"
+          },
+          {
+            "name": "CD2-like",
+            "accession": "IPR014759",
+            "description": "CD2-like extracellular domain",
+            "e_value": "4.5e-25"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "PQ375362",
+        "length": 385,
+        "signal_peptide": {
+          "signal_peptide": true,
+          "confidence": "High",
+          "cleavage_site": "Position 15-25",
+          "hydrophobic_core": "IFLISFKMIL",
+          "n_region_basic": 1,
+          "hydrophobic_count": 8
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 14,
+            "helix_score": 8,
+            "confidence": "Medium"
+          },
+          {
+            "start": 97,
+            "end": 116,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 214,
+            "end": 233,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 234,
+            "end": 253,
+            "length": 20,
+            "hydrophobic_count": 13,
+            "helix_score": 8,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Ig-like domain",
+            "accession": "IPR013151",
+            "description": "Immunoglobulin-like domain",
+            "e_value": "2.3e-28"
+          },
+          {
+            "name": "CD2-like",
+            "accession": "IPR014759",
+            "description": "CD2-like extracellular domain",
+            "e_value": "4.5e-25"
+          }
+        ],
+        "has_signal_peptide": true,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "PQ375363",
+        "length": 360,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 15,
+            "helix_score": 11,
+            "confidence": "High"
+          },
+          {
+            "start": 197,
+            "end": 216,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 217,
+            "end": 236,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Ig-like domain",
+            "accession": "IPR013151",
+            "description": "Immunoglobulin-like domain",
+            "e_value": "2.3e-28"
+          },
+          {
+            "name": "CD2-like",
+            "accession": "IPR014759",
+            "description": "CD2-like extracellular domain",
+            "e_value": "4.5e-25"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "PV740683",
+        "length": 240,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 15,
+            "helix_score": 11,
+            "confidence": "High"
+          },
+          {
+            "start": 197,
+            "end": 216,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 217,
+            "end": 236,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Ig-like domain",
+            "accession": "IPR013151",
+            "description": "Immunoglobulin-like domain",
+            "e_value": "2.3e-28"
+          },
+          {
+            "name": "CD2-like",
+            "accession": "IPR014759",
+            "description": "CD2-like extracellular domain",
+            "e_value": "4.5e-25"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": true
+      }
+    ],
+    "summary": {
+      "total": 9,
+      "has_signal_peptide": 2,
+      "has_transmembrane": 9,
+      "has_domains": 9
+    }
+  },
+  "CP2475L": {
+    "protein": "pp220",
+    "sequences": [
+      {
+        "accession": "MW856068",
+        "length": 2476,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 58,
+            "end": 77,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 122,
+            "end": 141,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 197,
+            "end": 216,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 224,
+            "end": 243,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 275,
+            "end": 294,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 326,
+            "end": 345,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 402,
+            "end": 421,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 428,
+            "end": 447,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 523,
+            "end": 542,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 747,
+            "end": 766,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 818,
+            "end": 837,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 839,
+            "end": 858,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 859,
+            "end": 878,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 889,
+            "end": 908,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 929,
+            "end": 948,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 990,
+            "end": 1009,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1153,
+            "end": 1172,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1173,
+            "end": 1192,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1200,
+            "end": 1219,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1242,
+            "end": 1261,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1264,
+            "end": 1283,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1290,
+            "end": 1309,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1331,
+            "end": 1350,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1468,
+            "end": 1487,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1539,
+            "end": 1558,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1567,
+            "end": 1586,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1608,
+            "end": 1627,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1650,
+            "end": 1669,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1678,
+            "end": 1697,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1710,
+            "end": 1729,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1748,
+            "end": 1767,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1883,
+            "end": 1902,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1936,
+            "end": 1955,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1985,
+            "end": 2004,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2060,
+            "end": 2079,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2104,
+            "end": 2123,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2154,
+            "end": 2173,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2223,
+            "end": 2242,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2254,
+            "end": 2273,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2283,
+            "end": 2302,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2303,
+            "end": 2322,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2398,
+            "end": 2417,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2420,
+            "end": 2439,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 2,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Polyprotein",
+            "accession": "IPR003231",
+            "description": "Polyprotein domain",
+            "e_value": "5.6e-20"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409979",
+        "length": 2476,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 58,
+            "end": 77,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 122,
+            "end": 141,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 197,
+            "end": 216,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 224,
+            "end": 243,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 275,
+            "end": 294,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 326,
+            "end": 345,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 402,
+            "end": 421,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 428,
+            "end": 447,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 523,
+            "end": 542,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 747,
+            "end": 766,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 818,
+            "end": 837,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 839,
+            "end": 858,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 859,
+            "end": 878,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 889,
+            "end": 908,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 929,
+            "end": 948,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 990,
+            "end": 1009,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1153,
+            "end": 1172,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1173,
+            "end": 1192,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1200,
+            "end": 1219,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1242,
+            "end": 1261,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1264,
+            "end": 1283,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1290,
+            "end": 1309,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1331,
+            "end": 1350,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1468,
+            "end": 1487,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1539,
+            "end": 1558,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1567,
+            "end": 1586,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1608,
+            "end": 1627,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1650,
+            "end": 1669,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1678,
+            "end": 1697,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1710,
+            "end": 1729,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1748,
+            "end": 1767,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1883,
+            "end": 1902,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1936,
+            "end": 1955,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1985,
+            "end": 2004,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2060,
+            "end": 2079,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2104,
+            "end": 2123,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2154,
+            "end": 2173,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2223,
+            "end": 2242,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2254,
+            "end": 2273,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2283,
+            "end": 2302,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2303,
+            "end": 2322,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2398,
+            "end": 2417,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2420,
+            "end": 2439,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 2,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Polyprotein",
+            "accession": "IPR003231",
+            "description": "Polyprotein domain",
+            "e_value": "5.6e-20"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409980",
+        "length": 2477,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 58,
+            "end": 77,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 122,
+            "end": 141,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 197,
+            "end": 216,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 224,
+            "end": 243,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 275,
+            "end": 294,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 326,
+            "end": 345,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 402,
+            "end": 421,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 428,
+            "end": 447,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 454,
+            "end": 473,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 523,
+            "end": 542,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 675,
+            "end": 694,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 747,
+            "end": 766,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 839,
+            "end": 858,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 859,
+            "end": 878,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 889,
+            "end": 908,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 929,
+            "end": 948,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 989,
+            "end": 1008,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1153,
+            "end": 1172,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1173,
+            "end": 1192,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1194,
+            "end": 1213,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1289,
+            "end": 1308,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1330,
+            "end": 1349,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1467,
+            "end": 1486,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1494,
+            "end": 1513,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1540,
+            "end": 1559,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1560,
+            "end": 1579,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1585,
+            "end": 1604,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1609,
+            "end": 1628,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1657,
+            "end": 1676,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1677,
+            "end": 1696,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1718,
+            "end": 1737,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1747,
+            "end": 1766,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1881,
+            "end": 1900,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1937,
+            "end": 1956,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1986,
+            "end": 2005,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2049,
+            "end": 2068,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2105,
+            "end": 2124,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2155,
+            "end": 2174,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2209,
+            "end": 2228,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2251,
+            "end": 2270,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2285,
+            "end": 2304,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2305,
+            "end": 2324,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2383,
+            "end": 2402,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2406,
+            "end": 2425,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Polyprotein",
+            "accession": "IPR003231",
+            "description": "Polyprotein domain",
+            "e_value": "5.6e-20"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409981",
+        "length": 2316,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 63,
+            "end": 82,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 122,
+            "end": 141,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 197,
+            "end": 216,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 224,
+            "end": 243,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 275,
+            "end": 294,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 326,
+            "end": 345,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 402,
+            "end": 421,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 428,
+            "end": 447,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 454,
+            "end": 473,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 523,
+            "end": 542,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 675,
+            "end": 694,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 747,
+            "end": 766,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 839,
+            "end": 858,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 859,
+            "end": 878,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 889,
+            "end": 908,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 929,
+            "end": 948,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 989,
+            "end": 1008,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1153,
+            "end": 1172,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1173,
+            "end": 1192,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1200,
+            "end": 1219,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1255,
+            "end": 1274,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1289,
+            "end": 1308,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1330,
+            "end": 1349,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1467,
+            "end": 1486,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1504,
+            "end": 1523,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1538,
+            "end": 1557,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1558,
+            "end": 1577,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1607,
+            "end": 1626,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1649,
+            "end": 1668,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1677,
+            "end": 1696,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1716,
+            "end": 1735,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1745,
+            "end": 1764,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1879,
+            "end": 1898,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1935,
+            "end": 1954,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1984,
+            "end": 2003,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2023,
+            "end": 2042,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2059,
+            "end": 2078,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2103,
+            "end": 2122,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2222,
+            "end": 2241,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2245,
+            "end": 2264,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Polyprotein",
+            "accession": "IPR003231",
+            "description": "Polyprotein domain",
+            "e_value": "5.6e-20"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409982",
+        "length": 2476,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 58,
+            "end": 77,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 122,
+            "end": 141,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 197,
+            "end": 216,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 224,
+            "end": 243,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 275,
+            "end": 294,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 326,
+            "end": 345,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 402,
+            "end": 421,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 428,
+            "end": 447,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 523,
+            "end": 542,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 747,
+            "end": 766,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 818,
+            "end": 837,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 839,
+            "end": 858,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 859,
+            "end": 878,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 889,
+            "end": 908,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 929,
+            "end": 948,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 990,
+            "end": 1009,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1153,
+            "end": 1172,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1173,
+            "end": 1192,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1200,
+            "end": 1219,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1242,
+            "end": 1261,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1264,
+            "end": 1283,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1290,
+            "end": 1309,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1331,
+            "end": 1350,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1468,
+            "end": 1487,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1539,
+            "end": 1558,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1567,
+            "end": 1586,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1608,
+            "end": 1627,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1650,
+            "end": 1669,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1678,
+            "end": 1697,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1710,
+            "end": 1729,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1748,
+            "end": 1767,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1883,
+            "end": 1902,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1936,
+            "end": 1955,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1985,
+            "end": 2004,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2060,
+            "end": 2079,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2104,
+            "end": 2123,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2154,
+            "end": 2173,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2223,
+            "end": 2242,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2254,
+            "end": 2273,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2283,
+            "end": 2302,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2303,
+            "end": 2322,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2398,
+            "end": 2417,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2420,
+            "end": 2439,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 2,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Polyprotein",
+            "accession": "IPR003231",
+            "description": "Polyprotein domain",
+            "e_value": "5.6e-20"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409983",
+        "length": 2476,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 58,
+            "end": 77,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 122,
+            "end": 141,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 197,
+            "end": 216,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 224,
+            "end": 243,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 275,
+            "end": 294,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 326,
+            "end": 345,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 402,
+            "end": 421,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 428,
+            "end": 447,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 523,
+            "end": 542,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 747,
+            "end": 766,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 818,
+            "end": 837,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 839,
+            "end": 858,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 859,
+            "end": 878,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 889,
+            "end": 908,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 929,
+            "end": 948,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 990,
+            "end": 1009,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1153,
+            "end": 1172,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1173,
+            "end": 1192,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1200,
+            "end": 1219,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1242,
+            "end": 1261,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1264,
+            "end": 1283,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1290,
+            "end": 1309,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1331,
+            "end": 1350,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1468,
+            "end": 1487,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1539,
+            "end": 1558,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1567,
+            "end": 1586,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1608,
+            "end": 1627,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1650,
+            "end": 1669,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1678,
+            "end": 1697,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1710,
+            "end": 1729,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1748,
+            "end": 1767,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1883,
+            "end": 1902,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1936,
+            "end": 1955,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1985,
+            "end": 2004,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2060,
+            "end": 2079,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2104,
+            "end": 2123,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2154,
+            "end": 2173,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2223,
+            "end": 2242,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2254,
+            "end": 2273,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2283,
+            "end": 2302,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2303,
+            "end": 2322,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2398,
+            "end": 2417,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2420,
+            "end": 2439,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 2,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Polyprotein",
+            "accession": "IPR003231",
+            "description": "Polyprotein domain",
+            "e_value": "5.6e-20"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "PQ375362",
+        "length": 2477,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 58,
+            "end": 77,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 122,
+            "end": 141,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 197,
+            "end": 216,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 224,
+            "end": 243,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 275,
+            "end": 294,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 326,
+            "end": 345,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 402,
+            "end": 421,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 428,
+            "end": 447,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 454,
+            "end": 473,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 523,
+            "end": 542,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 675,
+            "end": 694,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 747,
+            "end": 766,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 839,
+            "end": 858,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 859,
+            "end": 878,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 889,
+            "end": 908,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 929,
+            "end": 948,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 989,
+            "end": 1008,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1153,
+            "end": 1172,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1173,
+            "end": 1192,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1194,
+            "end": 1213,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1289,
+            "end": 1308,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1330,
+            "end": 1349,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1467,
+            "end": 1486,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1494,
+            "end": 1513,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1540,
+            "end": 1559,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1560,
+            "end": 1579,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1585,
+            "end": 1604,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1609,
+            "end": 1628,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1657,
+            "end": 1676,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1677,
+            "end": 1696,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1718,
+            "end": 1737,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1747,
+            "end": 1766,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1881,
+            "end": 1900,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1937,
+            "end": 1956,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1986,
+            "end": 2005,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2049,
+            "end": 2068,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2105,
+            "end": 2124,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2155,
+            "end": 2174,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2209,
+            "end": 2228,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2251,
+            "end": 2270,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2285,
+            "end": 2304,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2305,
+            "end": 2324,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2383,
+            "end": 2402,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2406,
+            "end": 2425,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Polyprotein",
+            "accession": "IPR003231",
+            "description": "Polyprotein domain",
+            "e_value": "5.6e-20"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "PQ375363",
+        "length": 2476,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 58,
+            "end": 77,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 122,
+            "end": 141,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 197,
+            "end": 216,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 224,
+            "end": 243,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 275,
+            "end": 294,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 326,
+            "end": 345,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 402,
+            "end": 421,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 428,
+            "end": 447,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 523,
+            "end": 542,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 747,
+            "end": 766,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 818,
+            "end": 837,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 839,
+            "end": 858,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 859,
+            "end": 878,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 889,
+            "end": 908,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 929,
+            "end": 948,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 990,
+            "end": 1009,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1153,
+            "end": 1172,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1173,
+            "end": 1192,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1200,
+            "end": 1219,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1242,
+            "end": 1261,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1264,
+            "end": 1283,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1290,
+            "end": 1309,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1331,
+            "end": 1350,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1468,
+            "end": 1487,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1539,
+            "end": 1558,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1567,
+            "end": 1586,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1608,
+            "end": 1627,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1650,
+            "end": 1669,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1678,
+            "end": 1697,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1710,
+            "end": 1729,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1748,
+            "end": 1767,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1883,
+            "end": 1902,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1936,
+            "end": 1955,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1985,
+            "end": 2004,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2060,
+            "end": 2079,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2104,
+            "end": 2123,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2154,
+            "end": 2173,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2223,
+            "end": 2242,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2254,
+            "end": 2273,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2283,
+            "end": 2302,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2303,
+            "end": 2322,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2398,
+            "end": 2417,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2420,
+            "end": 2439,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 2,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Polyprotein",
+            "accession": "IPR003231",
+            "description": "Polyprotein domain",
+            "e_value": "5.6e-20"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "PV740683",
+        "length": 1323,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 50,
+            "end": 69,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 76,
+            "end": 95,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 171,
+            "end": 190,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 395,
+            "end": 414,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 466,
+            "end": 485,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 487,
+            "end": 506,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 507,
+            "end": 526,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 537,
+            "end": 556,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 577,
+            "end": 596,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 638,
+            "end": 657,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 801,
+            "end": 820,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 821,
+            "end": 840,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 848,
+            "end": 867,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 890,
+            "end": 909,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 912,
+            "end": 931,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 938,
+            "end": 957,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 979,
+            "end": 998,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1116,
+            "end": 1135,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1187,
+            "end": 1206,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1215,
+            "end": 1234,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1256,
+            "end": 1275,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1298,
+            "end": 1317,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Polyprotein",
+            "accession": "IPR003231",
+            "description": "Polyprotein domain",
+            "e_value": "5.6e-20"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "PV740684",
+        "length": 2125,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 51,
+            "end": 70,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 77,
+            "end": 96,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 172,
+            "end": 191,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 396,
+            "end": 415,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 467,
+            "end": 486,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 488,
+            "end": 507,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 508,
+            "end": 527,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 538,
+            "end": 557,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 578,
+            "end": 597,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 639,
+            "end": 658,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 802,
+            "end": 821,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 822,
+            "end": 841,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 849,
+            "end": 868,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 891,
+            "end": 910,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 913,
+            "end": 932,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 939,
+            "end": 958,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 980,
+            "end": 999,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1117,
+            "end": 1136,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1188,
+            "end": 1207,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1216,
+            "end": 1235,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1257,
+            "end": 1276,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1299,
+            "end": 1318,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1327,
+            "end": 1346,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1359,
+            "end": 1378,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1397,
+            "end": 1416,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1532,
+            "end": 1551,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1585,
+            "end": 1604,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1634,
+            "end": 1653,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1709,
+            "end": 1728,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1753,
+            "end": 1772,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1803,
+            "end": 1822,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1872,
+            "end": 1891,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1903,
+            "end": 1922,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1932,
+            "end": 1951,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 1952,
+            "end": 1971,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2047,
+            "end": 2066,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 2069,
+            "end": 2088,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 2,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Polyprotein",
+            "accession": "IPR003231",
+            "description": "Polyprotein domain",
+            "e_value": "5.6e-20"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "has_signal_peptide": 0,
+      "has_transmembrane": 10,
+      "has_domains": 0
+    }
+  },
+  "E183L": {
+    "protein": "p54",
+    "sequences": [
+      {
+        "accession": "MW856067",
+        "length": 186,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 21,
+            "end": 40,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 41,
+            "end": 60,
+            "length": 20,
+            "hydrophobic_count": 13,
+            "helix_score": 10,
+            "confidence": "Medium"
+          },
+          {
+            "start": 125,
+            "end": 144,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Membrane protein",
+            "accession": "IPR003068",
+            "description": "Membrane-associated protein",
+            "e_value": "2.7e-12"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "MW856068",
+        "length": 184,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 20,
+            "end": 39,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 40,
+            "end": 59,
+            "length": 20,
+            "hydrophobic_count": 13,
+            "helix_score": 10,
+            "confidence": "Medium"
+          },
+          {
+            "start": 120,
+            "end": 139,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Membrane protein",
+            "accession": "IPR003068",
+            "description": "Membrane-associated protein",
+            "e_value": "2.7e-12"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409979",
+        "length": 184,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 20,
+            "end": 39,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 40,
+            "end": 59,
+            "length": 20,
+            "hydrophobic_count": 13,
+            "helix_score": 10,
+            "confidence": "Medium"
+          },
+          {
+            "start": 120,
+            "end": 139,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Membrane protein",
+            "accession": "IPR003068",
+            "description": "Membrane-associated protein",
+            "e_value": "2.7e-12"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409980",
+        "length": 185,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 21,
+            "end": 40,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 41,
+            "end": 60,
+            "length": 20,
+            "hydrophobic_count": 13,
+            "helix_score": 10,
+            "confidence": "Medium"
+          },
+          {
+            "start": 124,
+            "end": 143,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Membrane protein",
+            "accession": "IPR003068",
+            "description": "Membrane-associated protein",
+            "e_value": "2.7e-12"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409981",
+        "length": 117,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 21,
+            "end": 40,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 41,
+            "end": 60,
+            "length": 20,
+            "hydrophobic_count": 13,
+            "helix_score": 10,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Membrane protein",
+            "accession": "IPR003068",
+            "description": "Membrane-associated protein",
+            "e_value": "2.7e-12"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409982",
+        "length": 184,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 20,
+            "end": 39,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 40,
+            "end": 59,
+            "length": 20,
+            "hydrophobic_count": 13,
+            "helix_score": 10,
+            "confidence": "Medium"
+          },
+          {
+            "start": 120,
+            "end": 139,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Membrane protein",
+            "accession": "IPR003068",
+            "description": "Membrane-associated protein",
+            "e_value": "2.7e-12"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409983",
+        "length": 184,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 20,
+            "end": 39,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 40,
+            "end": 59,
+            "length": 20,
+            "hydrophobic_count": 13,
+            "helix_score": 10,
+            "confidence": "Medium"
+          },
+          {
+            "start": 120,
+            "end": 139,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Membrane protein",
+            "accession": "IPR003068",
+            "description": "Membrane-associated protein",
+            "e_value": "2.7e-12"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "PQ375362",
+        "length": 185,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 21,
+            "end": 40,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 41,
+            "end": 60,
+            "length": 20,
+            "hydrophobic_count": 13,
+            "helix_score": 10,
+            "confidence": "Medium"
+          },
+          {
+            "start": 124,
+            "end": 143,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Membrane protein",
+            "accession": "IPR003068",
+            "description": "Membrane-associated protein",
+            "e_value": "2.7e-12"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "PQ375363",
+        "length": 184,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 20,
+            "end": 39,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 40,
+            "end": 59,
+            "length": 20,
+            "hydrophobic_count": 13,
+            "helix_score": 10,
+            "confidence": "Medium"
+          },
+          {
+            "start": 120,
+            "end": 139,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Membrane protein",
+            "accession": "IPR003068",
+            "description": "Membrane-associated protein",
+            "e_value": "2.7e-12"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "PV740683",
+        "length": 185,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 20,
+            "end": 39,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 40,
+            "end": 59,
+            "length": 20,
+            "hydrophobic_count": 12,
+            "helix_score": 10,
+            "confidence": "Medium"
+          },
+          {
+            "start": 121,
+            "end": 140,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Membrane protein",
+            "accession": "IPR003068",
+            "description": "Membrane-associated protein",
+            "e_value": "2.7e-12"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "has_signal_peptide": 0,
+      "has_transmembrane": 10,
+      "has_domains": 0
+    }
+  },
+  "B646L": {
+    "protein": "p72",
+    "sequences": [
+      {
+        "accession": "MW856067",
+        "length": 646,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 322,
+            "end": 341,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 342,
+            "end": 361,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 412,
+            "end": 431,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 451,
+            "end": 470,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 531,
+            "end": 550,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 2,
+            "confidence": "Medium"
+          },
+          {
+            "start": 613,
+            "end": 632,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Capsid protein",
+            "accession": "IPR038324",
+            "description": "Major capsid protein",
+            "e_value": "1.2e-45"
+          },
+          {
+            "name": "Viral capsid",
+            "accession": "IPR003058",
+            "description": "Viral capsid protein",
+            "e_value": "3.4e-32"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "MW856068",
+        "length": 646,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 322,
+            "end": 341,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 342,
+            "end": 361,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 412,
+            "end": 431,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 451,
+            "end": 470,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 531,
+            "end": 550,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 2,
+            "confidence": "Medium"
+          },
+          {
+            "start": 613,
+            "end": 632,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Capsid protein",
+            "accession": "IPR038324",
+            "description": "Major capsid protein",
+            "e_value": "1.2e-45"
+          },
+          {
+            "name": "Viral capsid",
+            "accession": "IPR003058",
+            "description": "Viral capsid protein",
+            "e_value": "3.4e-32"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "ON409979",
+        "length": 646,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 322,
+            "end": 341,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 342,
+            "end": 361,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 412,
+            "end": 431,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 451,
+            "end": 470,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 531,
+            "end": 550,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 2,
+            "confidence": "Medium"
+          },
+          {
+            "start": 613,
+            "end": 632,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Capsid protein",
+            "accession": "IPR038324",
+            "description": "Major capsid protein",
+            "e_value": "1.2e-45"
+          },
+          {
+            "name": "Viral capsid",
+            "accession": "IPR003058",
+            "description": "Viral capsid protein",
+            "e_value": "3.4e-32"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "ON409980",
+        "length": 646,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 322,
+            "end": 341,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 342,
+            "end": 361,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 412,
+            "end": 431,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 451,
+            "end": 470,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 531,
+            "end": 550,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 2,
+            "confidence": "Medium"
+          },
+          {
+            "start": 613,
+            "end": 632,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Capsid protein",
+            "accession": "IPR038324",
+            "description": "Major capsid protein",
+            "e_value": "1.2e-45"
+          },
+          {
+            "name": "Viral capsid",
+            "accession": "IPR003058",
+            "description": "Viral capsid protein",
+            "e_value": "3.4e-32"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "ON409981",
+        "length": 646,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 322,
+            "end": 341,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 342,
+            "end": 361,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 412,
+            "end": 431,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 451,
+            "end": 470,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 531,
+            "end": 550,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 2,
+            "confidence": "Medium"
+          },
+          {
+            "start": 613,
+            "end": 632,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Capsid protein",
+            "accession": "IPR038324",
+            "description": "Major capsid protein",
+            "e_value": "1.2e-45"
+          },
+          {
+            "name": "Viral capsid",
+            "accession": "IPR003058",
+            "description": "Viral capsid protein",
+            "e_value": "3.4e-32"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "ON409982",
+        "length": 646,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 322,
+            "end": 341,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 342,
+            "end": 361,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 412,
+            "end": 431,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 451,
+            "end": 470,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 531,
+            "end": 550,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 2,
+            "confidence": "Medium"
+          },
+          {
+            "start": 613,
+            "end": 632,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Capsid protein",
+            "accession": "IPR038324",
+            "description": "Major capsid protein",
+            "e_value": "1.2e-45"
+          },
+          {
+            "name": "Viral capsid",
+            "accession": "IPR003058",
+            "description": "Viral capsid protein",
+            "e_value": "3.4e-32"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "ON409983",
+        "length": 646,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 322,
+            "end": 341,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 342,
+            "end": 361,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 412,
+            "end": 431,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 451,
+            "end": 470,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 531,
+            "end": 550,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 2,
+            "confidence": "Medium"
+          },
+          {
+            "start": 613,
+            "end": 632,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Capsid protein",
+            "accession": "IPR038324",
+            "description": "Major capsid protein",
+            "e_value": "1.2e-45"
+          },
+          {
+            "name": "Viral capsid",
+            "accession": "IPR003058",
+            "description": "Viral capsid protein",
+            "e_value": "3.4e-32"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "PQ375362",
+        "length": 646,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 322,
+            "end": 341,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 342,
+            "end": 361,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 412,
+            "end": 431,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 451,
+            "end": 470,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 531,
+            "end": 550,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 2,
+            "confidence": "Medium"
+          },
+          {
+            "start": 613,
+            "end": 632,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Capsid protein",
+            "accession": "IPR038324",
+            "description": "Major capsid protein",
+            "e_value": "1.2e-45"
+          },
+          {
+            "name": "Viral capsid",
+            "accession": "IPR003058",
+            "description": "Viral capsid protein",
+            "e_value": "3.4e-32"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "PQ375363",
+        "length": 646,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 322,
+            "end": 341,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 342,
+            "end": 361,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 412,
+            "end": 431,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 451,
+            "end": 470,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 531,
+            "end": 550,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 2,
+            "confidence": "Medium"
+          },
+          {
+            "start": 613,
+            "end": 632,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Capsid protein",
+            "accession": "IPR038324",
+            "description": "Major capsid protein",
+            "e_value": "1.2e-45"
+          },
+          {
+            "name": "Viral capsid",
+            "accession": "IPR003058",
+            "description": "Viral capsid protein",
+            "e_value": "3.4e-32"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "PV740683",
+        "length": 646,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 5,
+            "confidence": "Medium"
+          },
+          {
+            "start": 318,
+            "end": 337,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 7,
+            "confidence": "Medium"
+          },
+          {
+            "start": 340,
+            "end": 359,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 412,
+            "end": 431,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 451,
+            "end": 470,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 531,
+            "end": 550,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 2,
+            "confidence": "Medium"
+          },
+          {
+            "start": 613,
+            "end": 632,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Capsid protein",
+            "accession": "IPR038324",
+            "description": "Major capsid protein",
+            "e_value": "1.2e-45"
+          },
+          {
+            "name": "Viral capsid",
+            "accession": "IPR003058",
+            "description": "Viral capsid protein",
+            "e_value": "3.4e-32"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": true
+      },
+      {
+        "accession": "PV740684",
+        "length": 385,
+        "signal_peptide": {
+          "signal_peptide": true,
+          "confidence": "High",
+          "cleavage_site": "Position 15-25",
+          "hydrophobic_core": "RVAIPTRNFF",
+          "n_region_basic": 1,
+          "hydrophobic_count": 6
+        },
+        "transmembrane_regions": [
+          {
+            "start": 61,
+            "end": 80,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 6,
+            "confidence": "Medium"
+          },
+          {
+            "start": 81,
+            "end": 100,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          },
+          {
+            "start": 151,
+            "end": 170,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 190,
+            "end": 209,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 270,
+            "end": 289,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 2,
+            "confidence": "Medium"
+          },
+          {
+            "start": 352,
+            "end": 371,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Capsid protein",
+            "accession": "IPR038324",
+            "description": "Major capsid protein",
+            "e_value": "1.2e-45"
+          },
+          {
+            "name": "Viral capsid",
+            "accession": "IPR003058",
+            "description": "Viral capsid protein",
+            "e_value": "3.4e-32"
+          }
+        ],
+        "has_signal_peptide": true,
+        "has_transmembrane": true,
+        "has_domains": true
+      }
+    ],
+    "summary": {
+      "total": 11,
+      "has_signal_peptide": 1,
+      "has_transmembrane": 11,
+      "has_domains": 11
+    }
+  },
+  "CP204L": {
+    "protein": "p30",
+    "sequences": [
+      {
+        "accession": "MW856067",
+        "length": 193,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 24,
+            "end": 43,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Phosphoprotein",
+            "accession": "IPR003927",
+            "description": "Phosphorylation domain",
+            "e_value": "1.8e-15"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "MW856068",
+        "length": 194,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 22,
+            "end": 41,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Phosphoprotein",
+            "accession": "IPR003927",
+            "description": "Phosphorylation domain",
+            "e_value": "1.8e-15"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409979",
+        "length": 194,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 22,
+            "end": 41,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Phosphoprotein",
+            "accession": "IPR003927",
+            "description": "Phosphorylation domain",
+            "e_value": "1.8e-15"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409980",
+        "length": 201,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 21,
+            "end": 40,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Phosphoprotein",
+            "accession": "IPR003927",
+            "description": "Phosphorylation domain",
+            "e_value": "1.8e-15"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409981",
+        "length": 190,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 12,
+            "end": 31,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 72,
+            "end": 91,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Phosphoprotein",
+            "accession": "IPR003927",
+            "description": "Phosphorylation domain",
+            "e_value": "1.8e-15"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409982",
+        "length": 194,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 22,
+            "end": 41,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Phosphoprotein",
+            "accession": "IPR003927",
+            "description": "Phosphorylation domain",
+            "e_value": "1.8e-15"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "ON409983",
+        "length": 194,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 22,
+            "end": 41,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Phosphoprotein",
+            "accession": "IPR003927",
+            "description": "Phosphorylation domain",
+            "e_value": "1.8e-15"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "PQ375362",
+        "length": 201,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 21,
+            "end": 40,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 3,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Phosphoprotein",
+            "accession": "IPR003927",
+            "description": "Phosphorylation domain",
+            "e_value": "1.8e-15"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "PQ375363",
+        "length": 194,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 22,
+            "end": 41,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Phosphoprotein",
+            "accession": "IPR003927",
+            "description": "Phosphorylation domain",
+            "e_value": "1.8e-15"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "PV740683",
+        "length": 194,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 22,
+            "end": 41,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Phosphoprotein",
+            "accession": "IPR003927",
+            "description": "Phosphorylation domain",
+            "e_value": "1.8e-15"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      },
+      {
+        "accession": "PV740684",
+        "length": 194,
+        "signal_peptide": {
+          "signal_peptide": false,
+          "confidence": "Low",
+          "cleavage_site": null,
+          "reason": "No signal peptide features detected"
+        },
+        "transmembrane_regions": [
+          {
+            "start": 1,
+            "end": 20,
+            "length": 20,
+            "hydrophobic_count": 11,
+            "helix_score": 4,
+            "confidence": "Medium"
+          },
+          {
+            "start": 22,
+            "end": 41,
+            "length": 20,
+            "hydrophobic_count": 10,
+            "helix_score": 4,
+            "confidence": "Medium"
+          }
+        ],
+        "conserved_domains": [
+          {
+            "name": "Phosphoprotein",
+            "accession": "IPR003927",
+            "description": "Phosphorylation domain",
+            "e_value": "1.8e-15"
+          }
+        ],
+        "has_signal_peptide": false,
+        "has_transmembrane": true,
+        "has_domains": false
+      }
+    ],
+    "summary": {
+      "total": 11,
+      "has_signal_peptide": 0,
+      "has_transmembrane": 11,
+      "has_domains": 0
+    }
+  }
+}

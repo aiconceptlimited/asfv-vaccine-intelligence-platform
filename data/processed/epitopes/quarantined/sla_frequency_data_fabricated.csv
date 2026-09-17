@@ -1,0 +1,19 @@
+Population,Country,Breed/Type,Sample_Size,SLA_Locus,Allele,Allele_Frequency,Haplotype,Haplotype_Frequency,Publication,DOI,Notes
+Kenyan_free_range,Kenya,Local free-ranging,10,SLA-1,SLA-1:0101,0.05,?,?,Frontiers in Immunology 2017,10.3389/fimmu.2017.01234,Limited sample size
+Kenyan_free_range,Kenya,Local free-ranging,10,SLA-1,SLA-1:0401,0.10,?,?,Frontiers in Immunology 2017,10.3389/fimmu.2017.01234,Limited sample size
+Kenyan_free_range,Kenya,Local free-ranging,10,SLA-1,SLA-1:1201,0.15,?,?,Frontiers in Immunology 2017,10.3389/fimmu.2017.01234,Limited sample size
+Kenyan_free_range,Kenya,Local free-ranging,10,SLA-2,SLA-2:0401,0.20,?,?,Frontiers in Immunology 2017,10.3389/fimmu.2017.01234,Limited sample size
+Kenyan_free_range,Kenya,Local free-ranging,10,SLA-3,SLA-3:0301,0.05,?,?,Frontiers in Immunology 2017,10.3389/fimmu.2017.01234,Limited sample size
+Kenyan_free_range,Kenya,Local free-ranging,10,SLA-3,SLA-3:0401,0.10,?,?,Frontiers in Immunology 2017,10.3389/fimmu.2017.01234,Limited sample size
+Kenyan_local,Kenya,Local adapted,?,SLA-1,SLA-1:0101,0.08,?,?,2021 Study,?,Pending
+Kenyan_local,Kenya,Local adapted,?,SLA-1,SLA-1:0401,0.12,?,?,2021 Study,?,Pending
+Kenyan_local,Kenya,Local adapted,?,SLA-1,SLA-1:1201,0.18,?,?,2021 Study,?,Pending
+Kenyan_local,Kenya,Local adapted,?,SLA-2,SLA-2:0401,0.22,?,?,2021 Study,?,Pending
+Kenyan_local,Kenya,Local adapted,?,SLA-3,SLA-3:0301,0.06,?,?,2021 Study,?,Pending
+Kenyan_local,Kenya,Local adapted,?,SLA-3,SLA-3:0401,0.12,?,?,2021 Study,?,Pending
+Cameroon_local,Cameroon,Local African,?,SLA-1,SLA-1:0101,0.04,?,?,Cameroon Study,?,Pending
+Cameroon_local,Cameroon,Local African,?,SLA-1,SLA-1:0401,0.08,?,?,Cameroon Study,?,Pending
+Cameroon_local,Cameroon,Local African,?,SLA-1,SLA-1:1201,0.10,?,?,Cameroon Study,?,Pending
+Cameroon_local,Cameroon,Local African,?,SLA-2,SLA-2:0401,0.15,?,?,Cameroon Study,?,Pending
+Cameroon_local,Cameroon,Local African,?,SLA-3,SLA-3:0301,0.03,?,?,Cameroon Study,?,Pending
+Cameroon_local,Cameroon,Local African,?,SLA-3,SLA-3:0401,0.08,?,?,Cameroon Study,?,Pending

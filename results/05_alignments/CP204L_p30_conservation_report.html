@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Conservation Report - p30</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        h2 { color: #34495e; margin-top: 30px; }
+        table { border-collapse: collapse; width: 100%; margin: 10px 0; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #3498db; color: white; }
+        tr:nth-child(even) { background-color: #f2f2f2; }
+        .summary { background-color: #f8f9fa; padding: 20px; border-radius: 5px; margin: 20px 0; }
+        .metric { display: inline-block; margin: 0 20px; }
+        .metric-value { font-size: 24px; font-weight: bold; }
+        .conserved { color: green; }
+        .variable { color: orange; }
+        .highly-variable { color: red; }
+    </style>
+</head>
+<body>
+    <h1>Conservation Analysis: p30 (CP204L)</h1>
+    <p><strong>Date:</strong> 2026-07-11 16:10:58</p>
+    
+    <div class="summary">
+        <h2>Summary</h2>
+        <div class="metric">
+            <div class="metric-value">11</div>
+            <div>Sequences</div>
+        </div>
+        <div class="metric">
+            <div class="metric-value">202</div>
+            <div>Alignment Length</div>
+        </div>
+        <div class="metric">
+            <div class="metric-value">195</div>
+            <div>Mean Length (aa)</div>
+        </div>
+    </div>
+    
+    <h2>Sequence Status</h2>
+    <table>
+        <tr>
+            <th>Accession</th>
+            <th>Length (aa)</th>
+            <th>Status</th>
+        </tr>
+
+        <tr>
+            <td><strong>MW856067</strong></td>
+            <td>193</td>
+            <td class="conserved">FULL_LENGTH</td>
+        </tr>
+
+        <tr>
+            <td><strong>MW856068</strong></td>
+            <td>194</td>
+            <td class="conserved">FULL_LENGTH</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409979</strong></td>
+            <td>194</td>
+            <td class="conserved">FULL_LENGTH</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409980</strong></td>
+            <td>201</td>
+            <td class="conserved">FULL_LENGTH</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409981</strong></td>
+            <td>190</td>
+            <td class="conserved">FULL_LENGTH</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409982</strong></td>
+            <td>194</td>
+            <td class="conserved">FULL_LENGTH</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409983</strong></td>
+            <td>194</td>
+            <td class="conserved">FULL_LENGTH</td>
+        </tr>
+
+        <tr>
+            <td><strong>PQ375362</strong></td>
+            <td>201</td>
+            <td class="conserved">FULL_LENGTH</td>
+        </tr>
+
+        <tr>
+            <td><strong>PQ375363</strong></td>
+            <td>194</td>
+            <td class="conserved">FULL_LENGTH</td>
+        </tr>
+
+        <tr>
+            <td><strong>PV740683</strong></td>
+            <td>194</td>
+            <td class="conserved">FULL_LENGTH</td>
+        </tr>
+
+        <tr>
+            <td><strong>PV740684</strong></td>
+            <td>194</td>
+            <td class="conserved">FULL_LENGTH</td>
+        </tr>
+
+    </table>
+    
+    <h2>Conservation Statistics</h2>
+    <table>
+        <tr>
+            <th>Metric</th>
+            <th>Value</th>
+        </tr>
+        <tr><td>Mean Conservation</td><td>{:.1f}%</td></tr>
+        <tr><td>Median Conservation</td><td>{:.1f}%</td></tr>
+        <tr><td>Min Conservation</td><td>{:.1f}%</td></tr>
+        <tr><td>Max Conservation</td><td>{:.1f}%</td></tr>
+        <tr><td>Highly Conserved Positions (>90%)</td><td>{}</td></tr>
+        <tr><td>Variable Positions (50-90%)</td><td>{}</td></tr>
+        <tr><td>Highly Variable Positions (<50%)</td><td>{}</td></tr>
+    </table>
+</body>
+</html>

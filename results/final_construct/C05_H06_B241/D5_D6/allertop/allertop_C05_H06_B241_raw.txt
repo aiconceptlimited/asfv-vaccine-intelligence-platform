@@ -1,0 +1,12 @@
+============================================================
+ALLERTOP 2.0 - Allergenicity Prediction
+============================================================
+Date: 2026-08-27
+Sequence ID: C05_H06_B241
+
+Sequence:
+YTDIVQKKYAAYHIDKNIIQYAAYSAMEVLHELEAAAKKEEVRLMVIKLLKKKGPGPGRFIINIRSFKTVMTYGPGPGIVLIYLFSSRKKKAAEAAAKTNSSVADRPVMNNPVGGSLFEQEPSSETLKNTKGGSRMNVVKKRDRDPCLQGGSAASAPSDELYTTATTGGSNFQNEKHVGTISPSTGGSFTVKKNEQGEEIYPG
+
+Most similar protein: sp|Q96PE2|ARHGH_HUMAN Rho guanine nucleotide exchange factor 17 OS=Homo sapiens GN=ARHGEF17 PE=1 SV=1
+Classification based on the most similar protein: Probable NON-ALLERGEN
+============================================================

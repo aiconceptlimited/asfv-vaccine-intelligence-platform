@@ -1,0 +1,5 @@
+=== SNAKEMAKE ===
+/usr/bin/snakemake
+7.32.4
+
+=== NEXTFLOW ===

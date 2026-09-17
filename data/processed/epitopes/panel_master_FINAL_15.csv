@@ -1,0 +1,16 @@
+type,protein,sequence,start,end,tier,evidence,qc_status,panel_status,selection_status,status,reason
+CTL,pp220,RVFSRLVFY,1462,1470,Tier 1A,IFN-γ-inducing pp220 peptide in pigs (SLA-1*02:01),PASSED,CORE,CORE,,
+CTL,pp220,HIDKNIIQY,1362,1370,Tier 1A,IFN-γ-inducing pp220 peptide in pigs (SLA-1*04:01),PASSED,CORE,CORE,,
+HTL,p54,IVLIYLFSSRKKKAA,46,60,Tier 1B,Experimentally identified p54 B-cell epitope; universally reactive in ASFV-positive sera,PASSED,CORE,CORE,,
+B-cell,pcp312r,FTVKKNEQGEEIYPG,111,125,Tier 1B,Contains complete experimentally mapped CP312R epitope KNEQGEEIYP (122-131),PASSED,CORE,CORE,,
+CTL,pp220,SQWDLVQKF,1091,1099,Tier 2,Published pp220 predicted SLA-I peptide,PASSED,CORE,CORE,,
+CTL,pp220,SAMEVLHEL,1771,1779,Tier 2,Published pp220 predicted SLA-I peptide,PASSED,CORE,CORE,,
+CTL,pp220,YTDIVQKKY,501,509,Tier 2,"Published pp220 candidate; SLA-1*0401, IC50 53 nM",PASSED,CORE,CORE,,
+HTL,pp220,RFIINIRSFKTVMTY,1898,1912,Tier 2,Contains published FIINIRSFK from pp220 set,PASSED,CORE,CORE,,
+CTL,pp220,DRKHILMEF,385,393,Tier 2-3,7/9 aa overlap with published RLDRKHILM (383-391),PASSED,CORE,CORE,,
+B-cell,p30,LFEQEPSSETLKNTK,121,135,Tier 2-3,Partial/regional overlap with p30 epitope region 116-125,PASSED,CORE,CORE,,
+HTL,p30,KEEVRLMVIKLLKKK,179,193,Tier 2-3,Within experimentally characterized p30 C-terminal immunodominant region (137-194),PASSED,CORE,CORE,,
+CTL,pp220,RSIPLANIY,2008,2016,,,PASSED (Exploratory),EXPLORATORY,EXPLORATORY,Exploratory,No direct literature match established
+CTL,p30,KTLLSTVKY,44,52,,,PASSED (Exploratory),EXPLORATORY,EXPLORATORY,Exploratory,No direct literature match established
+HTL,p72,KRVRFSLIRVHKTQV,429,443,,,PASSED (Exploratory),EXPLORATORY,EXPLORATORY,Exploratory,No direct literature match established
+B-cell,pcp312r,NFQNEKHVGTISPST,62,76,,,PASSED (Exploratory),EXPLORATORY,EXPLORATORY,Exploratory,No verified direct literature support; CP312R relationship requires coordinate verification

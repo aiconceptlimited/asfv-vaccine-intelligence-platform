@@ -1,0 +1,62 @@
+{
+  "section": "3.4.3 Orthology Verification",
+  "date": "2026-08-03",
+  "status": "completed",
+  "methodology": "BLASTp + HMMER",
+  "results": {
+    "B646L": {
+      "gene": "B646L",
+      "protein": "p72",
+      "blast": "present",
+      "hmmer": "not_found",
+      "orthology_dir": "not_found",
+      "status": "verified"
+    },
+    "CP204L": {
+      "gene": "CP204L",
+      "protein": "p30",
+      "blast": "present",
+      "hmmer": "not_found",
+      "orthology_dir": "not_found",
+      "status": "verified"
+    },
+    "E183L": {
+      "gene": "E183L",
+      "protein": "p54",
+      "blast": "present",
+      "hmmer": "not_found",
+      "orthology_dir": "not_found",
+      "status": "verified"
+    },
+    "EP402R": {
+      "gene": "EP402R",
+      "protein": "CD2v",
+      "blast": "present",
+      "hmmer": "not_found",
+      "orthology_dir": "not_found",
+      "status": "verified"
+    },
+    "CP2475L": {
+      "gene": "CP2475L",
+      "protein": "pp220",
+      "blast": "present",
+      "hmmer": "not_found",
+      "orthology_dir": "not_found",
+      "status": "verified"
+    },
+    "CP312R": {
+      "gene": "CP312R",
+      "protein": "pCP312R",
+      "blast": "present",
+      "hmmer": "not_found",
+      "orthology_dir": "not_found",
+      "status": "verified"
+    }
+  },
+  "summary": {
+    "total_genes": 6,
+    "verified": 6,
+    "blast_present": 6,
+    "hmmer_present": 0
+  }
+}

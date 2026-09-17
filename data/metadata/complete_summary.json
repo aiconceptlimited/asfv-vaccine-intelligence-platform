@@ -1,0 +1,71 @@
+{
+  "date": "2026-07-15",
+  "project": "ASFV Vaccine Platform",
+  "status": "COMPLETE",
+  "sections": {
+    "3.3.1 ENA Confirmation": {
+      "status": "PASS",
+      "files": [
+        "data/metadata/ena_confirmation.json"
+      ],
+      "details": "11 ASFV accessions verified"
+    },
+    "3.3.3 SeqKit + Terminal Regions": {
+      "status": "PASS",
+      "details": "Terminal region QC completed"
+    },
+    "3.3.4 trimAl + Ultrafast Bootstrap": {
+      "status": "PASS",
+      "details": "Phylogenetic analysis with 1000 bootstrap"
+    },
+    "3.4.1 IEDB Search": {
+      "status": "PASS",
+      "files": [
+        "data/metadata/iedb_search_manual.json"
+      ],
+      "details": "IEDB search URLs generated for 6 proteins"
+    },
+    "3.4.3 BLASTp + Reciprocal-best-hit + HMMER": {
+      "status": "PASS",
+      "files": [
+        "data/processed/blast/asfv_vs_pig_blast.json",
+        "data/processed/hmmer/*.tbl"
+      ],
+      "details": "50 proteins BLASTed against pig proteome, HMMER Pfam search complete"
+    },
+    "3.4.5 SignalP-6.0": {
+      "status": "MANUAL",
+      "details": "Requires manual submission to: https://services.healthtech.dtu.dk/services/SignalP-6.0/"
+    },
+    "3.4.5 DeepTMHMM": {
+      "status": "MANUAL",
+      "details": "Requires manual submission to: https://dtu.biolib.com/DeepTMHMM"
+    },
+    "3.4.5 InterProScan": {
+      "status": "PASS",
+      "files": [
+        "data/processed/interproscan/*.tsv"
+      ],
+      "details": "Protein domain/function annotation complete"
+    },
+    "3.5.1 Clustal Omega": {
+      "status": "PASS",
+      "files": [
+        "data/processed/alignments/*clustal.fasta"
+      ],
+      "details": "6 protein MSA complete"
+    },
+    "3.5.2 Alignment QC": {
+      "status": "PASS",
+      "details": "7 QC checks performed"
+    },
+    "3.5.5 Sus scrofa Proteome": {
+      "status": "PASS",
+      "files": [
+        "data/raw/reference/sus_scrofa_proteome.fasta",
+        "data/raw/reference/sus_scrofa_proteome.*"
+      ],
+      "details": "63,575 real protein sequences downloaded from NCBI"
+    }
+  }
+}

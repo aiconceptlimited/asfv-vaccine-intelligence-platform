@@ -1,0 +1,34 @@
+##gff-version 3
+# PV740684_CP2475L Length: 2125
+# PV740684_CP2475L Number of predicted TMRs: 1
+PV740684_CP2475L	inside	1	719				
+PV740684_CP2475L	TMhelix	720	729				
+PV740684_CP2475L	outside	730	2125				
+//
+# PV740683_CP2475L Length: 1323
+# PV740683_CP2475L Number of predicted TMRs: 0
+PV740683_CP2475L	inside	1	1323				
+//
+# MW856068_CP2475L Length: 2476
+# MW856068_CP2475L Number of predicted TMRs: 0
+MW856068_CP2475L	outside	1	2476				
+//
+# ON409981_CP2475L Length: 2316
+# ON409981_CP2475L Number of predicted TMRs: 0
+ON409981_CP2475L	outside	1	2316				
+//
+# ON409980_CP2475L Length: 2477
+# ON409980_CP2475L Number of predicted TMRs: 0
+ON409980_CP2475L	outside	1	2477				
+//
+# ON409982_CP2475L Length: 2476
+# ON409982_CP2475L Number of predicted TMRs: 0
+ON409982_CP2475L	outside	1	2476				
+//
+# ON409983_CP2475L Length: 2476
+# ON409983_CP2475L Number of predicted TMRs: 0
+ON409983_CP2475L	outside	1	2476				
+//
+# ON409979_CP2475L Length: 2475
+# ON409979_CP2475L Number of predicted TMRs: 0
+ON409979_CP2475L	outside	1	2475				

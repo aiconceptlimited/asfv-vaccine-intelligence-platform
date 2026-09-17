@@ -1,0 +1,41 @@
+# KENYAN SLA DATA — Sørensen et al., Frontiers in Immunology 2017
+# DOI: 10.3389/fimmu.2017.00701
+
+## Study Details
+- Population: South-Western Kenyan pigs
+- Sample: 10 free-ranging pigs (9 evaluable)
+- Loci: SLA-1, SLA-2, SLA-3
+- Method: Sequence-based typing
+
+## Identified Alleles
+Total alleles identified: 13 class-I alleles
+
+SLA-1 alleles:
+- SLA-1*1501/1502 (89%)
+- Other SLA-1 alleles: ?
+
+SLA-2 alleles:
+- SLA-2*NS#16 (89%)
+- Other SLA-2 alleles: ?
+
+SLA-3 alleles:
+- SLA-3*04hb06 (78%)
+- Other SLA-3 alleles: ?
+
+## Haplotypes Identified
+| Haplotype | Prevalence | SLA-1 | SLA-2 | SLA-3 |
+|-----------|------------|-------|-------|-------|
+| Hp-F.0 | Most prevalent | *1501/1502 | *NS#16 | *04hb06 |
+| Hp-6.0 | 33% | ? | ? | ? |
+| Hp-G.0 | 22% | ? | ? | ? |
+| Hp-H.0 | 22% | ? | ? | ? |
+
+## Mapping to Our Six Alleles
+Our alleles: SLA-1:0101, SLA-1:0401, SLA-1:1201, SLA-2:0401, SLA-3:0301, SLA-3:0401
+
+Kenyan alleles found:
+- SLA-1*1501/1502 → NOT in our six alleles
+- SLA-2*NS#16 → NOT in our six alleles
+- SLA-3*04hb06 → NOT in our six alleles
+
+CONCLUSION: The dominant Kenyan alleles are different from our six-allele panel.

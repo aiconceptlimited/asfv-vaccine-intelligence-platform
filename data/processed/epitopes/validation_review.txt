@@ -1,0 +1,34 @@
+================================================================================
+CONSTRUCT-LEVEL VALIDATION — EVIDENCE REVIEW
+================================================================================
+
+1. Physicochemical Properties
+   - Molecular weight, pI, hydrophobicity
+   - Stability, solubility
+   - Half-life
+
+2. Antigenicity, Allergenicity, Toxicity
+   - Computational prediction tools
+   - Should be antigenic, non-allergenic, non-toxic
+
+3. Secondary and Tertiary Structure
+   - Alpha-helix, beta-sheet content
+   - 3D structure prediction and validation
+
+4. Docking and Molecular Dynamics
+   - Docking to SLA receptors
+   - MD simulations for stability
+
+5. Specific Recommendations for Your Panel:
+   - All 11 candidates assembled into one construct
+   - Assess as a single protein
+   - Check for new epitopes at junctions
+   - Validate structure and stability
+
+================================================================================
+REFERENCES TO SEARCH
+================================================================================
+1. "Multi-epitope vaccine validation"
+2. "In silico vaccine construct QC"
+3. "Docking MD vaccine design"
+================================================================================

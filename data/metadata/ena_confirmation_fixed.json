@@ -1,0 +1,57 @@
+[
+  {
+    "accession": "PV740684",
+    "found": false,
+    "status": "HTTP 400"
+  },
+  {
+    "accession": "PV740683",
+    "found": false,
+    "status": "HTTP 400"
+  },
+  {
+    "accession": "PQ375363",
+    "found": false,
+    "status": "HTTP 400"
+  },
+  {
+    "accession": "PQ375362",
+    "found": false,
+    "status": "HTTP 400"
+  },
+  {
+    "accession": "ON409979",
+    "found": false,
+    "status": "HTTP 400"
+  },
+  {
+    "accession": "ON409982",
+    "found": false,
+    "status": "HTTP 400"
+  },
+  {
+    "accession": "ON409983",
+    "found": false,
+    "status": "HTTP 400"
+  },
+  {
+    "accession": "ON409980",
+    "found": false,
+    "status": "HTTP 400"
+  },
+  {
+    "accession": "ON409981",
+    "found": false,
+    "status": "HTTP 400"
+  },
+  {
+    "accession": "MW856068",
+    "found": false,
+    "status": "HTTP 400"
+  },
+  {
+    "accession": "MW856067",
+    "found": false,
+    "status": "HTTP 400"
+  }
+]

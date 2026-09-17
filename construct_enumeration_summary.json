@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-08-25 17:59:05",
+  "total_architectures": 25920,
+  "ctl_permutations": 6,
+  "htl_permutations": 6,
+  "bcell_permutations": 720,
+  "expected_length": 203,
+  "qc_passed": 25920,
+  "qc_failed": 0,
+  "all_qc_pass": 

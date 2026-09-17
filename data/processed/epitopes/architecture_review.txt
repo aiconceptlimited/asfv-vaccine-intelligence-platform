@@ -1,0 +1,36 @@
+================================================================================
+MULTI-EPITOPE ARCHITECTURE — EVIDENCE REVIEW
+================================================================================
+
+1. Ordering of Epitopes
+   - HTL → CTL vs CTL → HTL
+   - N-terminal vs C-terminal placement
+   - Adjuvant placement (N- or C-terminal)
+
+2. CTL→CTL Junctions
+   - AAY linker between CTLs
+   - Junctional peptide risk is highest here
+
+3. HTL→HTL Junctions
+   - GPGPG linker between HTLs
+   - Junctional 15-mers may create new HTL epitopes
+
+4. HTL→CTL and CTL→HTL Junctions
+   - Different linker requirements
+   - Processing pathways differ (MHC-II vs MHC-I)
+   - AAY vs GPGPG at these junctions?
+
+5. Specific Recommendations for Your Panel:
+   - 8 CTLs + 3 HTLs = 11 candidates
+   - Ordering should consider:
+     - Adjuvant placement (if used)
+     - Processing requirements
+     - Junctional peptide risk
+
+================================================================================
+REFERENCES TO SEARCH
+================================================================================
+1. "Multi-epitope vaccine architecture"
+2. "HTL CTL ordering vaccine design"
+3. "Epitope order immunogenicity"
+================================================================================

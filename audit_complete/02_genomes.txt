@@ -1,0 +1,55 @@
+=== ACCESSION MANIFEST ===
+# Section 3.3.1: ASFV Genome Accessions
+# East African Isolates (Genotypes II, IX, X, XV)
+PV740684,ASFV/TAN/17/Mbozi/1,Tanzania,II,2017
+PV740683,ASFV/TAN/17/Mbozi/2,Tanzania,II,2017
+PQ375363,ASFV/RWA/Rwamagana/2021,Rwanda,II,2021
+PQ375362,ASFV/RWA/Musanze/2023,Rwanda,IX,2023
+ON409979,TAN/17/Kibaha,Tanzania,II,2017
+ON409982,TAN/17/Mbagala,Tanzania,II,2017
+ON409983,TAN/20/Morogoro,Tanzania,II,2020
+ON409980,TAN/16/Magu,Tanzania,IX,2016
+ON409981,TAN/08/Mazimbu,Tanzania,XV,2008
+MW856068,MAL/19/Karonga,Malawi,II,2019
+MW856067,BUR/18/Rutana,Burundi,X,2018
+
+=== GENOME FILES ===
+total 9524
+drwxrwxr-x 2 abubakar abubakar   4096 Jul 16 10:26 .
+drwxrwxr-x 7 abubakar abubakar   4096 Jul 10 23:57 ..
+-rw-rw-r-- 1 abubakar abubakar 179583 Jul 11 13:43 MW856067.fasta
+-rw-rw-r-- 1 abubakar abubakar 355528 Jul 16 10:26 MW856067.gbff
+-rw-rw-r-- 1 abubakar abubakar 355245 Jul 11 13:43 MW856067.genbank
+-rw-rw-r-- 1 abubakar abubakar 186458 Jul 11 13:43 MW856068.fasta
+-rw-rw-r-- 1 abubakar abubakar 368503 Jul 16 10:26 MW856068.gbff
+-rw-rw-r-- 1 abubakar abubakar 368132 Jul 11 13:43 MW856068.genbank
+-rw-rw-r-- 1 abubakar abubakar 187673 Jul 11 13:43 ON409979.fasta
+-rw-rw-r-- 1 abubakar abubakar 367301 Jul 16 10:26 ON409979.gbff
+-rw-rw-r-- 1 abubakar abubakar 366930 Jul 11 13:43 ON409979.genbank
+-rw-rw-r-- 1 abubakar abubakar 185630 Jul 11 13:43 ON409980.fasta
+-rw-rw-r-- 1 abubakar abubakar 374351 Jul 16 10:26 ON409980.gbff
+-rw-rw-r-- 1 abubakar abubakar 374090 Jul 11 13:43 ON409980.genbank
+-rw-rw-r-- 1 abubakar abubakar 181888 Jul 11 13:43 ON409981.fasta
+-rw-rw-r-- 1 abubakar abubakar 357741 Jul 16 10:26 ON409981.gbff
+-rw-rw-r-- 1 abubakar abubakar 357436 Jul 11 13:43 ON409981.genbank
+-rw-rw-r-- 1 abubakar abubakar 173932 Jul 11 13:43 ON409982.fasta
+-rw-rw-r-- 1 abubakar abubakar 338693 Jul 16 10:26 ON409982.gbff
+-rw-rw-r-- 1 abubakar abubakar 338344 Jul 11 13:43 ON409982.genbank
+-rw-rw-r-- 1 abubakar abubakar 186524 Jul 11 13:43 ON409983.fasta
+-rw-rw-r-- 1 abubakar abubakar 365967 Jul 16 10:26 ON409983.gbff
+-rw-rw-r-- 1 abubakar abubakar 365596 Jul 11 13:43 ON409983.genbank
+-rw-rw-r-- 1 abubakar abubakar 187677 Jul 11 13:43 PQ375362.fasta
+-rw-rw-r-- 1 abubakar abubakar 361626 Jul 16 10:26 PQ375362.gbff
+-rw-rw-r-- 1 abubakar abubakar 361355 Jul 11 13:43 PQ375362.genbank
+-rw-rw-r-- 1 abubakar abubakar 187004 Jul 11 13:43 PQ375363.fasta
+-rw-rw-r-- 1 abubakar abubakar 354304 Jul 16 10:26 PQ375363.gbff
+-rw-rw-r-- 1 abubakar abubakar 353945 Jul 11 13:43 PQ375363.genbank
+-rw-rw-r-- 1 abubakar abubakar 169889 Jul 11 13:43 PV740683.fasta
+-rw-rw-r-- 1 abubakar abubakar 296278 Jul 16 10:26 PV740683.gbff
+-rw-rw-r-- 1 abubakar abubakar 296007 Jul 11 13:43 PV740683.genbank
+-rw-rw-r-- 1 abubakar abubakar 175545 Jul 11 13:43 PV740684.fasta
+-rw-rw-r-- 1 abubakar abubakar 302980 Jul 16 10:26 PV740684.gbff
+-rw-rw-r-- 1 abubakar abubakar 302753 Jul 11 13:43 PV740684.genbank
+
+=== TOTAL GENOMES ===
+11

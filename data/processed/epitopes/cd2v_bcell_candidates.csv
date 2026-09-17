@@ -1,0 +1,4 @@
+protein,start,end,sequence,max_score
+cd2v,39,49,TNTTNNPTLNG,0.217088133
+cd2v,58,65,SYNNTFNL,0.211441264
+cd2v,70,75,GNTYNI,0.247634456

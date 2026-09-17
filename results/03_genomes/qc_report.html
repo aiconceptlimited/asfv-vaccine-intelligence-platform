@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>ASFV Genome QC Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        h2 { color: #34495e; margin-top: 30px; }
+        h3 { color: #34495e; margin-top: 20px; }
+        table { border-collapse: collapse; width: 100%; margin: 10px 0; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #3498db; color: white; }
+        tr:nth-child(even) { background-color: #f2f2f2; }
+        .pass { color: green; font-weight: bold; }
+        .fail { color: red; font-weight: bold; }
+        .summary { background-color: #f8f9fa; padding: 20px; border-radius: 5px; margin: 20px 0; }
+        .metric { display: inline-block; margin: 0 20px; }
+        .metric-value { font-size: 24px; font-weight: bold; }
+        .note { color: #856404; background-color: #fff3cd; padding: 5px; border-radius: 3px; }
+    </style>
+</head>
+<body>
+    <h1>ASFV Genome Quality Control Report</h1>
+    <p><strong>Date:</strong> 2026-07-11 14:25:44</p>
+    
+    <div class="summary">
+        <h2>Summary</h2>
+        <p><strong>Total Genomes:</strong> 11</p>
+        <div class="metric">
+            <div class="metric-value" style="color: green;">11</div>
+            <div>PASS</div>
+        </div>
+        <div class="metric">
+            <div class="metric-value" style="color: red;">0</div>
+            <div>FAIL</div>
+        </div>
+        <div class="metric">
+            <div class="metric-value">100.0%</div>
+            <div>Pass Rate</div>
+        </div>
+    </div>
+    
+    <h2>Technical QC Results</h2>
+    <table>
+        <tr>
+            <th>Accession</th>
+            <th>Assembly</th>
+            <th>Sequence Valid</th>
+            <th>N Count</th>
+            <th>Gaps</th>
+            <th>Length (bp)</th>
+            <th>Status</th>
+        </tr>
+
+        <tr>
+            <td><strong>MW856067</strong></td>
+            <td>Complete</td>
+            <td>Valid</td>
+            <td>11</td>
+            <td>0</td>
+            <td>176,564</td>
+            <td class="pass">PASS</td>
+        </tr>
+
+        <tr>
+            <td><strong>MW856068</strong></td>
+            <td>Complete</td>
+            <td>Valid</td>
+            <td>0</td>
+            <td>0</td>
+            <td>183,325</td>
+            <td class="pass">PASS</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409979</strong></td>
+            <td>Complete</td>
+            <td>Valid</td>
+            <td>0</td>
+            <td>0</td>
+            <td>184,521</td>
+            <td class="pass">PASS</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409980</strong></td>
+            <td>Complete</td>
+            <td>Valid</td>
+            <td>0</td>
+            <td>0</td>
+            <td>182,514</td>
+            <td class="pass">PASS</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409981</strong></td>
+            <td>Complete</td>
+            <td>Valid</td>
+            <td>0</td>
+            <td>0</td>
+            <td>178,830</td>
+            <td class="pass">PASS</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409982</strong></td>
+            <td>Complete</td>
+            <td>Valid</td>
+            <td>0</td>
+            <td>0</td>
+            <td>171,004</td>
+            <td class="pass">PASS</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409983</strong></td>
+            <td>Complete</td>
+            <td>Valid</td>
+            <td>0</td>
+            <td>0</td>
+            <td>183,389</td>
+            <td class="pass">PASS</td>
+        </tr>
+
+        <tr>
+            <td><strong>PQ375362</strong></td>
+            <td>Complete</td>
+            <td>Valid</td>
+            <td>0</td>
+            <td>0</td>
+            <td>184,517</td>
+            <td class="pass">PASS</td>
+        </tr>
+
+        <tr>
+            <td><strong>PQ375363</strong></td>
+            <td>Complete</td>
+            <td>Valid</td>
+            <td>0</td>
+            <td>0</td>
+            <td>183,853</td>
+            <td class="pass">PASS</td>
+        </tr>
+
+        <tr>
+            <td><strong>PV740683</strong></td>
+            <td>Complete</td>
+            <td>Valid</td>
+            <td>0</td>
+            <td>0</td>
+            <td>167,022</td>
+            <td class="pass">PASS</td>
+        </tr>
+
+        <tr>
+            <td><strong>PV740684</strong></td>
+            <td>Complete</td>
+            <td>Valid</td>
+            <td>0</td>
+            <td>0</td>
+            <td>172,585</td>
+            <td class="pass">PASS</td>
+        </tr>
+
+    </table>
+    
+    <h2>Biological Observations</h2>
+    <table>
+        <tr>
+            <th>Accession</th>
+            <th>CDS Count</th>
+            <th>GC %</th>
+            <th>Genome Length (bp)</th>
+            <th>IUPAC Ambiguity</th>
+        </tr>
+
+        <tr>
+            <td><strong>MW856067</strong></td>
+            <td>144</td>
+            <td>38.67</td>
+            <td>176,564</td>
+            <td>33</td>
+        </tr>
+
+        <tr>
+            <td><strong>MW856068</strong></td>
+            <td>182</td>
+            <td>38.55</td>
+            <td>183,325</td>
+            <td>0</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409979</strong></td>
+            <td>179</td>
+            <td>38.5</td>
+            <td>184,521</td>
+            <td>0</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409980</strong></td>
+            <td>156</td>
+            <td>38.61</td>
+            <td>182,514</td>
+            <td>0</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409981</strong></td>
+            <td>147</td>
+            <td>38.15</td>
+            <td>178,830</td>
+            <td>0</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409982</strong></td>
+            <td>157</td>
+            <td>38.88</td>
+            <td>171,004</td>
+            <td>0</td>
+        </tr>
+
+        <tr>
+            <td><strong>ON409983</strong></td>
+            <td>179</td>
+            <td>38.54</td>
+            <td>183,389</td>
+            <td>0</td>
+        </tr>
+
+        <tr>
+            <td><strong>PQ375362</strong></td>
+            <td>160</td>
+            <td>38.51</td>
+            <td>184,517</td>
+            <td>35</td>
+        </tr>
+
+        <tr>
+            <td><strong>PQ375363</strong></td>
+            <td>183</td>
+            <td>38.54</td>
+            <td>183,853</td>
+            <td>0</td>
+        </tr>
+
+        <tr>
+            <td><strong>PV740683</strong></td>
+            <td>128</td>
+            <td>39.17</td>
+            <td>167,022</td>
+            <td>1</td>
+        </tr>
+
+        <tr>
+            <td><strong>PV740684</strong></td>
+            <td>126</td>
+            <td>38.95</td>
+            <td>172,585</td>
+            <td>1</td>
+        </tr>
+
+    </table>
+    
+    <h2>Notes</h2>
+<p style='color: green;'>✅ No issues found.</p>
+    <h2>QC Criteria (Technical)</h2>
+    <table>
+        <tr><th>Criteria</th><th>PASS</th><th>FAIL</th></tr>
+        <tr><td>Record Parseable</td><td>Yes</td><td>No</td></tr>
+        <tr><td>Assembly Status</td><td>Complete</td><td>Not Complete</td></tr>
+        <tr><td>Valid Sequence</td><td>ACGTN + IUPAC codes</td><td>Invalid characters</td></tr>
+        <tr><td>Internal Gaps</td><td>0</td><td>&gt; 0</td></tr>
+        <tr><td>Genome Length</td><td>≥ 100,000 bp</td><td>&lt; 100,000 bp</td></tr>
+    </table>
+    <p style="margin-top: 20px; font-size: 12px; color: #7f8c8d;">
+        <strong>Note:</strong> CDS count, genome length variation, and IUPAC ambiguity codes are reported as observations, not QC criteria.
+    </p>
+</body>
+</html>

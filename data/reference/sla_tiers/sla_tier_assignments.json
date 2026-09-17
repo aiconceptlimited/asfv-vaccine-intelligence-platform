@@ -1,0 +1,31 @@
+{
+  "title": "SLA Evidence Tier Assignments - Evidence-Based",
+  "description": "Only verified data populates tiers. No provisional entries.",
+  "rule": "ONLY verified data populates tiers. NO provisional entries.",
+  "date_created": "2026-08-04",
+  "version": "3.0 (Final)",
+  "tier_definitions": {
+    "Tier 1": "Experimentally validated SLA alleles from IPD-MHC",
+    "Tier 2": "Reserved for alleles reported in African pigs (currently empty)",
+    "Tier 3": "Reserved for alleles reported in East African pigs (currently empty)"
+  },
+  "data_limitations": [
+    "Comprehensive East African SLA allele data are currently limited",
+    "Most alleles are from commercial European breeds",
+    "Tier 2 and Tier 3 will be populated only after literature verification"
+  ],
+  "methodology_statement": "This reference panel uses experimentally validated IPD-MHC alleles as the primary reference set. No provisional or unverified data are included. If no verified African or East African SLA alleles are identified during literature review, the reference panel will consist exclusively of experimentally validated IPD-MHC alleles.",
+  "assignments": [
+    {"allele": "SLA-1*0101", "tier": "Tier 1", "rationale": "Experimentally validated IPD-MHC allele", "evidence_type": "Experimental validation", "citation": "IPD-MHC database", "status": "VALIDATED"},
+    {"allele": "SLA-1*0401", "tier": "Tier 1", "rationale": "Experimentally validated IPD-MHC allele", "evidence_type": "Experimental validation", "citation": "IPD-MHC database", "status": "VALIDATED"},
+    {"allele": "SLA-2*0101", "tier": "Tier 1", "rationale": "Experimentally validated IPD-MHC allele", "evidence_type": "Experimental validation", "citation": "IPD-MHC database", "status": "VALIDATED"},
+    {"allele": "SLA-2*0401", "tier": "Tier 1", "rationale": "Experimentally validated IPD-MHC allele", "evidence_type": "Experimental validation", "citation": "IPD-MHC database", "status": "VALIDATED"},
+    {"allele": "SLA-3*0401", "tier": "Tier 1", "rationale": "Experimentally validated IPD-MHC allele", "evidence_type": "Experimental validation", "citation": "IPD-MHC database", "status": "VALIDATED"},
+    {"allele": "SLA-DRA*0101", "tier": "Tier 1", "rationale": "Experimentally validated IPD-MHC allele", "evidence_type": "Experimental validation", "citation": "IPD-MHC database", "status": "VALIDATED"},
+    {"allele": "SLA-DRB1*0201", "tier": "Tier 1", "rationale": "Experimentally validated IPD-MHC allele", "evidence_type": "Experimental validation", "citation": "IPD-MHC database", "status": "VALIDATED"},
+    {"allele": "SLA-DRB1*0401", "tier": "Tier 1", "rationale": "Experimentally validated IPD-MHC allele", "evidence_type": "Experimental validation", "citation": "IPD-MHC database", "status": "VALIDATED"},
+    {"allele": "SLA-DQA*0101", "tier": "Tier 1", "rationale": "Experimentally validated IPD-MHC allele", "evidence_type": "Experimental validation", "citation": "IPD-MHC database", "status": "VALIDATED"},
+    {"allele": "SLA-DQB1*0201", "tier": "Tier 1", "rationale": "Experimentally validated IPD-MHC allele", "evidence_type": "Experimental validation", "citation": "IPD-MHC database", "status": "VALIDATED"},
+    {"allele": "SLA-DQB1*0401", "tier": "Tier 1", "rationale": "Experimentally validated IPD-MHC allele", "evidence_type": "Experimental validation", "citation": "IPD-MHC database", "status": "VALIDATED"}
+  ]
+}

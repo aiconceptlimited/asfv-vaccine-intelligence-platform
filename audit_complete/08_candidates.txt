@@ -1,0 +1,16 @@
+=== CANDIDATE FILES ===
+-rw-rw-r-- 1 abubakar abubakar 310 Aug 26 19:36 C05_H02_B241.fasta
+-rw-rw-r-- 1 abubakar abubakar 310 Aug 26 19:36 C05_H03_B121.fasta
+-rw-rw-r-- 1 abubakar abubakar 310 Aug 26 19:36 C05_H04_B241.fasta
+-rw-rw-r-- 1 abubakar abubakar 310 Aug 26 19:36 C05_H05_B241.fasta
+-rw-rw-r-- 1 abubakar abubakar 310 Aug 26 19:36 C05_H06_B241.fasta
+-rw-rw-r-- 1 abubakar abubakar 252 Aug 27 18:49 C05_H06_B241_final.fasta
+-rw-rw-r-- 1 abubakar abubakar 310 Aug 26 19:36 C06_H02_B241.fasta
+-rw-rw-r-- 1 abubakar abubakar 310 Aug 26 19:36 C06_H03_B121.fasta
+-rw-rw-r-- 1 abubakar abubakar 310 Aug 26 19:36 C06_H04_B241.fasta
+-rw-rw-r-- 1 abubakar abubakar 310 Aug 26 19:36 C06_H05_B241.fasta
+-rw-rw-r-- 1 abubakar abubakar 310 Aug 26 19:36 C06_H06_B241.fasta
+
+=== SELECTED CONSTRUCT ===
+>C05_H06_B241 | ASFV Vaccine Construct | 203 aa
+YTDIVQKKYAAYHIDKNIIQYAAYSAMEVLHELEAAAKKEEVRLMVIKLLKKKGPGPGRFIINIRSFKTVMTYGPGPGIVLIYLFSSRKKKAAEAAAKTNSSVADRPVMNNPVGGSLFEQEPSSETLKNTKGGSRMNVVKKRDRDPCLQGGSAASAPSDELYTTATTGGSNFQNEKHVGTISPSTGGSFTVKKNEQGEEIYPG

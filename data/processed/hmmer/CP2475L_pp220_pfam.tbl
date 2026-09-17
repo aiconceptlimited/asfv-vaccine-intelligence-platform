@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Cdh1_DBD_1           PF18196.8  ON409981_CP2475L     -                2.7    9.0   5.1       6.8    7.7   0.4   3.0   2   0   0   2   2   2   0 Chromodomain helicase DNA-binding domain 1
+Cdh1_DBD_1           PF18196.8  ON409980_CP2475L     -                1.9    9.5   4.6       7.3    7.6   0.4   3.1   2   0   0   2   2   2   0 Chromodomain helicase DNA-binding domain 1
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      data/interim/proteins/CP2475L_pp220_sequences.fasta
+# Target file:     data/raw/reference/pfam/Pfam-A.hmm
+# Option settings: hmmscan --tblout data/processed/hmmer/CP2475L_pp220_pfam.tbl data/raw/reference/pfam/Pfam-A.hmm data/interim/proteins/CP2475L_pp220_sequences.fasta 
+# Current dir:     /home/abubakar/asfv_vaccine_platform
+# Date:            Thu Jul 23 11:03:23 2026
+# [ok]

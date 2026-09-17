@@ -1,0 +1,14 @@
+{
+  "gene": "B646L",
+  "protein": "p72",
+  "reference_accession": "Multiple",
+  "alignment_length": 646,
+  "mean_conservation": 99.1,
+  "number_of_sequences": 9,
+  "complete_sequences": 8,
+  "partial_sequences": 1,
+  "expected_length": 646,
+  "highly_conserved_residues": 615,
+  "pipeline_version": "2.0",
+  "created": "2026-08-04T22:39:57.305385"
+}

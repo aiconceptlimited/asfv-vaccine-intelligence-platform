@@ -1,0 +1,30 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Capsid_NCLDV         PF04451.18 MW856067_B646L       -            1.3e-28  100.7   0.2   2.1e-28  100.1   0.2   1.3   1   0   0   1   1   1   1 Large eukaryotic DNA virus major capsid protein
+Capsid_N             PF16903.13 MW856067_B646L       -               0.21   11.8   0.0       1.6    9.0   0.0   2.4   4   0   0   4   4   4   0 Major capsid protein N-terminus
+Capsid_NCLDV         PF04451.18 PV740684_B646L       -              3e-29  102.9   0.2   4.5e-29  102.3   0.2   1.2   1   0   0   1   1   1   1 Large eukaryotic DNA virus major capsid protein
+Capsid_NCLDV         PF04451.18 PV740683_B646L       -            9.8e-29  101.2   0.2   1.5e-28  100.5   0.2   1.3   1   0   0   1   1   1   1 Large eukaryotic DNA virus major capsid protein
+Capsid_N             PF16903.13 PV740683_B646L       -               0.19   12.0   0.1       1.3    9.3   0.0   2.4   4   0   0   4   4   4   0 Major capsid protein N-terminus
+Capsid_NCLDV         PF04451.18 MW856068_B646L       -            9.9e-29  101.2   0.2   1.5e-28  100.5   0.2   1.3   1   0   0   1   1   1   1 Large eukaryotic DNA virus major capsid protein
+Capsid_N             PF16903.13 MW856068_B646L       -               0.22   11.8   0.1       1.5    9.0   0.0   2.4   4   0   0   4   4   4   0 Major capsid protein N-terminus
+Capsid_NCLDV         PF04451.18 ON409981_B646L       -            1.1e-28  101.0   0.3   1.7e-28  100.4   0.3   1.3   1   0   0   1   1   1   1 Large eukaryotic DNA virus major capsid protein
+Capsid_N             PF16903.13 ON409981_B646L       -               0.17   12.2   0.0       1.2    9.4   0.0   2.4   4   0   0   4   4   4   0 Major capsid protein N-terminus
+Capsid_NCLDV         PF04451.18 ON409980_B646L       -            1.3e-28  100.8   0.2     2e-28  100.2   0.2   1.3   1   0   0   1   1   1   1 Large eukaryotic DNA virus major capsid protein
+Capsid_N             PF16903.13 ON409980_B646L       -               0.21   11.8   0.0       1.6    9.0   0.0   2.4   4   0   0   4   4   4   0 Major capsid protein N-terminus
+Capsid_NCLDV         PF04451.18 ON409982_B646L       -            9.9e-29  101.2   0.2   1.5e-28  100.5   0.2   1.3   1   0   0   1   1   1   1 Large eukaryotic DNA virus major capsid protein
+Capsid_N             PF16903.13 ON409982_B646L       -               0.22   11.8   0.1       1.5    9.0   0.0   2.4   4   0   0   4   4   4   0 Major capsid protein N-terminus
+Capsid_NCLDV         PF04451.18 ON409983_B646L       -            9.9e-29  101.2   0.2   1.5e-28  100.5   0.2   1.3   1   0   0   1   1   1   1 Large eukaryotic DNA virus major capsid protein
+Capsid_N             PF16903.13 ON409983_B646L       -               0.22   11.8   0.1       1.5    9.0   0.0   2.4   4   0   0   4   4   4   0 Major capsid protein N-terminus
+Capsid_NCLDV         PF04451.18 ON409979_B646L       -            9.9e-29  101.2   0.2   1.5e-28  100.5   0.2   1.3   1   0   0   1   1   1   1 Large eukaryotic DNA virus major capsid protein
+Capsid_N             PF16903.13 ON409979_B646L       -               0.22   11.8   0.1       1.5    9.0   0.0   2.4   4   0   0   4   4   4   0 Major capsid protein N-terminus
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      data/interim/proteins/B646L_p72_sequences.fasta
+# Target file:     data/raw/reference/pfam/Pfam-A.hmm
+# Option settings: hmmscan --tblout data/processed/hmmer/B646L_p72_pfam.tbl data/raw/reference/pfam/Pfam-A.hmm data/interim/proteins/B646L_p72_sequences.fasta 
+# Current dir:     /home/abubakar/asfv_vaccine_platform
+# Date:            Thu Jul 23 11:02:55 2026
+# [ok]

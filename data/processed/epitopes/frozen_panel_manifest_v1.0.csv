@@ -1,0 +1,11 @@
+ID,Type,Protein,Peptide,Start,End,Length,Conservation,Alleles/nM,Evidence,Source
+CTL_1,CTL,pp220,HIDKNIIQY,1362,1370,9,10/10,4,Tier A (Direct pig T-cell evidence),ctl_final_candidates_filtered.csv
+CTL_2,CTL,pp220,RSIPLANIY,2008,2016,9,9/10,5,Tier B,ctl_final_candidates_filtered.csv
+CTL_3,CTL,pp220,YTDIVQKKY,501,509,9,10/10,3,Tier B,ctl_final_candidates_filtered.csv
+HTL_1,HTL,p54,IVLIYLFSSRKKKAA,46,60,15,100%,18.29 nM,Tier B,htl_final_panel.csv
+HTL_2,HTL,pp220,RFIINIRSFKTVMTY,1898,1912,15,100%,23.00 nM,Tier B,htl_final_panel.csv
+HTL_3,HTL,p72,KRVRFSLIRVHKTQV,429,443,15,100%,30.48 nM,Tier B,htl_final_panel.csv
+HTL_4,HTL,p30,KEEVRLMVIKLLKKK,179,193,15,100%,90.95 nM,Tier B,htl_final_panel.csv
+Bcell_1,B-cell,pcp312r,NFQNEKHVGTISPST,62,76,15,95%,2/3 IEDB,Tier B,bcell_final_panel_provenance.csv
+Bcell_2,B-cell,pcp312r,FTVKKNEQGEEIYPG,111,125,15,94%,2/3 IEDB,Tier B,bcell_final_panel_provenance.csv
+Bcell_3,B-cell,p30,LFEQEPSSETLKNTK,121,135,15,76%,3/3 IEDB,Tier B,bcell_final_panel_provenance.csv

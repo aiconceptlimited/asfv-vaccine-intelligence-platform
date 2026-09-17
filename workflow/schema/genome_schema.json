@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ASFV Genome Metadata Schema",
+  "description": "Schema for validating genome metadata (Section 3.3.2)",
+  "type": "object",
+  "required": ["accession", "strain", "country", "genotype", "year"],
+  "properties": {
+    "accession": {
+      "type": "string",
+      "pattern": "^[A-Z]{2,3}[0-9]{5,7}\\.[0-9]+$"
+    },
+    "strain": {"type": "string"},
+    "country": {"type": "string"},
+    "genotype": {
+      "type": "string",
+      "enum": ["II", "IX", "X", "XV"]
+    },
+    "year": {"type": "integer", "minimum": 2000, "maximum": 2026},
+    "length": {"type": "integer", "minimum": 170000, "maximum": 193000},
+    "gc_content": {"type": "number", "minimum": 35, "maximum": 45},
+    "cds_count": {"type": "integer", "minimum": 150, "maximum": 200}
+  }
+}

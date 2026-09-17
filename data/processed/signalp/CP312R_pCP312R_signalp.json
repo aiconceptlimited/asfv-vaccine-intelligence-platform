@@ -1,0 +1,160 @@
+{
+  "INFO": {
+    "failedjobs": 0,
+    "size": 9
+  },
+  "CSV_FILE": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/prediction_results.txt",
+  "MATURE_FILE": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/processed_entries.fasta",
+  "GFF_FILE": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output.gff3",
+  "ZIP_FILE": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_all_results.zip",
+  "SEQUENCES": {
+    "MW856067_CP312R CP312R _pCP312R_ from MW856067": {
+      "Name": "MW856067_CP312R CP312R _pCP312R_ from MW856067",
+      "Plot_eps": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_MW856067_CP312R_plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_MW856067_CP312R_plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_MW856067_CP312R_plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "PV740684_CP312R CP312R _pCP312R_ from PV740684": {
+      "Name": "PV740684_CP312R CP312R _pCP312R_ from PV740684",
+      "Plot_eps": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_PV740684_CP312R_plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_PV740684_CP312R_plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_PV740684_CP312R_plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "PV740683_CP312R CP312R _pCP312R_ from PV740683": {
+      "Name": "PV740683_CP312R CP312R _pCP312R_ from PV740683",
+      "Plot_eps": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_PV740683_CP312R_plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_PV740683_CP312R_plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_PV740683_CP312R_plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "MW856068_CP312R CP312R _pCP312R_ from MW856068": {
+      "Name": "MW856068_CP312R CP312R _pCP312R_ from MW856068",
+      "Plot_eps": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_MW856068_CP312R_plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_MW856068_CP312R_plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_MW856068_CP312R_plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "ON409981_CP312R CP312R _pCP312R_ from ON409981": {
+      "Name": "ON409981_CP312R CP312R _pCP312R_ from ON409981",
+      "Plot_eps": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_ON409981_CP312R_plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_ON409981_CP312R_plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_ON409981_CP312R_plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "ON409980_CP312R CP312R _pCP312R_ from ON409980": {
+      "Name": "ON409980_CP312R CP312R _pCP312R_ from ON409980",
+      "Plot_eps": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_ON409980_CP312R_plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_ON409980_CP312R_plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_ON409980_CP312R_plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "ON409982_CP312R CP312R _pCP312R_ from ON409982": {
+      "Name": "ON409982_CP312R CP312R _pCP312R_ from ON409982",
+      "Plot_eps": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_ON409982_CP312R_plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_ON409982_CP312R_plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_ON409982_CP312R_plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "ON409983_CP312R CP312R _pCP312R_ from ON409983": {
+      "Name": "ON409983_CP312R CP312R _pCP312R_ from ON409983",
+      "Plot_eps": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_ON409983_CP312R_plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_ON409983_CP312R_plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_ON409983_CP312R_plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "ON409979_CP312R CP312R _pCP312R_ from ON409979": {
+      "Name": "ON409979_CP312R CP312R _pCP312R_ from ON409979",
+      "Plot_eps": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_ON409979_CP312R_plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_ON409979_CP312R_plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/output_ON409979_CP312R_plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    }
+  },
+  "FORMAT": "all",
+  "ORG": "eukarya",
+  "MODE": "fast",
+  "REGION_GFF_FILE": "/services/SignalP-6.0/tmp/6A58C19C002404FAC15E41F5/region_output.gff3"
+}

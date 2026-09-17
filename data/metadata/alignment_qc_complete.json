@@ -1,0 +1,106 @@
+[
+  {
+    "accession": "B646L_p72_aligned",
+    "checks": {
+      "terminal_regions": {
+        "passed": true,
+        "first_10_gaps": 9,
+        "last_10_gaps": 0
+      },
+      "internal_gaps": {
+        "max_gap": 9.1,
+        "passed": true
+      }
+    },
+    "issues": [],
+    "status": "PASS"
+  },
+  {
+    "accession": "CP204L_p30_aligned",
+    "checks": {
+      "terminal_regions": {
+        "passed": true,
+        "first_10_gaps": 18,
+        "last_10_gaps": 0
+      },
+      "internal_gaps": {
+        "max_gap": 90.9,
+        "passed": false
+      }
+    },
+    "issues": [
+      "Long internal gaps: 90.9%"
+    ],
+    "status": "FAIL"
+  },
+  {
+    "accession": "CP2475L_pp220_aligned",
+    "checks": {
+      "terminal_regions": {
+        "passed": true,
+        "first_10_gaps": 18,
+        "last_10_gaps": 10
+      },
+      "internal_gaps": {
+        "max_gap": 90.0,
+        "passed": false
+      }
+    },
+    "issues": [
+      "Long internal gaps: 90.0%"
+    ],
+    "status": "FAIL"
+  },
+  {
+    "accession": "EP402R_CD2v_aligned",
+    "checks": {
+      "terminal_regions": {
+        "passed": true,
+        "first_10_gaps": 16,
+        "last_10_gaps": 10
+      },
+      "internal_gaps": {
+        "max_gap": 77.8,
+        "passed": false
+      }
+    },
+    "issues": [
+      "Long internal gaps: 77.8%"
+    ],
+    "status": "FAIL"
+  },
+  {
+    "accession": "E183L_p54_aligned",
+    "checks": {
+      "terminal_regions": {
+        "passed": true,
+        "first_10_gaps": 0,
+        "last_10_gaps": 10
+      },
+      "internal_gaps": {
+        "max_gap": 90.0,
+        "passed": false
+      }
+    },
+    "issues": [
+      "Long internal gaps: 90.0%"
+    ],
+    "status": "FAIL"
+  },
+  {
+    "accession": "CP312R_pCP312R_aligned",
+    "checks": {
+      "terminal_regions": {
+        "passed": true,
+        "first_10_gaps": 3,
+        "last_10_gaps": 0
+      },
+      "internal_gaps": {
+        "max_gap": 27.3,
+        "passed": true
+      }
+    },
+    "issues": [],
+    "status": "PASS"
+  }
+]

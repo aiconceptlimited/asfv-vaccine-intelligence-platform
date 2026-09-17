@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>IPD Database</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="description" content="The Immuno Polymorphism Database"/>
+    <meta name="keywords" content="bioinformatics, IMGT, immunogenetics, database, HLA, submission of sequences, ebi, embl, molecular, genetics, software, bioinformatics databases, genomics, sequencing, protein, computational biology, nucleotide, fasta, blast, srs, clustalw, bioinformatics research" />
+    <meta name="author" content="EBI Web Services" />
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="MobileOptimized" content="width" />
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="theme-color" content="#333"/> 
+
+    
+    <link rel="preconnect" href="https://www.ebi.ac.uk/">
+
+    
+    <link rel="icon" type="image/x-icon" href="https://www.ebi.ac.uk/web_guidelines/EBI-Framework/v1.2/images/logos/EMBL-EBI/favicons/favicon.ico" />
+    <link rel="icon" type="image/png" href="https://www.ebi.ac.uk/web_guidelines/EBI-Framework/v1.2/images/logos/EMBL-EBI/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="192×192" href="https://www.ebi.ac.uk/web_guidelines/EBI-Framework/v1.2/images/logos/EMBL-EBI/favicons/android-chrome-192x192.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.ebi.ac.uk/web_guidelines/EBI-Framework/v1.2/images/logos/EMBL-EBI/favicons/apple-icon-114x114.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.ebi.ac.uk/web_guidelines/EBI-Framework/v1.2/images/logos/EMBL-EBI/favicons/apple-icon-72x72.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.ebi.ac.uk/web_guidelines/EBI-Framework/v1.2/images/logos/EMBL-EBI/favicons/apple-icon-144x144.png"/>
+    <link rel="apple-touch-icon-precomposed" href="https://www.ebi.ac.uk/web_guidelines/EBI-Framework/v1.2/images/logos/EMBL-EBI/favicons/apple-icon-57x57.png"/> 
+    <link rel="mask-icon" href="https://www.ebi.ac.uk/web_guidelines/EBI-Framework/v1.2/images/logos/EMBL-EBI/favicons/safari-pinned-tab.svg" color="#ffffff"/>
+    <meta name="msapplication-TileColor" content="#2b5797"/>
+    <meta name="msapplication-TileImage" content="https://www.ebi.ac.uk/web_guidelines/EBI-Framework/v1.2/images/logos/EMBL-EBI/favicons/mstile-144x144.png"/>
+
+    
+    <link rel="stylesheet" href="https://dev.ebi.emblstatic.net/web_guidelines/EBI-Framework/v1.4/css/ebi-global.css" type="text/css" media="all"/>
+    <link defer="defer" rel="stylesheet" href="https://ebi.emblstatic.net/web_guidelines/EBI-Icon-fonts/v1.3/fonts.css" type="text/css" media="all"/>
+
+    
+    <link rel="stylesheet" href="/ipd/assets/css/styles.css?version=b2f6d04560" type="text/css" media="all"/>
+    <link rel="stylesheet" href="/ipd/assets/css/species.css?version=a9cde790b0" type="text/css" media="all"/><script defer src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+
+<body class="level2 no-global-search">
+    
+    
+    <header id="masthead-black-bar" class="clearfix masthead-black-bar">
+    </header>
+
+    
+    <div data-sticky-container class="no-js">
+        <header id="masthead" class="masthead" data-sticky data-sticky-on="large" data-top-anchor="content:top" data-btm-anchor="content:bottom">
+            <div class="masthead-inner row">
+                <!-- local-title -->
+                <div class="columns medium-12" id="local-title">
+                    <h1>
+                        <img src="/ipd/assets/images/ipd_logo_2014.png?version=5d2e72552f" width="75" height="75" class="logo-img" alt="IPD">
+                        <a href="/ipd/" title="Back to IPD homepage">Immuno Polymorphism Database</a>
+                    </h1>
+                </div>
+                <nav>
+                    <ul id="local-nav" class="dropdown menu float-left" data-description="navigational">
+                        <li class="active"><a href="/ipd/" title="IPD Home">Overview</a></li>
+                        <li><a href="/ipd/imgt/hla/" title="Human Leukocyte Antigen Sequences">IMGT/HLA</a></li>
+                        <li><a href="/ipd/kir/" title="Killer-cell Immunoglobulin-like Receptor Sequences">KIR</a></li>
+                        <li><a href="/ipd/mhc/" title="Non-Human Major Histocompatibiltiy Complex Sequences">MHC</a></li>
+                        <li><a href="/ipd/nhkir/" title="Non-Human Killer-cell Immunoglobulin-like Receptor Sequences">NHKIR</a></li>
+                        <li ><a href="/ipd/hpa/" title="Human Platelet Antigen Nomenclature">HPA</a></li>
+                        <li ><a href="/ipd/estdab/" title="European Searchable Tumour Line Database">ESTDAB</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+    </div>
+
+    
+    <div id="content">
+        <section id="main-content-area" class="row" role="main">
+            <div class="small-12 medium-9 columns ">
+            
+            
+            
+            
+
+            
+            <div class="intro-unit margin-bottom-xlarge padding-top-large">
+    <h2 class="text-center"><i class="icon icon-generic icon-spacer" data-icon="l"></i>Error 404</h2>
+    <h3 class="text-center">The page does not exist</h3>
+    <p class="lead text-center">
+        We are sorry, the page you were trying to access doesn't exist.
+    </p>
+    <p class="lead text-center">
+        If you were looking for a page on the IPD-IMGT/HLA Database website,
+        this has recently been updated, please visit the
+        <a class="services-color" href="/ipd/imgt/hla/"><i class="icon icon-generic icon-spacer" data-icon="H"></i>IPD-IMGT/HLA homepage</a>
+        to find the new pages, and update your bookmarks if needed.
+    </p>
+    <br />
+    <p class="lead text-center">
+        For access to other parts of the IPD site please visit the
+        <a class="services-color" href="/ipd/"><i class="icon icon-generic icon-spacer" data-icon="H"></i>IPD homepage</a>
+        to access our pages.
+    </p>
+</div><div class="row column margin-bottom-xlarge">
+    <p class="lead">You might want to visit one of the IPD projects sitemap:</p>
+    <ul>
+        <li><a href="/ipd/imgt/hla/sitemap/">IPD-IMGT/HLA sitemap</a></li>
+        <li><a href="/ipd/mhc/sitemap/">IPD-MHC sitemap</a></li>
+        <li><a href="/ipd/nhkir/sitemap/">IPD-NHKIR sitemap</a></li>
+    </ul>
+</div>
+
+            </div>
+
+            <div class="small-12 medium-3 columns sidebar margin-top-xlarge" >
+                 <div class="sticky" data-sticky data-anchor="main-content-area" data-options="marginTop:4;">
+                    <h4>IPD Resources</h4>
+                    <ul class="menu vertical">
+                        <li class=""><a href="/ipd/submission/"><i class="icon icon-functional icon-spacer" data-icon="n"></i>Submission</a></li>
+                        <li class=""><a href="/ipd/rest/"><i class="icon icon-common icon-crosslink icon-spacer"></i>REST API</a></li>
+                        <li class=""><a href="/ipd/citations/"><i class="icon icon-common icon-archive icon-spacer"></i>Citations</a></li>
+                        <li class=""><a href="/ipd/contacts/"><i class="icon icon-common icon-contact icon-spacer"></i>Contact</a></li>
+                        <li class=""><a href="https://www.ebi.ac.uk/support/hla.php"><i class="icon icon-common icon-support icon-spacer"></i>Support</a></li>
+                    </ul>
+                 </div> 
+            </div>
+
+        </section>
+    </div>
+
+    
+    <footer>
+        
+        <div id="local-footer">
+            <div class="columns row">
+                <h3><span class="textjustify">Further Information</span></h3>
+                <p><span class="textjustify">For more information about the database, queries (including website) or to subscribe to the IPD mailing lists please contact <a href="https://www.ebi.ac.uk/support/ipd.php">IPD Support</a>.</span></p>
+                <p><span class="textjustify">Please see our <a href="/ipd/licence/">licence</a> for our terms of use.</span></p>
+            </div>
+        </div>
+        
+        
+        <div id="global-footer" class="global-footer">
+            
+            <nav id="global-nav-expanded" class="global-nav-expanded row">
+            </nav>
+            
+            <section id="ebi-footer-meta" class="ebi-footer-meta row">
+            </section>
+        </div>
+    </footer>
+
+    
+    <script type="text/javascript">
+
+    
+    window.addEventListener("load", function(){$(document).foundation();
+        $(document).foundationExtendEBI();
+    });
+
+    </script>
+
+    
+    <script defer src="https://dev.ebi.emblstatic.net/web_guidelines/EBI-Framework/v1.4/libraries/foundation-6/js/foundation.js"></script>
+    <script defer src="https://dev.ebi.emblstatic.net/web_guidelines/EBI-Framework/v1.4/js/script.js"></script>
+    <script defer src="https://dev.ebi.emblstatic.net/web_guidelines/EBI-Framework/v1.4/js/foundationExtendEBI.js"></script>
+</body>
+</html>
